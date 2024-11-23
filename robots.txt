@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 Allow: /
-Sitemap: https://salif.github.io/linkita/sitemap.xml
+Sitemap: https://yzzfo.github.io/blog/sitemap.xml
