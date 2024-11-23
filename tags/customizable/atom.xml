@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh">
+    <title>yzzfo - Customizable</title>
+    <subtitle>游戏开发学习资源分享</subtitle>
+    <link rel="self" type="application/atom+xml" href="https://yzzfo.github.io/tags/customizable/atom.xml"/>
+    <link rel="alternate" type="text/html" href="https://yzzfo.github.io"/>
+    <generator uri="https://www.getzola.org/">Zola</generator>
+    <updated>2024-12-06T14:29:51+00:00</updated>
+    <id>https://yzzfo.github.io/tags/customizable/atom.xml</id>
+    <entry xml:lang="zh">
+        <title>POLYGON Modular Fantasy Hero Characters - Low Poly 3D Art by Synty</title>
+        <published>2024-12-06T14:29:51+00:00</published>
+        <updated>2024-12-06T14:29:51+00:00</updated>
+        
+        <author>
+          <name>
+            
+              yzzfo
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://yzzfo.github.io/unity/store/polygon-modular-fantasy-hero-characters-low-poly-3d-art-by-synty/"/>
+        <id>https://yzzfo.github.io/unity/store/polygon-modular-fantasy-hero-characters-low-poly-3d-art-by-synty/</id>
+        
+        <content type="html" xml:base="https://yzzfo.github.io/unity/store/polygon-modular-fantasy-hero-characters-low-poly-3d-art-by-synty/">&lt;p&gt;&lt;br&gt;🔔 &lt;STRONG&gt;SYNTY STUDIOS 公告 🔔&lt;BR&gt;&lt;a href=&quot;https:&#x2F;&#x2F;assetstore.unity.com&#x2F;packages&#x2F;3d&#x2F;environments&#x2F;fantasy&#x2F;polygon-fantasy-kingdom-164532&quot;&gt;POLYGON - 幻想王国&lt;&#x2F;a&gt; - 现已推出！&lt;&#x2F;STRONG&gt;&lt;BR&gt;&lt;BR&gt;&lt;STRONG&gt; &lt;a href=&quot;https:&#x2F;&#x2F;assetstore.unity.com&#x2F;publishers&#x2F;5217&quot;&gt;Synty Studios™&lt;&#x2F;a&gt; presents -&lt;BR&gt;POLYGON - 模块化幻想英雄角色&lt;BR&gt;&lt;&#x2F;STRONG&gt;一个低多边形模块化角色资源包，为您的幻想游戏创建角色，也可制作角色创建器供玩家创建自己的英雄。&lt;BR&gt;&lt;BR&gt;&lt;p&gt;◼ &lt;STRONG&gt;主要特点&lt;&#x2F;STRONG&gt; ◼&lt;BR&gt;&lt;&#x2F;p&gt;- 720 个模块化部件，带有可改变颜色的自定义着色器&lt;BR&gt;- 包含随机角色剧本生成器的演示场景&lt;BR&gt;- 每个身体部位的男女版本（不包括中性部位）&lt;BR&gt;- 适用于&lt;a href=&quot;https:&#x2F;&#x2F;www.assetstore.unity3d.com&#x2F;en&#x2F;?stay#!&#x2F;content&#x2F;16743&quot;&gt;动态骨骼&lt;&#x2F;a&gt;的披风&lt;BR&gt;- 模块化部件的 120 个预制角色&lt;BR&gt;- 游戏中可选的静态版本，适用于 UI 等&lt;BR&gt;&lt;BR&gt;&lt;p&gt;◼ &lt;STRONG&gt;资源&lt;&#x2F;STRONG&gt; ◼&lt;BR&gt;&lt;&#x2F;p&gt;&lt;STRONG&gt;模块化角色资源&lt;&#x2F;STRONG&gt;&lt;BR&gt;- 头发、头部、眉毛、面部毛发、帽子、遮罩、头盔、躯干、胯部、腿、手臂、手、护膝、垫肩、护肘、胯部附件、包、披风等&lt;BR&gt;&lt;BR&gt;&lt;STRONG&gt;武器资源&lt;&#x2F;STRONG&gt;&lt;BR&gt;- 斧头、匕首、长矛、锤矛、盾牌、盾牌、长杖、剑、刀等&lt;BR&gt;&lt;BR&gt;&lt;p&gt;◼ &lt;STRONG&gt;兼容性&lt;&#x2F;STRONG&gt; ◼&lt;BR&gt;&lt;&#x2F;p&gt;- 适用于 Unity 2019.1 及更高版本&lt;BR&gt;- 通用渲染管线 (URP)&lt;BR&gt;- 设置角色，与 Mecanim 一起使用（该资源包不包含动画）&lt;BR&gt;&lt;BR&gt;&lt;p&gt;◼ &lt;STRONG&gt;其他资源&lt;&#x2F;STRONG&gt; ◼&lt;BR&gt;&lt;&#x2F;p&gt;将此资源包与我们的其他幻想资源结合 -&lt;BR&gt;&lt;STRONG&gt; &lt;a href=&quot;https:&#x2F;&#x2F;assetstore.unity.com&#x2F;packages&#x2F;3d&#x2F;environments&#x2F;dungeons&#x2F;polygon-dungeons-pack-102677&quot;&gt;- POLYGON Dungeons&lt;&#x2F;a&gt;&lt;BR&gt;&lt;a href=&quot;https:&#x2F;&#x2F;assetstore.unity.com&#x2F;packages&#x2F;3d&#x2F;environments&#x2F;fantasy&#x2F;polygon-knights-pack-83694&quot;&gt;- POLYGON 骑士&lt;&#x2F;a&gt;&lt;BR&gt;&lt;a href=&quot;https:&#x2F;&#x2F;assetstore.unity.com&#x2F;packages&#x2F;3d&#x2F;characters&#x2F;humanoids&#x2F;polygon-fantasy-rivals-118399&quot;&gt;- POLYGON 幻想对手&lt;&#x2F;a&gt;&lt;BR&gt;&lt;a href=&quot;https:&#x2F;&#x2F;assetstore.unity.com&#x2F;packages&#x2F;3d&#x2F;characters&#x2F;humanoids&#x2F;polygon-fantasy-characters-97186&quot;&gt;- POLYGON 幻想角色&lt;&#x2F;a&gt;&lt;BR&gt;&lt;BR&gt;&lt;&#x2F;STRONG&gt;需要帮助？&lt;BR&gt;&lt;STRONG&gt; &lt;a href=&quot;mailto:support@syntystudios.com&quot;&gt;EMAIL&lt;&#x2F;a&gt; | &lt;a href=&quot;https:&#x2F;&#x2F;www.syntystudios.com&#x2F;faq&quot;&gt;FAQ&lt;&#x2F;a&gt; | &lt;a href=&quot;https:&#x2F;&#x2F;www.youtube.com&#x2F;playlist?list=PL2QPFqe01WRkGN7J8X0Okgq7R3REbCt48&quot;&gt;TUTORIALS&lt;&#x2F;a&gt; | &lt;a href=&quot;http:&#x2F;&#x2F;bit.ly&#x2F;30aOuGW&quot;&gt;DISCORD&lt;&#x2F;a&gt;&lt;BR&gt;&lt;&#x2F;STRONG&gt;&lt;BR&gt;&lt;&#x2F;p&gt;
+</content>
+        
+    </entry>
+    <entry xml:lang="zh">
+        <title>AZURE Nature</title>
+        <published>2024-12-06T14:27:24+00:00</published>
+        <updated>2024-12-06T14:27:24+00:00</updated>
+        
+        <author>
+          <name>
+            
+              yzzfo
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://yzzfo.github.io/unity/store/azure-nature/"/>
+        <id>https://yzzfo.github.io/unity/store/azure-nature/</id>
+        
+        <content type="html" xml:base="https://yzzfo.github.io/unity/store/azure-nature/">&lt;p&gt;&lt;br&gt;&lt;STRONG&gt;新&lt;&#x2F;STRONG&gt;增水着色器折射&lt;br&gt;&lt;br&gt;&lt;a href=&quot;https:&#x2F;&#x2F;drive.google.com&#x2F;uc?id=12LSTDg0Uxr3K2DVBl2cj7NcnCRUZzIJp&amp;export=download&quot;&gt;下载演示版本&lt;&#x2F;a&gt;&lt;br&gt;&lt;br&gt;高质量且通用的资源包，极其自由地为游戏自定义资源。使用自定义着色器自由更改颜色，在模型上添加苔藓、雪及其他涂层。创建四季场景。&lt;br&gt;&lt;br&gt;&lt;STRONG&gt;支持的渲染管线：&lt;&#x2F;STRONG&gt;&lt;br&gt;- 内置 (2019.1+)&lt;br&gt;- 轻量级 (2019.1 - 2019.2)&lt;br&gt;- 通用 (2019.3+)&lt;br&gt;&lt;br&gt;标准渲染管线立即可用。通过随附的资源包支持 URP&#x2F;LWRP。&lt;br&gt;&lt;br&gt;&lt;STRONG&gt;资源包包含：&lt;&#x2F;STRONG&gt;&lt;br&gt;&lt;br&gt;&lt;STRONG&gt;模型（带 LOD）：&lt;&#x2F;STRONG&gt;&lt;br&gt;- 5 种阔叶树（2150 - 5450 个面数）&lt;br&gt;- 5 种桦树（2300 - 4100 个面数）&lt;br&gt;- 5 种枞树（1550 - 2150 个面数）&lt;br&gt;- 5 种枯树（1000 - 2500 个面数）&lt;br&gt;- 3 种草地模型（40 - 100 个面数）&lt;br&gt;- 5 种灌木丛（1500 - 2000 个面数）&lt;br&gt;- 6 种岩石和悬崖（180 - 390 个面数）&lt;br&gt;- 6 种其他环境模型（树枝、蘑菇及其他）（90 - 330 个面数）&lt;br&gt;&lt;br&gt;&lt;STRONG&gt;地形纹理 (1024x1024 PNG)：&lt;&#x2F;STRONG&gt;&lt;br&gt;- 8 种夏季纹理&lt;br&gt;- 8 种冬季纹理&lt;br&gt;- 8 种秋季纹理&lt;br&gt;&lt;br&gt;带有反照率和法线贴图&lt;br&gt;&lt;br&gt;&lt;STRONG&gt;着色器：&lt;&#x2F;STRONG&gt;&lt;br&gt;- 植被&lt;br&gt;- 表面&lt;br&gt;- 水&lt;br&gt;&lt;br&gt;&lt;STRONG&gt;特效：&lt;&#x2F;STRONG&gt;&lt;br&gt;- 落叶&lt;br&gt;- 降雪&lt;br&gt;- Godray&lt;br&gt;&lt;br&gt;以及带有后期处理配置文件的演示场景。&lt;br&gt;&lt;br&gt;该资源包将补充新内容。保持更新。&lt;br&gt;&lt;br&gt;&lt;&#x2F;p&gt;
+</content>
+        
+    </entry>
+    <entry xml:lang="zh">
+        <title>Battle Sound Library - Magic &amp; Melee - Fantasy RPG</title>
+        <published>2024-12-06T14:26:09+00:00</published>
+        <updated>2024-12-06T14:26:09+00:00</updated>
+        
+        <author>
+          <name>
+            
+              yzzfo
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://yzzfo.github.io/unity/store/battle-sound-library-magic-melee-fantasy-rpg/"/>
+        <id>https://yzzfo.github.io/unity/store/battle-sound-library-magic-melee-fantasy-rpg/</id>
+        
+        <content type="html" xml:base="https://yzzfo.github.io/unity/store/battle-sound-library-magic-melee-fantasy-rpg/">&lt;p&gt;Hundreds of sound clips, and thousands upon thousands of mixes. Create custom combined sounds with the easy to use &quot;Audio Clip Combiner&quot;, and create the perfect soundscape for your project&lt;&#x2F;p&gt;
+&lt;p &gt;--------------------------------------------------&lt;&#x2F;p&gt;&lt;p &gt;&lt;strong&gt;支持、问题、新闻与更新&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;p &gt;➡️ &lt;a href=&quot;https:&#x2F;&#x2F;discord.gg&#x2F;uf3QPF&quot; target=&quot;_blank&quot;&gt;Discord&lt;&#x2F;a&gt; | &lt;a href=&quot;https:&#x2F;&#x2F;infinitypbr.gitbook.io&#x2F;infinity-pbr&#x2F;audio-clip-combiner&quot; target=&quot;_blank&quot;&gt;教程&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;&lt;p &gt;--------------------------------------------------&lt;&#x2F;p&gt;
+&lt;p &gt;&lt;strong&gt;魔法与近战可定制音效库&lt;&#x2F;strong&gt;旨在考虑到定制和随机化。混合和匹配组件声音，您可以拥有数千种独特的声音。&lt;&#x2F;p&gt;
+&lt;p &gt;在运行时随机组合音频片段，或通过单击导出并选择您最喜欢的组合。&lt;&#x2F;p&gt;
+&lt;p &gt;&lt;strong&gt;&lt;em&gt;包括 &lt;&#x2F;em&gt;&lt;&#x2F;strong&gt;&lt;a href=&quot;https:&#x2F;&#x2F;assetstore.unity.com&#x2F;packages&#x2F;slug&#x2F;232612&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;&lt;em&gt;音频片段合成器&lt;&#x2F;em&gt;&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt;&lt;strong&gt;&lt;em&gt; 工具！&lt;&#x2F;em&gt;&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
+&lt;p &gt;&lt;strong&gt;更新&lt;&#x2F;strong&gt;: 音频片段合成器现在有一个“播放随机样本”按钮，可以在导出之前采样声音，在编辑时使用。还有一个“文件夹”上传 -- 选择一个文件夹，所有的音频片段将被添加到该层。&lt;&#x2F;p&gt;
+&lt;p &gt;或者，创建一个新的音频片段合成器对象，选择一个父文件夹，每个包含音频的子文件夹将作为新层添加。&lt;&#x2F;p&gt;
+&lt;p &gt;&amp;#128302;&lt;strong&gt;&lt;em&gt;魔法&lt;&#x2F;em&gt;&lt;&#x2F;strong&gt;&amp;#129502;&lt;&#x2F;p&gt;&lt;p &gt;空气、土壤、电、邪恶&#x2F;黑暗、火、神圣&#x2F;光、冰、毒和水魔法包括多种爆炸、击打、长短热身。&lt;&#x2F;p&gt;
+&lt;p &gt;将这些与通用增益、嗡嗡声和脉冲、法术失效和失败等结合，创造出适合您法术的大量魔法声音。&lt;&#x2F;p&gt;&lt;br&gt;&lt;p&gt;⚔️&lt;strong&gt;&lt;em&gt;近战&lt;&#x2F;em&gt;&lt;&#x2F;strong&gt;&amp;#128737;&lt;&#x2F;p&gt;&lt;p&gt;创建武器类型和伤害类型的组合：肉体、金属和木材目标。武器包括斧头、弓箭、棍棒、拳头、盾牌和剑。&lt;&#x2F;p&gt;
+&lt;p&gt;每组基于多种武器、目标和冲击声音有125种组合。&lt;&#x2F;p&gt;
+&lt;p&gt;⚔️&amp;#128302; &lt;strong&gt;&lt;em&gt;魔法武器&lt;&#x2F;em&gt;&lt;&#x2F;strong&gt;&amp;#129502;&amp;#128737;&lt;&#x2F;p&gt;
+&lt;p&gt;将魔法和近战声音结合在一起，创造出更多声音，如“火焰剑”或“黑暗棍”。&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;strong&gt;500+ 音频片段&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;p&gt;&lt;em&gt;数以万计的可能性&lt;&#x2F;em&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;库中起始约有&lt;strong&gt;500个独立音频片段&lt;&#x2F;strong&gt;。当你开始混合搭配时，这个数量会增长到数十万。你甚至可以将其他包中的音频混合在一起，创造出其他游戏没有的独特声音。&lt;&#x2F;p&gt;
+&lt;p&gt;--------------------------------------&lt;&#x2F;p&gt;&lt;p&gt;查看更多信息及我们所有的模型，请访问 &lt;a href=&quot;http:&#x2F;&#x2F;www.infinitypbr.com&#x2F;&quot; target=&quot;_blank&quot;&gt;InfinityPBR.com&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;&lt;p&gt;--------------------------------------&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;strong&gt;如果您购买了此包，非常感谢！请留下评分和评论，以便其他人了解它的情况！如果您有任何问题、请求或其他事项，&lt;&#x2F;strong&gt;&lt;a href=&quot;https:&#x2F;&#x2F;forum.unity3d.com&#x2F;threads&#x2F;infinity-series-works-in-progress-mega-thread.408430&#x2F;&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;请在论坛上与我联系。&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;</content>
+        
+    </entry>
+</feed>

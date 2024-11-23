@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+    <title>yzzfo - scroller</title>
+    <subtitle>Game Development Learning Resources</subtitle>
+    <link rel="self" type="application/atom+xml" href="https://yzzfo.github.io/en/tags/scroller/atom.xml"/>
+    <link rel="alternate" type="text/html" href="https://yzzfo.github.io"/>
+    <generator uri="https://www.getzola.org/">Zola</generator>
+    <updated>2024-11-30T13:23:57+00:00</updated>
+    <id>https://yzzfo.github.io/en/tags/scroller/atom.xml</id>
+    <entry xml:lang="en">
+        <title>EnhancedScroller</title>
+        <published>2024-11-29T21:19:57+00:00</published>
+        <updated>2024-11-30T13:23:57+00:00</updated>
+        
+        <author>
+          <name>
+            
+              yzzfo
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://yzzfo.github.io/en/unity/store/enhancedscroller/"/>
+        <id>https://yzzfo.github.io/en/unity/store/enhancedscroller/</id>
+        
+        <content type="html" xml:base="https://yzzfo.github.io/en/unity/store/enhancedscroller/">&lt;p&gt;&lt;br&gt;&lt;strong&gt;EnhancedScroller&lt;&#x2F;strong&gt;&lt;br&gt;&lt;br&gt;If you are looking for a list and grid solution, please check out &lt;a href=&quot;http:&#x2F;&#x2F;u3d.as&#x2F;39Zf&quot;&gt;EnhancedGrid&lt;&#x2F;a&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;a href=&quot;http:&#x2F;&#x2F;www.echo17.com&quot;&gt;Website &#x2F; Docs &#x2F; Tutorials&lt;&#x2F;a&gt; | &lt;a href=&quot;https:&#x2F;&#x2F;echo17.itch.io&#x2F;enhancedscroller-demo&quot;&gt;Demo&lt;&#x2F;a&gt;&lt;br&gt;&lt;br&gt;Want a fast and mobile-friendly way to display tons of data?&lt;br&gt;&lt;br&gt;EnhancedScroller virtualizes your data, showing only the elements it needs to. Take thousands of rows and display them in a handful of UI elements, speeding up processing and saving memory. There is no object destruction, so your platform won&#x27;t have to run garbage collection. Best of all, it works on top of Unity&#x27;s own built-in UI system components.&lt;br&gt;&lt;br&gt;Lists are data driven and created dynamically, so you won&#x27;t have to set them up at design time. The scroller doesn&#x27;t need to be aware of data or view presentation, focusing only on managing your list for a true MVC experience. Optional looping allows you to show infinite lists of data. Each cell can have its own size, or they can all share the same size. Optional snapping lets you lock your cells to a particular location. Tweening eases your jumping and snapping transitions to give a smooth user experience.&lt;br&gt;&lt;br&gt;Features:&lt;br&gt;&lt;br&gt;* Dynamic, data-driven lists&lt;br&gt;* MVC framework to maintain a separation of concerns&lt;br&gt;* Efficient recycling of list items&lt;br&gt;* Optional infinite looping&lt;br&gt;* Multiple list item sizes supported, or pass a global size&lt;br&gt;* List items are fully customizable to fit your project&lt;br&gt;* Optional snapping locks your scroller&lt;br&gt;* Tweening to ease jumping and snapping&lt;br&gt;* Demos, tutorials and full C# source code are all included.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;&#x2F;p&gt;
+</content>
+        
+    </entry>
+</feed>

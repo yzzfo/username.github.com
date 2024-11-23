@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+    <title>yzzfo - Grass</title>
+    <subtitle>Game Development Learning Resources</subtitle>
+    <link rel="self" type="application/atom+xml" href="https://yzzfo.github.io/en/tags/grass/atom.xml"/>
+    <link rel="alternate" type="text/html" href="https://yzzfo.github.io"/>
+    <generator uri="https://www.getzola.org/">Zola</generator>
+    <updated>2024-12-06T14:27:24+00:00</updated>
+    <id>https://yzzfo.github.io/en/tags/grass/atom.xml</id>
+    <entry xml:lang="en">
+        <title>AZURE Nature</title>
+        <published>2024-12-06T14:27:24+00:00</published>
+        <updated>2024-12-06T14:27:24+00:00</updated>
+        
+        <author>
+          <name>
+            
+              yzzfo
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://yzzfo.github.io/en/unity/store/azure-nature/"/>
+        <id>https://yzzfo.github.io/en/unity/store/azure-nature/</id>
+        
+        <content type="html" xml:base="https://yzzfo.github.io/en/unity/store/azure-nature/">&lt;p&gt;&lt;br&gt;&lt;p &gt;High-quality and universal asset pack, which will give you great freedom in customizing assets for your game. Freely change colors, add moss, snow, or any other coating on the models using custom shaders. Create scenes of any season: summer, spring, winter or autumn.&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;&lt;strong&gt;Package contains:&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;&lt;strong&gt;Models:&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;ul&gt;&lt;li &gt;5 broadleaf trees (2150 - 5450 tris)&lt;&#x2F;li&gt;&lt;li &gt;5 birch trees (2300 - 4100 tris)&lt;&#x2F;li&gt;&lt;li &gt;5 fir trees (1550 - 2150 tris)&lt;&#x2F;li&gt;&lt;li &gt;5 dead trees (1000 - 2500 tris)&lt;&#x2F;li&gt;&lt;li &gt;3 grass models (40 - 100 tris)&lt;&#x2F;li&gt;&lt;li &gt;5 bushes (1500 - 2000 tris)&lt;&#x2F;li&gt;&lt;li &gt;6 rocks and cliffs (180 - 390 tris)&lt;&#x2F;li&gt;&lt;li &gt;6 other environment models (branches, mushrooms and other) (90 - 330 tris)&lt;&#x2F;li&gt;&lt;&#x2F;ul&gt;&lt;&#x2F;br&gt;&lt;p &gt;Most models have LODs.&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;&lt;strong&gt;Terrain Textures (1024x1024 PNG):&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;ul&gt;&lt;li &gt;8 summer textures&lt;&#x2F;li&gt;&lt;li &gt;8 winter textures&lt;&#x2F;li&gt;&lt;li &gt;8 autumn textures&lt;&#x2F;li&gt;&lt;&#x2F;ul&gt;&lt;&#x2F;br&gt;&lt;p &gt;&lt;strong&gt;Shaders:&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;ul&gt;&lt;li &gt;Vegetation&lt;&#x2F;li&gt;&lt;li &gt;Surface&lt;&#x2F;li&gt;&lt;li &gt;Water&lt;&#x2F;li&gt;&lt;&#x2F;ul&gt;&lt;&#x2F;br&gt;&lt;p &gt;&lt;strong&gt;FX:&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;ul&gt;&lt;li &gt;Leaf fall&lt;&#x2F;li&gt;&lt;li &gt;Snowfall&lt;&#x2F;li&gt;&lt;li &gt;Godrays&lt;&#x2F;li&gt;&lt;&#x2F;ul&gt;&lt;&#x2F;br&gt;&lt;p &gt;Package also includes a demo scene.&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;Package is optimized for PC and console platforms and has not been tested on &lt;strong&gt;mobile&lt;&#x2F;strong&gt; and &lt;strong&gt;VR&lt;&#x2F;strong&gt;.&lt;&#x2F;p&gt;&lt;&#x2F;p&gt;
+</content>
+        
+    </entry>
+    <entry xml:lang="en">
+        <title>Fantasy Forest Environment</title>
+        <published>2024-12-03T01:14:53+00:00</published>
+        <updated>2024-12-03T01:14:53+00:00</updated>
+        
+        <author>
+          <name>
+            
+              yzzfo
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://yzzfo.github.io/en/unity/store/fantasy-forest-environment/"/>
+        <id>https://yzzfo.github.io/en/unity/store/fantasy-forest-environment/</id>
+        
+        <content type="html" xml:base="https://yzzfo.github.io/en/unity/store/fantasy-forest-environment/">&lt;p&gt;This pack contains over 120 prefabs you need to create stylized forest environment: from trees, bushes to rocks and mushrooms. Demo scene in summer, autumn and winter variants!&lt;br&gt;&lt;p &gt;&lt;strong&gt;📥 Playable Demo &amp;amp; Performance Test&lt;&#x2F;strong&gt;: &lt;a href=&quot;https:&#x2F;&#x2F;drive.google.com&#x2F;file&#x2F;d&#x2F;1wa6uKenRnN3YEajVDn_HZg3IuNBmIztc&#x2F;view?usp=sharing&quot; target=&quot;_blank&quot;&gt;Download&lt;&#x2F;a&gt; (187MB, Windows build)&lt;&#x2F;p&gt;&lt;p &gt;Check out the demo scene included with the assets in this playable build - explore the map and check how well the assets perform.&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;💬&lt;a href=&quot;https:&#x2F;&#x2F;forum.unity.com&#x2F;threads&#x2F;fantasy-forest-environment-update-v2-0.708998&#x2F;&quot; target=&quot;_blank&quot;&gt; Forum Thread&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;&lt;strong&gt;Supports:&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;p &gt;&lt;strong&gt;✔️ &lt;&#x2F;strong&gt;Built-in Rendering - 2022.3 or newer&lt;&#x2F;p&gt;&lt;p &gt;&lt;strong&gt;✔️ &lt;&#x2F;strong&gt;URP v15 - Unity 2022.3&lt;&#x2F;p&gt;&lt;p &gt;&lt;strong&gt;✔️ &lt;&#x2F;strong&gt;URP v16 - Unity 2023.2&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;&lt;strong&gt;URP support via included conversion pack.&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;&lt;strong&gt;FEATURES:&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;ul&gt;&lt;li &gt;23 tileable hand-painted terrain textures&lt;&#x2F;li&gt;&lt;li &gt;12 tree models: 7 conifer trees, 2 deciduous and 3 birch trees with autumn and winter variations - total of 36 tree prefabs&lt;&#x2F;li&gt;&lt;li &gt;13 terrain detail meshes like grass, bushes and flowers with vertex alpha for proper wind support&lt;&#x2F;li&gt;&lt;li &gt;53 prop models such as mushrooms, rocks, fences, water plants, tent, campfire, bridge, waterfalls&lt;&#x2F;li&gt;&lt;li &gt;7 particle effects: water splash, fire, falling leaves, dust, mist and snow&lt;&#x2F;li&gt;&lt;li &gt;custom tree shader with wind movement globally controlled via a single script&lt;&#x2F;li&gt;&lt;li &gt;demo scene in 3 variants: summer, autumn and winter&lt;&#x2F;li&gt;&lt;&#x2F;ul&gt;&lt;p &gt;&lt;strong&gt;Important note:&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;Not tested on mobile devices.&lt;&#x2F;p&gt;&lt;p &gt;HDRP not supported.&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;Screenshots and video made using Built-In Rendering Pipeline - slight differences in colors and scene lighting between BiRP and URP are to be expected due to nature of these renderers.&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;&lt;strong&gt;Have questions? Encountered a bug or need support?&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;p &gt;&lt;a href=&quot;https:&#x2F;&#x2F;emojipedia.org&#x2F;e-mail&#x2F;&quot; target=&quot;_blank&quot;&gt;📧&lt;&#x2F;a&gt; &lt;a href=&quot;mailto:support@triforge.eu&quot; target=&quot;_blank&quot;&gt;support@triforge.eu&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;&#x2F;p&gt;
+</content>
+        
+    </entry>
+    <entry xml:lang="en">
+        <title>Fantasy Adventure Environment</title>
+        <published>2024-11-29T21:22:02+00:00</published>
+        <updated>2024-12-03T01:29:03+00:00</updated>
+        
+        <author>
+          <name>
+            
+              yzzfo
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://yzzfo.github.io/en/unity/store/fantasy-adventure-environment/"/>
+        <id>https://yzzfo.github.io/en/unity/store/fantasy-adventure-environment/</id>
+        
+        <content type="html" xml:base="https://yzzfo.github.io/en/unity/store/fantasy-adventure-environment/">&lt;p&gt;An environment asset pack inspired by the current 3D adventure games and of old. This package focuses on providing artistically crafted environment assets.&lt;br&gt;&lt;p &gt;&lt;a href=&quot;http:&#x2F;&#x2F;staggart.xyz&#x2F;unity&#x2F;fantasy-adventure-environment&#x2F;fae-documentation&#x2F;&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;Documentation&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt;&lt;strong&gt; | &lt;&#x2F;strong&gt;&lt;a href=&quot;http:&#x2F;&#x2F;staggart.xyz&#x2F;fae-demo&#x2F;&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;PC Demo&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt;&lt;strong&gt; | &lt;&#x2F;strong&gt;&lt;a href=&quot;https:&#x2F;&#x2F;forum.unity3d.com&#x2F;threads&#x2F;486102&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;Forum thread&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;&lt;strong&gt;Features&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;p &gt;➮ Custom shaders for trees and vegetation, to enable stylized rendering and animations&lt;&#x2F;p&gt;&lt;p &gt;➮ Beautiful wind animations on trees and vegetation&lt;&#x2F;p&gt;&lt;p &gt;➮ Foliage bends away from the player&lt;&#x2F;p&gt;&lt;p &gt;➮ Grass color blends with terrain (tiled terrain and mesh terrain support, not available in URP)&lt;&#x2F;p&gt;&lt;p &gt;➮ LOD&#x27;s and collision meshes for all assets that need them&lt;&#x2F;p&gt;&lt;p &gt;➮ Tree billboard LODs, for optimal performance in open landscapes&lt;&#x2F;p&gt;&lt;p &gt;➮ Tailored example environment scene&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;&lt;strong&gt;Contents&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;p &gt;▪ 18 types of plants&lt;&#x2F;p&gt;&lt;p &gt;▪ 3 Spruce trees&lt;&#x2F;p&gt;&lt;p &gt;▪ 3 Birch trees&lt;&#x2F;p&gt;&lt;p &gt;▪ 3 Stylized trees&lt;&#x2F;p&gt;&lt;p &gt;▪ 2 Willow trees&lt;&#x2F;p&gt;&lt;p &gt;▪ 3 Palm trees&lt;&#x2F;p&gt;&lt;p &gt;▪ 1 Pine tree&lt;&#x2F;p&gt;&lt;p &gt;▪ 6 tree bark materials&lt;&#x2F;p&gt;&lt;p &gt;▪ 6 terrain materials&lt;&#x2F;p&gt;&lt;p &gt;▪ 7 Cliffs, to augment your terrain (2k textures)&lt;&#x2F;p&gt;&lt;p &gt;▪ 4 small rock clusters&lt;&#x2F;p&gt;&lt;p &gt;▪ Matching skybox panorama (up to 8k resolution)&lt;&#x2F;p&gt;&lt;p &gt;▪ Lens flare texture atlas&lt;&#x2F;p&gt;&lt;p &gt;▪ Animated localized sunshaft effects&lt;&#x2F;p&gt;&lt;p &gt;▪ Fog sheet effect&lt;&#x2F;p&gt;&lt;p &gt;▪ Falling leafs particle effect&lt;&#x2F;p&gt;&lt;p &gt;▪ Wind trails particle effect&lt;&#x2F;p&gt;&lt;p &gt;▪ Post Processing Stack&#x2F;URP profile and color grading texture&lt;&#x2F;p&gt;&lt;p &gt;▪ Basic water shader&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;&lt;strong&gt;Additional features&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;p &gt;▪ Shaders support custom SpeedTree models&lt;&#x2F;p&gt;&lt;p &gt;▪ GPU (indirect) Instancing supported&lt;&#x2F;p&gt;&lt;p &gt;▪ Vegetation Studio Pro integrated shader controllers&lt;&#x2F;p&gt;&lt;p &gt;▪ Cliff shader with (Triplanar) global color map and detail normals&lt;&#x2F;p&gt;&lt;p &gt;▪ Cliff coverage (snow, grass, sand, etc)&lt;&#x2F;p&gt;&lt;p &gt;▪ Tree shader supports color variation&lt;&#x2F;p&gt;&lt;p &gt;▪ Shader GUIs with documentation toggles&lt;&#x2F;p&gt;&lt;p &gt;▪ Editable &lt;a href=&quot;https:&#x2F;&#x2F;www.assetstore.unity3d.com&#x2F;en&#x2F;#!&#x2F;content&#x2F;68570&quot; target=&quot;_blank&quot;&gt;Amplify Shader Editor&lt;&#x2F;a&gt; or Shader Graph shaders&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;&lt;strong&gt;Compatible with&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;p &gt;▪ &lt;a href=&quot;https:&#x2F;&#x2F;www.assetstore.unity3d.com&#x2F;en&#x2F;#!&#x2F;content&#x2F;103389&quot; target=&quot;_blank&quot;&gt;Vegetation Studio&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;&lt;p &gt;▪ &lt;a href=&quot;https:&#x2F;&#x2F;www.assetstore.unity3d.com&#x2F;en&#x2F;#!&#x2F;content&#x2F;131835&quot; target=&quot;_blank&quot;&gt;Vegetation Studio Pro&lt;&#x2F;a&gt; (integrated shader GUIs)&lt;&#x2F;p&gt;&lt;p &gt;▪ &lt;a href=&quot;https:&#x2F;&#x2F;www.assetstore.unity3d.com&#x2F;en&#x2F;#!&#x2F;content&#x2F;42618&quot; target=&quot;_blank&quot;&gt;Gaia&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;&lt;em&gt;Screenshots captured in Gamma-color space in the built-in RP. Assets reconfigured for Linear space since v1.5.3&lt;&#x2F;em&gt;&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;[&lt;a href=&quot;http:&#x2F;&#x2F;staggart.xyz&#x2F;support&#x2F;refund-policy&#x2F;&quot; target=&quot;_blank&quot;&gt;Refund Policy&lt;&#x2F;a&gt;]&lt;&#x2F;p&gt;&lt;&#x2F;p&gt;
+</content>
+        
+    </entry>
+</feed>

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh">
+    <title>yzzfo - heroic fantasy</title>
+    <subtitle>游戏开发学习资源分享</subtitle>
+    <link rel="self" type="application/atom+xml" href="https://yzzfo.github.io/tags/heroic-fantasy/atom.xml"/>
+    <link rel="alternate" type="text/html" href="https://yzzfo.github.io"/>
+    <generator uri="https://www.getzola.org/">Zola</generator>
+    <updated>2024-12-06T14:28:42+00:00</updated>
+    <id>https://yzzfo.github.io/tags/heroic-fantasy/atom.xml</id>
+    <entry xml:lang="zh">
+        <title>HEROIC FANTASY CREATURES FULL PACK Volume 2</title>
+        <published>2024-12-06T14:28:42+00:00</published>
+        <updated>2024-12-06T14:28:42+00:00</updated>
+        
+        <author>
+          <name>
+            
+              yzzfo
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://yzzfo.github.io/unity/store/heroic-fantasy-creatures-full-pack-volume-2/"/>
+        <id>https://yzzfo.github.io/unity/store/heroic-fantasy-creatures-full-pack-volume-2/</id>
+        
+        <content type="html" xml:base="https://yzzfo.github.io/unity/store/heroic-fantasy-creatures-full-pack-volume-2/">&lt;p&gt;&lt;br&gt;此资源为您提供了第二波的英雄幻想生物。此资源包内含 30 种生物：亚洲黑龙、机器怪、犬魔、蛇怪、半人马、暗黑精灵、矮人（霍比特人）、巨怪蝙蝠、黑暗军阀、死亡头骨、克拉斯克、巨型甲虫、巨型螃蟹、巨型蝎子、侏儒、地精、地狱腐肉怪、骏鹰、海妖、拉科登、牛头怪、石像鬼、真菌怪，矮人、凤凰、鸟嘴斧手、送葬者、地狱犬、女巫、独角兽和飞马。&lt;&#x2F;p&gt;
+</content>
+        
+    </entry>
+    <entry xml:lang="zh">
+        <title>HEROIC FANTASY CREATURES FULL PACK Volume 1</title>
+        <published>2024-12-06T14:28:30+00:00</published>
+        <updated>2024-12-06T14:28:30+00:00</updated>
+        
+        <author>
+          <name>
+            
+              yzzfo
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://yzzfo.github.io/unity/store/heroic-fantasy-creatures-full-pack-volume-1/"/>
+        <id>https://yzzfo.github.io/unity/store/heroic-fantasy-creatures-full-pack-volume-1/</id>
+        
+        <content type="html" xml:base="https://yzzfo.github.io/unity/store/heroic-fantasy-creatures-full-pack-volume-1/">&lt;p&gt;&lt;br&gt;此包中包含 30 种英勇的奇幻生物！它收集了活死人包、恶魔角色包，以及必备的幻想反派包、幻想动物包和神话角色包。&lt;&#x2F;p&gt;
+</content>
+        
+    </entry>
+</feed>

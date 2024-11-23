@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+    <title>yzzfo - Mecanim</title>
+    <subtitle>Game Development Learning Resources</subtitle>
+    <link rel="self" type="application/atom+xml" href="https://yzzfo.github.io/en/tags/mecanim/atom.xml"/>
+    <link rel="alternate" type="text/html" href="https://yzzfo.github.io"/>
+    <generator uri="https://www.getzola.org/">Zola</generator>
+    <updated>2024-11-30T13:26:12+00:00</updated>
+    <id>https://yzzfo.github.io/en/tags/mecanim/atom.xml</id>
+    <entry xml:lang="en">
+        <title>Synty ANIMATION - Base Locomotion - Character Animset</title>
+        <published>2024-11-29T21:21:42+00:00</published>
+        <updated>2024-11-30T13:26:12+00:00</updated>
+        
+        <author>
+          <name>
+            
+              yzzfo
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://yzzfo.github.io/en/unity/store/synty-animation-base-locomotion-character-animset/"/>
+        <id>https://yzzfo.github.io/en/unity/store/synty-animation-base-locomotion-character-animset/</id>
+        
+        <content type="html" xml:base="https://yzzfo.github.io/en/unity/store/synty-animation-base-locomotion-character-animset/">&lt;p&gt;Synty ANIMATION is here! Compatible with Synty POLYGON and Simple characters. This pack contains 247 hand crafted animations and a demo character controller crafted with Synty&#x27;s trademark quality.&lt;br&gt;&lt;p &gt;&lt;strong&gt;Synty® Studios presents:  ANIMATION - Base Locomotion&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;p &gt;Elevate your game to new heights with the dynamic motion of Synty&#x27;s Animation - Base Locomotion.&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;◼ &lt;strong&gt;Key Features&lt;&#x2F;strong&gt; ◼&lt;&#x2F;p&gt;&lt;ul&gt;&lt;li &gt;247 Animation clips as separate files allow you to to only import the animations you need into your project&lt;&#x2F;li&gt;&lt;li &gt;Character controller example scripts&lt;&#x2F;li&gt;&lt;li &gt;Mecanim animation controllers - Masculine and Feminine&lt;&#x2F;li&gt;&lt;li &gt;Demo scene to test the animations&lt;&#x2F;li&gt;&lt;li &gt;Gallery scene with all the animations laid out&lt;&#x2F;li&gt;&lt;li &gt;Crash dummy character - fully rigged and animated&lt;&#x2F;li&gt;&lt;li &gt;All animations FBX files are included so you can use them outside of Unity&lt;&#x2F;li&gt;&lt;&#x2F;ul&gt;&lt;&#x2F;br&gt;&lt;p &gt;Bring your characters life with fluid movement and seamless transitions. Say goodbye to the hassle of sourcing animations from all over the internet and constructing your controller from scratch – our comprehensive pack equips you with everything you need to bring your characters to life in no time.&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;This powerhouse pack is brimming with essential animations for every common character motion need – from leisurely walks to adrenaline-pumping sprints, graceful jumps to heart-racing slides. With each state meticulously crafted, complete with multiple animations and smooth transitions, your characters will move with unparalleled grace.&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;But wait, there&#x27;s more! We&#x27;ve gone the extra mile by providing animations for both masculine and feminine figures, ensuring that your game&#x27;s characters exude authenticity and diversity. With the ability to seamlessly blend between the two, the possibilities for character expression and personality are limitless.&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;Dive deep into the Mecanim Animation Controllers included in this pack and unlock a treasure trove of knowledge on setting up animation states, transitions, blend trees, and parameters. Whether you&#x27;re a seasoned pro or a budding developer, these resources provide the perfect launchpad for crafting your own unique animation controller.&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;Don&#x27;t just make games – make them come alive with Synty&#x27;s Animation - Base Locomotion. Your players won&#x27;t just play; they&#x27;ll be transported into a world where every step, jump, and slide feels like magic.&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;&lt;strong&gt;Crash dummy model and animation controller demo scene included!&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;&#x2F;p&gt;
+</content>
+        
+    </entry>
+    <entry xml:lang="en">
+        <title>Basic Motions</title>
+        <published>2024-11-29T21:20:35+00:00</published>
+        <updated>2024-11-30T13:24:44+00:00</updated>
+        
+        <author>
+          <name>
+            
+              yzzfo
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://yzzfo.github.io/en/unity/store/basic-motions/"/>
+        <id>https://yzzfo.github.io/en/unity/store/basic-motions/</id>
+        
+        <content type="html" xml:base="https://yzzfo.github.io/en/unity/store/basic-motions/">&lt;p&gt;Humanoid 3D movement, emotion and interaction animations for retargeting to other humanoid 3D characters.&lt;br&gt;&lt;p &gt;&lt;strong&gt;NEW&lt;&#x2F;strong&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.keviniglesias.com&#x2F;basicMotions&#x2F;Viewer&#x2F;demo.html&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;⭐Online Animations Preview&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;Download the FREE version here:&lt;&#x2F;p&gt;&lt;p &gt;&lt;a href=&quot;http:&#x2F;&#x2F;assetstore.unity.com&#x2F;packages&#x2F;3d&#x2F;animations&#x2F;basic-motions-pack-154271&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;Basic Motions FREE&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;This asset includes humanoid locomotion animations, some emotions and actions for retargeting to other humanoid 3D characters.&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;Simple Character Controller with moving animations included.&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v=0o7SzYSsR-o&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;Retargeting Video Tutorial&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;&lt;strong&gt;Animations List:&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;p &gt;&lt;strong&gt;Idles&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;p &gt;- Standing idles&lt;&#x2F;p&gt;&lt;p &gt;- Crouch idle&lt;&#x2F;p&gt;&lt;p &gt;- Swim idle&lt;&#x2F;p&gt;&lt;p &gt;- Wounded idle&lt;&#x2F;p&gt;&lt;p &gt;&lt;strong&gt;Movement&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;p &gt;- Falling (midair)&lt;&#x2F;p&gt;&lt;p &gt;- Forward roll (root motion and in place, 4.5 m)&lt;&#x2F;p&gt;&lt;p &gt;- Jump (root motion and in place)&lt;&#x2F;p&gt;&lt;p &gt;- Run (8 directions, 4 m&#x2F;s, root motion and in place)&lt;&#x2F;p&gt;&lt;p &gt;- Run slide (root motion and in place, 3 m)&lt;&#x2F;p&gt;&lt;p &gt;- Turn rotations (left &#x2F; right, root motion in place)&lt;&#x2F;p&gt;&lt;p &gt;- Sprint (3 directions, 6 m&#x2F;s, root motion and in place)&lt;&#x2F;p&gt;&lt;p &gt;- Swimming (10 directions, 1 m&#x2F;s, root motion and in place)&lt;&#x2F;p&gt;&lt;p &gt;- Walk (8 directions, 2 m&#x2F;s, root motion and in place)&lt;&#x2F;p&gt;&lt;p &gt;- Crouch walk (8 directions, 2 m&#x2F;s, root motion and in place)&lt;&#x2F;p&gt;&lt;p &gt;&lt;strong&gt;Social&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;p &gt;- Angry&lt;&#x2F;p&gt;&lt;p &gt;- Cheer &#x2F; victory&lt;&#x2F;p&gt;&lt;p &gt;- Conversations (talking and questions)&lt;&#x2F;p&gt;&lt;p &gt;- Fear&lt;&#x2F;p&gt;&lt;p &gt;- Hand claps (applause)&lt;&#x2F;p&gt;&lt;p &gt;- Hand waves&lt;&#x2F;p&gt;&lt;p &gt;- Head nods (saying yes)&lt;&#x2F;p&gt;&lt;p &gt;- Head shakes (saying no)&lt;&#x2F;p&gt;&lt;p &gt;- Pain&lt;&#x2F;p&gt;&lt;p &gt;&lt;strong&gt;Misc&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;p &gt;- Looting from floor&lt;&#x2F;p&gt;&lt;p &gt;- Opening&lt;&#x2F;p&gt;&lt;p &gt;- Knockdown and stand up&lt;&#x2F;p&gt;&lt;p &gt;- Sitting (ground, low, medium and high)&lt;&#x2F;p&gt;&lt;p &gt;- Stunned&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;Each animation is available in two versions: one more masculine and the other more feminine.&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;Contact Support:&lt;&#x2F;p&gt;&lt;p &gt;&lt;strong&gt;support@keviniglesias.com&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.keviniglesias.com&#x2F;&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;www.keviniglesias.com&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;&lt;&#x2F;p&gt;
+</content>
+        
+    </entry>
+</feed>

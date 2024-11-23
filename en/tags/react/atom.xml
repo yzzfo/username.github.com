@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+    <title>yzzfo - react</title>
+    <subtitle>Game Development Learning Resources</subtitle>
+    <link rel="self" type="application/atom+xml" href="https://yzzfo.github.io/en/tags/react/atom.xml"/>
+    <link rel="alternate" type="text/html" href="https://yzzfo.github.io"/>
+    <generator uri="https://www.getzola.org/">Zola</generator>
+    <updated>2024-11-30T13:22:05+00:00</updated>
+    <id>https://yzzfo.github.io/en/tags/react/atom.xml</id>
+    <entry xml:lang="en">
+        <title>OneJS</title>
+        <published>2024-11-29T21:18:31+00:00</published>
+        <updated>2024-11-30T13:22:05+00:00</updated>
+        
+        <author>
+          <name>
+            
+              yzzfo
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://yzzfo.github.io/en/unity/store/onejs/"/>
+        <id>https://yzzfo.github.io/en/unity/store/onejs/</id>
+        
+        <content type="html" xml:base="https://yzzfo.github.io/en/unity/store/onejs/">&lt;p&gt;OneJS brings JavaScript and many beloved web techs to Unity, seamlessly integrating with UI Toolkit without the need for a browser or webview.&lt;br&gt;&lt;p &gt;&lt;a href=&quot;http:&#x2F;&#x2F;onejs.com&#x2F;&quot; target=&quot;_blank&quot;&gt;Visit onejs.com for Documentation and Tutorials&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;&lt;p &gt;&lt;a href=&quot;https:&#x2F;&#x2F;discord.gg&#x2F;dwnYFte6SF&quot; target=&quot;_blank&quot;&gt;Discord&lt;&#x2F;a&gt; • &lt;a href=&quot;https:&#x2F;&#x2F;www.youtube.com&#x2F;Singtaa&quot; target=&quot;_blank&quot;&gt;Youtube&lt;&#x2F;a&gt; • &lt;a href=&quot;https:&#x2F;&#x2F;twitter.com&#x2F;Singtaa&quot; target=&quot;_blank&quot;&gt;Twitter&#x2F;X&lt;&#x2F;a&gt; • &lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;Singtaa&quot; target=&quot;_blank&quot;&gt;Github&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;&lt;em&gt;(Familiarity with React and Typescript is recommended)&lt;&#x2F;em&gt;&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;OneJS brings the power of React-style workflows to Unity UI development. It provides a thin DOM layer for Preact, seamlessly integrating with UI Toolkit for high performance. Leverage Typescript, JSX, Tailwind, and many other web techs that you already know and love - all working natively in Unity.&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;With V2, OneJS is now supercharged by Puerts for up to 100x performance boost. The new ESBuild workflow simplifies deployment and supports npm packages.&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;Beyond UI, OneJS enables easy implementation of modding systems. Give your players the power of TypeScript, JSX, and USS to create addons and mods for your game.&lt;&#x2F;p&gt;&lt;&#x2F;p&gt;
+</content>
+        
+    </entry>
+</feed>

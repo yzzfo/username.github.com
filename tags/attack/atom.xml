@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh">
+    <title>yzzfo - attack</title>
+    <subtitle>游戏开发学习资源分享</subtitle>
+    <link rel="self" type="application/atom+xml" href="https://yzzfo.github.io/tags/attack/atom.xml"/>
+    <link rel="alternate" type="text/html" href="https://yzzfo.github.io"/>
+    <generator uri="https://www.getzola.org/">Zola</generator>
+    <updated>2024-12-01T18:53:31+00:00</updated>
+    <id>https://yzzfo.github.io/tags/attack/atom.xml</id>
+    <entry xml:lang="zh">
+        <title>Combat animations - Kickboxing and Muay Thai V2</title>
+        <published>2024-12-01T18:53:31+00:00</published>
+        <updated>2024-12-01T18:53:31+00:00</updated>
+        
+        <author>
+          <name>
+            
+              yzzfo
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://yzzfo.github.io/unity/store/combat-animations-kickboxing-and-muay-thai-v2/"/>
+        <id>https://yzzfo.github.io/unity/store/combat-animations-kickboxing-and-muay-thai-v2/</id>
+        
+        <content type="html" xml:base="https://yzzfo.github.io/unity/store/combat-animations-kickboxing-and-muay-thai-v2/">&lt;p&gt;Collection of animations for Kickboxing and Muay Thai part 2&lt;&#x2F;p&gt;
+&lt;p&gt;A set of 31 third-person Kickboxing and Muay Thai animations&lt;&#x2F;p&gt;&lt;p&gt;姿势匹配的起始和结束帧&lt;&#x2F;p&gt;&lt;p&gt;人形3D动画，适用于重新定向到其他人形3D角色的动画动作。&lt;&#x2F;p&gt;&lt;p&gt;这些泰拳动画的第一部分在&lt;a href=&quot;https:&#x2F;&#x2F;assetstore.unity.com&#x2F;packages&#x2F;slug&#x2F;202886&quot; target=&quot;_blank&quot;&gt;这里&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;我们邀请您访问我的页面。还有其他作品希望您能看到&lt;a href=&quot;https:&#x2F;&#x2F;assetstore.unity.com&#x2F;publishers&#x2F;56005?_ga=2.198619887.1778482432.1636715525-1776350741.1628504465&amp;_gac=1.82762212.1633960559.Cj0KCQjwwY-LBhD6ARIsACvT72OwlmosnD9LngefWGHTPOSiUU-YRL73PscMfovVseRlCecPWW9x11gaAlpZEALw_wcB&quot; target=&quot;_blank&quot;&gt;这里&lt;&#x2F;a&gt;。&lt;&#x2F;p&gt;</content>
+        
+    </entry>
+    <entry xml:lang="zh">
+        <title>Unique Projectiles Volume 1</title>
+        <published>2024-11-29T21:17:03+00:00</published>
+        <updated>2024-11-30T13:17:38+00:00</updated>
+        
+        <author>
+          <name>
+            
+              yzzfo
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://yzzfo.github.io/unity/store/unique-projectiles-volume-1/"/>
+        <id>https://yzzfo.github.io/unity/store/unique-projectiles-volume-1/</id>
+        
+        <content type="html" xml:base="https://yzzfo.github.io/unity/store/unique-projectiles-volume-1/">&lt;p&gt;&lt;br&gt;&lt;strong&gt;30款风格化的发射物&lt;&#x2F;strong&gt;，包括法术、子弹、火球、黑魔法、箭等等。完美适用于 PC 和移动端，同时也可用在多种游戏类型和美术风格里。查看新增内容：&lt;a href=&quot;https:&#x2F;&#x2F;assetstore.unity.com&#x2F;packages&#x2F;vfx&#x2F;particles&#x2F;unique-projectiles-vol-2-156067&quot;&gt;独特的投掷物第 2 卷&lt;&#x2F;a&gt;&lt;br&gt;&lt;br&gt;&lt;a href=&quot;https:&#x2F;&#x2F;gabrielaguiarprod.itch.io&#x2F;unique-projectiles-vol1&quot;&gt;WebGL 演示&lt;&#x2F;a&gt;&lt;br&gt;&lt;br&gt;此资源包包含：&lt;br&gt;&lt;br&gt;- &lt;strong&gt;30 种投掷物&lt;&#x2F;strong&gt;预制件；&lt;br&gt;- &lt;strong&gt;30 种击中&#x2F;撞&lt;&#x2F;strong&gt;击预制件；&lt;br&gt;- &lt;strong&gt;26 种枪炮口&lt;&#x2F;strong&gt;预制件；&lt;br&gt;- &lt;strong&gt;PC 演示&lt;&#x2F;strong&gt;；&lt;br&gt;- &lt;strong&gt;移动端演示&lt;&#x2F;strong&gt;；&lt;br&gt;- &lt;strong&gt;2D 演示&lt;&#x2F;strong&gt;；&lt;br&gt;- &lt;strong&gt;可自定义着色器&lt;&#x2F;strong&gt;；&lt;br&gt;- &lt;strong&gt;粒子系统控制器脚本&lt;&#x2F;strong&gt;（控制尺寸、速度、颜色等）；&lt;br&gt;- &lt;strong&gt;投掷物脚本&lt;&#x2F;strong&gt;（控制火力率、精度、火点等）；&lt;br&gt;- 支持 &lt;strong&gt;HDRP&lt;&#x2F;strong&gt; 和 &lt;strong&gt;LWRP&lt;&#x2F;strong&gt;；&lt;br&gt;&lt;br&gt;&lt;br&gt;将投掷物与不同的攻击&#x2F;碰撞或不同枪口相互组合，只要你想象得到！&lt;br&gt;&lt;br&gt;特效已经优化，可以轻松地重新设置尺寸、时间轴和颜色。&lt;br&gt;&lt;br&gt;如有疑问请联系我。&lt;br&gt;&lt;br&gt;更多 VFX 资源包：&lt;br&gt;- &lt;strong&gt;&lt;a href=&quot;https:&#x2F;&#x2F;assetstore.unity.com&#x2F;packages&#x2F;vfx&#x2F;particles&#x2F;unique-projectiles-vol-2-156067&quot;&gt;独特投掷物第 1 卷&lt;&#x2F;a&gt;&lt;&#x2F;strong&gt;&lt;br&gt;- &lt;strong&gt;&lt;a href=&quot;https:&#x2F;&#x2F;assetstore.unity.com&#x2F;packages&#x2F;vfx&#x2F;particles&#x2F;unique-toon-projectiles-vol-1-139417&quot;&gt;独特卡通投掷物第 1 卷&lt;&#x2F;a&gt;&lt;&#x2F;strong&gt;&lt;br&gt;- &lt;strong&gt;&lt;a href=&quot;https:&#x2F;&#x2F;assetstore.unity.com&#x2F;packages&#x2F;vfx&#x2F;particles&#x2F;unique-aoe-magic-abilities-volume-1-132947&quot;&gt;独特 AoE 魔法技能第 1 卷&lt;&#x2F;a&gt;&lt;&#x2F;strong&gt;&lt;br&gt;- &lt;strong&gt;&lt;a href=&quot;https:&#x2F;&#x2F;assetstore.unity.com&#x2F;packages&#x2F;vfx&#x2F;particles&#x2F;unique-lasers-volume-1-118909&quot;&gt;独特激光第 1 卷&lt;&#x2F;a&gt;&lt;&#x2F;strong&gt;&lt;br&gt;- &lt;strong&gt;&lt;a href=&quot;https:&#x2F;&#x2F;assetstore.unity.com&#x2F;packages&#x2F;vfx&#x2F;particles&#x2F;unique-explosions-volume-1-98839&quot;&gt;独特爆炸第 1 卷&lt;&#x2F;a&gt;&lt;&#x2F;strong&gt;&lt;br&gt;&lt;br&gt;&lt;&#x2F;p&gt;
+</content>
+        
+    </entry>
+</feed>

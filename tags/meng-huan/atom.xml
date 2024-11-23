@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh">
+    <title>yzzfo - 梦幻</title>
+    <subtitle>游戏开发学习资源分享</subtitle>
+    <link rel="self" type="application/atom+xml" href="https://yzzfo.github.io/tags/meng-huan/atom.xml"/>
+    <link rel="alternate" type="text/html" href="https://yzzfo.github.io"/>
+    <generator uri="https://www.getzola.org/">Zola</generator>
+    <updated>2024-12-06T14:27:24+00:00</updated>
+    <id>https://yzzfo.github.io/tags/meng-huan/atom.xml</id>
+    <entry xml:lang="zh">
+        <title>AZURE Nature</title>
+        <published>2024-12-06T14:27:24+00:00</published>
+        <updated>2024-12-06T14:27:24+00:00</updated>
+        
+        <author>
+          <name>
+            
+              yzzfo
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://yzzfo.github.io/unity/store/azure-nature/"/>
+        <id>https://yzzfo.github.io/unity/store/azure-nature/</id>
+        
+        <content type="html" xml:base="https://yzzfo.github.io/unity/store/azure-nature/">&lt;p&gt;&lt;br&gt;&lt;STRONG&gt;新&lt;&#x2F;STRONG&gt;增水着色器折射&lt;br&gt;&lt;br&gt;&lt;a href=&quot;https:&#x2F;&#x2F;drive.google.com&#x2F;uc?id=12LSTDg0Uxr3K2DVBl2cj7NcnCRUZzIJp&amp;export=download&quot;&gt;下载演示版本&lt;&#x2F;a&gt;&lt;br&gt;&lt;br&gt;高质量且通用的资源包，极其自由地为游戏自定义资源。使用自定义着色器自由更改颜色，在模型上添加苔藓、雪及其他涂层。创建四季场景。&lt;br&gt;&lt;br&gt;&lt;STRONG&gt;支持的渲染管线：&lt;&#x2F;STRONG&gt;&lt;br&gt;- 内置 (2019.1+)&lt;br&gt;- 轻量级 (2019.1 - 2019.2)&lt;br&gt;- 通用 (2019.3+)&lt;br&gt;&lt;br&gt;标准渲染管线立即可用。通过随附的资源包支持 URP&#x2F;LWRP。&lt;br&gt;&lt;br&gt;&lt;STRONG&gt;资源包包含：&lt;&#x2F;STRONG&gt;&lt;br&gt;&lt;br&gt;&lt;STRONG&gt;模型（带 LOD）：&lt;&#x2F;STRONG&gt;&lt;br&gt;- 5 种阔叶树（2150 - 5450 个面数）&lt;br&gt;- 5 种桦树（2300 - 4100 个面数）&lt;br&gt;- 5 种枞树（1550 - 2150 个面数）&lt;br&gt;- 5 种枯树（1000 - 2500 个面数）&lt;br&gt;- 3 种草地模型（40 - 100 个面数）&lt;br&gt;- 5 种灌木丛（1500 - 2000 个面数）&lt;br&gt;- 6 种岩石和悬崖（180 - 390 个面数）&lt;br&gt;- 6 种其他环境模型（树枝、蘑菇及其他）（90 - 330 个面数）&lt;br&gt;&lt;br&gt;&lt;STRONG&gt;地形纹理 (1024x1024 PNG)：&lt;&#x2F;STRONG&gt;&lt;br&gt;- 8 种夏季纹理&lt;br&gt;- 8 种冬季纹理&lt;br&gt;- 8 种秋季纹理&lt;br&gt;&lt;br&gt;带有反照率和法线贴图&lt;br&gt;&lt;br&gt;&lt;STRONG&gt;着色器：&lt;&#x2F;STRONG&gt;&lt;br&gt;- 植被&lt;br&gt;- 表面&lt;br&gt;- 水&lt;br&gt;&lt;br&gt;&lt;STRONG&gt;特效：&lt;&#x2F;STRONG&gt;&lt;br&gt;- 落叶&lt;br&gt;- 降雪&lt;br&gt;- Godray&lt;br&gt;&lt;br&gt;以及带有后期处理配置文件的演示场景。&lt;br&gt;&lt;br&gt;该资源包将补充新内容。保持更新。&lt;br&gt;&lt;br&gt;&lt;&#x2F;p&gt;
+</content>
+        
+    </entry>
+    <entry xml:lang="zh">
+        <title>Fantasy Forest Environment</title>
+        <published>2024-12-03T01:14:53+00:00</published>
+        <updated>2024-12-03T01:14:53+00:00</updated>
+        
+        <author>
+          <name>
+            
+              yzzfo
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://yzzfo.github.io/unity/store/fantasy-forest-environment/"/>
+        <id>https://yzzfo.github.io/unity/store/fantasy-forest-environment/</id>
+        
+        <content type="html" xml:base="https://yzzfo.github.io/unity/store/fantasy-forest-environment/">&lt;p&gt;This pack contains over 120 prefabs you need to create stylized forest environment: from trees, bushes to rocks and mushrooms. Demo scene in summer, autumn and winter variants!&lt;br&gt;&lt;strong&gt;更新 2.1 - URP 支持！&lt;&#x2F;strong&gt;&lt;br&gt;&lt;br&gt;▶&lt;a href=&quot;https:&#x2F;&#x2F;forum.unity.com&#x2F;threads&#x2F;fantasy-forest-environment-update-v2-0.708998&#x2F;&quot;&gt;论坛&lt;&#x2F;a&gt;◀ ▶&lt;a href=&quot;https:&#x2F;&#x2F;drive.google.com&#x2F;open?id=12-8v2fjcL6R2J_Ez9oUlipxZJm-t-h-I&quot;&gt;播放演示&lt;&#x2F;a&gt;◀ ▶&lt;a href=&quot;mailto:support@triforge.eu&quot;&gt;支持&lt;&#x2F;a&gt;◀&lt;br&gt;&lt;br&gt;&lt;strong&gt;支持：&lt;&#x2F;strong&gt;&lt;br&gt;&lt;strong&gt;内置渲染 - 2018.2.11 或更新&lt;&#x2F;strong&gt;&lt;br&gt;&lt;strong&gt;URP 7.2 - 2019.3&lt;&#x2F;strong&gt;&lt;br&gt;&lt;br&gt;此资源包内含 120 多个您需要的预制件，以创建风格化的森林环境：从树木、灌木丛到岩石和蘑菇。这些预制件为夏季、秋季和冬季场景提供了精美的手绘纹理和变体。&lt;br&gt;&lt;br&gt;&lt;strong&gt;功能：&lt;&#x2F;strong&gt;&lt;br&gt;&lt;br&gt;➤ 23 种花木手绘地形纹理&lt;br&gt;➤ 12 种树木模型：7 种针叶树、2 种落叶树和 3 种桦木树，以及匹配秋、冬季节的变体 - 总共 36 种树木预制件&lt;br&gt;➤13 种地形细节网格，例如草、灌木和花朵，具有顶点 alpha 以提供适当的风支持&lt;br&gt;➤ 53 个道具模型，例如蘑菇、岩石、篱笆、水生植物、帐篷、篝火、桥梁、瀑布&lt;br&gt;➤ 7 种粒子效果：水溅、火焰、落叶、灰尘、薄雾和雪&lt;br&gt;➤ 自定义树木着色器，具有风力运动以及对 Vegetation Studio Pro 的间接实例化支持&lt;br&gt;&lt;br&gt;&lt;strong&gt;重要说明：&lt;&#x2F;strong&gt;&lt;br&gt;未在移动设备上测试。当前不支持 HDRP。&lt;br&gt;使用 Unity Post Processing Stack v2、线性色彩空间制作屏幕截图和视频，并在 Unity 2018.2.11版中进行渲染。视频中可见的水取材自 Unity 标准资源，不包含此资源包中。&lt;br&gt;&lt;br&gt;需要资源包方面的帮助或有疑问吗？&lt;br&gt;电子邮件：&lt;a href=&quot;mailto:support@triforge.eu&quot;&gt;support@triforge.eu&lt;&#x2F;a&gt;&lt;br&gt;&lt;&#x2F;p&gt;
+</content>
+        
+    </entry>
+    <entry xml:lang="zh">
+        <title>Mountain Valley - Stylized Fantasy Nature Environment</title>
+        <published>2024-12-03T00:46:43+00:00</published>
+        <updated>2024-12-03T00:46:43+00:00</updated>
+        
+        <author>
+          <name>
+            
+              yzzfo
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://yzzfo.github.io/unity/store/mountain-valley-stylized-fantasy-nature-environment/"/>
+        <id>https://yzzfo.github.io/unity/store/mountain-valley-stylized-fantasy-nature-environment/</id>
+        
+        <content type="html" xml:base="https://yzzfo.github.io/unity/store/mountain-valley-stylized-fantasy-nature-environment/">&lt;p&gt;Create beautiful stylized environments for your game with our modular asset pack!&lt;&#x2F;p&gt;
+&lt;p&gt;使用我们的&lt;strong&gt;山谷&lt;&#x2F;strong&gt;模块化资产包，为您的游戏构建美丽的风景——这是一个令人惊叹的风格化环境，非常适合平台游戏和奇幻角色扮演游戏。该包具有令人叹为观止的鲜艳色彩、郁郁葱葱的植被，如树木、草和灌木，以及岩石和自定义天空盒。用这个精美制作的山谷环境为您的游戏世界注入生命，为您的项目增添一丝魔力。&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;strong&gt;特点与内容&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;ul&gt;&lt;li&gt;美丽的风格化环境艺术&lt;&#x2F;li&gt;&lt;li&gt;树木和其他植被上的美丽风动画&lt;&#x2F;li&gt;&lt;li&gt;美丽的演示场景，展示如何将所有包含的功能结合在一起&lt;&#x2F;li&gt;&lt;li&gt;植被入门包（花、岩石、树、灌木和草）&lt;&#x2F;li&gt;&lt;li&gt;落叶粒子系统&lt;&#x2F;li&gt;&lt;li&gt;漂浮尘埃粒子系统&lt;&#x2F;li&gt;&lt;li&gt;光线粒子系统&lt;&#x2F;li&gt;&lt;li&gt;具有颜色调和风设置的自定义植被着色器&lt;&#x2F;li&gt;&lt;&#x2F;ul&gt;
+&lt;p&gt;&lt;strong&gt;*请注意&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;p&gt;演示视频中的音频文件不属于此包&lt;&#x2F;p&gt;</content>
+        
+    </entry>
+    <entry xml:lang="zh">
+        <title>Fantasy Adventure Environment</title>
+        <published>2024-11-29T21:22:02+00:00</published>
+        <updated>2024-12-03T01:29:03+00:00</updated>
+        
+        <author>
+          <name>
+            
+              yzzfo
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://yzzfo.github.io/unity/store/fantasy-adventure-environment/"/>
+        <id>https://yzzfo.github.io/unity/store/fantasy-adventure-environment/</id>
+        
+        <content type="html" xml:base="https://yzzfo.github.io/unity/store/fantasy-adventure-environment/">&lt;p&gt;An environment asset pack inspired by the current 3D adventure games and of old. This package focuses on providing artistically crafted environment assets.&lt;br&gt;&lt;strong&gt;&lt;a href=&quot;http:&#x2F;&#x2F;staggart.xyz&#x2F;unity&#x2F;fantasy-adventure-environment&#x2F;fae-documentation&#x2F;&quot;&gt;文档&lt;&#x2F;a&gt; | &lt;a href=&quot;http:&#x2F;&#x2F;staggart.xyz&#x2F;fae-demo&#x2F;&quot;&gt;PC 演示&lt;&#x2F;a&gt; | &lt;a href=&quot;https:&#x2F;&#x2F;forum.unity3d.com&#x2F;threads&#x2F;486102&quot;&gt;论坛主题&lt;&#x2F;a&gt;&lt;&#x2F;strong&gt;&lt;br&gt;&lt;br&gt;&lt;em&gt;最高可兼容 Unity 2020.1（LWRP 或 HDRP 例外）。&lt;&#x2F;em&gt;&lt;br&gt;&lt;br&gt;&lt;strong&gt;最新推出！&lt;&#x2F;strong&gt;Unity 2019.3+ 现在支持通用渲染管线。修订了水着色器，以进行完善。可通过&lt;a href=&quot;https:&#x2F;&#x2F;assetstore.unity.com&#x2F;packages&#x2F;vfx&#x2F;shaders&#x2F;stylized-grass-shader-143830&quot;&gt;风格化草&lt;&#x2F;a&gt;着色器单独获取 URP 草着色器&lt;br&gt;&lt;br&gt;受流行 3D 冒险游戏和旧版本启发的环境资源包。该资源包侧重于提供艺术化制作的环境资源。&lt;br&gt;&lt;br&gt;当您的英雄角色穿越世界去冒险时，景观中点缀着风格化的植被！&lt;br&gt;&lt;br&gt;&lt;strong&gt;== 兼容性 ==&lt;&#x2F;strong&gt;&lt;br&gt;所有资源的设计都针对中高端 PC 和控制台平台 (PS4&#x2F;Xbox One)。根据 1750 多份基准报告显示，可下载的演示平均运行帧率为 98 FPS。&lt;br&gt;&lt;br&gt;不支持移动端和 Web 平台。PC 上的 VR 已通过测试，没有任何问题。&lt;a href=&quot;http:&#x2F;&#x2F;staggart.xyz&#x2F;unity&#x2F;fantasy-adventure-environment&#x2F;fae-documentation&#x2F;?section=compatibilty&quot;&gt;完整细节&lt;&#x2F;a&gt;。&lt;br&gt;&lt;br&gt;&lt;strong&gt;== 功能 ==&lt;&#x2F;strong&gt;&lt;br&gt;➮用于树木和植被的自定义着色器，可以启用风格化的渲染和动画&lt;br&gt;➮ 树木和植被上逼真的风动画&lt;br&gt;➮ 植被从玩家身旁弯曲掠过（URP 中不可用）&lt;br&gt;➮ 草色与地形浑然一体（支持倾斜地形和网格地形，URP 中不可用）&lt;br&gt;➮ 多细节层次和碰撞网格适用于所有需要它们的资源&lt;br&gt;➮ 广告牌树多细节层次，可在开放的景观中实现最佳性能&lt;br&gt;➮ 量身定制的环境场景示例&lt;br&gt;&lt;br&gt;&lt;strong&gt;== 内容 ==&lt;&#x2F;strong&gt;&lt;br&gt;▪ 18 种植物&lt;br&gt;▪ 3 种云杉&lt;br&gt;▪ 3 种桦树&lt;br&gt;▪ 3 种风格化的树&lt;br&gt;▪ 2 种柳树&lt;br&gt;▪ 3 种棕榈树&lt;br&gt;▪ 1 种松树&lt;br&gt;▪ 6 种树皮材质&lt;br&gt;▪ 6 种地形材质&lt;br&gt;▪ 7 种悬崖，以增加您的地形（2k 纹理）&lt;br&gt;▪ 4 种小石块&lt;br&gt;▪ 匹配的 skybox 全景（最高 8k 分辨率）&lt;br&gt;▪ 镜头光晕纹理图集&lt;br&gt;▪ 动画化的局部阳光照射特效&lt;br&gt;▪ 雾片特效&lt;br&gt;▪ 落叶粒子效果&lt;br&gt;▪ 风痕粒子效果&lt;br&gt;▪ 后处理栈&#x2F; UPP 配置文件和颜色分级纹理（适用于 v1 和 v2）&lt;br&gt;▪ &lt;a href=&quot;http:&#x2F;&#x2F;u3d.as&#x2F;A2R&quot;&gt;旧版风格化水着色器&lt;&#x2F;a&gt;（URP 安装特有一个重新设计的版本）&lt;br&gt;&lt;br&gt;&lt;strong&gt;== 其他功能 ==&lt;&#x2F;strong&gt;&lt;br&gt;▪ 着色器支持自定义 SpeedTree 模型&lt;br&gt;▪ 支持 GPU（间接）实例化&lt;br&gt;▪ Vegetation Studio Pro 集成的着色器控制器&lt;br&gt;▪ 具有（三向）全局彩色贴图和细节法线的悬崖着色器&lt;br&gt;▪ 悬崖覆盖物（雪、草、沙等）&lt;br&gt;▪ 树着色器支持颜色变化&lt;br&gt;▪ 具有文档切换功能的着色器 GUI&lt;br&gt;▪ 可编辑的 &lt;a href=&quot;https:&#x2F;&#x2F;www.assetstore.unity3d.com&#x2F;en&#x2F;#!&#x2F;content&#x2F;68570&quot;&gt;Amplify Shader Editor&lt;&#x2F;a&gt;​​​ 或 Shader Graph 着色器&lt;br&gt;&lt;br&gt;&lt;strong&gt;== 可兼容 ==&lt;&#x2F;strong&gt;&lt;br&gt;▪ &lt;a href=&quot;https:&#x2F;&#x2F;www.assetstore.unity3d.com&#x2F;en&#x2F;#!&#x2F;content&#x2F;103389&quot;&gt;Vegetation Studio&lt;&#x2F;a&gt;&lt;br&gt;▪ &lt;a href=&quot;https:&#x2F;&#x2F;www.assetstore.unity3d.com&#x2F;en&#x2F;#!&#x2F;content&#x2F;131835&quot;&gt;Vegetation Studio 专业&lt;&#x2F;a&gt;版（集成着色器 GUI）&lt;br&gt;▪ &lt;a href=&quot;https:&#x2F;&#x2F;www.assetstore.unity3d.com&#x2F;en&#x2F;#!&#x2F;content&#x2F;42618&quot;&gt;Gaia&lt;&#x2F;a&gt;&lt;br&gt;&lt;br&gt;&lt;em&gt;Gamma 颜色空间截屏&lt;&#x2F;em&gt;&lt;&#x2F;p&gt;
+</content>
+        
+    </entry>
+</feed>

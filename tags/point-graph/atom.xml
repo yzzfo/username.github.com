@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh">
+    <title>yzzfo - Point Graph</title>
+    <subtitle>游戏开发学习资源分享</subtitle>
+    <link rel="self" type="application/atom+xml" href="https://yzzfo.github.io/tags/point-graph/atom.xml"/>
+    <link rel="alternate" type="text/html" href="https://yzzfo.github.io"/>
+    <generator uri="https://www.getzola.org/">Zola</generator>
+    <updated>2024-11-30T13:15:32+00:00</updated>
+    <id>https://yzzfo.github.io/tags/point-graph/atom.xml</id>
+    <entry xml:lang="zh">
+        <title>A* Pathfinding Project Pro</title>
+        <published>2024-11-29T21:15:47+00:00</published>
+        <updated>2024-11-30T13:15:32+00:00</updated>
+        
+        <author>
+          <name>
+            
+              yzzfo
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://yzzfo.github.io/unity/store/a-pathfinding-project-pro/"/>
+        <id>https://yzzfo.github.io/unity/store/a-pathfinding-project-pro/</id>
+        
+        <content type="html" xml:base="https://yzzfo.github.io/unity/store/a-pathfinding-project-pro/">&lt;p&gt;The A* Pathfinding Project is a powerful and easy to use pathfinding system for Unity. With blazing fast pathfinding your AIs will be able to find the player in complex mazes in no time at all.&lt;br&gt;&lt;em&gt;A* Pathfinding Project 是一个功能强大并且易于使用的 Unity 寻路系统。&lt;&#x2F;em&gt;通过快速的路径寻找，您的 AI 将立即在复杂的迷宫中找到玩家。&lt;br&gt;非常适合 TD、FPS、RTS 游戏。&lt;br&gt;&lt;br&gt;看看 &lt;a href=&quot;https:&#x2F;&#x2F;arongranberg.com&#x2F;2017&#x2F;04&#x2F;a-pathfinding-project-4-0-update&#x2F;&quot;&gt;4.0 版更新中有哪些新增内容&lt;&#x2F;a&gt;吧！&lt;br&gt;&lt;br&gt;&lt;em&gt;功能：&lt;&#x2F;em&gt;&lt;br&gt;支持网格、导航网格、点和六角形图。自动导航图形生成让你免于手动执行。完全多线程，因此几乎不会影响帧速率。使用光线投射、平滑和漏斗算法进行路径后处理。路径查找调用只需一行代码。可以将图形保存到文件里。在 XZ 平面和 XY 平面上均可局部回避。内含源代码。支持运行时更新图形。&lt;br&gt;&lt;br&gt;包含共 16 个示例场景帮助你入门。还有一份全面的在线文档，其中几乎记录了所有功能和变量。&lt;br&gt;&lt;br&gt;&lt;a href=&quot;http:&#x2F;&#x2F;arongranberg.com&#x2F;astar&#x2F;media&quot;&gt;网页播放器演示和视频&lt;&#x2F;a&gt;&lt;br&gt;&lt;a href=&quot;http:&#x2F;&#x2F;arongranberg.com&#x2F;astar&#x2F;&quot;&gt;这里有更多信息哦！&lt;&#x2F;a&gt;&lt;br&gt;&lt;a href=&quot;http:&#x2F;&#x2F;youtu.be&#x2F;hmx1sx6ezQA&quot;&gt;视频&lt;&#x2F;a&gt;&lt;br&gt;&lt;br&gt;&lt;&#x2F;p&gt;
+</content>
+        
+    </entry>
+</feed>

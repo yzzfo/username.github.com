@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+    <title>yzzfo - Effect</title>
+    <subtitle>Game Development Learning Resources</subtitle>
+    <link rel="self" type="application/atom+xml" href="https://yzzfo.github.io/en/tags/effect/atom.xml"/>
+    <link rel="alternate" type="text/html" href="https://yzzfo.github.io"/>
+    <generator uri="https://www.getzola.org/">Zola</generator>
+    <updated>2024-11-30T13:24:28+00:00</updated>
+    <id>https://yzzfo.github.io/en/tags/effect/atom.xml</id>
+    <entry xml:lang="en">
+        <title>Character Auras</title>
+        <published>2024-11-29T21:20:26+00:00</published>
+        <updated>2024-11-30T13:24:28+00:00</updated>
+        
+        <author>
+          <name>
+            
+              yzzfo
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://yzzfo.github.io/en/unity/store/character-auras/"/>
+        <id>https://yzzfo.github.io/en/unity/store/character-auras/</id>
+        
+        <content type="html" xml:base="https://yzzfo.github.io/en/unity/store/character-auras/">&lt;p&gt;15 amazing character aura effects!&lt;br&gt;&lt;p &gt;The pack contains &lt;strong&gt;15&lt;&#x2F;strong&gt; amazing aura effects:&lt;&#x2F;p&gt;&lt;ul&gt;&lt;li &gt;Water aura&lt;&#x2F;li&gt;&lt;li &gt;White aura&lt;&#x2F;li&gt;&lt;li &gt;Soap ayra&lt;&#x2F;li&gt;&lt;li &gt;Smoke aura&lt;&#x2F;li&gt;&lt;li &gt;Sleep aura&lt;&#x2F;li&gt;&lt;li &gt;Shine aura&lt;&#x2F;li&gt;&lt;li &gt;Meteor aura&lt;&#x2F;li&gt;&lt;li &gt;Lightning aura&lt;&#x2F;li&gt;&lt;li &gt;Healing aura&lt;&#x2F;li&gt;&lt;li &gt;Gold aura&lt;&#x2F;li&gt;&lt;li &gt;Freeze aura&lt;&#x2F;li&gt;&lt;li &gt;Fire ayra&lt;&#x2F;li&gt;&lt;li &gt;Darkness aura&lt;&#x2F;li&gt;&lt;li &gt;Blood aura&lt;&#x2F;li&gt;&lt;li &gt;Acid aura&lt;&#x2F;li&gt;&lt;&#x2F;ul&gt;&lt;p &gt;All prefabs are game ready, just take and drop them into your game!&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;Supports built-in render by default. &lt;strong&gt;HDRP and URP are supported using &lt;&#x2F;strong&gt;&lt;a href=&quot;https:&#x2F;&#x2F;assetstore.unity.com&#x2F;packages&#x2F;tools&#x2F;utilities&#x2F;support-package-for-hovl-studio-assets-157764&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;this&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt;&lt;strong&gt; FREE package for Unity 2021 or below. &lt;&#x2F;strong&gt;It becomes free after purchasing one of my assets.&lt;&#x2F;p&gt;&lt;p &gt;&lt;strong&gt;URP&#x2F;HDRP is default from Unity 2022 or Unity 6+&lt;&#x2F;strong&gt;. Shader Graph is required which is installed together with this asset. Can be changed to built-in render.&lt;&#x2F;p&gt;&lt;p &gt;&lt;strong&gt;All platforms supported!&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;&lt;strong&gt;These are not mesh effects! All effects are just simple looped particles system!&lt;&#x2F;strong&gt; Promo media (videos, images) uses post process &quot;Bloom&quot; from the Volume component.&lt;&#x2F;p&gt;&lt;p &gt;Contact me if you have any problems or questions. Contact methods on the profile page.&lt;&#x2F;p&gt;&lt;&#x2F;p&gt;
+</content>
+        
+    </entry>
+    <entry xml:lang="en">
+        <title>Mesh Effects</title>
+        <published>2024-11-29T21:19:19+00:00</published>
+        <updated>2024-11-30T13:23:02+00:00</updated>
+        
+        <author>
+          <name>
+            
+              yzzfo
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://yzzfo.github.io/en/unity/store/mesh-effects/"/>
+        <id>https://yzzfo.github.io/en/unity/store/mesh-effects/</id>
+        
+        <content type="html" xml:base="https://yzzfo.github.io/en/unity/store/mesh-effects/">&lt;p&gt;&lt;br&gt;&lt;p &gt;Supported mobile platforms, VR, URP (10x+) and HDRP (10x+) rendering&lt;&#x2F;p&gt;&lt;p &gt;(does not work with 2D sprites)&lt;&#x2F;p&gt;&lt;p &gt;&lt;strong&gt;Note&lt;&#x2F;strong&gt;: Uninstall the old version of the package before upgrading.&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;&lt;a href=&quot;http:&#x2F;&#x2F;kripto289.com&#x2F;AssetStore&#x2F;WeaponFX&#x2F;1.4&#x2F;PC.zip&quot; target=&quot;_blank&quot;&gt;PC Demo&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;&lt;p &gt;&lt;a href=&quot;http:&#x2F;&#x2F;kripto289.com&#x2F;AssetStore&#x2F;WeaponFX&#x2F;1.4&#x2F;MeshEffectsDemo.apk&quot; target=&quot;_blank&quot;&gt;Mobile Demo&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;- Works out of the box (just drag and drop)&lt;&#x2F;p&gt;&lt;p &gt;- Any color in one click&lt;&#x2F;p&gt;&lt;p &gt;- Effects scale relative to a real mesh size&lt;&#x2F;p&gt;&lt;p &gt;- Works with a &quot;mesh renderer&quot; and a &quot;skinned mesh renderer&quot;&lt;&#x2F;p&gt;&lt;p &gt;- The demo scene includes (animations&#x2F;characters&#x2F;weapons&#x2F;environment)&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;&#x2F;br&gt;&lt;p &gt;&lt;a href=&quot;https:&#x2F;&#x2F;discord.gg&#x2F;GUUZ9D96Uq&quot; target=&quot;_blank&quot;&gt;Discord channel&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;&lt;p &gt;email: kripto289@gmail.com&lt;&#x2F;p&gt;&lt;&#x2F;p&gt;
+</content>
+        
+    </entry>
+</feed>

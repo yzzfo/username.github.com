@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh">
+    <title>yzzfo - FPS</title>
+    <subtitle>游戏开发学习资源分享</subtitle>
+    <link rel="self" type="application/atom+xml" href="https://yzzfo.github.io/tags/fps/atom.xml"/>
+    <link rel="alternate" type="text/html" href="https://yzzfo.github.io"/>
+    <generator uri="https://www.getzola.org/">Zola</generator>
+    <updated>2024-11-30T13:25:51+00:00</updated>
+    <id>https://yzzfo.github.io/tags/fps/atom.xml</id>
+    <entry xml:lang="zh">
+        <title>EasyPerformanceMonitor - 2024</title>
+        <published>2024-11-29T21:21:24+00:00</published>
+        <updated>2024-11-30T13:25:51+00:00</updated>
+        
+        <author>
+          <name>
+            
+              yzzfo
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://yzzfo.github.io/unity/store/easyperformancemonitor-2024/"/>
+        <id>https://yzzfo.github.io/unity/store/easyperformancemonitor-2024/</id>
+        
+        <content type="html" xml:base="https://yzzfo.github.io/unity/store/easyperformancemonitor-2024/">&lt;p&gt;EasyPerformanceMonitor 是一款专为 Unity3d 设计的游戏内性能监控工具。它可实时监控 FPS、CPU 使用率、GPU 使用率、内存使用率等基本指标。&lt;br&gt;&lt;p &gt;📄 &lt;a href=&quot;https:&#x2F;&#x2F;docs.guardingpearsoftware.com&#x2F;manual&#x2F;EasyPerformanceMonitor&#x2F;Description.html&quot; target=&quot;_blank&quot;&gt;文档&lt;&#x2F;a&gt; 💬 &lt;a href=&quot;https:&#x2F;&#x2F;forum.unity.com&#x2F;threads&#x2F;easyperformancemonitor-cpu-gpu-memory-in-game-monitoring.1490116&#x2F;&quot; target=&quot;_blank&quot;&gt;论坛&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;EasyPerformanceMonitor 是一款专为 Unity3d 设计的游戏内性能监控工具。通过实时监控 FPS、CPU 使用率、GPU 使用率、内存使用率等基本指标，EasyPerformanceMonitor 可帮助您优化应用程序和游戏性能。&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;&lt;strong&gt;⭐&lt;&#x2F;strong&gt;主要事实&lt;strong&gt;⭐&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;✔ 游戏内监控： 游戏内覆盖，让您随时更新。&lt;&#x2F;p&gt;&lt;p &gt;✔ 使用简单： 无需复杂设置或技术知识，即插即用。&lt;&#x2F;p&gt;&lt;p &gt;✔ 兼容性： 与所有 Unity3d 支持的目标平台集成。&lt;&#x2F;p&gt;&lt;p &gt;✔ 自定义数据扩展： 通过集成自定义数据扩展您的监控功能。&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;&lt;strong&gt;⭐&lt;&#x2F;strong&gt;集成&lt;strong&gt;⭐&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;无论目标平台如何，将 EasyPerformanceMonitor 集成到任何应用程序或游戏中都非常简单。只需将 EasyPerformanceMonitor 预制件添加到初始场景中，一切就绪。我们确保集成过程简单明了，让您可以专注于核心开发。&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;&lt;strong&gt;⭐&lt;&#x2F;strong&gt;平台&lt;strong&gt;⭐&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;Unity3d 支持的所有平台。包括 Mono 和 IL2CPP。&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;&lt;strong&gt;⭐&lt;&#x2F;strong&gt;说明&lt;strong&gt;⭐&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;EasyPerformanceMonitor 包含大量手册、脚本 API 参考文档和演示，可让您直接进行监控和优化！&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;&lt;a href=&quot;https:&#x2F;&#x2F;docs.guardingpearsoftware.com&#x2F;manual&#x2F;EasyPerformanceMonitor&#x2F;Description.html&quot; target=&quot;_blank&quot;&gt;文档&lt;&#x2F;a&gt; 和 &lt;a href=&quot;https:&#x2F;&#x2F;docs.guardingpearsoftware.com&#x2F;api&#x2F;EasyPerformanceMonitor&#x2F;GUPS.EasyPerformanceMonitor.html&quot; target=&quot;_blank&quot;&gt;脚本应用程序参考&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;&lt;strong&gt;⭐&lt;&#x2F;strong&gt;联系我们&lt;strong&gt;⭐&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;电子邮件：guardingpearsoftware@gmail.com&lt;&#x2F;p&gt;&lt;p &gt;网站：guardingpearsoftware.com&lt;&#x2F;p&gt;&lt;&#x2F;p&gt;
+</content>
+        
+    </entry>
+    <entry xml:lang="zh">
+        <title>A* Pathfinding Project Pro</title>
+        <published>2024-11-29T21:15:47+00:00</published>
+        <updated>2024-11-30T13:15:32+00:00</updated>
+        
+        <author>
+          <name>
+            
+              yzzfo
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://yzzfo.github.io/unity/store/a-pathfinding-project-pro/"/>
+        <id>https://yzzfo.github.io/unity/store/a-pathfinding-project-pro/</id>
+        
+        <content type="html" xml:base="https://yzzfo.github.io/unity/store/a-pathfinding-project-pro/">&lt;p&gt;The A* Pathfinding Project is a powerful and easy to use pathfinding system for Unity. With blazing fast pathfinding your AIs will be able to find the player in complex mazes in no time at all.&lt;br&gt;&lt;em&gt;A* Pathfinding Project 是一个功能强大并且易于使用的 Unity 寻路系统。&lt;&#x2F;em&gt;通过快速的路径寻找，您的 AI 将立即在复杂的迷宫中找到玩家。&lt;br&gt;非常适合 TD、FPS、RTS 游戏。&lt;br&gt;&lt;br&gt;看看 &lt;a href=&quot;https:&#x2F;&#x2F;arongranberg.com&#x2F;2017&#x2F;04&#x2F;a-pathfinding-project-4-0-update&#x2F;&quot;&gt;4.0 版更新中有哪些新增内容&lt;&#x2F;a&gt;吧！&lt;br&gt;&lt;br&gt;&lt;em&gt;功能：&lt;&#x2F;em&gt;&lt;br&gt;支持网格、导航网格、点和六角形图。自动导航图形生成让你免于手动执行。完全多线程，因此几乎不会影响帧速率。使用光线投射、平滑和漏斗算法进行路径后处理。路径查找调用只需一行代码。可以将图形保存到文件里。在 XZ 平面和 XY 平面上均可局部回避。内含源代码。支持运行时更新图形。&lt;br&gt;&lt;br&gt;包含共 16 个示例场景帮助你入门。还有一份全面的在线文档，其中几乎记录了所有功能和变量。&lt;br&gt;&lt;br&gt;&lt;a href=&quot;http:&#x2F;&#x2F;arongranberg.com&#x2F;astar&#x2F;media&quot;&gt;网页播放器演示和视频&lt;&#x2F;a&gt;&lt;br&gt;&lt;a href=&quot;http:&#x2F;&#x2F;arongranberg.com&#x2F;astar&#x2F;&quot;&gt;这里有更多信息哦！&lt;&#x2F;a&gt;&lt;br&gt;&lt;a href=&quot;http:&#x2F;&#x2F;youtu.be&#x2F;hmx1sx6ezQA&quot;&gt;视频&lt;&#x2F;a&gt;&lt;br&gt;&lt;br&gt;&lt;&#x2F;p&gt;
+</content>
+        
+    </entry>
+</feed>

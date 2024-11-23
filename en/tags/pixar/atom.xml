@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+    <title>yzzfo - Pixar</title>
+    <subtitle>Game Development Learning Resources</subtitle>
+    <link rel="self" type="application/atom+xml" href="https://yzzfo.github.io/en/tags/pixar/atom.xml"/>
+    <link rel="alternate" type="text/html" href="https://yzzfo.github.io"/>
+    <generator uri="https://www.getzola.org/">Zola</generator>
+    <updated>2024-12-07T11:37:24+00:00</updated>
+    <id>https://yzzfo.github.io/en/tags/pixar/atom.xml</id>
+    <entry xml:lang="en">
+        <title>Pure Nature 2 : Mountains</title>
+        <published>2024-12-07T11:37:24+00:00</published>
+        <updated>2024-12-07T11:37:24+00:00</updated>
+        
+        <author>
+          <name>
+            
+              yzzfo
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://yzzfo.github.io/en/unity/store/pure-nature-2-mountains/"/>
+        <id>https://yzzfo.github.io/en/unity/store/pure-nature-2-mountains/</id>
+        
+        <content type="html" xml:base="https://yzzfo.github.io/en/unity/store/pure-nature-2-mountains/">&lt;p&gt;&lt;br&gt;&lt;p &gt;&lt;strong&gt;3D Stylized Nature Environment Assets&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;p &gt;Everything comes with prefabs - ready to be dropped in scene.&lt;&#x2F;p&gt;&lt;p &gt;&lt;strong&gt;&lt;em&gt;URP version included !&lt;&#x2F;em&gt;&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;&lt;strong&gt;This pack contains :&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;p &gt;&lt;strong&gt;Vegetation&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;p &gt;- Spruces&lt;&#x2F;p&gt;&lt;p &gt;- Pines&lt;&#x2F;p&gt;&lt;p &gt;- Firs&lt;&#x2F;p&gt;&lt;p &gt;- Bushes&lt;&#x2F;p&gt;&lt;p &gt;- Mushrooms&lt;&#x2F;p&gt;&lt;p &gt;- Grasses&lt;&#x2F;p&gt;&lt;p &gt;&lt;em&gt;Grass, Branchs, Ferns, various…&lt;&#x2F;em&gt;&lt;&#x2F;p&gt;&lt;p &gt;- Flowers&lt;&#x2F;p&gt;&lt;p &gt;&lt;em&gt;Berries, Carot, Daisy, Gorse, Lavender, Lupin, various…&lt;&#x2F;em&gt;&lt;&#x2F;p&gt;&lt;p &gt;- Mushrooms&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;&lt;strong&gt;Rocks&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;p &gt;- Cliffs&lt;&#x2F;p&gt;&lt;p &gt;- Boulders&lt;&#x2F;p&gt;&lt;p &gt;- Rocks &amp;amp; Pebbles&lt;&#x2F;p&gt;&lt;p &gt;- Mountains&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;&lt;strong&gt;Materials&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;p &gt;- Grass&lt;&#x2F;p&gt;&lt;p &gt;- Sand&lt;&#x2F;p&gt;&lt;p &gt;- Gravel&lt;&#x2F;p&gt;&lt;p &gt;- Mud&lt;&#x2F;p&gt;&lt;p &gt;- Grass&#x2F;Sand&lt;&#x2F;p&gt;&lt;p &gt;- Grass&#x2F;Gravel&lt;&#x2F;p&gt;&lt;p &gt;- Grass&#x2F;Mud&lt;&#x2F;p&gt;&lt;p &gt;- Water&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;&lt;strong&gt;Also includes :&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;p &gt;Demo scene with large terrain, forests, rivers, and canyon.&lt;&#x2F;p&gt;&lt;p &gt;Scene with all Prefabs and variants listed&lt;&#x2F;p&gt;&lt;p &gt;Environment Manager to control wind and grass render distance&lt;&#x2F;p&gt;&lt;p &gt;Preset for Post-Processing&lt;&#x2F;p&gt;&lt;p &gt;All prefabs have LODs&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;&lt;strong&gt;Custom shaders for :&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;p &gt;Grass (with wind and color variations)&lt;&#x2F;p&gt;&lt;p &gt;Trees (with wind and color variations)&lt;&#x2F;p&gt;&lt;p &gt;Rocks (with moss&#x2F;snow layer)&lt;&#x2F;p&gt;&lt;p &gt;Water (with depth fade, foam and refraction)&lt;&#x2F;p&gt;&lt;p &gt;Volumetric Clouds&lt;&#x2F;p&gt;&lt;p &gt;Impostors&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;- - -&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;&lt;em&gt;Demo scene is huge and may not suitable for mobile.&lt;&#x2F;em&gt;&lt;&#x2F;p&gt;&lt;p &gt;&lt;em&gt;A proper &lt;&#x2F;em&gt;&lt;strong&gt;&lt;em&gt;GPU instancing&lt;&#x2F;em&gt;&lt;&#x2F;strong&gt;&lt;em&gt; solution like &lt;&#x2F;em&gt;&lt;a href=&quot;https:&#x2F;&#x2F;assetstore.unity.com&#x2F;packages&#x2F;tools&#x2F;terrain&#x2F;nature-renderer-2022-266664&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;&lt;em&gt;Nature Renderer&lt;&#x2F;em&gt;&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt;&lt;em&gt; is recommended.&lt;&#x2F;em&gt;&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;&lt;strong&gt;&lt;em&gt;- &lt;&#x2F;em&gt;&lt;&#x2F;strong&gt;&lt;a href=&quot;https:&#x2F;&#x2F;assetstore.unity.com&#x2F;packages&#x2F;tools&#x2F;terrain&#x2F;biomes-and-presets-2-for-microverse-251773&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;&lt;em&gt;MicroVerse&lt;&#x2F;em&gt;&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt;&lt;em&gt; presets&lt;&#x2F;em&gt;&lt;&#x2F;p&gt;&lt;p &gt;&lt;strong&gt;&lt;em&gt;- &lt;&#x2F;em&gt;&lt;&#x2F;strong&gt;&lt;a href=&quot;https:&#x2F;&#x2F;assetstore.unity.com&#x2F;packages&#x2F;tools&#x2F;terrain&#x2F;gaia-biomes-spawner-pack-bk-296372&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;&lt;em&gt;Gaia Spawner &lt;&#x2F;em&gt;&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt;&lt;em&gt;presets&lt;&#x2F;em&gt;&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;&lt;em&gt;A &lt;&#x2F;em&gt;&lt;strong&gt;&lt;em&gt;Readme&lt;&#x2F;em&gt;&lt;&#x2F;strong&gt;&lt;em&gt; file is available for setup &amp;amp; details.&lt;&#x2F;em&gt;&lt;&#x2F;p&gt;&lt;p &gt;&lt;em&gt;Join the &lt;&#x2F;em&gt;&lt;a href=&quot;https:&#x2F;&#x2F;discord.gg&#x2F;GqHvc9xQXp&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;&lt;em&gt;Discord&lt;&#x2F;em&gt;&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt;&lt;em&gt; for support or any question.&lt;&#x2F;em&gt;&lt;&#x2F;p&gt;&lt;&#x2F;p&gt;
+</content>
+        
+    </entry>
+</feed>

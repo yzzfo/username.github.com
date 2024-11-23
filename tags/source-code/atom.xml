@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh">
+    <title>yzzfo - Source Code</title>
+    <subtitle>游戏开发学习资源分享</subtitle>
+    <link rel="self" type="application/atom+xml" href="https://yzzfo.github.io/tags/source-code/atom.xml"/>
+    <link rel="alternate" type="text/html" href="https://yzzfo.github.io"/>
+    <generator uri="https://www.getzola.org/">Zola</generator>
+    <updated>2024-11-30T13:21:36+00:00</updated>
+    <id>https://yzzfo.github.io/tags/source-code/atom.xml</id>
+    <entry xml:lang="zh">
+        <title>UI Node Connect 4</title>
+        <published>2024-11-29T21:18:21+00:00</published>
+        <updated>2024-11-30T13:21:36+00:00</updated>
+        
+        <author>
+          <name>
+            
+              yzzfo
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://yzzfo.github.io/unity/store/ui-node-connect-4/"/>
+        <id>https://yzzfo.github.io/unity/store/ui-node-connect-4/</id>
+        
+        <content type="html" xml:base="https://yzzfo.github.io/unity/store/ui-node-connect-4/">&lt;p&gt;UI Node Connect 4 是一个可定制的运行时 UGUI 节点图框架，便于在您的游戏或应用程序中创建交互式节点图界面。&lt;&#x2F;p&gt;
+&lt;p&gt;UI Node Connect 4 是一个 &lt;strong&gt;运行时 UGUI 节点图框架&lt;&#x2F;strong&gt;，具有节点、端口和连接、拖放、自定义 UI 线渲染器以及创建节点图、流程图、电路板、连接谜题等多种创意方式的实用功能，供用户与您的游戏或应用程序进行交互。&lt;&#x2F;p&gt;
+&lt;p&gt;&amp;#128218;&lt;strong&gt; &lt;&#x2F;strong&gt;&lt;a href=&quot;https:&#x2F;&#x2F;docs.google.com&#x2F;document&#x2F;d&#x2F;1Wh4QISqWpeRZiC1uXzM4CAO-uZuCs5Y8agiJM-xHhgo&#x2F;edit&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;文档&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;&amp;#128218;&lt;strong&gt; &lt;&#x2F;strong&gt;&lt;a href=&quot;https:&#x2F;&#x2F;docs.google.com&#x2F;document&#x2F;d&#x2F;1Wh4QISqWpeRZiC1uXzM4CAO-uZuCs5Y8agiJM-xHhgo&#x2F;edit&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;代码参考&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;&amp;#127918;&lt;strong&gt; &lt;&#x2F;strong&gt;&lt;a href=&quot;https:&#x2F;&#x2F;danielcmcg.itch.io&#x2F;logic-gates&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;逻辑门示例场景&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;strong&gt;使用您自己的精灵、文本、颜色、按钮自定义资产&lt;&#x2F;strong&gt;，并通过使用 API 添加新功能来 &lt;strong&gt;连接事件&lt;&#x2F;strong&gt; 并分析 &lt;strong&gt;节点、端口和连接&lt;&#x2F;strong&gt;。&lt;&#x2F;p&gt;
+&lt;p&gt;通过为用户添加新的交互方式，使画布成为您游戏的一部分，以便用户操纵和连接节点。&lt;&#x2F;p&gt;</content>
+        
+    </entry>
+</feed>

@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh">
+    <title>yzzfo - Landscape</title>
+    <subtitle>游戏开发学习资源分享</subtitle>
+    <link rel="self" type="application/atom+xml" href="https://yzzfo.github.io/tags/landscape/atom.xml"/>
+    <link rel="alternate" type="text/html" href="https://yzzfo.github.io"/>
+    <generator uri="https://www.getzola.org/">Zola</generator>
+    <updated>2024-12-06T14:27:24+00:00</updated>
+    <id>https://yzzfo.github.io/tags/landscape/atom.xml</id>
+    <entry xml:lang="zh">
+        <title>AZURE Nature</title>
+        <published>2024-12-06T14:27:24+00:00</published>
+        <updated>2024-12-06T14:27:24+00:00</updated>
+        
+        <author>
+          <name>
+            
+              yzzfo
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://yzzfo.github.io/unity/store/azure-nature/"/>
+        <id>https://yzzfo.github.io/unity/store/azure-nature/</id>
+        
+        <content type="html" xml:base="https://yzzfo.github.io/unity/store/azure-nature/">&lt;p&gt;&lt;br&gt;&lt;STRONG&gt;新&lt;&#x2F;STRONG&gt;增水着色器折射&lt;br&gt;&lt;br&gt;&lt;a href=&quot;https:&#x2F;&#x2F;drive.google.com&#x2F;uc?id=12LSTDg0Uxr3K2DVBl2cj7NcnCRUZzIJp&amp;export=download&quot;&gt;下载演示版本&lt;&#x2F;a&gt;&lt;br&gt;&lt;br&gt;高质量且通用的资源包，极其自由地为游戏自定义资源。使用自定义着色器自由更改颜色，在模型上添加苔藓、雪及其他涂层。创建四季场景。&lt;br&gt;&lt;br&gt;&lt;STRONG&gt;支持的渲染管线：&lt;&#x2F;STRONG&gt;&lt;br&gt;- 内置 (2019.1+)&lt;br&gt;- 轻量级 (2019.1 - 2019.2)&lt;br&gt;- 通用 (2019.3+)&lt;br&gt;&lt;br&gt;标准渲染管线立即可用。通过随附的资源包支持 URP&#x2F;LWRP。&lt;br&gt;&lt;br&gt;&lt;STRONG&gt;资源包包含：&lt;&#x2F;STRONG&gt;&lt;br&gt;&lt;br&gt;&lt;STRONG&gt;模型（带 LOD）：&lt;&#x2F;STRONG&gt;&lt;br&gt;- 5 种阔叶树（2150 - 5450 个面数）&lt;br&gt;- 5 种桦树（2300 - 4100 个面数）&lt;br&gt;- 5 种枞树（1550 - 2150 个面数）&lt;br&gt;- 5 种枯树（1000 - 2500 个面数）&lt;br&gt;- 3 种草地模型（40 - 100 个面数）&lt;br&gt;- 5 种灌木丛（1500 - 2000 个面数）&lt;br&gt;- 6 种岩石和悬崖（180 - 390 个面数）&lt;br&gt;- 6 种其他环境模型（树枝、蘑菇及其他）（90 - 330 个面数）&lt;br&gt;&lt;br&gt;&lt;STRONG&gt;地形纹理 (1024x1024 PNG)：&lt;&#x2F;STRONG&gt;&lt;br&gt;- 8 种夏季纹理&lt;br&gt;- 8 种冬季纹理&lt;br&gt;- 8 种秋季纹理&lt;br&gt;&lt;br&gt;带有反照率和法线贴图&lt;br&gt;&lt;br&gt;&lt;STRONG&gt;着色器：&lt;&#x2F;STRONG&gt;&lt;br&gt;- 植被&lt;br&gt;- 表面&lt;br&gt;- 水&lt;br&gt;&lt;br&gt;&lt;STRONG&gt;特效：&lt;&#x2F;STRONG&gt;&lt;br&gt;- 落叶&lt;br&gt;- 降雪&lt;br&gt;- Godray&lt;br&gt;&lt;br&gt;以及带有后期处理配置文件的演示场景。&lt;br&gt;&lt;br&gt;该资源包将补充新内容。保持更新。&lt;br&gt;&lt;br&gt;&lt;&#x2F;p&gt;
+</content>
+        
+    </entry>
+    <entry xml:lang="zh">
+        <title>Toon Fantasy Nature</title>
+        <published>2024-11-29T21:17:32+00:00</published>
+        <updated>2024-12-02T21:46:33+00:00</updated>
+        
+        <author>
+          <name>
+            
+              yzzfo
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://yzzfo.github.io/unity/store/toon-fantasy-nature/"/>
+        <id>https://yzzfo.github.io/unity/store/toon-fantasy-nature/</id>
+        
+        <content type="html" xml:base="https://yzzfo.github.io/unity/store/toon-fantasy-nature/">&lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;assetstore.unity.com&#x2F;publishers&#x2F;18116&quot;&gt; &lt;strong&gt;SICS Games&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt; 呈现：&lt;&#x2F;p&gt;一套风格化的资源集合，为您的游戏增添美丽的环境。&lt;&#x2F;p&gt;
+&lt;p&gt;有任何问题或建议吗？&lt;&#x2F;p&gt;&lt;p&gt;欢迎通过我们的 &lt;a href=&quot;http:&#x2F;&#x2F;discord.gg&#x2F;nwQpAet&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;Discord&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt; 与我们联系&lt;&#x2F;p&gt;
+&lt;p&gt;◙ &lt;strong&gt;特色&lt;&#x2F;strong&gt; ◙&lt;&#x2F;p&gt;
+&lt;p&gt;• &lt;strong&gt;200&lt;&#x2F;strong&gt; 个预制件，从小植物和岩石到大型橡树和松树。&lt;&#x2F;p&gt;&lt;p&gt;• &lt;strong&gt;8&lt;&#x2F;strong&gt; &lt;strong&gt;演示场景&lt;&#x2F;strong&gt; 展示了该包中的所有资源，并提供多种光照预设（包括后期处理配置文件）。&lt;&#x2F;p&gt;
+&lt;p&gt;◙ &lt;strong&gt;资源列表 &lt;&#x2F;strong&gt;◙&lt;&#x2F;p&gt;
+&lt;p&gt;• &lt;strong&gt;植被资源 &lt;&#x2F;strong&gt;•&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;strong&gt;(x137) 植物、花卉和树木&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;p&gt;植被资源包括：&lt;&#x2F;p&gt;&lt;p&gt;&lt;strong&gt;(x36) 树木&lt;&#x2F;strong&gt;，如 &lt;strong&gt;白杨树&lt;&#x2F;strong&gt;、&lt;strong&gt;松树&lt;&#x2F;strong&gt;、&lt;strong&gt;桦树&lt;&#x2F;strong&gt;、&lt;strong&gt;橡树&lt;&#x2F;strong&gt;等。&lt;&#x2F;p&gt;&lt;p&gt;&lt;strong&gt;(x18) 倒下的和破损的树木&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;p&gt;&lt;strong&gt;(x38) 灌木、蕨类植物&lt;&#x2F;strong&gt;、&lt;strong&gt;花卉&lt;&#x2F;strong&gt;等。&lt;&#x2F;p&gt;&lt;p&gt;&lt;strong&gt;(x20) 百合、莲花&lt;&#x2F;strong&gt;及其他水生植物。&lt;&#x2F;p&gt;&lt;p&gt;&lt;strong&gt;(x18) 蘑菇&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;• &lt;strong&gt;岩石 &lt;&#x2F;strong&gt;•&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;strong&gt;(x20) 岩石&lt;&#x2F;strong&gt;，从小卵石到大石块&lt;&#x2F;p&gt;
+&lt;p&gt;• &lt;strong&gt;外部道具 &lt;&#x2F;strong&gt;•&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;strong&gt;(x25) 道具&lt;&#x2F;strong&gt;，包括 &lt;strong&gt;木制凉亭和秋千&lt;&#x2F;strong&gt;、&lt;strong&gt;篝火&lt;&#x2F;strong&gt;（包含火粒子系统）、&lt;strong&gt;围栏和桥梁工具包&lt;&#x2F;strong&gt;等。&lt;&#x2F;p&gt;
+&lt;p&gt;• &lt;strong&gt;背景资源和贴花 &lt;&#x2F;strong&gt;•&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;strong&gt;(x18) 背景树木&lt;&#x2F;strong&gt;、碎片和 &lt;strong&gt;落叶&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;p&gt;&lt;strong&gt;(x3) 手绘天空盒&lt;&#x2F;strong&gt;：白天、夜晚和日落。&lt;&#x2F;p&gt;
+&lt;p&gt;• &lt;strong&gt;粒子系统 &lt;&#x2F;strong&gt;•&lt;&#x2F;p&gt;&lt;br&gt;&lt;p &gt;&lt;strong&gt;(x8) 粒子系统&lt;&#x2F;strong&gt;，包括 &lt;strong&gt;阳光光束&lt;&#x2F;strong&gt;、&lt;strong&gt;萤火虫&lt;&#x2F;strong&gt;、&lt;strong&gt;落叶&lt;&#x2F;strong&gt; 等等。&lt;&#x2F;p&gt;
+&lt;p &gt;此包与该系列的其他资产完美契合：&lt;&#x2F;p&gt;&lt;p &gt;&lt;a href=&quot;http:&#x2F;&#x2F;assetstore.unity.com&#x2F;lists&#x2F;toon-series-44946&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;卡通系列&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+&lt;p &gt;支持与社区：&lt;&#x2F;p&gt;&lt;p &gt;&lt;a href=&quot;http:&#x2F;&#x2F;discord.gg&#x2F;nwQpAet&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;Discord&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt;&lt;strong&gt; &lt;&#x2F;strong&gt;• &lt;a href=&quot;http:&#x2F;&#x2F;forum.unity3d.com&#x2F;threads&#x2F;toon-series-growing-content-stylized-3d-art.464823&#x2F;&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;论坛&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt;&lt;strong&gt; &lt;&#x2F;strong&gt;• &lt;a href=&quot;http:&#x2F;&#x2F;twitter.com&#x2F;steve_sics&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;推特&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt;&lt;strong&gt; &lt;&#x2F;strong&gt;•&lt;strong&gt; &lt;&#x2F;strong&gt;&lt;a href=&quot;mailto:sics.production@gmail.com&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;邮件&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;</content>
+        
+    </entry>
+</feed>

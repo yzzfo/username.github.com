@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh">
+    <title>yzzfo - Weapon</title>
+    <subtitle>游戏开发学习资源分享</subtitle>
+    <link rel="self" type="application/atom+xml" href="https://yzzfo.github.io/tags/weapon/atom.xml"/>
+    <link rel="alternate" type="text/html" href="https://yzzfo.github.io"/>
+    <generator uri="https://www.getzola.org/">Zola</generator>
+    <updated>2024-12-03T00:46:57+00:00</updated>
+    <id>https://yzzfo.github.io/tags/weapon/atom.xml</id>
+    <entry xml:lang="zh">
+        <title>Sword slashes PRO</title>
+        <published>2024-12-03T00:46:57+00:00</published>
+        <updated>2024-12-03T00:46:57+00:00</updated>
+        
+        <author>
+          <name>
+            
+              yzzfo
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://yzzfo.github.io/unity/store/sword-slashes-pro/"/>
+        <id>https://yzzfo.github.io/unity/store/sword-slashes-pro/</id>
+        
+        <content type="html" xml:base="https://yzzfo.github.io/unity/store/sword-slashes-pro/">&lt;p&gt;该包包含22种独特的斩击特效和11种连击技能。&lt;strong&gt;这些不是剑的轨迹。这些是独立的特效！&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;⚡ 所有特效在所有平台上均能完美运行，并使用优化的自定义着色器。&lt;&#x2F;p&gt;
+&lt;p&gt;您可以使用标准尺寸值轻松调整斩击的大小。斩击的长度在材质中有所不同。&lt;&#x2F;p&gt;
+&lt;p&gt;☄️ &lt;a href=&quot;https:&#x2F;&#x2F;drive.google.com&#x2F;file&#x2F;d&#x2F;1F45Gr_puRgEkvZ899Nid92PZtUQQqoR5&quot; target=&quot;_blank&quot;&gt;PC演示&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;您可以以仅$6的价格更新&lt;a href=&quot;https:&#x2F;&#x2F;assetstore.unity.com&#x2F;packages&#x2F;slug&#x2F;126405&quot; target=&quot;_blank&quot;&gt;我的旧资产&lt;&#x2F;a&gt;。&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;strong&gt;支持PC&#x2F;主机&#x2F;移动设备&#x2F;Web&#x2F;VR。&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;默认支持内置渲染。&lt;strong&gt;HDRP和URP通过使用&lt;&#x2F;strong&gt;&lt;a href=&quot;https:&#x2F;&#x2F;assetstore.unity.com&#x2F;packages&#x2F;tools&#x2F;utilities&#x2F;support-package-for-hovl-studio-assets-157764&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;这个&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt;&lt;strong&gt;免费的Unity 2021或更低版本的包来支持。&lt;&#x2F;strong&gt;购买我的其中一个资产后，该包将变为免费。&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;strong&gt;URP&#x2F;HDRP是Unity 2022或Unity 6+的默认设置。&lt;&#x2F;strong&gt;需要Shader Graph，该工具与此资产一起安装。可以更改为内置渲染。&lt;&#x2F;p&gt;
+&lt;p&gt;重要！资产中不包含带动画的角色！&lt;&#x2F;p&gt;
+&lt;p&gt;宣传媒体（视频、图片）使用了来自Volume组件的后期处理“Bloom”。&lt;&#x2F;p&gt;
+&lt;p&gt;如果您有任何问题或疑问，请与我联系。联系方式在个人资料页面上。&lt;&#x2F;p&gt;</content>
+        
+    </entry>
+</feed>

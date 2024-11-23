@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+    <title>yzzfo - Shader Graph</title>
+    <subtitle>Game Development Learning Resources</subtitle>
+    <link rel="self" type="application/atom+xml" href="https://yzzfo.github.io/en/tags/shader-graph/atom.xml"/>
+    <link rel="alternate" type="text/html" href="https://yzzfo.github.io"/>
+    <generator uri="https://www.getzola.org/">Zola</generator>
+    <updated>2024-11-30T13:24:53+00:00</updated>
+    <id>https://yzzfo.github.io/en/tags/shader-graph/atom.xml</id>
+    <entry xml:lang="en">
+        <title>Support package for Hovl Studio assets</title>
+        <published>2024-11-29T21:20:45+00:00</published>
+        <updated>2024-11-30T13:24:53+00:00</updated>
+        
+        <author>
+          <name>
+            
+              yzzfo
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://yzzfo.github.io/en/unity/store/support-package-for-hovl-studio-assets/"/>
+        <id>https://yzzfo.github.io/en/unity/store/support-package-for-hovl-studio-assets/</id>
+        
+        <content type="html" xml:base="https://yzzfo.github.io/en/unity/store/support-package-for-hovl-studio-assets/">&lt;p&gt;This package provides URP and HDRP support for Hovl Studio assets (And possible future new Render Pipelines).&lt;br&gt;&lt;p &gt;This asset is &lt;strong&gt;FREE&lt;&#x2F;strong&gt; if you have one of Hovl Studio assets.&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;The editor replaces shaders that works only with standard render pipeline to custom pipelines in all materials.&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;&lt;strong&gt;The editor works only with assets from &lt;&#x2F;strong&gt;&lt;a href=&quot;https:&#x2F;&#x2F;assetstore.unity.com&#x2F;publishers&#x2F;28391&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;Hovl Studio&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt;&lt;strong&gt;!&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;p &gt;&lt;a href=&quot;https:&#x2F;&#x2F;youtu.be&#x2F;b9IEqs1gqcw&quot; target=&quot;_blank&quot;&gt;Tutorial how to use it&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;This asset also includes free Distortion shaders for URP(LWRP) and HDRP 2019.2+ and many usefull shaders.&lt;&#x2F;p&gt;&lt;&#x2F;p&gt;
+</content>
+        
+    </entry>
+</feed>

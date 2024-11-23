@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+    <title>yzzfo - audioclip</title>
+    <subtitle>Game Development Learning Resources</subtitle>
+    <link rel="self" type="application/atom+xml" href="https://yzzfo.github.io/en/tags/audioclip/atom.xml"/>
+    <link rel="alternate" type="text/html" href="https://yzzfo.github.io"/>
+    <generator uri="https://www.getzola.org/">Zola</generator>
+    <updated>2024-12-06T14:26:09+00:00</updated>
+    <id>https://yzzfo.github.io/en/tags/audioclip/atom.xml</id>
+    <entry xml:lang="en">
+        <title>Battle Sound Library - Magic &amp; Melee - Fantasy RPG</title>
+        <published>2024-12-06T14:26:09+00:00</published>
+        <updated>2024-12-06T14:26:09+00:00</updated>
+        
+        <author>
+          <name>
+            
+              yzzfo
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://yzzfo.github.io/en/unity/store/battle-sound-library-magic-melee-fantasy-rpg/"/>
+        <id>https://yzzfo.github.io/en/unity/store/battle-sound-library-magic-melee-fantasy-rpg/</id>
+        
+        <content type="html" xml:base="https://yzzfo.github.io/en/unity/store/battle-sound-library-magic-melee-fantasy-rpg/">&lt;p&gt;Hundreds of sound clips, and thousands upon thousands of mixes. Create custom combined sounds with the easy to use &quot;Audio Clip Combiner&quot;, and create the perfect soundscape for your project&lt;br&gt;&lt;p &gt;--------------------------------------------------&lt;&#x2F;p&gt;&lt;p &gt;&lt;strong&gt;Support, Questions, News &amp;amp; Updates&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;p &gt;➡️ &lt;a href=&quot;https:&#x2F;&#x2F;discord.gg&#x2F;uf3QPF&quot; target=&quot;_blank&quot;&gt;Discord&lt;&#x2F;a&gt; | &lt;a href=&quot;https:&#x2F;&#x2F;infinitypbr.gitbook.io&#x2F;infinity-pbr&#x2F;audio-clip-combiner&quot; target=&quot;_blank&quot;&gt;Tutorials&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;&lt;p &gt;--------------------------------------------------&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;&lt;strong&gt;Magic &amp;amp; Melee Customizable Sound Library&lt;&#x2F;strong&gt; has been designed with customization and randomization in mind. Mix and match the component sounds, and you can have thousands of unique sounds.&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;Combine clips randomly at runtime, or export them with a single click and select your favorite combinations.&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;&lt;strong&gt;&lt;em&gt;Includes &lt;&#x2F;em&gt;&lt;&#x2F;strong&gt;&lt;a href=&quot;https:&#x2F;&#x2F;assetstore.unity.com&#x2F;packages&#x2F;slug&#x2F;232612&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;&lt;em&gt;Audio Clip Combiner&lt;&#x2F;em&gt;&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt;&lt;strong&gt;&lt;em&gt; tool!&lt;&#x2F;em&gt;&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;&lt;strong&gt;Updated&lt;&#x2F;strong&gt;: Audio Clip Combiner now has a &quot;Play Random Sample&quot; button to sample sounds prior to exporting, during edit time. There is also a &quot;Folder&quot; upload -- select a folder and all of it&#x27;s clips will be added to the layer.&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;Or, create a new Audio Clip Combiner object, and select a parent folder and each sub-folder with audio will be added as a new layer.&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;🔮&lt;strong&gt;&lt;em&gt;Magic&lt;&#x2F;em&gt;&lt;&#x2F;strong&gt;🧞&lt;&#x2F;p&gt;&lt;p &gt;Air, Earth, Electric, Evil&#x2F;Dark, Fire, Holy&#x2F;Light, Ice, Poison, and Water magic includes multiple explosions, hits, warmups both long and short.&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;Combine these with generic buffs, hums and pulses, spell fizzles and fails, and more to create a huge array of magic sounds to that fit your spells.&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;⚔️&lt;strong&gt;&lt;em&gt;Melee&lt;&#x2F;em&gt;&lt;&#x2F;strong&gt;🛡&lt;&#x2F;p&gt;&lt;p &gt;Create combinations of weapon types and damage types: Flesh, Metal &amp;amp; Wood targets. Weapons include Axe, Bow &amp;amp; Arrow, Club, Fist, Shield, Sword.&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;Each group has 125 combinations based on the multiple weapon, target, and impact sounds.&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;⚔️🔮 &lt;strong&gt;&lt;em&gt;Magical Weapons&lt;&#x2F;em&gt;&lt;&#x2F;strong&gt;🧞🛡&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;Combine the Magic &amp;amp; Melee sounds together to create even more sounds like &quot;Fire Sword&quot; or &quot;Dark Club&quot;.&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;&lt;strong&gt;500+ Clips&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;p &gt;&lt;em&gt;Hundreds of thousands of possibilities&lt;&#x2F;em&gt;&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;The Library starts with about &lt;strong&gt;500 individual clips&lt;&#x2F;strong&gt;. This grows to hundreds of thousands when you start mixing and matching. You can even mix audio from other packages together to create unique sounds no other game has.&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;--------------------------------------&lt;&#x2F;p&gt;&lt;p &gt;Check out more info &amp;amp; all of our models at &lt;a href=&quot;http:&#x2F;&#x2F;www.infinitypbr.com&#x2F;&quot; target=&quot;_blank&quot;&gt;InfinityPBR.com&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;&lt;p &gt;--------------------------------------&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;&lt;strong&gt;If you do purchase this package, thank you very much!  Please leave a rating and review so others can find out what&#x27;s what about it!  If you have any problems, requests or anything else, &lt;&#x2F;strong&gt;&lt;a href=&quot;https:&#x2F;&#x2F;forum.unity3d.com&#x2F;threads&#x2F;infinity-series-works-in-progress-mega-thread.408430&#x2F;&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;visit me at the forums.&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;&lt;&#x2F;p&gt;
+</content>
+        
+    </entry>
+</feed>

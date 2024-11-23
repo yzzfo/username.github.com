@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh">
+    <title>yzzfo - HDRP</title>
+    <subtitle>游戏开发学习资源分享</subtitle>
+    <link rel="self" type="application/atom+xml" href="https://yzzfo.github.io/tags/hdrp/atom.xml"/>
+    <link rel="alternate" type="text/html" href="https://yzzfo.github.io"/>
+    <generator uri="https://www.getzola.org/">Zola</generator>
+    <updated>2024-11-30T13:24:53+00:00</updated>
+    <id>https://yzzfo.github.io/tags/hdrp/atom.xml</id>
+    <entry xml:lang="zh">
+        <title>Support package for Hovl Studio assets</title>
+        <published>2024-11-29T21:20:45+00:00</published>
+        <updated>2024-11-30T13:24:53+00:00</updated>
+        
+        <author>
+          <name>
+            
+              yzzfo
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://yzzfo.github.io/unity/store/support-package-for-hovl-studio-assets/"/>
+        <id>https://yzzfo.github.io/unity/store/support-package-for-hovl-studio-assets/</id>
+        
+        <content type="html" xml:base="https://yzzfo.github.io/unity/store/support-package-for-hovl-studio-assets/">&lt;p&gt;这个包为Hovl Studio资产提供了URP和HDRP支持（以及未来可能的新渲染管线）。&lt;&#x2F;p&gt;
+&lt;p&gt;如果您拥有Hovl Studio的资产，这个资产是&lt;strong&gt;免费&lt;&#x2F;strong&gt;的。&lt;&#x2F;p&gt;
+&lt;p&gt;编辑器将所有材料中仅与标准渲染管线兼容的着色器替换为自定义管线。&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;strong&gt;编辑器仅适用于来自&lt;&#x2F;strong&gt;&lt;a href=&quot;https:&#x2F;&#x2F;assetstore.unity.com&#x2F;publishers&#x2F;28391&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;Hovl Studio&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt;&lt;strong&gt;的资产！&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;youtu.be&#x2F;b9IEqs1gqcw&quot; target=&quot;_blank&quot;&gt;使用教程&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;该资产还包括适用于URP（LWRP）和HDRP 2019.2+的免费扭曲着色器以及许多实用的着色器。&lt;&#x2F;p&gt;</content>
+        
+    </entry>
+    <entry xml:lang="zh">
+        <title>Advanced Dissolve</title>
+        <published>2024-11-29T21:18:50+00:00</published>
+        <updated>2024-11-30T13:22:27+00:00</updated>
+        
+        <author>
+          <name>
+            
+              yzzfo
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://yzzfo.github.io/unity/store/advanced-dissolve/"/>
+        <id>https://yzzfo.github.io/unity/store/advanced-dissolve/</id>
+        
+        <content type="html" xml:base="https://yzzfo.github.io/unity/store/advanced-dissolve/">&lt;p&gt;&lt;br&gt;&lt;br&gt;&lt;a href=&quot;https:&#x2F;&#x2F;drive.google.com&#x2F;uc?id=1hsGfPDShIEK250AHw1PN92ULydolIYQh&amp;export=download&quot;&gt;&lt;STRONG&gt;试试 PC 演示吧&lt;&#x2F;STRONG&gt;&lt;&#x2F;a&gt;&lt;br&gt;&lt;br&gt;核心功能：&lt;br&gt;• 使用动态蒙版对象进行溶解：球体、箱体、圆柱体、圆锥体、平面、每轴 (X,Y,Z)。可同时使用 4 个对象。&lt;br&gt;• 多个纹理混合，用于 alpha 切口和边缘杂色控制。&lt;br&gt;• UV、三维和屏幕空间可溶解投影。&lt;br&gt;• 各种边缘颜色控制器，包括简单的颜色、渐变和渐变纹理。&lt;br&gt;• 实线、光滑和噪点边缘。&lt;br&gt;• 颜色自发光对于全局光照系统可见。&lt;br&gt;•与 Unity 后期处理和图像特效完全兼容。&lt;br&gt;• 包括标准的、基于物理的、旧版的、单方向光、VertexLit、无光照、粒子、Unity Nature、SpeedTree 和 TextMesh Pro 着色器。&lt;br&gt;• 支持的渲染管道：&lt;STRONG&gt;标准&lt;&#x2F;STRONG&gt;、&lt;STRONG&gt;轻量级&lt;&#x2F;STRONG&gt;和&lt;STRONG&gt;通用&lt;&#x2F;STRONG&gt;。&lt;br&gt;• 包括用于将高级溶解特效集成到 ShaderGraph 创建的着色器中的实验工具。&lt;br&gt;&lt;br&gt;着色器与 &lt;a href=&quot;http:&#x2F;&#x2F;u3d.as&#x2F;awm&quot;&gt;&lt;STRONG&gt;Curved World&lt;&#x2F;STRONG&gt;&lt;&#x2F;a&gt; 兼容。&lt;br&gt;&lt;br&gt;&lt;br&gt;是否有问题？&lt;a href=&quot;https:&#x2F;&#x2F;forum.unity.com&#x2F;threads&#x2F;advanced-dissolve.517354&#x2F;&quot;&gt;&lt;STRONG&gt;论坛&lt;&#x2F;STRONG&gt;&lt;&#x2F;a&gt;&lt;br&gt;&lt;&#x2F;p&gt;
+</content>
+        
+    </entry>
+</feed>

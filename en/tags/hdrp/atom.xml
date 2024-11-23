@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+    <title>yzzfo - HDRP</title>
+    <subtitle>Game Development Learning Resources</subtitle>
+    <link rel="self" type="application/atom+xml" href="https://yzzfo.github.io/en/tags/hdrp/atom.xml"/>
+    <link rel="alternate" type="text/html" href="https://yzzfo.github.io"/>
+    <generator uri="https://www.getzola.org/">Zola</generator>
+    <updated>2024-11-30T13:24:53+00:00</updated>
+    <id>https://yzzfo.github.io/en/tags/hdrp/atom.xml</id>
+    <entry xml:lang="en">
+        <title>Support package for Hovl Studio assets</title>
+        <published>2024-11-29T21:20:45+00:00</published>
+        <updated>2024-11-30T13:24:53+00:00</updated>
+        
+        <author>
+          <name>
+            
+              yzzfo
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://yzzfo.github.io/en/unity/store/support-package-for-hovl-studio-assets/"/>
+        <id>https://yzzfo.github.io/en/unity/store/support-package-for-hovl-studio-assets/</id>
+        
+        <content type="html" xml:base="https://yzzfo.github.io/en/unity/store/support-package-for-hovl-studio-assets/">&lt;p&gt;This package provides URP and HDRP support for Hovl Studio assets (And possible future new Render Pipelines).&lt;br&gt;&lt;p &gt;This asset is &lt;strong&gt;FREE&lt;&#x2F;strong&gt; if you have one of Hovl Studio assets.&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;The editor replaces shaders that works only with standard render pipeline to custom pipelines in all materials.&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;&lt;strong&gt;The editor works only with assets from &lt;&#x2F;strong&gt;&lt;a href=&quot;https:&#x2F;&#x2F;assetstore.unity.com&#x2F;publishers&#x2F;28391&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;Hovl Studio&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt;&lt;strong&gt;!&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;p &gt;&lt;a href=&quot;https:&#x2F;&#x2F;youtu.be&#x2F;b9IEqs1gqcw&quot; target=&quot;_blank&quot;&gt;Tutorial how to use it&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;This asset also includes free Distortion shaders for URP(LWRP) and HDRP 2019.2+ and many usefull shaders.&lt;&#x2F;p&gt;&lt;&#x2F;p&gt;
+</content>
+        
+    </entry>
+    <entry xml:lang="en">
+        <title>Advanced Dissolve</title>
+        <published>2024-11-29T21:18:50+00:00</published>
+        <updated>2024-11-30T13:22:27+00:00</updated>
+        
+        <author>
+          <name>
+            
+              yzzfo
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://yzzfo.github.io/en/unity/store/advanced-dissolve/"/>
+        <id>https://yzzfo.github.io/en/unity/store/advanced-dissolve/</id>
+        
+        <content type="html" xml:base="https://yzzfo.github.io/en/unity/store/advanced-dissolve/">&lt;p&gt;&lt;br&gt;&lt;p &gt;&lt;a href=&quot;https:&#x2F;&#x2F;amazing-assets.gitbook.io&#x2F;advanced-dissolve&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;Documentation&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt;&lt;strong&gt; &lt;&#x2F;strong&gt;| &lt;a href=&quot;https:&#x2F;&#x2F;drive.google.com&#x2F;file&#x2F;d&#x2F;1SXOMFx28x7b8tF-zKyVQPR5SBhjhguix&#x2F;view?usp=sharing&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;Demo&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt; | &lt;a href=&quot;https:&#x2F;&#x2F;drive.google.com&#x2F;u&#x2F;0&#x2F;uc?id=11x6w223npAS88pTCaNGij6Gdet7P4hiF&amp;export=download&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;PC Build&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt; | &lt;a href=&quot;https:&#x2F;&#x2F;discussions.unity.com&#x2F;t&#x2F;advanced-dissolve&#x2F;691625&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;Forum&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt; | &lt;a href=&quot;mailto:support@amazingassets.world&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;Support&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;&#x2F;br&gt;&lt;p &gt;Advanced alpha cutout shader effect offering:&lt;&#x2F;p&gt;&lt;p &gt;• Dissolve using geometric shapes: Plane, Sphere, Cube, Capsule, Cone.&lt;&#x2F;p&gt;&lt;p &gt;• Multiple texture blend for alpha cutout and edge noise control.&lt;&#x2F;p&gt;&lt;p &gt;• Triplanar and Screen-Space dissolve projections.&lt;&#x2F;p&gt;&lt;p &gt;• Various edge color controllers, including simple color, gradient and ramp textures.&lt;&#x2F;p&gt;&lt;p &gt;• Solid, Smooth and Noisy edges.&lt;&#x2F;p&gt;&lt;p &gt;• Color emission is visible to the Global Illumination system.&lt;&#x2F;p&gt;&lt;p &gt;• All shader features are optional and can be turned on&#x2F;off any time or mixed together.&lt;&#x2F;p&gt;&lt;p &gt;• Advanced Dissolve effect can be easily integrated into shaders created using &lt;strong&gt;Shader Graph &lt;&#x2F;strong&gt;with user defined unlimited cutout variations.&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;&#x2F;br&gt;&lt;p &gt;Supported Unity versions:&lt;&#x2F;p&gt;&lt;p &gt;✅ Unity 2019.4&lt;&#x2F;p&gt;&lt;p &gt;✅ Unity 2020.3&lt;&#x2F;p&gt;&lt;p &gt;✅ Unity 2021.3&lt;&#x2F;p&gt;&lt;p &gt;✅ Unity 2022.3&lt;&#x2F;p&gt;&lt;p &gt;✅ Unity 6&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;Supported render pipelines:&lt;&#x2F;p&gt;&lt;p &gt;✅ Built-in&lt;&#x2F;p&gt;&lt;p &gt;✅ Universal (URP)&lt;&#x2F;p&gt;&lt;p &gt;✅ High Definition (HDRP)&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;✅ Source code included&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;&#x2F;br&gt;&lt;p &gt;Shaders are &lt;a href=&quot;http:&#x2F;&#x2F;assetstore.unity.com&#x2F;packages&#x2F;vfx&#x2F;shaders&#x2F;curved-world-2020-173251&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;Curved World&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt;&lt;strong&gt; &lt;&#x2F;strong&gt;compatible.&lt;&#x2F;p&gt;&lt;p &gt;Asset is already included in the &lt;a href=&quot;https:&#x2F;&#x2F;assetstore.unity.com&#x2F;packages&#x2F;vfx&#x2F;shaders&#x2F;amazing-shaders-bundle-196761&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;Amazing Shaders Bundle&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt;.&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;&#x2F;br&gt;&lt;p &gt;⚠️ Note:&lt;&#x2F;p&gt;&lt;p &gt;Advanced Dissolve is a collection of quite complex shaders and do not expect to manually integrate them into hand-witten shaders.&lt;&#x2F;p&gt;&lt;p &gt;For Built-in and Universal render pipelines package includes collection of ready to use shaders for various scenarios for PC, VR, console and mobile devices.&lt;&#x2F;p&gt;&lt;p &gt;Besides package included shaders, Advanced Dissolve effect can be easily integrated into shaders created using Shader Graph.&lt;&#x2F;p&gt;&lt;&#x2F;p&gt;
+</content>
+        
+    </entry>
+</feed>

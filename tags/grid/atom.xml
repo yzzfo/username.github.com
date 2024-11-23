@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh">
+    <title>yzzfo - Grid</title>
+    <subtitle>游戏开发学习资源分享</subtitle>
+    <link rel="self" type="application/atom+xml" href="https://yzzfo.github.io/tags/grid/atom.xml"/>
+    <link rel="alternate" type="text/html" href="https://yzzfo.github.io"/>
+    <generator uri="https://www.getzola.org/">Zola</generator>
+    <updated>2024-12-02T19:47:22+00:00</updated>
+    <id>https://yzzfo.github.io/tags/grid/atom.xml</id>
+    <entry xml:lang="zh">
+        <title>Runtime Transform Handles</title>
+        <published>2024-12-02T19:47:22+00:00</published>
+        <updated>2024-12-02T19:47:22+00:00</updated>
+        
+        <author>
+          <name>
+            
+              yzzfo
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://yzzfo.github.io/unity/store/runtime-transform-handles/"/>
+        <id>https://yzzfo.github.io/unity/store/runtime-transform-handles/</id>
+        
+        <content type="html" xml:base="https://yzzfo.github.io/unity/store/runtime-transform-handles/">&lt;p&gt;Runtime Transform Handles 是用于在场景中操作 GameObjects 的运行时 3D 控件。&lt;&#x2F;p&gt;
+&lt;p &gt;&lt;strong&gt;Runtime Transform Handles&lt;&#x2F;strong&gt; 是用于在场景中操作 GameObjects 的运行时 3D 控件。通过变换组件，有三种内置变换工具用于定位、旋转和缩放对象。补充控件，如场景小工具和网格，允许更改视角和投影模式，并在场景中显示网格。其他重要组件包括选择组件、场景组件和控件组件，它们允许选择对象、导航场景以及更改变换控件的外观。&lt;&#x2F;p&gt;
+&lt;p &gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;BattlehubCode&#x2F;RTH_Docs&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;文档&lt;&#x2F;strong&gt; &lt;&#x2F;a&gt;&lt;strong&gt;|&lt;&#x2F;strong&gt; &lt;a href=&quot;https:&#x2F;&#x2F;t.me&#x2F;battlehub&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;Telegram&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+&lt;p &gt;这是 &lt;a href=&quot;https:&#x2F;&#x2F;www.assetstore.unity3d.com&#x2F;en&#x2F;#!&#x2F;content&#x2F;64806&quot; target=&quot;_blank&quot;&gt;Runtime Editor&lt;&#x2F;a&gt; 的精简版&lt;&#x2F;p&gt;
+&lt;p &gt;&lt;strong&gt;功能：&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;p &gt;♥ 位置控件，&lt;&#x2F;p&gt;&lt;p &gt;♥ 旋转控件；&lt;&#x2F;p&gt;&lt;p &gt;♥ 缩放控件；&lt;&#x2F;p&gt;&lt;p &gt;♥ 网格；&lt;&#x2F;p&gt;&lt;p &gt;♥ 框选；&lt;&#x2F;p&gt;&lt;p &gt;♥ 选择小工具；&lt;&#x2F;p&gt;&lt;p &gt;♥ 对齐到网格 &amp;amp; 顶点捕捉；&lt;&#x2F;p&gt;&lt;p &gt;♥ 场景导航；&lt;&#x2F;p&gt;&lt;p &gt;♥ 全局 &amp;amp; 本地坐标；&lt;&#x2F;p&gt;&lt;p &gt;♥ 撤销 &amp;amp; 重做；&lt;&#x2F;p&gt;&lt;p &gt;♥ 触控支持；&lt;&#x2F;p&gt;&lt;p &gt;♥ 多摄像机支持；&lt;&#x2F;p&gt;</content>
+        
+    </entry>
+    <entry xml:lang="zh">
+        <title>Flexalon: UI Layouts</title>
+        <published>2024-12-02T19:45:05+00:00</published>
+        <updated>2024-12-02T19:45:05+00:00</updated>
+        
+        <author>
+          <name>
+            
+              yzzfo
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://yzzfo.github.io/unity/store/flexalon-ui-layouts/"/>
+        <id>https://yzzfo.github.io/unity/store/flexalon-ui-layouts/</id>
+        
+        <content type="html" xml:base="https://yzzfo.github.io/unity/store/flexalon-ui-layouts/">&lt;p&gt;Create responsive UI for your game using two powerful layouts with built-in animations and interactions.&lt;&#x2F;p&gt;
+&lt;p &gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.flexalon.com&#x2F;&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;flexalon.com&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt;&lt;strong&gt; | &lt;&#x2F;strong&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.flexalon.com&#x2F;docs&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;文档 &lt;&#x2F;strong&gt;&lt;&#x2F;a&gt;&lt;strong&gt;| &lt;&#x2F;strong&gt;&lt;a href=&quot;https:&#x2F;&#x2F;discord.gg&#x2F;VM9cWJ9rjH&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;Discord&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+&lt;p &gt;&lt;strong&gt;Flexalon UI 布局 &lt;&#x2F;strong&gt;是 uGUI 布局组的替代品，提供了更多的控制和选项来构建您的 UI。布局是 &lt;strong&gt;响应式的，&lt;&#x2F;strong&gt;能够适应屏幕大小以及布局中的文本和图像。&lt;&#x2F;p&gt;
+&lt;ul&gt;&lt;li &gt;uGUI 水平&#x2F;垂直布局组 -&amp;gt; &lt;strong&gt;Flexalon 灵活布局&lt;&#x2F;strong&gt;&lt;&#x2F;li&gt;&lt;li &gt;uGUI 网格布局组 -&amp;gt; &lt;strong&gt;Flexalon 网格布局&lt;&#x2F;strong&gt;&lt;&#x2F;li&gt;&lt;&#x2F;ul&gt;
+&lt;p &gt;查看 &lt;a href=&quot;https:&#x2F;&#x2F;assetstore.unity.com&#x2F;packages&#x2F;tools&#x2F;utilities&#x2F;flexalon-3d-layouts-230509&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;Flexalon Pro: 3D &amp;amp; UI 布局&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt;&lt;strong&gt; &lt;&#x2F;strong&gt;以获取更多布局，包括圆形、曲线、形状等。&lt;&#x2F;p&gt;
+&lt;p &gt;&lt;strong&gt;用超能力设计&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
+&lt;p &gt;除了布局，Flexalon 还提供强大的内置 &lt;a href=&quot;https:&#x2F;&#x2F;www.flexalon.com&#x2F;docs&#x2F;animators&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;动画器&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt;&lt;strong&gt; &lt;&#x2F;strong&gt;和 &lt;a href=&quot;https:&#x2F;&#x2F;www.flexalon.com&#x2F;docs&#x2F;interactable&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;可交互元素&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt;，使您能够创建具有平滑交互的 UI，例如重新排序列表和在布局之间拖放。&lt;&#x2F;p&gt;
+&lt;p &gt;&lt;strong&gt;不是一个新的 UI 框架&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
+&lt;p &gt;Flexalon 扩展了内置的 uGUI 框架。Flexalon 不会破坏您现有的工作流程，并且没有任何依赖关系。Flexalon 仅编辑附加了 Flexalon 布局组件的对象。&lt;&#x2F;p&gt;
+&lt;p &gt;&lt;strong&gt;=== 特性 ===&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;br&gt;&lt;p &gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.flexalon.com&#x2F;docs&#x2F;flexalonObject&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;Flexalon 对象&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+&lt;ul&gt;&lt;li &gt;&lt;strong&gt;尺寸:&lt;&#x2F;strong&gt; 精确控制对象的宽度、高度和深度。&lt;&#x2F;li&gt;&lt;li &gt;&lt;strong&gt;填充与收缩:&lt;&#x2F;strong&gt; 自动调整对象和布局以适应可用空间。&lt;&#x2F;li&gt;&lt;li &gt;&lt;strong&gt;最小&#x2F;最大:&lt;&#x2F;strong&gt; 限制对象和布局的大小。&lt;&#x2F;li&gt;&lt;li &gt;&lt;strong&gt;边距和内边距:&lt;&#x2F;strong&gt; 在对象周围和布局内部添加空白空间。&lt;&#x2F;li&gt;&lt;&#x2F;ul&gt;
+&lt;p &gt;&lt;strong&gt;布局&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
+&lt;ul&gt;&lt;li &gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.flexalon.com&#x2F;flexibleLayout&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;灵活布局&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt;&lt;strong&gt;:&lt;&#x2F;strong&gt; 沿 x、y 或 z 轴线性堆叠子元素，支持可选的换行、对齐、间隙和收缩。想象一下 3D 中的 CSS Flexbox。&lt;&#x2F;li&gt;&lt;li &gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.flexalon.com&#x2F;gridLayout&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;3D 网格布局&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt;&lt;strong&gt;:&lt;&#x2F;strong&gt; 将对象排列在均匀间隔的行、列和层中，使用矩形或六边形单元格。&lt;&#x2F;li&gt;&lt;li &gt;查看 &lt;a href=&quot;https:&#x2F;&#x2F;assetstore.unity.com&#x2F;packages&#x2F;tools&#x2F;utilities&#x2F;flexalon-3d-layouts-230509&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;Flexalon Pro: 3D &amp;amp; UI 布局&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt;&lt;strong&gt; &lt;&#x2F;strong&gt;以获取更多布局，包括圆形、曲线、形状等。&lt;&#x2F;li&gt;&lt;&#x2F;ul&gt;
+&lt;p &gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.flexalon.com&#x2F;docs&#x2F;animators&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;动画器&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+&lt;ul&gt;&lt;li &gt;&lt;strong&gt;曲线动画器:&lt;&#x2F;strong&gt; 使用可调节的动画曲线在布局位置之间为对象添加动画。&lt;&#x2F;li&gt;&lt;li &gt;&lt;strong&gt;Lerp 动画器:&lt;&#x2F;strong&gt; 使用线性插值在布局位置之间为对象添加动画。&lt;&#x2F;li&gt;&lt;&#x2F;ul&gt;
+&lt;p &gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.flexalon.com&#x2F;docs&#x2F;interactable&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;点击和拖动&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+&lt;ul&gt;&lt;li &gt;&lt;strong&gt;Flexalon 可交互:&lt;&#x2F;strong&gt; 添加点击和拖动交互，允许用户在布局中添加、移除和重新排列对象。&lt;&#x2F;li&gt;&lt;&#x2F;ul&gt;&lt;br&gt;&lt;p &gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.flexalon.com&#x2F;docs&#x2F;cloner&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;数据绑定&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+&lt;ul&gt;&lt;li &gt;&lt;strong&gt;克隆器:&lt;&#x2F;strong&gt; 基于数据源自动生成对象&lt;&#x2F;li&gt;&lt;li &gt;&lt;strong&gt;数据绑定:&lt;&#x2F;strong&gt; 实现接口以从数据模型更新UI。&lt;&#x2F;li&gt;&lt;&#x2F;ul&gt;</content>
+        
+    </entry>
+    <entry xml:lang="zh">
+        <title>A* Pathfinding Project Pro</title>
+        <published>2024-11-29T21:15:47+00:00</published>
+        <updated>2024-11-30T13:15:32+00:00</updated>
+        
+        <author>
+          <name>
+            
+              yzzfo
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://yzzfo.github.io/unity/store/a-pathfinding-project-pro/"/>
+        <id>https://yzzfo.github.io/unity/store/a-pathfinding-project-pro/</id>
+        
+        <content type="html" xml:base="https://yzzfo.github.io/unity/store/a-pathfinding-project-pro/">&lt;p&gt;The A* Pathfinding Project is a powerful and easy to use pathfinding system for Unity. With blazing fast pathfinding your AIs will be able to find the player in complex mazes in no time at all.&lt;br&gt;&lt;em&gt;A* Pathfinding Project 是一个功能强大并且易于使用的 Unity 寻路系统。&lt;&#x2F;em&gt;通过快速的路径寻找，您的 AI 将立即在复杂的迷宫中找到玩家。&lt;br&gt;非常适合 TD、FPS、RTS 游戏。&lt;br&gt;&lt;br&gt;看看 &lt;a href=&quot;https:&#x2F;&#x2F;arongranberg.com&#x2F;2017&#x2F;04&#x2F;a-pathfinding-project-4-0-update&#x2F;&quot;&gt;4.0 版更新中有哪些新增内容&lt;&#x2F;a&gt;吧！&lt;br&gt;&lt;br&gt;&lt;em&gt;功能：&lt;&#x2F;em&gt;&lt;br&gt;支持网格、导航网格、点和六角形图。自动导航图形生成让你免于手动执行。完全多线程，因此几乎不会影响帧速率。使用光线投射、平滑和漏斗算法进行路径后处理。路径查找调用只需一行代码。可以将图形保存到文件里。在 XZ 平面和 XY 平面上均可局部回避。内含源代码。支持运行时更新图形。&lt;br&gt;&lt;br&gt;包含共 16 个示例场景帮助你入门。还有一份全面的在线文档，其中几乎记录了所有功能和变量。&lt;br&gt;&lt;br&gt;&lt;a href=&quot;http:&#x2F;&#x2F;arongranberg.com&#x2F;astar&#x2F;media&quot;&gt;网页播放器演示和视频&lt;&#x2F;a&gt;&lt;br&gt;&lt;a href=&quot;http:&#x2F;&#x2F;arongranberg.com&#x2F;astar&#x2F;&quot;&gt;这里有更多信息哦！&lt;&#x2F;a&gt;&lt;br&gt;&lt;a href=&quot;http:&#x2F;&#x2F;youtu.be&#x2F;hmx1sx6ezQA&quot;&gt;视频&lt;&#x2F;a&gt;&lt;br&gt;&lt;br&gt;&lt;&#x2F;p&gt;
+</content>
+        
+    </entry>
+</feed>

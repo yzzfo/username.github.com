@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh">
+    <title>yzzfo - RAM</title>
+    <subtitle>游戏开发学习资源分享</subtitle>
+    <link rel="self" type="application/atom+xml" href="https://yzzfo.github.io/tags/ram/atom.xml"/>
+    <link rel="alternate" type="text/html" href="https://yzzfo.github.io"/>
+    <generator uri="https://www.getzola.org/">Zola</generator>
+    <updated>2024-11-30T13:25:51+00:00</updated>
+    <id>https://yzzfo.github.io/tags/ram/atom.xml</id>
+    <entry xml:lang="zh">
+        <title>EasyPerformanceMonitor - 2024</title>
+        <published>2024-11-29T21:21:24+00:00</published>
+        <updated>2024-11-30T13:25:51+00:00</updated>
+        
+        <author>
+          <name>
+            
+              yzzfo
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://yzzfo.github.io/unity/store/easyperformancemonitor-2024/"/>
+        <id>https://yzzfo.github.io/unity/store/easyperformancemonitor-2024/</id>
+        
+        <content type="html" xml:base="https://yzzfo.github.io/unity/store/easyperformancemonitor-2024/">&lt;p&gt;EasyPerformanceMonitor 是一款专为 Unity3d 设计的游戏内性能监控工具。它可实时监控 FPS、CPU 使用率、GPU 使用率、内存使用率等基本指标。&lt;br&gt;&lt;p &gt;📄 &lt;a href=&quot;https:&#x2F;&#x2F;docs.guardingpearsoftware.com&#x2F;manual&#x2F;EasyPerformanceMonitor&#x2F;Description.html&quot; target=&quot;_blank&quot;&gt;文档&lt;&#x2F;a&gt; 💬 &lt;a href=&quot;https:&#x2F;&#x2F;forum.unity.com&#x2F;threads&#x2F;easyperformancemonitor-cpu-gpu-memory-in-game-monitoring.1490116&#x2F;&quot; target=&quot;_blank&quot;&gt;论坛&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;EasyPerformanceMonitor 是一款专为 Unity3d 设计的游戏内性能监控工具。通过实时监控 FPS、CPU 使用率、GPU 使用率、内存使用率等基本指标，EasyPerformanceMonitor 可帮助您优化应用程序和游戏性能。&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;&lt;strong&gt;⭐&lt;&#x2F;strong&gt;主要事实&lt;strong&gt;⭐&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;✔ 游戏内监控： 游戏内覆盖，让您随时更新。&lt;&#x2F;p&gt;&lt;p &gt;✔ 使用简单： 无需复杂设置或技术知识，即插即用。&lt;&#x2F;p&gt;&lt;p &gt;✔ 兼容性： 与所有 Unity3d 支持的目标平台集成。&lt;&#x2F;p&gt;&lt;p &gt;✔ 自定义数据扩展： 通过集成自定义数据扩展您的监控功能。&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;&lt;strong&gt;⭐&lt;&#x2F;strong&gt;集成&lt;strong&gt;⭐&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;无论目标平台如何，将 EasyPerformanceMonitor 集成到任何应用程序或游戏中都非常简单。只需将 EasyPerformanceMonitor 预制件添加到初始场景中，一切就绪。我们确保集成过程简单明了，让您可以专注于核心开发。&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;&lt;strong&gt;⭐&lt;&#x2F;strong&gt;平台&lt;strong&gt;⭐&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;Unity3d 支持的所有平台。包括 Mono 和 IL2CPP。&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;&lt;strong&gt;⭐&lt;&#x2F;strong&gt;说明&lt;strong&gt;⭐&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;EasyPerformanceMonitor 包含大量手册、脚本 API 参考文档和演示，可让您直接进行监控和优化！&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;&lt;a href=&quot;https:&#x2F;&#x2F;docs.guardingpearsoftware.com&#x2F;manual&#x2F;EasyPerformanceMonitor&#x2F;Description.html&quot; target=&quot;_blank&quot;&gt;文档&lt;&#x2F;a&gt; 和 &lt;a href=&quot;https:&#x2F;&#x2F;docs.guardingpearsoftware.com&#x2F;api&#x2F;EasyPerformanceMonitor&#x2F;GUPS.EasyPerformanceMonitor.html&quot; target=&quot;_blank&quot;&gt;脚本应用程序参考&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;&lt;strong&gt;⭐&lt;&#x2F;strong&gt;联系我们&lt;strong&gt;⭐&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;电子邮件：guardingpearsoftware@gmail.com&lt;&#x2F;p&gt;&lt;p &gt;网站：guardingpearsoftware.com&lt;&#x2F;p&gt;&lt;&#x2F;p&gt;
+</content>
+        
+    </entry>
+</feed>

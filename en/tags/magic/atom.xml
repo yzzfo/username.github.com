@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+    <title>yzzfo - Magic</title>
+    <subtitle>Game Development Learning Resources</subtitle>
+    <link rel="self" type="application/atom+xml" href="https://yzzfo.github.io/en/tags/magic/atom.xml"/>
+    <link rel="alternate" type="text/html" href="https://yzzfo.github.io"/>
+    <generator uri="https://www.getzola.org/">Zola</generator>
+    <updated>2024-12-07T11:37:24+00:00</updated>
+    <id>https://yzzfo.github.io/en/tags/magic/atom.xml</id>
+    <entry xml:lang="en">
+        <title>Pure Nature 2 : Mountains</title>
+        <published>2024-12-07T11:37:24+00:00</published>
+        <updated>2024-12-07T11:37:24+00:00</updated>
+        
+        <author>
+          <name>
+            
+              yzzfo
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://yzzfo.github.io/en/unity/store/pure-nature-2-mountains/"/>
+        <id>https://yzzfo.github.io/en/unity/store/pure-nature-2-mountains/</id>
+        
+        <content type="html" xml:base="https://yzzfo.github.io/en/unity/store/pure-nature-2-mountains/">&lt;p&gt;&lt;br&gt;&lt;p &gt;&lt;strong&gt;3D Stylized Nature Environment Assets&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;p &gt;Everything comes with prefabs - ready to be dropped in scene.&lt;&#x2F;p&gt;&lt;p &gt;&lt;strong&gt;&lt;em&gt;URP version included !&lt;&#x2F;em&gt;&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;&lt;strong&gt;This pack contains :&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;p &gt;&lt;strong&gt;Vegetation&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;p &gt;- Spruces&lt;&#x2F;p&gt;&lt;p &gt;- Pines&lt;&#x2F;p&gt;&lt;p &gt;- Firs&lt;&#x2F;p&gt;&lt;p &gt;- Bushes&lt;&#x2F;p&gt;&lt;p &gt;- Mushrooms&lt;&#x2F;p&gt;&lt;p &gt;- Grasses&lt;&#x2F;p&gt;&lt;p &gt;&lt;em&gt;Grass, Branchs, Ferns, various…&lt;&#x2F;em&gt;&lt;&#x2F;p&gt;&lt;p &gt;- Flowers&lt;&#x2F;p&gt;&lt;p &gt;&lt;em&gt;Berries, Carot, Daisy, Gorse, Lavender, Lupin, various…&lt;&#x2F;em&gt;&lt;&#x2F;p&gt;&lt;p &gt;- Mushrooms&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;&lt;strong&gt;Rocks&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;p &gt;- Cliffs&lt;&#x2F;p&gt;&lt;p &gt;- Boulders&lt;&#x2F;p&gt;&lt;p &gt;- Rocks &amp;amp; Pebbles&lt;&#x2F;p&gt;&lt;p &gt;- Mountains&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;&lt;strong&gt;Materials&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;p &gt;- Grass&lt;&#x2F;p&gt;&lt;p &gt;- Sand&lt;&#x2F;p&gt;&lt;p &gt;- Gravel&lt;&#x2F;p&gt;&lt;p &gt;- Mud&lt;&#x2F;p&gt;&lt;p &gt;- Grass&#x2F;Sand&lt;&#x2F;p&gt;&lt;p &gt;- Grass&#x2F;Gravel&lt;&#x2F;p&gt;&lt;p &gt;- Grass&#x2F;Mud&lt;&#x2F;p&gt;&lt;p &gt;- Water&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;&lt;strong&gt;Also includes :&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;p &gt;Demo scene with large terrain, forests, rivers, and canyon.&lt;&#x2F;p&gt;&lt;p &gt;Scene with all Prefabs and variants listed&lt;&#x2F;p&gt;&lt;p &gt;Environment Manager to control wind and grass render distance&lt;&#x2F;p&gt;&lt;p &gt;Preset for Post-Processing&lt;&#x2F;p&gt;&lt;p &gt;All prefabs have LODs&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;&lt;strong&gt;Custom shaders for :&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;p &gt;Grass (with wind and color variations)&lt;&#x2F;p&gt;&lt;p &gt;Trees (with wind and color variations)&lt;&#x2F;p&gt;&lt;p &gt;Rocks (with moss&#x2F;snow layer)&lt;&#x2F;p&gt;&lt;p &gt;Water (with depth fade, foam and refraction)&lt;&#x2F;p&gt;&lt;p &gt;Volumetric Clouds&lt;&#x2F;p&gt;&lt;p &gt;Impostors&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;- - -&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;&lt;em&gt;Demo scene is huge and may not suitable for mobile.&lt;&#x2F;em&gt;&lt;&#x2F;p&gt;&lt;p &gt;&lt;em&gt;A proper &lt;&#x2F;em&gt;&lt;strong&gt;&lt;em&gt;GPU instancing&lt;&#x2F;em&gt;&lt;&#x2F;strong&gt;&lt;em&gt; solution like &lt;&#x2F;em&gt;&lt;a href=&quot;https:&#x2F;&#x2F;assetstore.unity.com&#x2F;packages&#x2F;tools&#x2F;terrain&#x2F;nature-renderer-2022-266664&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;&lt;em&gt;Nature Renderer&lt;&#x2F;em&gt;&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt;&lt;em&gt; is recommended.&lt;&#x2F;em&gt;&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;&lt;strong&gt;&lt;em&gt;- &lt;&#x2F;em&gt;&lt;&#x2F;strong&gt;&lt;a href=&quot;https:&#x2F;&#x2F;assetstore.unity.com&#x2F;packages&#x2F;tools&#x2F;terrain&#x2F;biomes-and-presets-2-for-microverse-251773&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;&lt;em&gt;MicroVerse&lt;&#x2F;em&gt;&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt;&lt;em&gt; presets&lt;&#x2F;em&gt;&lt;&#x2F;p&gt;&lt;p &gt;&lt;strong&gt;&lt;em&gt;- &lt;&#x2F;em&gt;&lt;&#x2F;strong&gt;&lt;a href=&quot;https:&#x2F;&#x2F;assetstore.unity.com&#x2F;packages&#x2F;tools&#x2F;terrain&#x2F;gaia-biomes-spawner-pack-bk-296372&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;&lt;em&gt;Gaia Spawner &lt;&#x2F;em&gt;&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt;&lt;em&gt;presets&lt;&#x2F;em&gt;&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;&lt;em&gt;A &lt;&#x2F;em&gt;&lt;strong&gt;&lt;em&gt;Readme&lt;&#x2F;em&gt;&lt;&#x2F;strong&gt;&lt;em&gt; file is available for setup &amp;amp; details.&lt;&#x2F;em&gt;&lt;&#x2F;p&gt;&lt;p &gt;&lt;em&gt;Join the &lt;&#x2F;em&gt;&lt;a href=&quot;https:&#x2F;&#x2F;discord.gg&#x2F;GqHvc9xQXp&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;&lt;em&gt;Discord&lt;&#x2F;em&gt;&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt;&lt;em&gt; for support or any question.&lt;&#x2F;em&gt;&lt;&#x2F;p&gt;&lt;&#x2F;p&gt;
+</content>
+        
+    </entry>
+    <entry xml:lang="en">
+        <title>HEROIC FANTASY CREATURES FULL PACK Volume 2</title>
+        <published>2024-12-06T14:28:42+00:00</published>
+        <updated>2024-12-06T14:28:42+00:00</updated>
+        
+        <author>
+          <name>
+            
+              yzzfo
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://yzzfo.github.io/en/unity/store/heroic-fantasy-creatures-full-pack-volume-2/"/>
+        <id>https://yzzfo.github.io/en/unity/store/heroic-fantasy-creatures-full-pack-volume-2/</id>
+        
+        <content type="html" xml:base="https://yzzfo.github.io/en/unity/store/heroic-fantasy-creatures-full-pack-volume-2/">&lt;p&gt;&lt;br&gt;Here is the second volume of the HEROIC FANTASY CREATURES. This pack  includes 30 creatures: Asian Black Dragon, Automate, Barghest, Basilisk, Centaur, dark elf, dwelf (hobbit), Giant Monster Bat, Darkness Warlord, Death Skull, Crasc, giant beetle, giant crab, giant scorpion, gnome, gorgon, hellrot, hippogriff, kraken, lacodon, minotaur, gargoyle, fungoid, dwarfs, phoneix, volcrate, undertaker, Cerberus, witch, unicorn &amp;amp; pegazus.&lt;br&gt;&lt;br&gt;&lt;em&gt;&lt;strong&gt;The pack only uses Standard Built-In shaders from the Built-In pipeline. This means you can easily upgrade the materials in a couple of clicks  to either URP or HDRP by using the Upgrader Tool of the SRP of your choice!&lt;&#x2F;strong&gt;&lt;&#x2F;em&gt;&lt;&#x2F;p&gt;
+</content>
+        
+    </entry>
+    <entry xml:lang="en">
+        <title>HEROIC FANTASY CREATURES FULL PACK Volume 1</title>
+        <published>2024-12-06T14:28:30+00:00</published>
+        <updated>2024-12-06T14:28:30+00:00</updated>
+        
+        <author>
+          <name>
+            
+              yzzfo
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://yzzfo.github.io/en/unity/store/heroic-fantasy-creatures-full-pack-volume-1/"/>
+        <id>https://yzzfo.github.io/en/unity/store/heroic-fantasy-creatures-full-pack-volume-1/</id>
+        
+        <content type="html" xml:base="https://yzzfo.github.io/en/unity/store/heroic-fantasy-creatures-full-pack-volume-1/">&lt;p&gt;&lt;br&gt;30 heroic fantasy creatures in this pack! It gathers the living dead pack, demonic creatures pack, must have fantasy villains pack, fantasy lizards pack, fantasy animals pack and the mythological creatures pack.&lt;em&gt;&lt;strong&gt;The pack only uses Standard Built-In shaders from the Built-In pipeline. This means you can easily upgrade the materials in a couple of clicks  to either URP or HDRP by using the Upgrader Tool of the SRP of your choice!&lt;&#x2F;strong&gt;&lt;&#x2F;em&gt;&lt;&#x2F;p&gt;
+</content>
+        
+    </entry>
+    <entry xml:lang="en">
+        <title>Battle Sound Library - Magic &amp; Melee - Fantasy RPG</title>
+        <published>2024-12-06T14:26:09+00:00</published>
+        <updated>2024-12-06T14:26:09+00:00</updated>
+        
+        <author>
+          <name>
+            
+              yzzfo
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://yzzfo.github.io/en/unity/store/battle-sound-library-magic-melee-fantasy-rpg/"/>
+        <id>https://yzzfo.github.io/en/unity/store/battle-sound-library-magic-melee-fantasy-rpg/</id>
+        
+        <content type="html" xml:base="https://yzzfo.github.io/en/unity/store/battle-sound-library-magic-melee-fantasy-rpg/">&lt;p&gt;Hundreds of sound clips, and thousands upon thousands of mixes. Create custom combined sounds with the easy to use &quot;Audio Clip Combiner&quot;, and create the perfect soundscape for your project&lt;br&gt;&lt;p &gt;--------------------------------------------------&lt;&#x2F;p&gt;&lt;p &gt;&lt;strong&gt;Support, Questions, News &amp;amp; Updates&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;p &gt;➡️ &lt;a href=&quot;https:&#x2F;&#x2F;discord.gg&#x2F;uf3QPF&quot; target=&quot;_blank&quot;&gt;Discord&lt;&#x2F;a&gt; | &lt;a href=&quot;https:&#x2F;&#x2F;infinitypbr.gitbook.io&#x2F;infinity-pbr&#x2F;audio-clip-combiner&quot; target=&quot;_blank&quot;&gt;Tutorials&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;&lt;p &gt;--------------------------------------------------&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;&lt;strong&gt;Magic &amp;amp; Melee Customizable Sound Library&lt;&#x2F;strong&gt; has been designed with customization and randomization in mind. Mix and match the component sounds, and you can have thousands of unique sounds.&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;Combine clips randomly at runtime, or export them with a single click and select your favorite combinations.&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;&lt;strong&gt;&lt;em&gt;Includes &lt;&#x2F;em&gt;&lt;&#x2F;strong&gt;&lt;a href=&quot;https:&#x2F;&#x2F;assetstore.unity.com&#x2F;packages&#x2F;slug&#x2F;232612&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;&lt;em&gt;Audio Clip Combiner&lt;&#x2F;em&gt;&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt;&lt;strong&gt;&lt;em&gt; tool!&lt;&#x2F;em&gt;&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;&lt;strong&gt;Updated&lt;&#x2F;strong&gt;: Audio Clip Combiner now has a &quot;Play Random Sample&quot; button to sample sounds prior to exporting, during edit time. There is also a &quot;Folder&quot; upload -- select a folder and all of it&#x27;s clips will be added to the layer.&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;Or, create a new Audio Clip Combiner object, and select a parent folder and each sub-folder with audio will be added as a new layer.&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;🔮&lt;strong&gt;&lt;em&gt;Magic&lt;&#x2F;em&gt;&lt;&#x2F;strong&gt;🧞&lt;&#x2F;p&gt;&lt;p &gt;Air, Earth, Electric, Evil&#x2F;Dark, Fire, Holy&#x2F;Light, Ice, Poison, and Water magic includes multiple explosions, hits, warmups both long and short.&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;Combine these with generic buffs, hums and pulses, spell fizzles and fails, and more to create a huge array of magic sounds to that fit your spells.&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;⚔️&lt;strong&gt;&lt;em&gt;Melee&lt;&#x2F;em&gt;&lt;&#x2F;strong&gt;🛡&lt;&#x2F;p&gt;&lt;p &gt;Create combinations of weapon types and damage types: Flesh, Metal &amp;amp; Wood targets. Weapons include Axe, Bow &amp;amp; Arrow, Club, Fist, Shield, Sword.&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;Each group has 125 combinations based on the multiple weapon, target, and impact sounds.&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;⚔️🔮 &lt;strong&gt;&lt;em&gt;Magical Weapons&lt;&#x2F;em&gt;&lt;&#x2F;strong&gt;🧞🛡&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;Combine the Magic &amp;amp; Melee sounds together to create even more sounds like &quot;Fire Sword&quot; or &quot;Dark Club&quot;.&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;&lt;strong&gt;500+ Clips&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;p &gt;&lt;em&gt;Hundreds of thousands of possibilities&lt;&#x2F;em&gt;&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;The Library starts with about &lt;strong&gt;500 individual clips&lt;&#x2F;strong&gt;. This grows to hundreds of thousands when you start mixing and matching. You can even mix audio from other packages together to create unique sounds no other game has.&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;--------------------------------------&lt;&#x2F;p&gt;&lt;p &gt;Check out more info &amp;amp; all of our models at &lt;a href=&quot;http:&#x2F;&#x2F;www.infinitypbr.com&#x2F;&quot; target=&quot;_blank&quot;&gt;InfinityPBR.com&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;&lt;p &gt;--------------------------------------&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;&lt;strong&gt;If you do purchase this package, thank you very much!  Please leave a rating and review so others can find out what&#x27;s what about it!  If you have any problems, requests or anything else, &lt;&#x2F;strong&gt;&lt;a href=&quot;https:&#x2F;&#x2F;forum.unity3d.com&#x2F;threads&#x2F;infinity-series-works-in-progress-mega-thread.408430&#x2F;&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;visit me at the forums.&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;&lt;&#x2F;p&gt;
+</content>
+        
+    </entry>
+    <entry xml:lang="en">
+        <title>Variety FX 2.0</title>
+        <published>2024-12-03T00:46:20+00:00</published>
+        <updated>2024-12-03T00:46:20+00:00</updated>
+        
+        <author>
+          <name>
+            
+              yzzfo
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://yzzfo.github.io/en/unity/store/variety-fx-2-0/"/>
+        <id>https://yzzfo.github.io/en/unity/store/variety-fx-2-0/</id>
+        
+        <content type="html" xml:base="https://yzzfo.github.io/en/unity/store/variety-fx-2-0/">&lt;p&gt;Variety FX is an extensive set of environmental particle effects that can easily add atmosphere to your scene.&lt;br&gt;&lt;p &gt;Variety FX features a total of &lt;strong&gt;273 effects&lt;&#x2F;strong&gt; split between 4 main categories and 24 sub-categories to make them easy to locate in the project folder.&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;The included effects are suitable for stylized or realistic projects and can fit multiple game genres, including survival, horror, action and adventure games.&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;Most effects can be recolored easily via the particle system, or already have pre-made colors to drag &amp;amp; drop into your scene. They are also easily scaled through changing the Transform values.&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;While the asset is focused on environment effects, it also includes some common combat effects such as explosions, blood and magic.&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;&lt;a href=&quot;http:&#x2F;&#x2F;bit.ly&#x2F;2cQryoI&quot; target=&quot;_blank&quot;&gt;WebGL Demo&lt;&#x2F;a&gt; • &lt;a href=&quot;http:&#x2F;&#x2F;bit.ly&#x2F;1F4wCu5&quot; target=&quot;_blank&quot;&gt;Forum&lt;&#x2F;a&gt; • &lt;a href=&quot;https:&#x2F;&#x2F;archanor.com&#x2F;support.html&quot; target=&quot;_blank&quot;&gt;Support&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;All 19 demo scenes as seen in the video&#x2F;screenshots are included.&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;&lt;strong&gt;Artificial Effects&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;ul&gt;&lt;li &gt;Explosions&lt;&#x2F;li&gt;&lt;li &gt;Fireworks&lt;&#x2F;li&gt;&lt;li &gt;Flares&lt;&#x2F;li&gt;&lt;li &gt;Magic&lt;&#x2F;li&gt;&lt;li &gt;Sparks&lt;&#x2F;li&gt;&lt;&#x2F;ul&gt;&lt;&#x2F;br&gt;&lt;p &gt;&lt;strong&gt;Ground Effects&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;ul&gt;&lt;li &gt;Dust&lt;&#x2F;li&gt;&lt;li &gt;Fire&lt;&#x2F;li&gt;&lt;li &gt;Fog&lt;&#x2F;li&gt;&lt;li &gt;Insects&lt;&#x2F;li&gt;&lt;li &gt;Leaves&lt;&#x2F;li&gt;&lt;li &gt;Lightning&lt;&#x2F;li&gt;&lt;li &gt;Liquids&lt;&#x2F;li&gt;&lt;li &gt;Rocks&lt;&#x2F;li&gt;&lt;li &gt;Sand&lt;&#x2F;li&gt;&lt;li &gt;Smoke&lt;&#x2F;li&gt;&lt;li &gt;Sparkle&lt;&#x2F;li&gt;&lt;li &gt;Steam&lt;&#x2F;li&gt;&lt;&#x2F;ul&gt;&lt;&#x2F;br&gt;&lt;p &gt;&lt;strong&gt;Sky Effects&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;ul&gt;&lt;li &gt;Aurora&lt;&#x2F;li&gt;&lt;li &gt;Clouds&lt;&#x2F;li&gt;&lt;li &gt;Godrays&lt;&#x2F;li&gt;&lt;li &gt;Stars&lt;&#x2F;li&gt;&lt;li &gt;Weather&lt;&#x2F;li&gt;&lt;&#x2F;ul&gt;&lt;&#x2F;br&gt;&lt;p &gt;&lt;strong&gt;Underwater Effects&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;ul&gt;&lt;li &gt;Bubbles&lt;&#x2F;li&gt;&lt;li &gt;Fish&lt;&#x2F;li&gt;&lt;&#x2F;ul&gt;&lt;&#x2F;p&gt;
+</content>
+        
+    </entry>
+    <entry xml:lang="en">
+        <title>Pure Nature</title>
+        <published>2024-11-29T21:22:21+00:00</published>
+        <updated>2024-12-02T21:58:29+00:00</updated>
+        
+        <author>
+          <name>
+            
+              yzzfo
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://yzzfo.github.io/en/unity/store/pure-nature/"/>
+        <id>https://yzzfo.github.io/en/unity/store/pure-nature/</id>
+        
+        <content type="html" xml:base="https://yzzfo.github.io/en/unity/store/pure-nature/">&lt;p&gt;&lt;br&gt;&lt;p &gt;&lt;strong&gt;3D Stylized Nature Environment Assets&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;p &gt;Everything comes with prefabs - ready to be dropped in scene.&lt;&#x2F;p&gt;&lt;p &gt;&lt;strong&gt;&lt;em&gt;URP version included !&lt;&#x2F;em&gt;&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;&lt;strong&gt;This pack contains :&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;&lt;strong&gt;Vegetation&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;p &gt;- Birchs&lt;&#x2F;p&gt;&lt;p &gt;- Oaks&lt;&#x2F;p&gt;&lt;p &gt;- Pines&lt;&#x2F;p&gt;&lt;p &gt;- Snowy pines&lt;&#x2F;p&gt;&lt;p &gt;- Dead trees&lt;&#x2F;p&gt;&lt;p &gt;- Bushes&lt;&#x2F;p&gt;&lt;p &gt;- Mushrooms&lt;&#x2F;p&gt;&lt;p &gt;- Ivies&lt;&#x2F;p&gt;&lt;p &gt;- Flowers and grass&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;&lt;strong&gt;Rocks&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;p &gt;- Cliffs&lt;&#x2F;p&gt;&lt;p &gt;- Boulders&lt;&#x2F;p&gt;&lt;p &gt;- Rocks&lt;&#x2F;p&gt;&lt;p &gt;- Modular Rocks&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;&lt;strong&gt;Props&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;p &gt;- Ruins&lt;&#x2F;p&gt;&lt;p &gt;- Waterfalls&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;&lt;strong&gt;Materials&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;p &gt;- Grass&lt;&#x2F;p&gt;&lt;p &gt;- Grass&#x2F;Sand&lt;&#x2F;p&gt;&lt;p &gt;- Grass&#x2F;Mud&lt;&#x2F;p&gt;&lt;p &gt;- Sand&lt;&#x2F;p&gt;&lt;p &gt;- Sand beach&lt;&#x2F;p&gt;&lt;p &gt;- Sand pebbles&lt;&#x2F;p&gt;&lt;p &gt;- Mud&lt;&#x2F;p&gt;&lt;p &gt;- Snow&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;&lt;strong&gt;Also includes :&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;Demo scene&lt;&#x2F;p&gt;&lt;p &gt;Scene with all Prefabs and variants listed&lt;&#x2F;p&gt;&lt;p &gt;Empty scene with terrain ready to be painted and populated&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;Environment Manager to control wind and grass render distance&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;Presets for day, night, sunset, overcast, storm...&lt;&#x2F;p&gt;&lt;p &gt;Preset for Post-Processing Stack&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;Most prefabs have LODs&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;&lt;strong&gt;Custom shaders for :&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;p &gt;Grass with wind and color variations&lt;&#x2F;p&gt;&lt;p &gt;Trees with wind and color variations&lt;&#x2F;p&gt;&lt;p &gt;Rocks with moss&#x2F;snow layer&lt;&#x2F;p&gt;&lt;p &gt;Water with depth fade, foam and refraction&lt;&#x2F;p&gt;&lt;p &gt;Volumetric Clouds&lt;&#x2F;p&gt;&lt;p &gt;Billboards&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;- - -&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;&lt;em&gt;Demo scene is huge and may not suitable for mobile.&lt;&#x2F;em&gt;&lt;&#x2F;p&gt;&lt;p &gt;&lt;em&gt;A proper &lt;&#x2F;em&gt;&lt;strong&gt;&lt;em&gt;GPU instancing&lt;&#x2F;em&gt;&lt;&#x2F;strong&gt;&lt;em&gt; solution like &lt;&#x2F;em&gt;&lt;a href=&quot;http:&#x2F;&#x2F;assetstore.unity.com&#x2F;packages&#x2F;tools&#x2F;utilities&#x2F;the-vegetation-engine-159647&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;&lt;em&gt;Vegetation Engine&lt;&#x2F;em&gt;&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt;&lt;em&gt; is recommended.&lt;&#x2F;em&gt;&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;&lt;em&gt;A &lt;&#x2F;em&gt;&lt;strong&gt;&lt;em&gt;Readme&lt;&#x2F;em&gt;&lt;&#x2F;strong&gt;&lt;em&gt; file is available for setup &amp;amp; details.&lt;&#x2F;em&gt;&lt;&#x2F;p&gt;&lt;p &gt;&lt;em&gt;Join the &lt;&#x2F;em&gt;&lt;a href=&quot;https:&#x2F;&#x2F;discord.gg&#x2F;GqHvc9xQXp&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;&lt;em&gt;Discord&lt;&#x2F;em&gt;&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt;&lt;em&gt; for support or any question.&lt;&#x2F;em&gt;&lt;&#x2F;p&gt;&lt;&#x2F;p&gt;
+</content>
+        
+    </entry>
+    <entry xml:lang="en">
+        <title>Character Auras</title>
+        <published>2024-11-29T21:20:26+00:00</published>
+        <updated>2024-11-30T13:24:28+00:00</updated>
+        
+        <author>
+          <name>
+            
+              yzzfo
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://yzzfo.github.io/en/unity/store/character-auras/"/>
+        <id>https://yzzfo.github.io/en/unity/store/character-auras/</id>
+        
+        <content type="html" xml:base="https://yzzfo.github.io/en/unity/store/character-auras/">&lt;p&gt;15 amazing character aura effects!&lt;br&gt;&lt;p &gt;The pack contains &lt;strong&gt;15&lt;&#x2F;strong&gt; amazing aura effects:&lt;&#x2F;p&gt;&lt;ul&gt;&lt;li &gt;Water aura&lt;&#x2F;li&gt;&lt;li &gt;White aura&lt;&#x2F;li&gt;&lt;li &gt;Soap ayra&lt;&#x2F;li&gt;&lt;li &gt;Smoke aura&lt;&#x2F;li&gt;&lt;li &gt;Sleep aura&lt;&#x2F;li&gt;&lt;li &gt;Shine aura&lt;&#x2F;li&gt;&lt;li &gt;Meteor aura&lt;&#x2F;li&gt;&lt;li &gt;Lightning aura&lt;&#x2F;li&gt;&lt;li &gt;Healing aura&lt;&#x2F;li&gt;&lt;li &gt;Gold aura&lt;&#x2F;li&gt;&lt;li &gt;Freeze aura&lt;&#x2F;li&gt;&lt;li &gt;Fire ayra&lt;&#x2F;li&gt;&lt;li &gt;Darkness aura&lt;&#x2F;li&gt;&lt;li &gt;Blood aura&lt;&#x2F;li&gt;&lt;li &gt;Acid aura&lt;&#x2F;li&gt;&lt;&#x2F;ul&gt;&lt;p &gt;All prefabs are game ready, just take and drop them into your game!&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;Supports built-in render by default. &lt;strong&gt;HDRP and URP are supported using &lt;&#x2F;strong&gt;&lt;a href=&quot;https:&#x2F;&#x2F;assetstore.unity.com&#x2F;packages&#x2F;tools&#x2F;utilities&#x2F;support-package-for-hovl-studio-assets-157764&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;this&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt;&lt;strong&gt; FREE package for Unity 2021 or below. &lt;&#x2F;strong&gt;It becomes free after purchasing one of my assets.&lt;&#x2F;p&gt;&lt;p &gt;&lt;strong&gt;URP&#x2F;HDRP is default from Unity 2022 or Unity 6+&lt;&#x2F;strong&gt;. Shader Graph is required which is installed together with this asset. Can be changed to built-in render.&lt;&#x2F;p&gt;&lt;p &gt;&lt;strong&gt;All platforms supported!&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;&lt;strong&gt;These are not mesh effects! All effects are just simple looped particles system!&lt;&#x2F;strong&gt; Promo media (videos, images) uses post process &quot;Bloom&quot; from the Volume component.&lt;&#x2F;p&gt;&lt;p &gt;Contact me if you have any problems or questions. Contact methods on the profile page.&lt;&#x2F;p&gt;&lt;&#x2F;p&gt;
+</content>
+        
+    </entry>
+    <entry xml:lang="en">
+        <title>Mesh Effects</title>
+        <published>2024-11-29T21:19:19+00:00</published>
+        <updated>2024-11-30T13:23:02+00:00</updated>
+        
+        <author>
+          <name>
+            
+              yzzfo
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://yzzfo.github.io/en/unity/store/mesh-effects/"/>
+        <id>https://yzzfo.github.io/en/unity/store/mesh-effects/</id>
+        
+        <content type="html" xml:base="https://yzzfo.github.io/en/unity/store/mesh-effects/">&lt;p&gt;&lt;br&gt;&lt;p &gt;Supported mobile platforms, VR, URP (10x+) and HDRP (10x+) rendering&lt;&#x2F;p&gt;&lt;p &gt;(does not work with 2D sprites)&lt;&#x2F;p&gt;&lt;p &gt;&lt;strong&gt;Note&lt;&#x2F;strong&gt;: Uninstall the old version of the package before upgrading.&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;&lt;a href=&quot;http:&#x2F;&#x2F;kripto289.com&#x2F;AssetStore&#x2F;WeaponFX&#x2F;1.4&#x2F;PC.zip&quot; target=&quot;_blank&quot;&gt;PC Demo&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;&lt;p &gt;&lt;a href=&quot;http:&#x2F;&#x2F;kripto289.com&#x2F;AssetStore&#x2F;WeaponFX&#x2F;1.4&#x2F;MeshEffectsDemo.apk&quot; target=&quot;_blank&quot;&gt;Mobile Demo&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;- Works out of the box (just drag and drop)&lt;&#x2F;p&gt;&lt;p &gt;- Any color in one click&lt;&#x2F;p&gt;&lt;p &gt;- Effects scale relative to a real mesh size&lt;&#x2F;p&gt;&lt;p &gt;- Works with a &quot;mesh renderer&quot; and a &quot;skinned mesh renderer&quot;&lt;&#x2F;p&gt;&lt;p &gt;- The demo scene includes (animations&#x2F;characters&#x2F;weapons&#x2F;environment)&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;&#x2F;br&gt;&lt;p &gt;&lt;a href=&quot;https:&#x2F;&#x2F;discord.gg&#x2F;GUUZ9D96Uq&quot; target=&quot;_blank&quot;&gt;Discord channel&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;&lt;p &gt;email: kripto289@gmail.com&lt;&#x2F;p&gt;&lt;&#x2F;p&gt;
+</content>
+        
+    </entry>
+    <entry xml:lang="en">
+        <title>Unique Projectiles Volume 1</title>
+        <published>2024-11-29T21:17:03+00:00</published>
+        <updated>2024-11-30T13:17:38+00:00</updated>
+        
+        <author>
+          <name>
+            
+              yzzfo
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://yzzfo.github.io/en/unity/store/unique-projectiles-volume-1/"/>
+        <id>https://yzzfo.github.io/en/unity/store/unique-projectiles-volume-1/</id>
+        
+        <content type="html" xml:base="https://yzzfo.github.io/en/unity/store/unique-projectiles-volume-1/">&lt;p&gt;&lt;br&gt;&lt;p &gt;&lt;strong&gt;30 Stylized Projectiles&lt;&#x2F;strong&gt; that includes Spells, Bullets, Fireballs, Dark Magic, Arrows and much more. They are fantastic for PC and Mobile, and for a variety of genres and art styles.&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;Part of the: &lt;a href=&quot;https:&#x2F;&#x2F;assetstore.unity.com&#x2F;packages&#x2F;slug&#x2F;229041&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;Unique Projectiles - Mega Pack - Vol. 1&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;There&#x27;s more: &lt;a href=&quot;https:&#x2F;&#x2F;assetstore.unity.com&#x2F;packages&#x2F;vfx&#x2F;particles&#x2F;unique-projectiles-vol-2-156067&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;Unique Projectiles Vol.2&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt;&lt;strong&gt; &lt;&#x2F;strong&gt;&amp;amp;&lt;strong&gt; &lt;&#x2F;strong&gt;&lt;a href=&quot;https:&#x2F;&#x2F;assetstore.unity.com&#x2F;packages&#x2F;vfx&#x2F;unique-projectiles-vol-3-212619&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;Unique Projectiles Vol.3&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;&#x2F;br&gt;&lt;p &gt;&lt;a href=&quot;https:&#x2F;&#x2F;gabrielaguiarprod.itch.io&#x2F;unique-projectiles-vol1&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;WebGL Demo&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;&#x2F;br&gt;&lt;p &gt;This package contains:&lt;&#x2F;p&gt;&lt;p &gt;- &lt;strong&gt;30 Projectiles&lt;&#x2F;strong&gt; Prefabs;&lt;&#x2F;p&gt;&lt;p &gt;- &lt;strong&gt;30 Hits&#x2F;Impacts&lt;&#x2F;strong&gt; Prefabs;&lt;&#x2F;p&gt;&lt;p &gt;- &lt;strong&gt;26 Muzzles&lt;&#x2F;strong&gt; Prefabs;&lt;&#x2F;p&gt;&lt;p &gt;- &lt;strong&gt;PC Demo&lt;&#x2F;strong&gt;;&lt;&#x2F;p&gt;&lt;p &gt;- &lt;strong&gt;Mobile Demo&lt;&#x2F;strong&gt;;&lt;&#x2F;p&gt;&lt;p &gt;- &lt;strong&gt;2D Demo&lt;&#x2F;strong&gt;;&lt;&#x2F;p&gt;&lt;p &gt;- &lt;strong&gt;Customizable Shaders&lt;&#x2F;strong&gt;;&lt;&#x2F;p&gt;&lt;p &gt;- &lt;strong&gt;Particle System Controller Script&lt;&#x2F;strong&gt; (control size, speed, color, etc);&lt;&#x2F;p&gt;&lt;p &gt;- &lt;strong&gt;HDRP&lt;&#x2F;strong&gt;, &lt;strong&gt;URP&lt;&#x2F;strong&gt; and &lt;strong&gt;SRP &lt;&#x2F;strong&gt;supported;&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;&#x2F;br&gt;&lt;p &gt;Combine Projectiles with different Hits&#x2F;Impacts or with different Muzzles, it&#x27;s up to your imagination.&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;Effects are optimized and they can be easily resized, retimed and recolored.&lt;&#x2F;p&gt;&lt;p &gt;Feel free to contact me if you have any doubts.&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;Works with &lt;a href=&quot;https:&#x2F;&#x2F;assetstore.unity.com&#x2F;packages&#x2F;vfx&#x2F;particles&#x2F;projectile-factory-for-unique-projectiles-vol-1-by-gabriel-aguia-289880&quot; target=&quot;_blank&quot;&gt;Projectile Factory&lt;&#x2F;a&gt; by &lt;a href=&quot;https:&#x2F;&#x2F;assetstore.unity.com&#x2F;publishers&#x2F;4645&quot; target=&quot;_blank&quot;&gt;InfinityPBR&lt;&#x2F;a&gt;.&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;&#x2F;br&gt;&lt;p &gt;More VFX Packages:&lt;&#x2F;p&gt;&lt;p &gt;- &lt;a href=&quot;https:&#x2F;&#x2F;assetstore.unity.com&#x2F;packages&#x2F;vfx&#x2F;particles&#x2F;unique-projectiles-vol-2-156067&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;Unique Projectiles Vol.2&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;&lt;p &gt;-&lt;strong&gt; &lt;&#x2F;strong&gt;&lt;a href=&quot;https:&#x2F;&#x2F;assetstore.unity.com&#x2F;packages&#x2F;vfx&#x2F;unique-projectiles-vol-3-212619&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;Unique Projectiles Vol.3&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;&lt;p &gt;- &lt;a href=&quot;https:&#x2F;&#x2F;assetstore.unity.com&#x2F;packages&#x2F;vfx&#x2F;particles&#x2F;unique-toon-projectiles-vol-1-139417&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;Unique Toon Projectiles Vol.1&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;&lt;p &gt;- &lt;a href=&quot;https:&#x2F;&#x2F;assetstore.unity.com&#x2F;packages&#x2F;vfx&#x2F;particles&#x2F;unique-aoe-magic-abilities-volume-1-132947&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;Unique AoE Magic Abilities Vol.1&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;&lt;p &gt;- &lt;a href=&quot;https:&#x2F;&#x2F;assetstore.unity.com&#x2F;packages&#x2F;vfx&#x2F;particles&#x2F;unique-lasers-volume-1-118909&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;Unique Lasers Vol.1&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;&lt;p &gt;- &lt;a href=&quot;https:&#x2F;&#x2F;assetstore.unity.com&#x2F;packages&#x2F;vfx&#x2F;particles&#x2F;unique-explosions-volume-1-98839&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;Unique Explosions Vol.1&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;&lt;p &gt;-&lt;a href=&quot;https:&#x2F;&#x2F;assetstore.unity.com&#x2F;packages&#x2F;vfx&#x2F;particles&#x2F;vfx-graph-project-thunderlord-194534&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt; VFX Graph Project - Thunderlord&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;&#x2F;br&gt;&lt;p &gt;Socials:&lt;&#x2F;p&gt;&lt;p &gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.youtube.com&#x2F;c&#x2F;gabrielaguiarprod&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;YOUTUBE&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt;&lt;strong&gt; | &lt;&#x2F;strong&gt;&lt;a href=&quot;https:&#x2F;&#x2F;twitter.com&#x2F;GabrielAguiarFX&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;TWITTER &lt;&#x2F;strong&gt;&lt;&#x2F;a&gt;&lt;strong&gt;| &lt;&#x2F;strong&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.facebook.com&#x2F;gabrielaguiarprod&#x2F;&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;FACEBOOK &lt;&#x2F;strong&gt;&lt;&#x2F;a&gt;&lt;strong&gt;| &lt;&#x2F;strong&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.instagram.com&#x2F;gabrielaguiarvfx&#x2F;&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;INSTAGRAM &lt;&#x2F;strong&gt;&lt;&#x2F;a&gt;&lt;strong&gt;| &lt;&#x2F;strong&gt;&lt;a href=&quot;https:&#x2F;&#x2F;discord.gg&#x2F;AN7CrC3Qbb&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;DISCORD&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;&lt;&#x2F;p&gt;
+</content>
+        
+    </entry>
+</feed>

@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh">
+    <title>yzzfo - Cartoon</title>
+    <subtitle>游戏开发学习资源分享</subtitle>
+    <link rel="self" type="application/atom+xml" href="https://yzzfo.github.io/tags/cartoon/atom.xml"/>
+    <link rel="alternate" type="text/html" href="https://yzzfo.github.io"/>
+    <generator uri="https://www.getzola.org/">Zola</generator>
+    <updated>2024-12-06T14:29:51+00:00</updated>
+    <id>https://yzzfo.github.io/tags/cartoon/atom.xml</id>
+    <entry xml:lang="zh">
+        <title>POLYGON Modular Fantasy Hero Characters - Low Poly 3D Art by Synty</title>
+        <published>2024-12-06T14:29:51+00:00</published>
+        <updated>2024-12-06T14:29:51+00:00</updated>
+        
+        <author>
+          <name>
+            
+              yzzfo
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://yzzfo.github.io/unity/store/polygon-modular-fantasy-hero-characters-low-poly-3d-art-by-synty/"/>
+        <id>https://yzzfo.github.io/unity/store/polygon-modular-fantasy-hero-characters-low-poly-3d-art-by-synty/</id>
+        
+        <content type="html" xml:base="https://yzzfo.github.io/unity/store/polygon-modular-fantasy-hero-characters-low-poly-3d-art-by-synty/">&lt;p&gt;&lt;br&gt;🔔 &lt;STRONG&gt;SYNTY STUDIOS 公告 🔔&lt;BR&gt;&lt;a href=&quot;https:&#x2F;&#x2F;assetstore.unity.com&#x2F;packages&#x2F;3d&#x2F;environments&#x2F;fantasy&#x2F;polygon-fantasy-kingdom-164532&quot;&gt;POLYGON - 幻想王国&lt;&#x2F;a&gt; - 现已推出！&lt;&#x2F;STRONG&gt;&lt;BR&gt;&lt;BR&gt;&lt;STRONG&gt; &lt;a href=&quot;https:&#x2F;&#x2F;assetstore.unity.com&#x2F;publishers&#x2F;5217&quot;&gt;Synty Studios™&lt;&#x2F;a&gt; presents -&lt;BR&gt;POLYGON - 模块化幻想英雄角色&lt;BR&gt;&lt;&#x2F;STRONG&gt;一个低多边形模块化角色资源包，为您的幻想游戏创建角色，也可制作角色创建器供玩家创建自己的英雄。&lt;BR&gt;&lt;BR&gt;&lt;p&gt;◼ &lt;STRONG&gt;主要特点&lt;&#x2F;STRONG&gt; ◼&lt;BR&gt;&lt;&#x2F;p&gt;- 720 个模块化部件，带有可改变颜色的自定义着色器&lt;BR&gt;- 包含随机角色剧本生成器的演示场景&lt;BR&gt;- 每个身体部位的男女版本（不包括中性部位）&lt;BR&gt;- 适用于&lt;a href=&quot;https:&#x2F;&#x2F;www.assetstore.unity3d.com&#x2F;en&#x2F;?stay#!&#x2F;content&#x2F;16743&quot;&gt;动态骨骼&lt;&#x2F;a&gt;的披风&lt;BR&gt;- 模块化部件的 120 个预制角色&lt;BR&gt;- 游戏中可选的静态版本，适用于 UI 等&lt;BR&gt;&lt;BR&gt;&lt;p&gt;◼ &lt;STRONG&gt;资源&lt;&#x2F;STRONG&gt; ◼&lt;BR&gt;&lt;&#x2F;p&gt;&lt;STRONG&gt;模块化角色资源&lt;&#x2F;STRONG&gt;&lt;BR&gt;- 头发、头部、眉毛、面部毛发、帽子、遮罩、头盔、躯干、胯部、腿、手臂、手、护膝、垫肩、护肘、胯部附件、包、披风等&lt;BR&gt;&lt;BR&gt;&lt;STRONG&gt;武器资源&lt;&#x2F;STRONG&gt;&lt;BR&gt;- 斧头、匕首、长矛、锤矛、盾牌、盾牌、长杖、剑、刀等&lt;BR&gt;&lt;BR&gt;&lt;p&gt;◼ &lt;STRONG&gt;兼容性&lt;&#x2F;STRONG&gt; ◼&lt;BR&gt;&lt;&#x2F;p&gt;- 适用于 Unity 2019.1 及更高版本&lt;BR&gt;- 通用渲染管线 (URP)&lt;BR&gt;- 设置角色，与 Mecanim 一起使用（该资源包不包含动画）&lt;BR&gt;&lt;BR&gt;&lt;p&gt;◼ &lt;STRONG&gt;其他资源&lt;&#x2F;STRONG&gt; ◼&lt;BR&gt;&lt;&#x2F;p&gt;将此资源包与我们的其他幻想资源结合 -&lt;BR&gt;&lt;STRONG&gt; &lt;a href=&quot;https:&#x2F;&#x2F;assetstore.unity.com&#x2F;packages&#x2F;3d&#x2F;environments&#x2F;dungeons&#x2F;polygon-dungeons-pack-102677&quot;&gt;- POLYGON Dungeons&lt;&#x2F;a&gt;&lt;BR&gt;&lt;a href=&quot;https:&#x2F;&#x2F;assetstore.unity.com&#x2F;packages&#x2F;3d&#x2F;environments&#x2F;fantasy&#x2F;polygon-knights-pack-83694&quot;&gt;- POLYGON 骑士&lt;&#x2F;a&gt;&lt;BR&gt;&lt;a href=&quot;https:&#x2F;&#x2F;assetstore.unity.com&#x2F;packages&#x2F;3d&#x2F;characters&#x2F;humanoids&#x2F;polygon-fantasy-rivals-118399&quot;&gt;- POLYGON 幻想对手&lt;&#x2F;a&gt;&lt;BR&gt;&lt;a href=&quot;https:&#x2F;&#x2F;assetstore.unity.com&#x2F;packages&#x2F;3d&#x2F;characters&#x2F;humanoids&#x2F;polygon-fantasy-characters-97186&quot;&gt;- POLYGON 幻想角色&lt;&#x2F;a&gt;&lt;BR&gt;&lt;BR&gt;&lt;&#x2F;STRONG&gt;需要帮助？&lt;BR&gt;&lt;STRONG&gt; &lt;a href=&quot;mailto:support@syntystudios.com&quot;&gt;EMAIL&lt;&#x2F;a&gt; | &lt;a href=&quot;https:&#x2F;&#x2F;www.syntystudios.com&#x2F;faq&quot;&gt;FAQ&lt;&#x2F;a&gt; | &lt;a href=&quot;https:&#x2F;&#x2F;www.youtube.com&#x2F;playlist?list=PL2QPFqe01WRkGN7J8X0Okgq7R3REbCt48&quot;&gt;TUTORIALS&lt;&#x2F;a&gt; | &lt;a href=&quot;http:&#x2F;&#x2F;bit.ly&#x2F;30aOuGW&quot;&gt;DISCORD&lt;&#x2F;a&gt;&lt;BR&gt;&lt;&#x2F;STRONG&gt;&lt;BR&gt;&lt;&#x2F;p&gt;
+</content>
+        
+    </entry>
+    <entry xml:lang="zh">
+        <title>Fantasy Forest Environment</title>
+        <published>2024-12-03T01:14:53+00:00</published>
+        <updated>2024-12-03T01:14:53+00:00</updated>
+        
+        <author>
+          <name>
+            
+              yzzfo
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://yzzfo.github.io/unity/store/fantasy-forest-environment/"/>
+        <id>https://yzzfo.github.io/unity/store/fantasy-forest-environment/</id>
+        
+        <content type="html" xml:base="https://yzzfo.github.io/unity/store/fantasy-forest-environment/">&lt;p&gt;This pack contains over 120 prefabs you need to create stylized forest environment: from trees, bushes to rocks and mushrooms. Demo scene in summer, autumn and winter variants!&lt;br&gt;&lt;strong&gt;更新 2.1 - URP 支持！&lt;&#x2F;strong&gt;&lt;br&gt;&lt;br&gt;▶&lt;a href=&quot;https:&#x2F;&#x2F;forum.unity.com&#x2F;threads&#x2F;fantasy-forest-environment-update-v2-0.708998&#x2F;&quot;&gt;论坛&lt;&#x2F;a&gt;◀ ▶&lt;a href=&quot;https:&#x2F;&#x2F;drive.google.com&#x2F;open?id=12-8v2fjcL6R2J_Ez9oUlipxZJm-t-h-I&quot;&gt;播放演示&lt;&#x2F;a&gt;◀ ▶&lt;a href=&quot;mailto:support@triforge.eu&quot;&gt;支持&lt;&#x2F;a&gt;◀&lt;br&gt;&lt;br&gt;&lt;strong&gt;支持：&lt;&#x2F;strong&gt;&lt;br&gt;&lt;strong&gt;内置渲染 - 2018.2.11 或更新&lt;&#x2F;strong&gt;&lt;br&gt;&lt;strong&gt;URP 7.2 - 2019.3&lt;&#x2F;strong&gt;&lt;br&gt;&lt;br&gt;此资源包内含 120 多个您需要的预制件，以创建风格化的森林环境：从树木、灌木丛到岩石和蘑菇。这些预制件为夏季、秋季和冬季场景提供了精美的手绘纹理和变体。&lt;br&gt;&lt;br&gt;&lt;strong&gt;功能：&lt;&#x2F;strong&gt;&lt;br&gt;&lt;br&gt;➤ 23 种花木手绘地形纹理&lt;br&gt;➤ 12 种树木模型：7 种针叶树、2 种落叶树和 3 种桦木树，以及匹配秋、冬季节的变体 - 总共 36 种树木预制件&lt;br&gt;➤13 种地形细节网格，例如草、灌木和花朵，具有顶点 alpha 以提供适当的风支持&lt;br&gt;➤ 53 个道具模型，例如蘑菇、岩石、篱笆、水生植物、帐篷、篝火、桥梁、瀑布&lt;br&gt;➤ 7 种粒子效果：水溅、火焰、落叶、灰尘、薄雾和雪&lt;br&gt;➤ 自定义树木着色器，具有风力运动以及对 Vegetation Studio Pro 的间接实例化支持&lt;br&gt;&lt;br&gt;&lt;strong&gt;重要说明：&lt;&#x2F;strong&gt;&lt;br&gt;未在移动设备上测试。当前不支持 HDRP。&lt;br&gt;使用 Unity Post Processing Stack v2、线性色彩空间制作屏幕截图和视频，并在 Unity 2018.2.11版中进行渲染。视频中可见的水取材自 Unity 标准资源，不包含此资源包中。&lt;br&gt;&lt;br&gt;需要资源包方面的帮助或有疑问吗？&lt;br&gt;电子邮件：&lt;a href=&quot;mailto:support@triforge.eu&quot;&gt;support@triforge.eu&lt;&#x2F;a&gt;&lt;br&gt;&lt;&#x2F;p&gt;
+</content>
+        
+    </entry>
+    <entry xml:lang="zh">
+        <title>Flat Kit: Toon Shading and Water</title>
+        <published>2024-11-29T21:19:28+00:00</published>
+        <updated>2024-11-30T13:23:10+00:00</updated>
+        
+        <author>
+          <name>
+            
+              yzzfo
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://yzzfo.github.io/unity/store/flat-kit-toon-shading-and-water/"/>
+        <id>https://yzzfo.github.io/unity/store/flat-kit-toon-shading-and-water/</id>
+        
+        <content type="html" xml:base="https://yzzfo.github.io/unity/store/flat-kit-toon-shading-and-water/">&lt;p&gt;Flat Kit is a complete solution to achieve the stylish cel-shaded look: shaders, models, image effects, presets, examples.&lt;br&gt;&lt;strong&gt;Flat Kit&lt;&#x2F;strong&gt; 是一款可实现风格化卡通渲染的整套工具：着色器、模型、图像特效、预设、示例。&lt;br&gt;&lt;strong&gt;自定义着色模型&lt;&#x2F;strong&gt;功能多样，可用于经典卡通着色，也可用于风格独特的实验性项目。&lt;br&gt;&lt;br&gt;&lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;youtu.be&#x2F;Sc838YuWPhA&quot;&gt;&lt;strong&gt;演示视频&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt;|&lt;a href=&quot;https:&#x2F;&#x2F;drive.google.com&#x2F;open?id=1GQbTaZQmdmliz31bKxJDDSlhAz0vKgHQ3mxDfCV-iOw&quot;&gt;&lt;strong&gt;在线用户手册&lt;&#x2F;strong&gt;（请留下评论！）&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;&lt;br&gt;&lt;strong&gt;功能：&lt;&#x2F;strong&gt;&lt;br&gt;• 功能丰富的&lt;strong&gt;抛光卡通着色&lt;&#x2F;strong&gt;（见下文）&lt;br&gt;• ​​​&lt;strong&gt;渐变雾&lt;&#x2F;strong&gt;：多层水平&#x2F;垂直渐变雾图像效果&lt;br&gt;• ​​适用于 Unity 或第三方地形的​&lt;strong&gt;地形着色器&lt;&#x2F;strong&gt;&lt;br&gt;• 3D 亮点和上帝之光&lt;strong&gt;光平面着色器&lt;&#x2F;strong&gt;&lt;br&gt;• &lt;strong&gt;移动端支持&lt;&#x2F;strong&gt;&lt;br&gt;• 支持&lt;strong&gt;内置和 URP&lt;&#x2F;strong&gt; - 所有对象着色器和后处理效果支持两种渲染管线。&lt;br&gt;&lt;br&gt;• &lt;&#x2F;strong&gt;支持顶点颜色&lt;&#x2F;strong&gt;（仅限内置 RP），也适用于 Polybrush&lt;br&gt;•Unity 内置阴影的控制能力&lt;br&gt;• 支持间接光照&lt;br&gt;• 直观、简洁和流畅的界面 - 仅使用您需要的功能&lt;br&gt;• 精确地为场景着色 - 无需臆测&lt;br&gt;• 完整源代码&lt;br&gt;• 详尽的在线手册&lt;br&gt;&lt;br&gt;&lt;strong&gt;Core Cel &lt;&#x2F;strong&gt;着色器概述：&lt;br&gt;• 带有参数绑定功能的卡通着色：&lt;strong&gt;单步、跃变、曲线&lt;&#x2F;strong&gt;&lt;br&gt;• 两个独立的卡通层&lt;br&gt;• 高度渐变层&lt;br&gt;• 几种&lt;strong&gt;轮廓线&lt;&#x2F;strong&gt;工具&lt;br&gt;• 法线和卡通着色之间的参数混合&lt;br&gt;• 风格化的&lt;strong&gt;镜面和边缘光照&lt;&#x2F;strong&gt;&lt;br&gt;• 支持&lt;strong&gt;法线贴图&lt;&#x2F;strong&gt;&lt;br&gt;• 可在 .cginc 文件中&lt;strong&gt;重复使用自定义光照&lt;&#x2F;strong&gt;，您可以将其集成到着色器中（非必须）。&lt;br&gt;&lt;br&gt;&lt;strong&gt;该资源包包括&lt;&#x2F;strong&gt;：&lt;br&gt;• 3 种 uber 着色器，带有大量切换键和参数&lt;br&gt;• 自定义卡通着色光照库&lt;br&gt;• 2 种后处理效果：雾和轮廓线&lt;br&gt;• 8 个演示场景&lt;br&gt;• 90+ 个模型&lt;br&gt;• 20+ 种材质预设&lt;br&gt;&lt;br&gt;如有疑问，请告诉我们！&lt;br&gt;&lt;a href=&quot;mailto:info@dustyroom.com&quot;&gt;info@dustyroom.com&lt;&#x2F;a&gt; | &lt;a href=&quot;https:&#x2F;&#x2F;twitter.com&#x2F;_dstrm&quot;&gt;@_dstrm&lt;&#x2F;a&gt; | 可在&lt;a href=&quot;https:&#x2F;&#x2F;drive.google.com&#x2F;open?id=1GQbTaZQmdmliz31bKxJDDSlhAz0vKgHQ3mxDfCV-iOw&quot;&gt;在线用户指南&lt;&#x2F;a&gt;上评论&lt;&#x2F;p&gt;
+</content>
+        
+    </entry>
+    <entry xml:lang="zh">
+        <title>Stylized VFX</title>
+        <published>2024-11-29T21:18:59+00:00</published>
+        <updated>2024-11-30T13:22:35+00:00</updated>
+        
+        <author>
+          <name>
+            
+              yzzfo
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://yzzfo.github.io/unity/store/stylized-vfx/"/>
+        <id>https://yzzfo.github.io/unity/store/stylized-vfx/</id>
+        
+        <content type="html" xml:base="https://yzzfo.github.io/unity/store/stylized-vfx/">&lt;p&gt;这款令人惊叹的风格化特效受到了《塞尔达传说：荒野之息》和《原神》等游戏的启发！&lt;&#x2F;p&gt;
+&lt;p&gt;这套风格化特效包可以完全根据您的项目需求进行轻松自定义。&lt;&#x2F;p&gt;
+&lt;p&gt;这款风格化特效包还附带音效！您可以随意使用这些声音。&lt;&#x2F;p&gt;
+&lt;p&gt;包含超过40个特效！（包括变体）&lt;&#x2F;p&gt;</content>
+        
+    </entry>
+    <entry xml:lang="zh">
+        <title>Toon Fantasy Nature</title>
+        <published>2024-11-29T21:17:32+00:00</published>
+        <updated>2024-12-02T21:46:33+00:00</updated>
+        
+        <author>
+          <name>
+            
+              yzzfo
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://yzzfo.github.io/unity/store/toon-fantasy-nature/"/>
+        <id>https://yzzfo.github.io/unity/store/toon-fantasy-nature/</id>
+        
+        <content type="html" xml:base="https://yzzfo.github.io/unity/store/toon-fantasy-nature/">&lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;assetstore.unity.com&#x2F;publishers&#x2F;18116&quot;&gt; &lt;strong&gt;SICS Games&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt; 呈现：&lt;&#x2F;p&gt;一套风格化的资源集合，为您的游戏增添美丽的环境。&lt;&#x2F;p&gt;
+&lt;p&gt;有任何问题或建议吗？&lt;&#x2F;p&gt;&lt;p&gt;欢迎通过我们的 &lt;a href=&quot;http:&#x2F;&#x2F;discord.gg&#x2F;nwQpAet&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;Discord&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt; 与我们联系&lt;&#x2F;p&gt;
+&lt;p&gt;◙ &lt;strong&gt;特色&lt;&#x2F;strong&gt; ◙&lt;&#x2F;p&gt;
+&lt;p&gt;• &lt;strong&gt;200&lt;&#x2F;strong&gt; 个预制件，从小植物和岩石到大型橡树和松树。&lt;&#x2F;p&gt;&lt;p&gt;• &lt;strong&gt;8&lt;&#x2F;strong&gt; &lt;strong&gt;演示场景&lt;&#x2F;strong&gt; 展示了该包中的所有资源，并提供多种光照预设（包括后期处理配置文件）。&lt;&#x2F;p&gt;
+&lt;p&gt;◙ &lt;strong&gt;资源列表 &lt;&#x2F;strong&gt;◙&lt;&#x2F;p&gt;
+&lt;p&gt;• &lt;strong&gt;植被资源 &lt;&#x2F;strong&gt;•&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;strong&gt;(x137) 植物、花卉和树木&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;p&gt;植被资源包括：&lt;&#x2F;p&gt;&lt;p&gt;&lt;strong&gt;(x36) 树木&lt;&#x2F;strong&gt;，如 &lt;strong&gt;白杨树&lt;&#x2F;strong&gt;、&lt;strong&gt;松树&lt;&#x2F;strong&gt;、&lt;strong&gt;桦树&lt;&#x2F;strong&gt;、&lt;strong&gt;橡树&lt;&#x2F;strong&gt;等。&lt;&#x2F;p&gt;&lt;p&gt;&lt;strong&gt;(x18) 倒下的和破损的树木&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;p&gt;&lt;strong&gt;(x38) 灌木、蕨类植物&lt;&#x2F;strong&gt;、&lt;strong&gt;花卉&lt;&#x2F;strong&gt;等。&lt;&#x2F;p&gt;&lt;p&gt;&lt;strong&gt;(x20) 百合、莲花&lt;&#x2F;strong&gt;及其他水生植物。&lt;&#x2F;p&gt;&lt;p&gt;&lt;strong&gt;(x18) 蘑菇&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;• &lt;strong&gt;岩石 &lt;&#x2F;strong&gt;•&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;strong&gt;(x20) 岩石&lt;&#x2F;strong&gt;，从小卵石到大石块&lt;&#x2F;p&gt;
+&lt;p&gt;• &lt;strong&gt;外部道具 &lt;&#x2F;strong&gt;•&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;strong&gt;(x25) 道具&lt;&#x2F;strong&gt;，包括 &lt;strong&gt;木制凉亭和秋千&lt;&#x2F;strong&gt;、&lt;strong&gt;篝火&lt;&#x2F;strong&gt;（包含火粒子系统）、&lt;strong&gt;围栏和桥梁工具包&lt;&#x2F;strong&gt;等。&lt;&#x2F;p&gt;
+&lt;p&gt;• &lt;strong&gt;背景资源和贴花 &lt;&#x2F;strong&gt;•&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;strong&gt;(x18) 背景树木&lt;&#x2F;strong&gt;、碎片和 &lt;strong&gt;落叶&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;p&gt;&lt;strong&gt;(x3) 手绘天空盒&lt;&#x2F;strong&gt;：白天、夜晚和日落。&lt;&#x2F;p&gt;
+&lt;p&gt;• &lt;strong&gt;粒子系统 &lt;&#x2F;strong&gt;•&lt;&#x2F;p&gt;&lt;br&gt;&lt;p &gt;&lt;strong&gt;(x8) 粒子系统&lt;&#x2F;strong&gt;，包括 &lt;strong&gt;阳光光束&lt;&#x2F;strong&gt;、&lt;strong&gt;萤火虫&lt;&#x2F;strong&gt;、&lt;strong&gt;落叶&lt;&#x2F;strong&gt; 等等。&lt;&#x2F;p&gt;
+&lt;p &gt;此包与该系列的其他资产完美契合：&lt;&#x2F;p&gt;&lt;p &gt;&lt;a href=&quot;http:&#x2F;&#x2F;assetstore.unity.com&#x2F;lists&#x2F;toon-series-44946&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;卡通系列&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+&lt;p &gt;支持与社区：&lt;&#x2F;p&gt;&lt;p &gt;&lt;a href=&quot;http:&#x2F;&#x2F;discord.gg&#x2F;nwQpAet&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;Discord&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt;&lt;strong&gt; &lt;&#x2F;strong&gt;• &lt;a href=&quot;http:&#x2F;&#x2F;forum.unity3d.com&#x2F;threads&#x2F;toon-series-growing-content-stylized-3d-art.464823&#x2F;&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;论坛&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt;&lt;strong&gt; &lt;&#x2F;strong&gt;• &lt;a href=&quot;http:&#x2F;&#x2F;twitter.com&#x2F;steve_sics&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;推特&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt;&lt;strong&gt; &lt;&#x2F;strong&gt;•&lt;strong&gt; &lt;&#x2F;strong&gt;&lt;a href=&quot;mailto:sics.production@gmail.com&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;邮件&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;</content>
+        
+    </entry>
+    <entry xml:lang="zh">
+        <title>POLYGON Western Frontier - Low Poly 3D Art by Synty</title>
+        <published>2024-11-29T21:17:13+00:00</published>
+        <updated>2024-11-30T13:17:47+00:00</updated>
+        
+        <author>
+          <name>
+            
+              yzzfo
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://yzzfo.github.io/unity/store/polygon-western-frontier-low-poly-3d-art-by-synty/"/>
+        <id>https://yzzfo.github.io/unity/store/polygon-western-frontier-low-poly-3d-art-by-synty/</id>
+        
+        <content type="html" xml:base="https://yzzfo.github.io/unity/store/polygon-western-frontier-low-poly-3d-art-by-synty/">&lt;p &gt;&lt;strong&gt;◼&lt;&#x2F;strong&gt; &lt;a href=&quot;http:&#x2F;&#x2F;discord.gg&#x2F;syntystudios&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;Synty Discord 社区&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt;&lt;strong&gt; ◼&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;p &gt;&lt;strong&gt;加入我们的 &lt;&#x2F;strong&gt;&lt;a href=&quot;http:&#x2F;&#x2F;discord.gg&#x2F;syntystudios&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;Discord&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt;&lt;strong&gt;，学习、创造和分享！&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
+&lt;p &gt;&lt;a href=&quot;https:&#x2F;&#x2F;assetstore.unity.com&#x2F;publishers&#x2F;5217&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;Synty Studios™&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt;&lt;strong&gt; 呈现 -&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
+&lt;p &gt;一款史诗级低多边形资产包，包含角色、道具、武器、车辆和环境资产，用于创建西部主题的多边形风格游戏。&lt;&#x2F;p&gt;
+&lt;p &gt;是 &lt;a href=&quot;https:&#x2F;&#x2F;assetstore.unity.com&#x2F;packages&#x2F;3d&#x2F;environments&#x2F;historic&#x2F;polygon-western-pack-112212&quot; target=&quot;_blank&quot;&gt;POLYGON - 西部包&lt;&#x2F;a&gt; 的绝佳补充。&lt;&#x2F;p&gt;
+&lt;p &gt;&lt;strong&gt;主要特点 -&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;p &gt;&lt;strong&gt;329 个独特资产，具有 x4 种替代纹理颜色。&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
+&lt;p &gt;&lt;strong&gt;资产&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;p &gt;- 建筑资产 (x42)，环境资产 (x147)，特效 (x5)，通用资产 (x9)，道具资产 (x87)&lt;&#x2F;p&gt;
+&lt;p &gt;&lt;strong&gt;车辆 (x3)&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;p &gt;- 监狱马车、商店马车、旅行马车。&lt;&#x2F;p&gt;
+&lt;p &gt;&lt;strong&gt;角色 (x21)&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;p &gt;- 男性强盗、男性船长、男性淘金者、男性猎人、女性墨西哥人、男性墨西哥人 01、男性墨西哥人 02、女性美洲土著 01、男性美洲土著酋长 01、女性美洲土著长者 01、女性美洲土著战士 01、男性美洲土著战士 01、男性美洲土著战士 02、男性美洲土著战士 03、男性牧师 01、男性推销员 01、男性士兵 01、男性暴徒 01、男性暴徒 02、女性旅行者 01。&lt;&#x2F;p&gt;&lt;p &gt;(带有替代颜色)&lt;&#x2F;p&gt;
+&lt;p &gt;&lt;strong&gt;武器 (x15)&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;p &gt;- 斧头、链枪、枪托、锤子、刀、镐、左轮手枪、步枪、步枪刺刀、步枪弹夹、霰弹枪、铲子、矛、剑。&lt;&#x2F;p&gt;&lt;p &gt;- 包含大量精彩内容（更多细节请参见布局截图）&lt;&#x2F;p&gt;&lt;br&gt;&lt;p &gt;&lt;strong&gt;查看我们的其他资产&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;ul&gt;&lt;li &gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.assetstore.unity3d.com&#x2F;en&#x2F;?stay#!&#x2F;list&#x2F;44060-polygon-3d-asset-series-by-synty-studios&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;POLYGON - 3D资产系列&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;&lt;li &gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.assetstore.unity3d.com&#x2F;en&#x2F;?stay#!&#x2F;list&#x2F;115084-mini-3d-asset-series-by-synty-studios&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;迷你 - 3D资产系列&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;&lt;li &gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.assetstore.unity3d.com&#x2F;en&#x2F;?stay#!&#x2F;list&#x2F;65459-simple-3d-asset-series-by-synty-studios&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;简单 - 3D资产系列&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;&lt;&#x2F;ul&gt;&lt;p &gt;&lt;strong&gt;◼ 兼容性 &lt;&#x2F;strong&gt;◼&lt;&#x2F;p&gt;&lt;p &gt;- 支持通用渲染管线（URP） - &lt;a href=&quot;https:&#x2F;&#x2F;bit.ly&#x2F;synty-urp&quot; target=&quot;_blank&quot;&gt;URP指南在这里&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;&lt;p &gt;- 角色已设置为与Mecanim配合使用（此包中不包含动画）&lt;&#x2F;p&gt;
+&lt;p &gt;&amp;#128220; &lt;a href=&quot;https:&#x2F;&#x2F;bit.ly&#x2F;synty-newsletter&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;Synty通讯&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt; &amp;#128220;&lt;&#x2F;p&gt;&lt;p &gt;不要错过发布折扣！&lt;&#x2F;p&gt;&lt;p &gt;注册我们的 &lt;a href=&quot;https:&#x2F;&#x2F;bit.ly&#x2F;synty-newsletter&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;Synty资产商店通讯&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;&lt;p &gt;&lt;strong&gt;关注我们以获取更新、促销、预览和教程：&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;p &gt;&lt;a href=&quot;http:&#x2F;&#x2F;bit.ly&#x2F;30aOuGW&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;DISCORD&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt;&lt;strong&gt; | &lt;&#x2F;strong&gt;&lt;a href=&quot;http:&#x2F;&#x2F;bit.ly&#x2F;37VGYlB&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;FACEBOOK&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt;&lt;strong&gt; | &lt;&#x2F;strong&gt;&lt;a href=&quot;http:&#x2F;&#x2F;bit.ly&#x2F;306iJOW&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;YOUTUBE&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt;&lt;strong&gt; |  &lt;&#x2F;strong&gt;&lt;a href=&quot;https:&#x2F;&#x2F;twitter.com&#x2F;SyntyStudios&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;TWITTER&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt;&lt;strong&gt; | &lt;&#x2F;strong&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.instagram.com&#x2F;synty.studios&#x2F;&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;INSTAGRAM&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;</content>
+        
+    </entry>
+</feed>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+    <title>yzzfo - replacement</title>
+    <subtitle>Game Development Learning Resources</subtitle>
+    <link rel="self" type="application/atom+xml" href="https://yzzfo.github.io/en/tags/replacement/atom.xml"/>
+    <link rel="alternate" type="text/html" href="https://yzzfo.github.io"/>
+    <generator uri="https://www.getzola.org/">Zola</generator>
+    <updated>2024-11-30T13:16:34+00:00</updated>
+    <id>https://yzzfo.github.io/en/tags/replacement/atom.xml</id>
+    <entry xml:lang="en">
+        <title>Editor Console Pro</title>
+        <published>2024-11-29T21:16:16+00:00</published>
+        <updated>2024-11-30T13:16:34+00:00</updated>
+        
+        <author>
+          <name>
+            
+              yzzfo
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://yzzfo.github.io/en/unity/store/editor-console-pro/"/>
+        <id>https://yzzfo.github.io/en/unity/store/editor-console-pro/</id>
+        
+        <content type="html" xml:base="https://yzzfo.github.io/en/unity/store/editor-console-pro/">&lt;p&gt;&lt;br&gt;Editor Console Pro is a powerful replacement for Unity&#x27;s editor console.&lt;br&gt;As seen in:&lt;br&gt;Part of the 2017 Unity Mobile Essentials Pack!&lt;br&gt;&lt;a href=&quot;http:&#x2F;&#x2F;gamasutra.com&#x2F;blogs&#x2F;SebastienDubois&#x2F;20151111&#x2F;259048&#x2F;Musthave_Unity_plugins__Part_1.php&quot;&gt;Must-Have Unity Plugins [Gamasutra]&lt;&#x2F;a&gt;&lt;br&gt;&lt;a href=&quot;http:&#x2F;&#x2F;gamasutra.com&#x2F;blogs&#x2F;SvyatoslavCherkasov&#x2F;20160119&#x2F;263697&#x2F;Unity_plugins_we_used_while_developing_Punch_Club.php&quot;&gt;Unity Plugins Used While Developing Punch Club [Gamasutra]&lt;&#x2F;a&gt;&lt;br&gt;&lt;br&gt;Using Console Pro you can:&lt;br&gt;&lt;br&gt;- Use a search field to filter all entries by text, file name, class, GameObject name on the fly.&lt;br&gt;- Search and filter using Regular Expressions.&lt;br&gt;- Create custom filter groups with their own colors, icons, and toggle buttons, instead of just the default Logs, Warnings, and Errors.&lt;br&gt;- See the source code surrounding each method call in the stack, allowing you to see and jump to the code around the log.&lt;br&gt;- Open your code editor to any method or line in a log&#x27;s stack by clicking on it, rather than just to the Debug.Log call.&lt;br&gt;- Easily see a log entry&#x27;s file name, namespace, GameObject name, and class in columns.&lt;br&gt;- Ignore logs you never want to see again.&lt;br&gt;- Ignore custom Debug.Log classes in the stack, so double clicking never takes you to the wrong code.&lt;br&gt;- Watch variables without spam using special logs that collapse even though they have different content.&lt;br&gt;- Use remote logging to get logs and stacktraces off of a standalone build or a phone&#x2F;tablet build.&lt;br&gt;- Parse Editor.log or other log files as if they were the current logs&lt;br&gt;- Colorize the entire log line so you can quickly see different log types.&lt;br&gt;- Use custom fonts and colors.&lt;br&gt;- Copy full logs and stack traces to the clipboard with one click.&lt;br&gt;- Export the entire console output to a txt file, including stack traces.&lt;br&gt;- Override Unity&#x27;s status bar click.&lt;br&gt;&lt;br&gt;&lt;a href=&quot;http:&#x2F;&#x2F;flyingworm.com&#x2F;wp-content&#x2F;uploads&#x2F;2017&#x2F;06&#x2F;Editor-Console-Pro-Documentation.pdf&quot;&gt;Documentation&lt;&#x2F;a&gt;&lt;br&gt;&lt;a href=&quot;mailto:support@flyingworm.com&quot;&gt;Support&lt;&#x2F;a&gt;&lt;br&gt;*** Note: If you are having problems in 2017.*, please make sure you are logged into the asset store account you bought it with so you can update to the newest version! ***&lt;br&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v=tqwS3lquGzk&quot;&gt;Overview and tutorial video&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+</content>
+        
+    </entry>
+</feed>

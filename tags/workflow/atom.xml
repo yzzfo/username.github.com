@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh">
+    <title>yzzfo - Workflow</title>
+    <subtitle>游戏开发学习资源分享</subtitle>
+    <link rel="self" type="application/atom+xml" href="https://yzzfo.github.io/tags/workflow/atom.xml"/>
+    <link rel="alternate" type="text/html" href="https://yzzfo.github.io"/>
+    <generator uri="https://www.getzola.org/">Zola</generator>
+    <updated>2024-12-06T14:27:47+00:00</updated>
+    <id>https://yzzfo.github.io/tags/workflow/atom.xml</id>
+    <entry xml:lang="zh">
+        <title>Odin Validator</title>
+        <published>2024-12-06T14:27:47+00:00</published>
+        <updated>2024-12-06T14:27:47+00:00</updated>
+        
+        <author>
+          <name>
+            
+              yzzfo
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://yzzfo.github.io/unity/store/odin-validator/"/>
+        <id>https://yzzfo.github.io/unity/store/odin-validator/</id>
+        
+        <content type="html" xml:base="https://yzzfo.github.io/unity/store/odin-validator/">&lt;p&gt;找到并修复Unity中的错误，使用Odin Validator，这是为Unity制作的最强大验证工具。&lt;&#x2F;p&gt;
+&lt;p&gt;Odin Validator会扫描您的项目以查找问题，并帮助您在问题发生时进行修复。它只会在您需要时执行您想要的操作，并且灵活、可扩展，速度足够快，是任何项目（无论是小型、大型还是巨型）中至关重要的工具。&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;strong&gt;需要 &lt;&#x2F;strong&gt;&lt;a href=&quot;https:&#x2F;&#x2F;u3d.as&#x2F;Pu7&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;Odin Inspector&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;strong&gt;资产商店版本适用于在过去12个月内收入或资金少于20万美元的实体或公司。企业选项可在 &lt;&#x2F;strong&gt;&lt;a href=&quot;https:&#x2F;&#x2F;unity.com&#x2F;products&#x2F;odin&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;这里&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt;&lt;strong&gt; 获取。Odin Validator受 &lt;&#x2F;strong&gt;&lt;a href=&quot;https:&#x2F;&#x2F;odininspector.com&#x2F;terms&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;odininspector.com&#x2F;terms&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt;&lt;strong&gt; 的许可协议约束，而非标准Unity资产商店EULA。&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;odininspector.com&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;OdinInspector.com&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt;：了解更多关于Odin Validator的信息&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;learn.unity.com&#x2F;project&#x2F;getting-started-with-odin&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;Unity Learn&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt;：快速入门&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;odininspector.com&#x2F;tutorials&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;手册&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt;：了解更多&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;odininspector.com&#x2F;download&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;试用版&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt;：在购买前试用&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;odininspector.com&#x2F;support&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;支持&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt;：我们随时准备提供帮助&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;odininspector.com&#x2F;roadmap&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;路线图&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt;：接下来是什么？&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;&lt;br&gt;&lt;p &gt;&lt;strong&gt;亮点&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;ul&gt;&lt;li &gt;实时背景验证&lt;&#x2F;li&gt;&lt;li &gt;可扩展的问题修复和批量修复&lt;&#x2F;li&gt;&lt;li &gt;创建和切换验证配置文件&lt;&#x2F;li&gt;&lt;li &gt;极其可扩展和可定制&lt;&#x2F;li&gt;&lt;li &gt;创建包含元数据、修复、场景小部件等的丰富问题报告&lt;&#x2F;li&gt;&lt;li &gt;使用自动化钩子在播放、构建或加载时运行&lt;&#x2F;li&gt;&lt;li &gt;将验证结果导出为HTML和JSON报告&lt;&#x2F;li&gt;&lt;li &gt;高性能 - 即使在有数十万个问题的项目中也能流畅运行&lt;&#x2F;li&gt;&lt;&#x2F;ul&gt;
+&lt;p &gt;&lt;strong&gt;内置验证&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;ul&gt;&lt;li &gt;检测缺失的引用&lt;&#x2F;li&gt;&lt;li &gt;检测损坏的资源&lt;&#x2F;li&gt;&lt;li &gt;检测重复的组件&lt;&#x2F;li&gt;&lt;li &gt;检测无效的层分配&lt;&#x2F;li&gt;&lt;li &gt;检测着色器编译错误&lt;&#x2F;li&gt;&lt;li &gt;检测损坏的材质&lt;&#x2F;li&gt;&lt;li &gt;检测具有无效材质的渲染器&lt;&#x2F;li&gt;&lt;li &gt;检测无效的变换位置&lt;&#x2F;li&gt;&lt;li &gt;检测损坏的预制体连接&lt;&#x2F;li&gt;&lt;li &gt;检测不在构建设置中的场景&lt;&#x2F;li&gt;&lt;li &gt;检测使用过时的组件&lt;&#x2F;li&gt;&lt;li &gt;检测缺失的脚本&lt;&#x2F;li&gt;&lt;li &gt;检测无效的UnityEvent方法&lt;&#x2F;li&gt;&lt;&#x2F;ul&gt;
+&lt;p &gt;&lt;strong&gt;验证属性&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;ul&gt;&lt;li &gt;必需&lt;&#x2F;li&gt;&lt;li &gt;必需在&lt;&#x2F;li&gt;&lt;li &gt;仅限资源&lt;&#x2F;li&gt;&lt;li &gt;最小值&lt;&#x2F;li&gt;&lt;li &gt;最大值&lt;&#x2F;li&gt;&lt;li &gt;范围&lt;&#x2F;li&gt;&lt;li &gt;过时&lt;&#x2F;li&gt;&lt;li &gt;不允许在此修改&lt;&#x2F;li&gt;&lt;li &gt;仅限子游戏对象&lt;&#x2F;li&gt;&lt;li &gt;仅限场景对象&lt;&#x2F;li&gt;&lt;li &gt;需要组件&lt;&#x2F;li&gt;&lt;li &gt;验证输入&lt;&#x2F;li&gt;&lt;li &gt;文件路径&lt;&#x2F;li&gt;&lt;li &gt;文件夹路径&lt;&#x2F;li&gt;&lt;li &gt;最小最大滑块&lt;&#x2F;li&gt;&lt;li &gt;不验证&lt;&#x2F;li&gt;&lt;&#x2F;ul&gt;
+&lt;p &gt;了解更多关于Odin Validator的功能和优势 &lt;a href=&quot;https:&#x2F;&#x2F;odininspector.com&#x2F;odin-validator&quot; target=&quot;_blank&quot;&gt;请点击这里。&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+&lt;p &gt;&lt;strong&gt;平台支持&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;p &gt;Odin Validator是一个仅限编辑器的插件，对构建没有任何影响。因此，所有当前和未来的目标平台都完全支持。&lt;&#x2F;p&gt;&lt;br&gt;&lt;p &gt;&lt;strong&gt;社区&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;p &gt;加入我们的 &lt;a href=&quot;https:&#x2F;&#x2F;discord.gg&#x2F;WTYJEra&quot; target=&quot;_blank&quot;&gt;Discord&lt;&#x2F;a&gt; 讨论，获取支持和解答任何问题。&lt;&#x2F;p&gt;</content>
+        
+    </entry>
+    <entry xml:lang="zh">
+        <title>Odin Inspector and Serializer</title>
+        <published>2024-12-06T14:27:35+00:00</published>
+        <updated>2024-12-06T14:27:35+00:00</updated>
+        
+        <author>
+          <name>
+            
+              yzzfo
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://yzzfo.github.io/unity/store/odin-inspector-and-serializer/"/>
+        <id>https://yzzfo.github.io/unity/store/odin-inspector-and-serializer/</id>
+        
+        <content type="html" xml:base="https://yzzfo.github.io/unity/store/odin-inspector-and-serializer/">&lt;p&gt;&lt;br&gt;Odin 将催化你的 Unity 工作流程，使它轻易地为你和整个团队构建功能强大并适用于高级用户的编辑器。&lt;br&gt;&lt;br&gt;&lt;strong&gt;资源商店版本是针对过去 12 个月内收入或资金低于 20 万美元的实体或公司而设的。&lt;a href=&quot;https:&#x2F;&#x2F;odininspector.com&#x2F;pricing&quot;&gt;企业选项可以在这里获取&lt;&#x2F;a&gt;。&lt;&#x2F;strong&gt;&lt;br&gt;&lt;br&gt;☄️ &lt;a href=&quot;https:&#x2F;&#x2F;odininspector.com?utm_source=assetstore&amp;utm_medium=description_link&amp;utm_campaign=default&#x2F;&quot;&gt;&lt;strong&gt;OdinInspector.com&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt;：了解 Odin Inspector 的一切。&lt;br&gt;☄️ &lt;a href=&quot;https:&#x2F;&#x2F;odininspector.com&#x2F;tutorials?utm_source=assetstore&amp;utm_medium=description_link&amp;utm_campaign=default&quot;&gt;&lt;strong&gt;手册&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt;：快速入门&lt;br&gt;☄️ &lt;a href=&quot;https:&#x2F;&#x2F;odininspector.com&#x2F;support?utm_source=assetstore&amp;utm_medium=description_link&amp;utm_campaign=default&quot;&gt;&lt;strong&gt;支持&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt;：提交任何问题&lt;br&gt;☄️ &lt;a href=&quot;https:&#x2F;&#x2F;odininspector.com&#x2F;roadmap?utm_source=assetstore&amp;utm_medium=description_link&amp;utm_campaign=default&quot;&gt;&lt;strong&gt;路线图&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt;：下一步是什么？&lt;br&gt;&lt;br&gt;在 2019 年 5 月 28 日之前购买了 Odin?从 &lt;a href=&quot;https:&#x2F;&#x2F;odininspector.com&#x2F;download?utm_source=assetstore&amp;utm_medium=description_link&amp;utm_campaign=default&quot;&gt;https:&#x2F;&#x2F;odininspector.com&#x2F;download&lt;&#x2F;a&gt; 免费获得 Odin 源代码和验证器插件&lt;br&gt;&lt;br&gt;Odin 能够完美部署到原有的工作流程中，无需费力的集成工作，让您能够序列化任何内容，并使用 80 多个全新检测器属性、无样板代码和更多功能来使用 Unity！&lt;br&gt;&lt;br&gt;&lt;a href=&quot;http:&#x2F;&#x2F;sirenix.net&#x2F;odininspector&#x2F;releasenotes&#x2F;2-1-0-0?utm_source=assetstore&amp;utm_medium=description_link&amp;utm_campaign=default&quot;&gt;&lt;strong&gt;看看 2.1 版有什么更新！&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt;&lt;br&gt;&lt;br&gt;☄️ &lt;strong&gt;亮点&lt;&#x2F;strong&gt; ☄️&lt;br&gt;- 轻松集成&lt;br&gt;- 纯编辑器模式&lt;br&gt;- Odin 编辑器窗口&lt;br&gt;- 输入验证&lt;br&gt;- 序列化任何对象&lt;br&gt;- 强大的列表&lt;br&gt;- 惊人的扩展性&lt;br&gt;- 调色板&lt;br&gt;- 字典&lt;br&gt;- 还有更多！&lt;br&gt;&lt;br&gt;&lt;strong&gt;· 轻松集成&lt;&#x2F;strong&gt;：&lt;br&gt;Odin 很容易操作，并且不会打破你的已有工作流程。实际上你甚至不需要继承任何东西，也就是说你的现有编辑器将继续与 Odin 适用。&lt;br&gt;&lt;br&gt;&lt;strong&gt;· 纯编辑器模式&lt;&#x2F;strong&gt;：&lt;br&gt;仅使用 Odin 的编辑器改进，完全禁用序列化。&lt;br&gt;&lt;br&gt;&lt;strong&gt;· Odin 编辑器窗口&lt;&#x2F;strong&gt;：&lt;br&gt;您现在可以使用 Odin 来快速创建自定义的编辑器窗口，帮助组织您的项目和游戏数据。&lt;br&gt;&lt;br&gt;&lt;strong&gt;· 输入验证：&lt;&#x2F;strong&gt;&lt;br&gt;通过允许您的开发者设置场景和输入验证来赋能您的整个团队，让 Unity 的使用对艺术家和开发者来说变得前所未有的容易。&lt;br&gt;&lt;br&gt;&lt;strong&gt;· 序列化任何对象：&lt;&#x2F;strong&gt;&lt;br&gt;Odin 使用我们评级很高的自定义序列化协议，让您既可以继承我们的 SerializedBehaviour、SerializedScriptableObject 等，也可以为您已有的类添加几行新代码，让可以序列化的任何内容都得到序列化。是的，甚至是多态类型！&lt;br&gt;&lt;br&gt;&lt;em&gt;在 2018.3 以上版本中，Odin 序列化的预制件由于嵌套的预制系统而被弃用。&lt;&#x2F;em&gt;&lt;br&gt;&lt;br&gt;&lt;strong&gt;· 功能强大的列表：&lt;&#x2F;strong&gt;&lt;br&gt;所有实现 Microsoft IList 接口的数组和列表均由我们强大的列表绘制器绘制； 拖放、插入和删除单个项目、多维数组、表、交叉列表，甚至是跨窗口的项目拖动、分页、嵌套列表绘制和更多！&lt;br&gt;&lt;br&gt;&lt;strong&gt;· 惊人的可扩展性：&lt;&#x2F;strong&gt;&lt;br&gt;强大而灵活的 API 让你轻易扩展和修改检查器的绘制方式。快速创建全新的属性组类型和自定义绘画器！&lt;br&gt;&lt;br&gt;&lt;strong&gt;• 更多内容！&lt;&#x2F;strong&gt;&lt;br&gt;Odin 还添加了词典、自定义布局、资源列表、值下拉列表、嵌入式编辑器、调色板，&lt;a href=&quot;https:&#x2F;&#x2F;odininspector.com&#x2F;&quot;&gt;甚至更多内容!&lt;&#x2F;a&gt;&lt;br&gt;&lt;br&gt;☄️&lt;strong&gt;平台支持&lt;&#x2F;strong&gt; ☄️&lt;br&gt;功能丰富且得到优化的 Odin 序列化器支持：&lt;br&gt;- 桌面&lt;br&gt;- Android&lt;br&gt;- iOS&lt;br&gt;- WebGL&lt;br&gt;- PlayStation&lt;br&gt;- Xbox&lt;br&gt;- Nintendo Switch&lt;br&gt;- Oculus&lt;br&gt;- 所有的 IL2CPP 平台&lt;br&gt;- UWP 仅得到 IL2CPP 后端的支持&lt;br&gt;&lt;br&gt;☄️ &lt;strong&gt;实用链接&lt;&#x2F;strong&gt; ☄️&lt;br&gt;- &lt;a href=&quot;https:&#x2F;&#x2F;odininspector.com&#x2F;attributes?utm_source=assetstore&amp;utm_medium=description_link&amp;utm_campaign=default&quot;&gt;文档&lt;&#x2F;a&gt;&lt;br&gt;- &lt;a href=&quot;https:&#x2F;&#x2F;odininspector.com&#x2F;roadmap?utm_source=assetstore&amp;utm_medium=description_link&amp;utm_campaign=default&quot;&gt;路线图&lt;&#x2F;a&gt;&lt;br&gt;- &lt;a href=&quot;https:&#x2F;&#x2F;discord.gg&#x2F;zjNj5zZ&#x2F;&quot;&gt;社区&lt;&#x2F;a&gt;&lt;br&gt;- &lt;a href=&quot;https:&#x2F;&#x2F;bitbucket.org&#x2F;sirenix&#x2F;odin-inspector&#x2F;issues?status=new&amp;status=open&quot;&gt;问题跟踪器&lt;&#x2F;a&gt;&lt;br&gt;- &lt;a href=&quot;https:&#x2F;&#x2F;odininspector.com&#x2F;patch-notes?utm_source=assetstore&amp;utm_medium=description_link&amp;utm_campaign=default&quot;&gt;发行说明&lt;&#x2F;a&gt;&lt;br&gt;- &lt;a href=&quot;https:&#x2F;&#x2F;odininspector.com?utm_source=assetstore&amp;utm_medium=description_link&amp;utm_campaign=default&quot;&gt;网站&lt;&#x2F;a&gt;&lt;br&gt;- &lt;a href=&quot;https:&#x2F;&#x2F;odininspector.com&#x2F;support?utm_source=assetstore&amp;utm_medium=description_link&amp;utm_campaign=default&quot;&gt;支持&lt;&#x2F;a&gt;&lt;br&gt;&lt;br&gt;☄️&lt;strong&gt;社区&lt;&#x2F;strong&gt; ☄️&lt;br&gt;加入 &lt;a href=&quot;https:&#x2F;&#x2F;discord.gg&#x2F;WTYJEra&quot;&gt;Discord&lt;&#x2F;a&gt; 中的讨论，获取对任何问题的支持和解答。&lt;br&gt;&lt;br&gt;Odin 处于不断开发的阶段中，该论坛有助于让我们确定接下来应向 Odin 添加哪些新功能。因此请与我们分享您的建议，或者与其他社区成员的建议达成一致。&lt;&#x2F;p&gt;
+</content>
+        
+    </entry>
+    <entry xml:lang="zh">
+        <title>vHierarchy 2</title>
+        <published>2024-11-29T21:21:14+00:00</published>
+        <updated>2024-11-30T13:25:26+00:00</updated>
+        
+        <author>
+          <name>
+            
+              yzzfo
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://yzzfo.github.io/unity/store/vhierarchy-2/"/>
+        <id>https://yzzfo.github.io/unity/store/vhierarchy-2/</id>
+        
+        <content type="html" xml:base="https://yzzfo.github.io/unity/store/vhierarchy-2/">&lt;p &gt;&lt;strong&gt;终极层级资产&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
+&lt;p &gt;通过简单的生活质量改进来组织您的层级并简化工作流程&lt;&#x2F;p&gt;
+&lt;ul&gt;&lt;li &gt;&lt;strong&gt;简约&lt;&#x2F;strong&gt; - 无杂乱，无侵入性功能&lt;&#x2F;li&gt;&lt;li &gt;&lt;strong&gt;直观&lt;&#x2F;strong&gt; - 用户体验简单且精致&lt;&#x2F;li&gt;&lt;li &gt;&lt;strong&gt;可定制&lt;&#x2F;strong&gt; - 所有功能均为可选&lt;&#x2F;li&gt;&lt;li &gt;&lt;strong&gt;优化&lt;&#x2F;strong&gt; - 无延迟或卡顿&lt;&#x2F;li&gt;&lt;&#x2F;ul&gt;
+&lt;p &gt;&lt;strong&gt;自定义图标和颜色&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;p &gt;- 突出显示场景或预制件中的对象&lt;&#x2F;p&gt;&lt;p &gt;- 创建分隔符或文件夹&lt;&#x2F;p&gt;
+&lt;p &gt;&lt;strong&gt;组件小地图&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;p &gt;- 在右侧查看列出的组件&lt;&#x2F;p&gt;&lt;p &gt;- Alt-单击组件以打开迷你编辑器&lt;&#x2F;p&gt;
+&lt;p &gt;&lt;strong&gt;可定制调色板&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;p &gt;- 添加图标&lt;&#x2F;p&gt;&lt;p &gt;- 调整颜色&lt;&#x2F;p&gt;&lt;p &gt;- 导出以便在其他项目中使用&lt;&#x2F;p&gt;
+&lt;p &gt;&lt;strong&gt;可定制外观&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;p &gt;- 层级线&lt;&#x2F;p&gt;&lt;p &gt;- 简约模式&lt;&#x2F;p&gt;&lt;p &gt;- 条纹效果&lt;&#x2F;p&gt;
+&lt;p &gt;&lt;strong&gt;激活切换&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;p &gt;- 启用或禁用对象而无需选择它们&lt;&#x2F;p&gt;
+&lt;p &gt;&lt;strong&gt;快捷键&lt;&#x2F;strong&gt;（在鼠标下的对象上工作，无需选择它）&lt;&#x2F;p&gt;&lt;p &gt;- 按 A 切换激活状态&lt;&#x2F;p&gt;&lt;p &gt;- 按 F 聚焦对象&lt;&#x2F;p&gt;&lt;p &gt;- 按 X 删除对象&lt;&#x2F;p&gt;&lt;p &gt;- 按 E 展开或折叠&lt;&#x2F;p&gt;&lt;p &gt;- 按 Shift-E 仅展开一个对象&lt;&#x2F;p&gt;&lt;p &gt;- 按 Ctrl-Shift-E 折叠所有&lt;&#x2F;p&gt;
+&lt;p &gt;&lt;strong&gt;从 vHierarchy 1.0 升级的理由&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
+&lt;p &gt;在收集了半年的反馈后，我们添加了最受欢迎的功能，并进行了大量改进，以使您的体验更加顺畅：&lt;&#x2F;p&gt;&lt;br&gt;&lt;ul&gt;&lt;li &gt;&lt;strong&gt;多重选择编辑&lt;&#x2F;strong&gt; - 一次设置多个图标或颜色&lt;&#x2F;li&gt;&lt;li &gt;&lt;strong&gt;预制件中的图标&lt;&#x2F;strong&gt; - 在预制件中设置，它们将出现在场景中&lt;&#x2F;li&gt;&lt;li &gt;&lt;strong&gt;可自定义调色板&lt;&#x2F;strong&gt; - 添加自定义图标，导出以便在其他项目中使用&lt;&#x2F;li&gt;&lt;li &gt;&lt;strong&gt;可自定义外观&lt;&#x2F;strong&gt; - 按照您的喜好装饰层级&lt;&#x2F;li&gt;&lt;li &gt;&lt;strong&gt;渐变颜色&lt;&#x2F;strong&gt; - 如果需要，可以调整为平面&lt;&#x2F;li&gt;&lt;li &gt;&lt;strong&gt;激活切换&lt;&#x2F;strong&gt; - 一键启用或禁用对象&lt;&#x2F;li&gt;&lt;li &gt;&lt;strong&gt;组件自动固定&lt;&#x2F;strong&gt; - 开始拖动组件编辑器以固定它&lt;&#x2F;li&gt;&lt;li &gt;&lt;strong&gt;在场景文件中存储数据&lt;&#x2F;strong&gt; - 团队避免合并冲突的选项&lt;&#x2F;li&gt;&lt;li &gt;&lt;strong&gt;美学改进&lt;&#x2F;strong&gt; - 小调整带来大不同&lt;&#x2F;li&gt;&lt;li &gt;&lt;strong&gt;性能提升&lt;&#x2F;strong&gt;&lt;&#x2F;li&gt;&lt;&#x2F;ul&gt;</content>
+        
+    </entry>
+    <entry xml:lang="zh">
+        <title>DOTween Pro</title>
+        <published>2024-11-29T21:17:52+00:00</published>
+        <updated>2024-11-30T13:20:28+00:00</updated>
+        
+        <author>
+          <name>
+            
+              yzzfo
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://yzzfo.github.io/unity/store/dotween-pro/"/>
+        <id>https://yzzfo.github.io/unity/store/dotween-pro/</id>
+        
+        <content type="html" xml:base="https://yzzfo.github.io/unity/store/dotween-pro/">&lt;p&gt;Animate gameObjects visually (move, shake, fade, rotate, change camera properties, and a lot more), draw paths in the editor and follow them, plus power-up DOTween&#x27;s core with extra features&lt;br&gt;&lt;strong&gt;要求 UNITY 5.6.7&#x2F;2017&#x2F;2018&#x2F;2019 或更高版本（将根据你的 Unity 版本自动激活功能）。&lt;&#x2F;strong&gt;&lt;br&gt;&lt;br&gt;&lt;strong&gt;重要说明：&lt;&#x2F;strong&gt;如果从 1.0.244 或更旧的版本升级，请仔细&lt;a href=&quot;http:&#x2F;&#x2F;dotween.demigiant.com&#x2F;support.php#upgrade&quot;&gt;按照以下说明进行操作&lt;&#x2F;a&gt;&lt;br&gt;&lt;br&gt;&lt;strong&gt;在这里查看&lt;a href=&quot;http:&#x2F;&#x2F;dotween.demigiant.com&#x2F;pro.php#changelog&quot;&gt;完整的更改日志&lt;&#x2F;a&gt;&lt;&#x2F;strong&gt;&lt;br&gt;&lt;br&gt;DOTween Pro 扩展了 &lt;a href=&quot;https:&#x2F;&#x2F;assetstore.unity.com&#x2F;packages&#x2F;tools&#x2F;animation&#x2F;dotween-hotween-v2-27676&quot;&gt;DOTween&lt;&#x2F;a&gt; 免费引擎，实现了&lt;strong&gt;脚本&lt;&#x2F;strong&gt;和&lt;strong&gt;可视脚本&lt;&#x2F;strong&gt;的新功能，包括这些外部资源的额外功能（如果有）：&lt;br&gt;- &lt;strong&gt;2D 工具包&lt;&#x2F;strong&gt;&lt;br&gt;- &lt;strong&gt;TextMesh Pro&lt;&#x2F;strong&gt;（付费版和免费版）&lt;br&gt;&lt;br&gt;&lt;strong&gt;可视化动画编辑器&lt;&#x2F;strong&gt;&lt;br&gt;一个无需使用脚本即可对其游戏对象的某些属性进行动画处理的组件：移动、淡入淡出、颜色、旋转、缩放、冲击、振动、文本、摄影机属性等等。&lt;br&gt;同样适用于 &lt;strong&gt;2D 工具包&lt;&#x2F;strong&gt;和 &lt;strong&gt;TextMesh Pro&lt;&#x2F;strong&gt; 对象。&lt;br&gt;&lt;em&gt;应用了智能设置来使你可以通过 Unity UI onClick 事件轻松地与动画进行交互，并且&lt;strong&gt;无需进入游戏模式就可以预览动画效果。&lt;&#x2F;strong&gt;&lt;&#x2F;em&gt;&lt;br&gt;&lt;br&gt;&lt;strong&gt;可视化路径编辑器&lt;&#x2F;strong&gt;&lt;br&gt;一个允许沿着一条路径制作游戏对象动画的组件。&lt;br&gt;&lt;strong&gt;注意：&lt;&#x2F;strong&gt;可视化路径编辑器目前支持线性（直）或曲性 CatmullRom 路径和变换坐标（&lt;strong&gt;UI 路径还不支持&lt;&#x2F;strong&gt;）。&lt;br&gt;&lt;em&gt;应用了智能设置来使你可以通过 Unity UI onClick 事件轻松地与动画进行交互。&lt;&#x2F;em&gt;&lt;br&gt;&lt;br&gt;&lt;strong&gt;可视化编辑器管理器&lt;&#x2F;strong&gt;&lt;br&gt;一个可以从路径或动画效果编辑器添加的额外组件。它允许&lt;strong&gt;在其游戏对象被激活或停用时设置其他行为来执行&lt;&#x2F;strong&gt;（在使用池系统时特别有用）&lt;br&gt;&lt;br&gt;&lt;strong&gt;其他 DOTWEEN 脚本功能&lt;&#x2F;strong&gt;&lt;br&gt;- &lt;strong&gt;2D Toolkit&lt;&#x2F;strong&gt; 和 &lt;strong&gt;TextMesh Pro&lt;&#x2F;strong&gt; 的附加快捷方式，如果有的话。&lt;br&gt;- DOSpiral 快捷方式。&lt;br&gt;- 一个低级系统来&lt;strong&gt;逐字动画绘制 TextMesh Pro 的文本&lt;&#x2F;strong&gt;（ 歪斜、缩放、旋转、转换）。&lt;br&gt;&lt;br&gt;&lt;strong&gt;链接&lt;&#x2F;strong&gt;&lt;br&gt;&lt;a href=&quot;http:&#x2F;&#x2F;dotween.demigiant.com&quot;&gt;DOTween 网站&lt;&#x2F;a&gt;&lt;br&gt;&lt;a href=&quot;http:&#x2F;&#x2F;dotween.demigiant.com&#x2F;pro.php&quot;&gt;DOTween Pro&lt;&#x2F;a&gt;&lt;br&gt;&lt;a href=&quot;http:&#x2F;&#x2F;dotween.demigiant.com&#x2F;documentation.php&quot;&gt;在线文档&lt;&#x2F;a&gt;&lt;br&gt;&lt;a href=&quot;http:&#x2F;&#x2F;dotween.demigiant.com&#x2F;support.php&quot;&gt;Support&lt;&#x2F;a&gt;&lt;br&gt;&lt;a href=&quot;http:&#x2F;&#x2F;forum.unity3d.com&#x2F;threads&#x2F;dotween-hotween-v2-a-unity-tween-engine.260692&#x2F;&quot;&gt;Unity 论坛主题&lt;&#x2F;a&gt;&lt;br&gt;&lt;a href=&quot;http:&#x2F;&#x2F;www.demigiant.com&quot;&gt;发布者的网站&lt;&#x2F;a&gt;&lt;br&gt;&lt;br&gt;&lt;&#x2F;p&gt;
+</content>
+        
+    </entry>
+    <entry xml:lang="zh">
+        <title>Quantum Console</title>
+        <published>2024-11-29T21:16:53+00:00</published>
+        <updated>2024-11-30T13:17:30+00:00</updated>
+        
+        <author>
+          <name>
+            
+              yzzfo
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://yzzfo.github.io/unity/store/quantum-console/"/>
+        <id>https://yzzfo.github.io/unity/store/quantum-console/</id>
+        
+        <content type="html" xml:base="https://yzzfo.github.io/unity/store/quantum-console/">&lt;p&gt;Quantum Console 是一个拥有许多功能及容易使用的游戏命令控制台。只要在程序里输入[Command],您就可以在命令控制台另加特制的命令及游戏作弊码！&lt;br&gt;&lt;p &gt;&lt;strong&gt;技术支援: &lt;&#x2F;strong&gt;&lt;a href=&quot;mailto:support@qfsw.co.uk&quot; target=&quot;_blank&quot;&gt;邮件&lt;&#x2F;a&gt; | &lt;a href=&quot;https:&#x2F;&#x2F;discord.gg&#x2F;g8SJ7X6&quot; target=&quot;_blank&quot;&gt;Discord&lt;&#x2F;a&gt; | &lt;a href=&quot;https:&#x2F;&#x2F;bitbucket.org&#x2F;QFSW&#x2F;quantum-console&#x2F;issues&quot; target=&quot;_blank&quot;&gt;问题追踪&lt;&#x2F;a&gt; | &lt;a href=&quot;https:&#x2F;&#x2F;twitter.com&#x2F;QFSW1024&quot; target=&quot;_blank&quot;&gt;推特&lt;&#x2F;a&gt; | &lt;a href=&quot;https:&#x2F;&#x2F;www.qfsw.co.uk&#x2F;docs&#x2F;QC&#x2F;&quot; target=&quot;_blank&quot;&gt;资源&lt;&#x2F;a&gt; | &lt;a href=&quot;https:&#x2F;&#x2F;forum.unity.com&#x2F;threads&#x2F;quantum-console-the-ultimate-in-game-development-console.561151&#x2F;&quot; target=&quot;_blank&quot;&gt;讨论区&lt;&#x2F;a&gt; | &lt;a href=&quot;https:&#x2F;&#x2F;www.qfsw.co.uk&#x2F;demos&#x2F;QC&#x2F;&quot; target=&quot;_blank&quot;&gt;演示&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;&lt;p &gt;有問題嗎？歡迎聯絡客服尋求幫助以肯定 &lt;em&gt;Quantum Console&lt;&#x2F;em&gt; 正是適合您需要的解決方案。&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;&lt;strong&gt;使用&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;p &gt;&lt;em&gt;包括但不限于:&lt;&#x2F;em&gt;&lt;&#x2F;p&gt;&lt;p &gt;- 灵活的 QA 工具&lt;&#x2F;p&gt;&lt;p &gt;- 软件开发测试作弊码&lt;&#x2F;p&gt;&lt;p &gt;- 调试协助&lt;&#x2F;p&gt;&lt;p &gt;- 游戏中的作弊码&lt;&#x2F;p&gt;&lt;p &gt;- 适应任何项目&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;&lt;strong&gt;命令功能:&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;p &gt;- 强类型和弱类型命令&lt;&#x2F;p&gt;&lt;p &gt;- 命令重载以及缺省参数&lt;&#x2F;p&gt;&lt;p &gt;- 通用命令&lt;&#x2F;p&gt;&lt;p &gt;- 异步命令&lt;&#x2F;p&gt;&lt;p &gt;- 兼容 functions, properties, fields 和 delegates&lt;&#x2F;p&gt;&lt;p &gt;- 命令黑&#x2F;白名单&lt;&#x2F;p&gt;&lt;p &gt;- 方便使用&lt;&#x2F;p&gt;&lt;p &gt;- 完整 C# 源代码&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;&lt;strong&gt;命令控制台功能:&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;p &gt;- 显示 Debug.Log 消息&lt;&#x2F;p&gt;&lt;p &gt;- 高度可定制&lt;&#x2F;p&gt;&lt;p &gt;- 自定义主题系统&lt;&#x2F;p&gt;&lt;p &gt;- 命令建议和自动完成&lt;&#x2F;p&gt;&lt;p &gt;- 兼容 Text Mesh Pro&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;&lt;strong&gt;内置命令例子:&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;p &gt;- &lt;em&gt;call-static&#x2F;call-instance:&lt;&#x2F;em&gt; 应用任何C#函数属性&lt;&#x2F;p&gt;&lt;p &gt;- &lt;em&gt;man:&lt;&#x2F;em&gt; 显示指定命令的用户手册&lt;&#x2F;p&gt;&lt;p &gt;- &lt;em&gt;exec:&lt;&#x2F;em&gt; 运行时编译并执行 C# 源代码&lt;&#x2F;p&gt;&lt;p &gt;- &lt;em&gt;#define:&lt;&#x2F;em&gt; 定义并创建用户宏&lt;&#x2F;p&gt;&lt;p &gt;- &lt;em&gt;instantiate:&lt;&#x2F;em&gt; 实例对象的副本&lt;&#x2F;p&gt;&lt;p &gt;- &lt;em&gt;destroy:&lt;&#x2F;em&gt; 删除对象&lt;&#x2F;p&gt;&lt;p &gt;- &lt;em&gt;get-object-info:&lt;&#x2F;em&gt; 显示对象 transform 和 component 参数&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;支持仅以英语提供&lt;&#x2F;p&gt;&lt;&#x2F;p&gt;
+</content>
+        
+    </entry>
+    <entry xml:lang="zh">
+        <title>Behavior Designer - Behavior Trees for Everyone</title>
+        <published>2024-11-29T21:16:06+00:00</published>
+        <updated>2024-11-30T13:16:25+00:00</updated>
+        
+        <author>
+          <name>
+            
+              yzzfo
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://yzzfo.github.io/unity/store/behavior-designer-behavior-trees-for-everyone/"/>
+        <id>https://yzzfo.github.io/unity/store/behavior-designer-behavior-trees-for-everyone/</id>
+        
+        <content type="html" xml:base="https://yzzfo.github.io/unity/store/behavior-designer-behavior-trees-for-everyone/">&lt;p&gt;&lt;br&gt;AAA 工作室使用行为树来创建&lt;strong&gt;栩栩如生的 AI&lt;&#x2F;strong&gt;。有了Opsive 的 Behavior Designer，便可以将行为树的力量带给 Unity！&lt;br&gt;&lt;br&gt;Behavior Designer 是&lt;strong&gt;专为每个人设计的行为树实现&lt;&#x2F;strong&gt; - 程序员、艺术家、设计师。&lt;br&gt;&lt;br&gt;Behavior Designer 提供具有强大的 API 的直观可视化编辑器，帮您轻松创建新任务。它还包含数百个任务，PlayMaker 集成和广泛的第三方集成让你无需编写任何代码就能&lt;strong&gt;创建复杂 AI！&lt;&#x2F;strong&gt;&lt;br&gt;&lt;br&gt;从设计伊始，Behavior Designer 就旨在尽可能高效，做到&lt;strong&gt;初始化后零配置&lt;&#x2F;strong&gt;。因此，它在包括移动设备的所有平台上运行都很出色。Behavior Designer &lt;strong&gt;专注于行为树，这意味着每次更新都会有更好的行为树实现。&lt;&#x2F;strong&gt;&lt;br&gt;&lt;br&gt;&lt;a href=&quot;https:&#x2F;&#x2F;opsive.com&#x2F;assets&#x2F;behavior-designer&quot;&gt;概述&lt;&#x2F;a&gt;|&lt;a href=&quot;https:&#x2F;&#x2F;opsive.com&#x2F;support&#x2F;documentation&#x2F;behavior-designer&#x2F;overview&#x2F;&quot;&gt;文档&lt;&#x2F;a&gt;|&lt;a href=&quot;https:&#x2F;&#x2F;opsive.com&#x2F;videos&#x2F;?pid=803&quot;&gt;视频&lt;&#x2F;a&gt;|&lt;a href=&quot;https:&#x2F;&#x2F;opsive.com&#x2F;integrations&#x2F;?pid=803&quot;&gt;样本&lt;&#x2F;a&gt;|&lt;a href=&quot;http:&#x2F;&#x2F;forum.unity3d.com&#x2F;threads&#x2F;227497&quot;&gt;论坛&lt;&#x2F;a&gt;| &lt;a href=&quot;https:&#x2F;&#x2F;discord.gg&#x2F;QX6VFgc&quot;&gt;Discord&lt;&#x2F;a&gt;&lt;br&gt;&lt;br&gt;✔️&lt;strong&gt;功能：&lt;&#x2F;strong&gt;&lt;br&gt;• 一款直观的可视化编辑器&lt;br&gt;• 强大的 API&lt;br&gt;• 可视化运行时调试器&lt;br&gt;• 进行任务之间通信的变量&lt;br&gt;• 条件终止&lt;br&gt;• 内置在事件系统中&lt;br&gt;• 使用现有代码，进行反射任务&lt;br&gt;• 数百项任务&lt;br&gt;• 借助 Unity Theory 评估任务&lt;br&gt;• 实时错误检测&lt;br&gt;• 二进制或 JSON 序列化&lt;br&gt;• 数据导向设计&lt;br&gt;• 启动后零运行时分配&lt;br&gt;• 对象绘制器（属性绘制器）&lt;br&gt;• 包含运行时源代码&lt;br&gt;• 大量的文档和视频&lt;br&gt;• 提供在线样本项目&lt;br&gt;• &lt;a href=&quot;https:&#x2F;&#x2F;opsive.com&#x2F;assets&#x2F;behavior-designer&quot;&gt;以及更多&lt;&#x2F;a&gt;&lt;br&gt;&lt;br&gt;✔️ &lt;strong&gt;附件资源包：&lt;&#x2F;strong&gt;&lt;br&gt;• &lt;a href=&quot;https:&#x2F;&#x2F;assetstore.unity.com&#x2F;packages&#x2F;tools&#x2F;ai&#x2F;behavior-designer-formations-pack-28980&quot;&gt;编队包&lt;&#x2F;a&gt;&lt;br&gt;• &lt;a href=&quot;https:&#x2F;&#x2F;assetstore.unity.com&#x2F;packages&#x2F;tools&#x2F;ai&#x2F;behavior-designer-movement-pack-16853&quot;&gt;运动包&lt;&#x2F;a&gt;&lt;br&gt;• &lt;a href=&quot;https:&#x2F;&#x2F;assetstore.unity.com&#x2F;packages&#x2F;tools&#x2F;ai&#x2F;behavior-designer-tactical-pack-6182&quot;&gt;战术包&lt;&#x2F;a&gt;&lt;br&gt;&lt;br&gt;✔️ &lt;strong&gt;集成：&lt;&#x2F;strong&gt;&lt;br&gt;• 2D 工具包&lt;br&gt;• A* 寻路项目（运动包）&lt;br&gt;• 冒险制作器&lt;br&gt;• 反作弊工具包&lt;br&gt;• Blox&lt;br&gt;• Bolt（可视化脚本）&lt;br&gt;• 摄像机路径动画器&lt;br&gt;• Cinema Director&lt;br&gt;• 控制狂&lt;br&gt;• Core GameKit&lt;br&gt;• Curvy&lt;br&gt;• 对话系统&lt;br&gt;• DOTween&lt;br&gt;• Final IK&lt;br&gt;• Inventory Pro&lt;br&gt;• LeanTween&lt;br&gt;• Love&#x2F;Hate&lt;br&gt;• Master Audio&lt;br&gt;• 镜像&lt;br&gt;• NGUI&lt;br&gt;• 粒子运动场&lt;br&gt;• PlayMaker&lt;br&gt;• PolyNav（运动包）&lt;br&gt;• Pool Boss&lt;br&gt;• 池管理器&lt;br&gt;• 池、触发器、约束捆绑&lt;br&gt;• Rewired&lt;br&gt;- Simple Waypoint System&lt;br&gt;• 终极角色控制器&lt;br&gt;• 终级库存系统&lt;br&gt;• uScript&lt;br&gt;• uSequencer&lt;br&gt;&lt;br&gt;* 某些推广截屏包括来自运动包或第三方集成的任务。&lt;&#x2F;p&gt;
+</content>
+        
+    </entry>
+</feed>

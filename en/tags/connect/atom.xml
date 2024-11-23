@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+    <title>yzzfo - Connect</title>
+    <subtitle>Game Development Learning Resources</subtitle>
+    <link rel="self" type="application/atom+xml" href="https://yzzfo.github.io/en/tags/connect/atom.xml"/>
+    <link rel="alternate" type="text/html" href="https://yzzfo.github.io"/>
+    <generator uri="https://www.getzola.org/">Zola</generator>
+    <updated>2024-11-30T13:21:36+00:00</updated>
+    <id>https://yzzfo.github.io/en/tags/connect/atom.xml</id>
+    <entry xml:lang="en">
+        <title>UI Node Connect 4</title>
+        <published>2024-11-29T21:18:21+00:00</published>
+        <updated>2024-11-30T13:21:36+00:00</updated>
+        
+        <author>
+          <name>
+            
+              yzzfo
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://yzzfo.github.io/en/unity/store/ui-node-connect-4/"/>
+        <id>https://yzzfo.github.io/en/unity/store/ui-node-connect-4/</id>
+        
+        <content type="html" xml:base="https://yzzfo.github.io/en/unity/store/ui-node-connect-4/">&lt;p&gt;UI Node Connect 4 is a customizable runtime UGUI Node Graph Framework that facilitates the creation of interactive node graph interfaces inside your Game or App.&lt;br&gt;&lt;p &gt;The UI Node Connect 4 is a &lt;strong&gt;runtime UGUI Node Graph Framework&lt;&#x2F;strong&gt; with Nodes, Ports and Connections, drag and drop, a custom UI line renderer and useful features to create node graphs, flowcharts, circuit boards, connection puzzles, among other creative ways for the users to interact with your game or app.&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;📚&lt;strong&gt; &lt;&#x2F;strong&gt;&lt;a href=&quot;https:&#x2F;&#x2F;docs.google.com&#x2F;document&#x2F;d&#x2F;1Wh4QISqWpeRZiC1uXzM4CAO-uZuCs5Y8agiJM-xHhgo&#x2F;edit&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;Documentation&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;&lt;p &gt;📚&lt;strong&gt; &lt;&#x2F;strong&gt;&lt;a href=&quot;https:&#x2F;&#x2F;docs.google.com&#x2F;document&#x2F;d&#x2F;1Wh4QISqWpeRZiC1uXzM4CAO-uZuCs5Y8agiJM-xHhgo&#x2F;edit&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;Code Reference&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;&lt;p &gt;🎮&lt;strong&gt; &lt;&#x2F;strong&gt;&lt;a href=&quot;https:&#x2F;&#x2F;danielcmcg.itch.io&#x2F;logic-gates&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;Logic Gates Sample Scene&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;&lt;strong&gt;Customize the asset&lt;&#x2F;strong&gt; with your own sprites, texts, colors, buttons and expand it by adding new features using the API to &lt;strong&gt;hook up to events&lt;&#x2F;strong&gt; and analyze the &lt;strong&gt;Nodes, Ports and Connections&lt;&#x2F;strong&gt;.&lt;&#x2F;p&gt;&lt;p &gt;Make the Canvas part of your gameplay by adding a new interaction way for the users to manipulate and connect Nodes to each other.&lt;&#x2F;p&gt;&lt;&#x2F;p&gt;
+</content>
+        
+    </entry>
+</feed>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+    <title>yzzfo - Asset Database</title>
+    <subtitle>Game Development Learning Resources</subtitle>
+    <link rel="self" type="application/atom+xml" href="https://yzzfo.github.io/en/tags/asset-database/atom.xml"/>
+    <link rel="alternate" type="text/html" href="https://yzzfo.github.io"/>
+    <generator uri="https://www.getzola.org/">Zola</generator>
+    <updated>2024-11-30T13:23:24+00:00</updated>
+    <id>https://yzzfo.github.io/en/tags/asset-database/atom.xml</id>
+    <entry xml:lang="en">
+        <title>Runtime Editor</title>
+        <published>2024-11-29T21:19:38+00:00</published>
+        <updated>2024-11-30T13:23:24+00:00</updated>
+        
+        <author>
+          <name>
+            
+              yzzfo
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://yzzfo.github.io/en/unity/store/runtime-editor/"/>
+        <id>https://yzzfo.github.io/en/unity/store/runtime-editor/</id>
+        
+        <content type="html" xml:base="https://yzzfo.github.io/en/unity/store/runtime-editor/">&lt;p&gt;Runtime Editor is a set of scripts and prefabs that help you create scene editor, game level editor, or your own modeling application&lt;br&gt;&lt;p &gt;&lt;strong&gt;Runtime Editor&lt;&#x2F;strong&gt; is a set of scripts and prefabs designed to help you create a scene editor, game level editor, or build your own modeling application. It supports drag-and-drop, undo and redo, and a selection API. This asset extends the familiar concepts of prefabs, prefab variants, and assets found in the Unity Editor, making it easier than ever to manage and manipulate game assets at runtime.To implement the user interface and core functions, Runtime Editor uses &lt;a href=&quot;https:&#x2F;&#x2F;assetstore.unity.com&#x2F;packages&#x2F;tools&#x2F;modeling&#x2F;runtime-transform-handles-65363&quot; target=&quot;_blank&quot;&gt;transform-handles&lt;&#x2F;a&gt;, &lt;a href=&quot;https:&#x2F;&#x2F;assetstore.unity.com&#x2F;packages&#x2F;tools&#x2F;modeling&#x2F;gizmos-77103&quot; target=&quot;_blank&quot;&gt; gizmos&lt;&#x2F;a&gt;, &lt;a href=&quot;https:&#x2F;&#x2F;assetstore.unity.com&#x2F;packages&#x2F;slug&#x2F;263289&quot; target=&quot;_blank&quot;&gt;runtime asset database&lt;&#x2F;a&gt; and multiple ui controls including &lt;a href=&quot;https:&#x2F;&#x2F;assetstore.unity.com&#x2F;packages&#x2F;tools&#x2F;gui&#x2F;menu-control-138619&quot; target=&quot;_blank&quot;&gt;menu&lt;&#x2F;a&gt;, &lt;a href=&quot;https:&#x2F;&#x2F;assetstore.unity.com&#x2F;packages&#x2F;tools&#x2F;gui&#x2F;virtualizing-tree-view-101871&quot; target=&quot;_blank&quot;&gt;virtualizing tree view&lt;&#x2F;a&gt; and &lt;a href=&quot;https:&#x2F;&#x2F;assetstore.unity.com&#x2F;packages&#x2F;tools&#x2F;gui&#x2F;dock-panel-138621&quot; target=&quot;_blank&quot;&gt;dock panels.&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;Battlehub0x&#x2F;RTE_Docs&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;Docs &lt;&#x2F;strong&gt;&lt;&#x2F;a&gt;&lt;strong&gt;|&lt;&#x2F;strong&gt; &lt;a href=&quot;https:&#x2F;&#x2F;t.me&#x2F;battlehub&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;Telegram&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;&lt;strong&gt;Features:&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;p &gt;♥ Runtime Asset Database&lt;&#x2F;p&gt;&lt;p &gt;♥ Support for Prefabs and Prefab Variants&lt;&#x2F;p&gt;&lt;p &gt;♥ Support for Addressables&lt;&#x2F;p&gt;&lt;p &gt;♥ Position, Rotation, Scale transform handles;&lt;&#x2F;p&gt;&lt;p &gt;♥ Grid, Box Selection, Scene Gizmo;&lt;&#x2F;p&gt;&lt;p &gt;♥ Transform Handles Mobile;&lt;&#x2F;p&gt;&lt;p &gt;♥ Global &amp;amp; Local coordinates;&lt;&#x2F;p&gt;&lt;p &gt;♥ Local &amp;amp; Center pivot point modes;&lt;&#x2F;p&gt;&lt;p &gt;♥ Vertex &amp;amp; Grid snapping;&lt;&#x2F;p&gt;&lt;p &gt;♥ Gizmos for Colliders, Lights and Audio Sources;&lt;&#x2F;p&gt;&lt;p &gt;♥ Scene navigation, Orthographic &amp;amp; Perspective view;&lt;&#x2F;p&gt;&lt;p &gt;♥ Undo &amp;amp; Redo API;&lt;&#x2F;p&gt;&lt;p &gt;♥  Object Selection API;&lt;&#x2F;p&gt;&lt;p &gt;♥ Object life-cycle events;&lt;&#x2F;p&gt;&lt;p &gt;♥ Play &amp;amp; Edit mode;&lt;&#x2F;p&gt;&lt;p &gt;♥ Configurable Inspector;&lt;&#x2F;p&gt;&lt;p &gt;♥ Component &amp;amp; Material editors;&lt;&#x2F;p&gt;&lt;p &gt;♥ 20+ Built-in property editors;&lt;&#x2F;p&gt;&lt;p &gt;♥ Add Component control;&lt;&#x2F;p&gt;&lt;p &gt;♥ Multiple Scenes and Cameras support;&lt;&#x2F;p&gt;&lt;p &gt;♥ Dock Panels &amp;amp; Windows management;&lt;&#x2F;p&gt;&lt;p &gt;♥ Dialogs, Message Boxes, Confirmations;&lt;&#x2F;p&gt;&lt;p &gt;♥ Easy to extend with new windows;&lt;&#x2F;p&gt;&lt;p &gt;♥ Configurable Main &amp;amp; Context Menu;&lt;&#x2F;p&gt;&lt;p &gt;♥ Fast Virtualizing Tree View;&lt;&#x2F;p&gt;&lt;p &gt;♥ Multiple Projects support;&lt;&#x2F;p&gt;&lt;p &gt;♥ Ability to edit components of multiple selected objects;&lt;&#x2F;p&gt;&lt;p &gt;♥ Universal Render Pipeline support;&lt;&#x2F;p&gt;&lt;p &gt;♥ HD Renderer Pipeline support (Beta).&lt;&#x2F;p&gt;&lt;p &gt;&lt;strong&gt;This asset uses:&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;p &gt;♥ Roslyn .NET compiler;&lt;&#x2F;p&gt;&lt;p &gt;♥ HSV Color Picker;&lt;&#x2F;p&gt;&lt;p &gt;♥ protobuf-net;&lt;&#x2F;p&gt;&lt;p &gt;♥ SharpZipLib.&lt;&#x2F;p&gt;&lt;p &gt;♥ &lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;sebastienros&#x2F;jint&quot; target=&quot;_blank&quot;&gt;Jint&lt;&#x2F;a&gt;.&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;&#x2F;p&gt;
+</content>
+        
+    </entry>
+</feed>

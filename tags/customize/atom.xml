@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh">
+    <title>yzzfo - Customize</title>
+    <subtitle>游戏开发学习资源分享</subtitle>
+    <link rel="self" type="application/atom+xml" href="https://yzzfo.github.io/tags/customize/atom.xml"/>
+    <link rel="alternate" type="text/html" href="https://yzzfo.github.io"/>
+    <generator uri="https://www.getzola.org/">Zola</generator>
+    <updated>2024-12-06T14:29:51+00:00</updated>
+    <id>https://yzzfo.github.io/tags/customize/atom.xml</id>
+    <entry xml:lang="zh">
+        <title>POLYGON Modular Fantasy Hero Characters - Low Poly 3D Art by Synty</title>
+        <published>2024-12-06T14:29:51+00:00</published>
+        <updated>2024-12-06T14:29:51+00:00</updated>
+        
+        <author>
+          <name>
+            
+              yzzfo
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://yzzfo.github.io/unity/store/polygon-modular-fantasy-hero-characters-low-poly-3d-art-by-synty/"/>
+        <id>https://yzzfo.github.io/unity/store/polygon-modular-fantasy-hero-characters-low-poly-3d-art-by-synty/</id>
+        
+        <content type="html" xml:base="https://yzzfo.github.io/unity/store/polygon-modular-fantasy-hero-characters-low-poly-3d-art-by-synty/">&lt;p&gt;&lt;br&gt;🔔 &lt;STRONG&gt;SYNTY STUDIOS 公告 🔔&lt;BR&gt;&lt;a href=&quot;https:&#x2F;&#x2F;assetstore.unity.com&#x2F;packages&#x2F;3d&#x2F;environments&#x2F;fantasy&#x2F;polygon-fantasy-kingdom-164532&quot;&gt;POLYGON - 幻想王国&lt;&#x2F;a&gt; - 现已推出！&lt;&#x2F;STRONG&gt;&lt;BR&gt;&lt;BR&gt;&lt;STRONG&gt; &lt;a href=&quot;https:&#x2F;&#x2F;assetstore.unity.com&#x2F;publishers&#x2F;5217&quot;&gt;Synty Studios™&lt;&#x2F;a&gt; presents -&lt;BR&gt;POLYGON - 模块化幻想英雄角色&lt;BR&gt;&lt;&#x2F;STRONG&gt;一个低多边形模块化角色资源包，为您的幻想游戏创建角色，也可制作角色创建器供玩家创建自己的英雄。&lt;BR&gt;&lt;BR&gt;&lt;p&gt;◼ &lt;STRONG&gt;主要特点&lt;&#x2F;STRONG&gt; ◼&lt;BR&gt;&lt;&#x2F;p&gt;- 720 个模块化部件，带有可改变颜色的自定义着色器&lt;BR&gt;- 包含随机角色剧本生成器的演示场景&lt;BR&gt;- 每个身体部位的男女版本（不包括中性部位）&lt;BR&gt;- 适用于&lt;a href=&quot;https:&#x2F;&#x2F;www.assetstore.unity3d.com&#x2F;en&#x2F;?stay#!&#x2F;content&#x2F;16743&quot;&gt;动态骨骼&lt;&#x2F;a&gt;的披风&lt;BR&gt;- 模块化部件的 120 个预制角色&lt;BR&gt;- 游戏中可选的静态版本，适用于 UI 等&lt;BR&gt;&lt;BR&gt;&lt;p&gt;◼ &lt;STRONG&gt;资源&lt;&#x2F;STRONG&gt; ◼&lt;BR&gt;&lt;&#x2F;p&gt;&lt;STRONG&gt;模块化角色资源&lt;&#x2F;STRONG&gt;&lt;BR&gt;- 头发、头部、眉毛、面部毛发、帽子、遮罩、头盔、躯干、胯部、腿、手臂、手、护膝、垫肩、护肘、胯部附件、包、披风等&lt;BR&gt;&lt;BR&gt;&lt;STRONG&gt;武器资源&lt;&#x2F;STRONG&gt;&lt;BR&gt;- 斧头、匕首、长矛、锤矛、盾牌、盾牌、长杖、剑、刀等&lt;BR&gt;&lt;BR&gt;&lt;p&gt;◼ &lt;STRONG&gt;兼容性&lt;&#x2F;STRONG&gt; ◼&lt;BR&gt;&lt;&#x2F;p&gt;- 适用于 Unity 2019.1 及更高版本&lt;BR&gt;- 通用渲染管线 (URP)&lt;BR&gt;- 设置角色，与 Mecanim 一起使用（该资源包不包含动画）&lt;BR&gt;&lt;BR&gt;&lt;p&gt;◼ &lt;STRONG&gt;其他资源&lt;&#x2F;STRONG&gt; ◼&lt;BR&gt;&lt;&#x2F;p&gt;将此资源包与我们的其他幻想资源结合 -&lt;BR&gt;&lt;STRONG&gt; &lt;a href=&quot;https:&#x2F;&#x2F;assetstore.unity.com&#x2F;packages&#x2F;3d&#x2F;environments&#x2F;dungeons&#x2F;polygon-dungeons-pack-102677&quot;&gt;- POLYGON Dungeons&lt;&#x2F;a&gt;&lt;BR&gt;&lt;a href=&quot;https:&#x2F;&#x2F;assetstore.unity.com&#x2F;packages&#x2F;3d&#x2F;environments&#x2F;fantasy&#x2F;polygon-knights-pack-83694&quot;&gt;- POLYGON 骑士&lt;&#x2F;a&gt;&lt;BR&gt;&lt;a href=&quot;https:&#x2F;&#x2F;assetstore.unity.com&#x2F;packages&#x2F;3d&#x2F;characters&#x2F;humanoids&#x2F;polygon-fantasy-rivals-118399&quot;&gt;- POLYGON 幻想对手&lt;&#x2F;a&gt;&lt;BR&gt;&lt;a href=&quot;https:&#x2F;&#x2F;assetstore.unity.com&#x2F;packages&#x2F;3d&#x2F;characters&#x2F;humanoids&#x2F;polygon-fantasy-characters-97186&quot;&gt;- POLYGON 幻想角色&lt;&#x2F;a&gt;&lt;BR&gt;&lt;BR&gt;&lt;&#x2F;STRONG&gt;需要帮助？&lt;BR&gt;&lt;STRONG&gt; &lt;a href=&quot;mailto:support@syntystudios.com&quot;&gt;EMAIL&lt;&#x2F;a&gt; | &lt;a href=&quot;https:&#x2F;&#x2F;www.syntystudios.com&#x2F;faq&quot;&gt;FAQ&lt;&#x2F;a&gt; | &lt;a href=&quot;https:&#x2F;&#x2F;www.youtube.com&#x2F;playlist?list=PL2QPFqe01WRkGN7J8X0Okgq7R3REbCt48&quot;&gt;TUTORIALS&lt;&#x2F;a&gt; | &lt;a href=&quot;http:&#x2F;&#x2F;bit.ly&#x2F;30aOuGW&quot;&gt;DISCORD&lt;&#x2F;a&gt;&lt;BR&gt;&lt;&#x2F;STRONG&gt;&lt;BR&gt;&lt;&#x2F;p&gt;
+</content>
+        
+    </entry>
+</feed>

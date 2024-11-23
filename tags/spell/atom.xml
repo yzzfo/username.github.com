@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh">
+    <title>yzzfo - Spell</title>
+    <subtitle>游戏开发学习资源分享</subtitle>
+    <link rel="self" type="application/atom+xml" href="https://yzzfo.github.io/tags/spell/atom.xml"/>
+    <link rel="alternate" type="text/html" href="https://yzzfo.github.io"/>
+    <generator uri="https://www.getzola.org/">Zola</generator>
+    <updated>2024-12-06T14:26:09+00:00</updated>
+    <id>https://yzzfo.github.io/tags/spell/atom.xml</id>
+    <entry xml:lang="zh">
+        <title>Battle Sound Library - Magic &amp; Melee - Fantasy RPG</title>
+        <published>2024-12-06T14:26:09+00:00</published>
+        <updated>2024-12-06T14:26:09+00:00</updated>
+        
+        <author>
+          <name>
+            
+              yzzfo
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://yzzfo.github.io/unity/store/battle-sound-library-magic-melee-fantasy-rpg/"/>
+        <id>https://yzzfo.github.io/unity/store/battle-sound-library-magic-melee-fantasy-rpg/</id>
+        
+        <content type="html" xml:base="https://yzzfo.github.io/unity/store/battle-sound-library-magic-melee-fantasy-rpg/">&lt;p&gt;Hundreds of sound clips, and thousands upon thousands of mixes. Create custom combined sounds with the easy to use &quot;Audio Clip Combiner&quot;, and create the perfect soundscape for your project&lt;&#x2F;p&gt;
+&lt;p &gt;--------------------------------------------------&lt;&#x2F;p&gt;&lt;p &gt;&lt;strong&gt;支持、问题、新闻与更新&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;p &gt;➡️ &lt;a href=&quot;https:&#x2F;&#x2F;discord.gg&#x2F;uf3QPF&quot; target=&quot;_blank&quot;&gt;Discord&lt;&#x2F;a&gt; | &lt;a href=&quot;https:&#x2F;&#x2F;infinitypbr.gitbook.io&#x2F;infinity-pbr&#x2F;audio-clip-combiner&quot; target=&quot;_blank&quot;&gt;教程&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;&lt;p &gt;--------------------------------------------------&lt;&#x2F;p&gt;
+&lt;p &gt;&lt;strong&gt;魔法与近战可定制音效库&lt;&#x2F;strong&gt;旨在考虑到定制和随机化。混合和匹配组件声音，您可以拥有数千种独特的声音。&lt;&#x2F;p&gt;
+&lt;p &gt;在运行时随机组合音频片段，或通过单击导出并选择您最喜欢的组合。&lt;&#x2F;p&gt;
+&lt;p &gt;&lt;strong&gt;&lt;em&gt;包括 &lt;&#x2F;em&gt;&lt;&#x2F;strong&gt;&lt;a href=&quot;https:&#x2F;&#x2F;assetstore.unity.com&#x2F;packages&#x2F;slug&#x2F;232612&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;&lt;em&gt;音频片段合成器&lt;&#x2F;em&gt;&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt;&lt;strong&gt;&lt;em&gt; 工具！&lt;&#x2F;em&gt;&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
+&lt;p &gt;&lt;strong&gt;更新&lt;&#x2F;strong&gt;: 音频片段合成器现在有一个“播放随机样本”按钮，可以在导出之前采样声音，在编辑时使用。还有一个“文件夹”上传 -- 选择一个文件夹，所有的音频片段将被添加到该层。&lt;&#x2F;p&gt;
+&lt;p &gt;或者，创建一个新的音频片段合成器对象，选择一个父文件夹，每个包含音频的子文件夹将作为新层添加。&lt;&#x2F;p&gt;
+&lt;p &gt;&amp;#128302;&lt;strong&gt;&lt;em&gt;魔法&lt;&#x2F;em&gt;&lt;&#x2F;strong&gt;&amp;#129502;&lt;&#x2F;p&gt;&lt;p &gt;空气、土壤、电、邪恶&#x2F;黑暗、火、神圣&#x2F;光、冰、毒和水魔法包括多种爆炸、击打、长短热身。&lt;&#x2F;p&gt;
+&lt;p &gt;将这些与通用增益、嗡嗡声和脉冲、法术失效和失败等结合，创造出适合您法术的大量魔法声音。&lt;&#x2F;p&gt;&lt;br&gt;&lt;p&gt;⚔️&lt;strong&gt;&lt;em&gt;近战&lt;&#x2F;em&gt;&lt;&#x2F;strong&gt;&amp;#128737;&lt;&#x2F;p&gt;&lt;p&gt;创建武器类型和伤害类型的组合：肉体、金属和木材目标。武器包括斧头、弓箭、棍棒、拳头、盾牌和剑。&lt;&#x2F;p&gt;
+&lt;p&gt;每组基于多种武器、目标和冲击声音有125种组合。&lt;&#x2F;p&gt;
+&lt;p&gt;⚔️&amp;#128302; &lt;strong&gt;&lt;em&gt;魔法武器&lt;&#x2F;em&gt;&lt;&#x2F;strong&gt;&amp;#129502;&amp;#128737;&lt;&#x2F;p&gt;
+&lt;p&gt;将魔法和近战声音结合在一起，创造出更多声音，如“火焰剑”或“黑暗棍”。&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;strong&gt;500+ 音频片段&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;p&gt;&lt;em&gt;数以万计的可能性&lt;&#x2F;em&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;库中起始约有&lt;strong&gt;500个独立音频片段&lt;&#x2F;strong&gt;。当你开始混合搭配时，这个数量会增长到数十万。你甚至可以将其他包中的音频混合在一起，创造出其他游戏没有的独特声音。&lt;&#x2F;p&gt;
+&lt;p&gt;--------------------------------------&lt;&#x2F;p&gt;&lt;p&gt;查看更多信息及我们所有的模型，请访问 &lt;a href=&quot;http:&#x2F;&#x2F;www.infinitypbr.com&#x2F;&quot; target=&quot;_blank&quot;&gt;InfinityPBR.com&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;&lt;p&gt;--------------------------------------&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;strong&gt;如果您购买了此包，非常感谢！请留下评分和评论，以便其他人了解它的情况！如果您有任何问题、请求或其他事项，&lt;&#x2F;strong&gt;&lt;a href=&quot;https:&#x2F;&#x2F;forum.unity3d.com&#x2F;threads&#x2F;infinity-series-works-in-progress-mega-thread.408430&#x2F;&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;请在论坛上与我联系。&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;</content>
+        
+    </entry>
+    <entry xml:lang="zh">
+        <title>Mesh Effects</title>
+        <published>2024-11-29T21:19:19+00:00</published>
+        <updated>2024-11-30T13:23:02+00:00</updated>
+        
+        <author>
+          <name>
+            
+              yzzfo
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://yzzfo.github.io/unity/store/mesh-effects/"/>
+        <id>https://yzzfo.github.io/unity/store/mesh-effects/</id>
+        
+        <content type="html" xml:base="https://yzzfo.github.io/unity/store/mesh-effects/">&lt;p&gt;&lt;br&gt;此软件包包含 21 种网格特效。&lt;br&gt;&lt;br&gt;注意：在升级之前，必须删除旧版的软件包。&lt;br&gt;&lt;br&gt;若要使用 URP 和 HDRP，需要导入项目文件夹中包含的补丁。从 Unity 2019.2.19f 起可使用 URP 和 HDRP 渲染&lt;br&gt;&lt;br&gt;支持 PC&#x2F;游戏主机&#x2F;移动设备&#x2F;VR。&lt;br&gt;不兼容 2D 精灵&lt;br&gt;&lt;br&gt;&lt;a href=&quot;http:&#x2F;&#x2F;kripto289.com&#x2F;AssetStore&#x2F;WeaponFX&#x2F;1.4&#x2F;PC.zip&quot;&gt;PC 演示&lt;&#x2F;a&gt;&lt;br&gt;&lt;a href=&quot;http:&#x2F;&#x2F;kripto289.com&#x2F;AssetStore&#x2F;WeaponFX&#x2F;1.4&#x2F;MeshEffectsDemo.apk&quot;&gt;移动版演示&lt;&#x2F;a&gt;&lt;br&gt;&lt;br&gt;- 开箱即用（只需拖放即可）&lt;br&gt;- 单击获得任何颜色&lt;br&gt;- 特效根据真正的网格尺寸进行缩放&lt;br&gt;- 兼容“网格渲染器”和“蒙皮网格渲染器”&lt;br&gt;- 随附演示场景（带动画&#x2F;角色&#x2F;武器&#x2F;环境）&lt;br&gt;重要事项！Unity3d 不支持每个子网格超过 1 个材质。要正常工作，需要分拆子网格。&lt;br&gt;&lt;br&gt;如果有任何疑问或建议，请给我发送&lt;a href=&quot;mailto:kripto289@gmail.com&quot;&gt;电子邮件&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+</content>
+        
+    </entry>
+    <entry xml:lang="zh">
+        <title>Unique Projectiles Volume 1</title>
+        <published>2024-11-29T21:17:03+00:00</published>
+        <updated>2024-11-30T13:17:38+00:00</updated>
+        
+        <author>
+          <name>
+            
+              yzzfo
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://yzzfo.github.io/unity/store/unique-projectiles-volume-1/"/>
+        <id>https://yzzfo.github.io/unity/store/unique-projectiles-volume-1/</id>
+        
+        <content type="html" xml:base="https://yzzfo.github.io/unity/store/unique-projectiles-volume-1/">&lt;p&gt;&lt;br&gt;&lt;strong&gt;30款风格化的发射物&lt;&#x2F;strong&gt;，包括法术、子弹、火球、黑魔法、箭等等。完美适用于 PC 和移动端，同时也可用在多种游戏类型和美术风格里。查看新增内容：&lt;a href=&quot;https:&#x2F;&#x2F;assetstore.unity.com&#x2F;packages&#x2F;vfx&#x2F;particles&#x2F;unique-projectiles-vol-2-156067&quot;&gt;独特的投掷物第 2 卷&lt;&#x2F;a&gt;&lt;br&gt;&lt;br&gt;&lt;a href=&quot;https:&#x2F;&#x2F;gabrielaguiarprod.itch.io&#x2F;unique-projectiles-vol1&quot;&gt;WebGL 演示&lt;&#x2F;a&gt;&lt;br&gt;&lt;br&gt;此资源包包含：&lt;br&gt;&lt;br&gt;- &lt;strong&gt;30 种投掷物&lt;&#x2F;strong&gt;预制件；&lt;br&gt;- &lt;strong&gt;30 种击中&#x2F;撞&lt;&#x2F;strong&gt;击预制件；&lt;br&gt;- &lt;strong&gt;26 种枪炮口&lt;&#x2F;strong&gt;预制件；&lt;br&gt;- &lt;strong&gt;PC 演示&lt;&#x2F;strong&gt;；&lt;br&gt;- &lt;strong&gt;移动端演示&lt;&#x2F;strong&gt;；&lt;br&gt;- &lt;strong&gt;2D 演示&lt;&#x2F;strong&gt;；&lt;br&gt;- &lt;strong&gt;可自定义着色器&lt;&#x2F;strong&gt;；&lt;br&gt;- &lt;strong&gt;粒子系统控制器脚本&lt;&#x2F;strong&gt;（控制尺寸、速度、颜色等）；&lt;br&gt;- &lt;strong&gt;投掷物脚本&lt;&#x2F;strong&gt;（控制火力率、精度、火点等）；&lt;br&gt;- 支持 &lt;strong&gt;HDRP&lt;&#x2F;strong&gt; 和 &lt;strong&gt;LWRP&lt;&#x2F;strong&gt;；&lt;br&gt;&lt;br&gt;&lt;br&gt;将投掷物与不同的攻击&#x2F;碰撞或不同枪口相互组合，只要你想象得到！&lt;br&gt;&lt;br&gt;特效已经优化，可以轻松地重新设置尺寸、时间轴和颜色。&lt;br&gt;&lt;br&gt;如有疑问请联系我。&lt;br&gt;&lt;br&gt;更多 VFX 资源包：&lt;br&gt;- &lt;strong&gt;&lt;a href=&quot;https:&#x2F;&#x2F;assetstore.unity.com&#x2F;packages&#x2F;vfx&#x2F;particles&#x2F;unique-projectiles-vol-2-156067&quot;&gt;独特投掷物第 1 卷&lt;&#x2F;a&gt;&lt;&#x2F;strong&gt;&lt;br&gt;- &lt;strong&gt;&lt;a href=&quot;https:&#x2F;&#x2F;assetstore.unity.com&#x2F;packages&#x2F;vfx&#x2F;particles&#x2F;unique-toon-projectiles-vol-1-139417&quot;&gt;独特卡通投掷物第 1 卷&lt;&#x2F;a&gt;&lt;&#x2F;strong&gt;&lt;br&gt;- &lt;strong&gt;&lt;a href=&quot;https:&#x2F;&#x2F;assetstore.unity.com&#x2F;packages&#x2F;vfx&#x2F;particles&#x2F;unique-aoe-magic-abilities-volume-1-132947&quot;&gt;独特 AoE 魔法技能第 1 卷&lt;&#x2F;a&gt;&lt;&#x2F;strong&gt;&lt;br&gt;- &lt;strong&gt;&lt;a href=&quot;https:&#x2F;&#x2F;assetstore.unity.com&#x2F;packages&#x2F;vfx&#x2F;particles&#x2F;unique-lasers-volume-1-118909&quot;&gt;独特激光第 1 卷&lt;&#x2F;a&gt;&lt;&#x2F;strong&gt;&lt;br&gt;- &lt;strong&gt;&lt;a href=&quot;https:&#x2F;&#x2F;assetstore.unity.com&#x2F;packages&#x2F;vfx&#x2F;particles&#x2F;unique-explosions-volume-1-98839&quot;&gt;独特爆炸第 1 卷&lt;&#x2F;a&gt;&lt;&#x2F;strong&gt;&lt;br&gt;&lt;br&gt;&lt;&#x2F;p&gt;
+</content>
+        
+    </entry>
+</feed>

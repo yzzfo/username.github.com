@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+    <title>yzzfo - RTS</title>
+    <subtitle>Game Development Learning Resources</subtitle>
+    <link rel="self" type="application/atom+xml" href="https://yzzfo.github.io/en/tags/rts/atom.xml"/>
+    <link rel="alternate" type="text/html" href="https://yzzfo.github.io"/>
+    <generator uri="https://www.getzola.org/">Zola</generator>
+    <updated>2024-11-30T13:15:32+00:00</updated>
+    <id>https://yzzfo.github.io/en/tags/rts/atom.xml</id>
+    <entry xml:lang="en">
+        <title>A* Pathfinding Project Pro</title>
+        <published>2024-11-29T21:15:47+00:00</published>
+        <updated>2024-11-30T13:15:32+00:00</updated>
+        
+        <author>
+          <name>
+            
+              yzzfo
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://yzzfo.github.io/en/unity/store/a-pathfinding-project-pro/"/>
+        <id>https://yzzfo.github.io/en/unity/store/a-pathfinding-project-pro/</id>
+        
+        <content type="html" xml:base="https://yzzfo.github.io/en/unity/store/a-pathfinding-project-pro/">&lt;p&gt;The A* Pathfinding Project is a powerful and easy to use pathfinding system for Unity. With blazing fast pathfinding your AIs will be able to find the player in complex mazes in no time at all.&lt;br&gt;&lt;p &gt;Whether you write an RPG, FPS, RTS or TD game, this package is for you. With heavily optimized algorithms and a large, yet simple to use, feature set, you will quickly be able to make those bots a bit smarter.&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;&lt;strong&gt;Features&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;ul&gt;&lt;li &gt;Supports grid, navmesh, point and hexagonal graphs.&lt;&#x2F;li&gt;&lt;li &gt;Automatic navmesh generation, to save you from doing it manually.&lt;&#x2F;li&gt;&lt;li &gt;High performance and fully multithreaded, so it will barely affect the frame rate.&lt;&#x2F;li&gt;&lt;li &gt;Smooth agent movement.&lt;&#x2F;li&gt;&lt;li &gt;A single line of code to make a pathfinding request.&lt;&#x2F;li&gt;&lt;li &gt;Graphs can be saved to files.&lt;&#x2F;li&gt;&lt;li &gt;Supports both 2D and 3D games.&lt;&#x2F;li&gt;&lt;li &gt;Local Avoidance.&lt;&#x2F;li&gt;&lt;li &gt;Source code included.&lt;&#x2F;li&gt;&lt;li &gt;Supports updating graphs during runtime.&lt;&#x2F;li&gt;&lt;li &gt;Uses the Burst compiler, Unity Job System, and (optionally) ECS under the hood, for maximum performance.&lt;&#x2F;li&gt;&lt;li &gt;Allows tagging nodes to make different agents treat them in different ways.&lt;&#x2F;li&gt;&lt;li &gt;And so much more.&lt;&#x2F;li&gt;&lt;&#x2F;ul&gt;&lt;p &gt;&lt;a href=&quot;http:&#x2F;&#x2F;arongranberg.com&#x2F;astar&#x2F;media&quot; target=&quot;_blank&quot;&gt;Demos and videos&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;&lt;p &gt;&lt;a href=&quot;http:&#x2F;&#x2F;arongranberg.com&#x2F;astar&#x2F;&quot; target=&quot;_blank&quot;&gt;More info here!&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;&lt;strong&gt;Extensive documentation&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;ul&gt;&lt;li &gt;Includes a total of 16 example scenes to help you get started.&lt;&#x2F;li&gt;&lt;li &gt;A comprehensive &lt;a href=&quot;https:&#x2F;&#x2F;www.arongranberg.com&#x2F;astar&#x2F;docs&#x2F;&quot; target=&quot;_blank&quot;&gt;online documentation&lt;&#x2F;a&gt; with tutorials, and in which almost all functions and fields are documented.&lt;&#x2F;li&gt;&lt;&#x2F;ul&gt;&lt;&#x2F;p&gt;
+</content>
+        
+    </entry>
+</feed>

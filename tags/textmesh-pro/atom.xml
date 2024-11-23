@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh">
+    <title>yzzfo - TextMesh Pro</title>
+    <subtitle>游戏开发学习资源分享</subtitle>
+    <link rel="self" type="application/atom+xml" href="https://yzzfo.github.io/tags/textmesh-pro/atom.xml"/>
+    <link rel="alternate" type="text/html" href="https://yzzfo.github.io"/>
+    <generator uri="https://www.getzola.org/">Zola</generator>
+    <updated>2024-11-30T13:20:28+00:00</updated>
+    <id>https://yzzfo.github.io/tags/textmesh-pro/atom.xml</id>
+    <entry xml:lang="zh">
+        <title>DOTween Pro</title>
+        <published>2024-11-29T21:17:52+00:00</published>
+        <updated>2024-11-30T13:20:28+00:00</updated>
+        
+        <author>
+          <name>
+            
+              yzzfo
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://yzzfo.github.io/unity/store/dotween-pro/"/>
+        <id>https://yzzfo.github.io/unity/store/dotween-pro/</id>
+        
+        <content type="html" xml:base="https://yzzfo.github.io/unity/store/dotween-pro/">&lt;p&gt;Animate gameObjects visually (move, shake, fade, rotate, change camera properties, and a lot more), draw paths in the editor and follow them, plus power-up DOTween&#x27;s core with extra features&lt;br&gt;&lt;strong&gt;要求 UNITY 5.6.7&#x2F;2017&#x2F;2018&#x2F;2019 或更高版本（将根据你的 Unity 版本自动激活功能）。&lt;&#x2F;strong&gt;&lt;br&gt;&lt;br&gt;&lt;strong&gt;重要说明：&lt;&#x2F;strong&gt;如果从 1.0.244 或更旧的版本升级，请仔细&lt;a href=&quot;http:&#x2F;&#x2F;dotween.demigiant.com&#x2F;support.php#upgrade&quot;&gt;按照以下说明进行操作&lt;&#x2F;a&gt;&lt;br&gt;&lt;br&gt;&lt;strong&gt;在这里查看&lt;a href=&quot;http:&#x2F;&#x2F;dotween.demigiant.com&#x2F;pro.php#changelog&quot;&gt;完整的更改日志&lt;&#x2F;a&gt;&lt;&#x2F;strong&gt;&lt;br&gt;&lt;br&gt;DOTween Pro 扩展了 &lt;a href=&quot;https:&#x2F;&#x2F;assetstore.unity.com&#x2F;packages&#x2F;tools&#x2F;animation&#x2F;dotween-hotween-v2-27676&quot;&gt;DOTween&lt;&#x2F;a&gt; 免费引擎，实现了&lt;strong&gt;脚本&lt;&#x2F;strong&gt;和&lt;strong&gt;可视脚本&lt;&#x2F;strong&gt;的新功能，包括这些外部资源的额外功能（如果有）：&lt;br&gt;- &lt;strong&gt;2D 工具包&lt;&#x2F;strong&gt;&lt;br&gt;- &lt;strong&gt;TextMesh Pro&lt;&#x2F;strong&gt;（付费版和免费版）&lt;br&gt;&lt;br&gt;&lt;strong&gt;可视化动画编辑器&lt;&#x2F;strong&gt;&lt;br&gt;一个无需使用脚本即可对其游戏对象的某些属性进行动画处理的组件：移动、淡入淡出、颜色、旋转、缩放、冲击、振动、文本、摄影机属性等等。&lt;br&gt;同样适用于 &lt;strong&gt;2D 工具包&lt;&#x2F;strong&gt;和 &lt;strong&gt;TextMesh Pro&lt;&#x2F;strong&gt; 对象。&lt;br&gt;&lt;em&gt;应用了智能设置来使你可以通过 Unity UI onClick 事件轻松地与动画进行交互，并且&lt;strong&gt;无需进入游戏模式就可以预览动画效果。&lt;&#x2F;strong&gt;&lt;&#x2F;em&gt;&lt;br&gt;&lt;br&gt;&lt;strong&gt;可视化路径编辑器&lt;&#x2F;strong&gt;&lt;br&gt;一个允许沿着一条路径制作游戏对象动画的组件。&lt;br&gt;&lt;strong&gt;注意：&lt;&#x2F;strong&gt;可视化路径编辑器目前支持线性（直）或曲性 CatmullRom 路径和变换坐标（&lt;strong&gt;UI 路径还不支持&lt;&#x2F;strong&gt;）。&lt;br&gt;&lt;em&gt;应用了智能设置来使你可以通过 Unity UI onClick 事件轻松地与动画进行交互。&lt;&#x2F;em&gt;&lt;br&gt;&lt;br&gt;&lt;strong&gt;可视化编辑器管理器&lt;&#x2F;strong&gt;&lt;br&gt;一个可以从路径或动画效果编辑器添加的额外组件。它允许&lt;strong&gt;在其游戏对象被激活或停用时设置其他行为来执行&lt;&#x2F;strong&gt;（在使用池系统时特别有用）&lt;br&gt;&lt;br&gt;&lt;strong&gt;其他 DOTWEEN 脚本功能&lt;&#x2F;strong&gt;&lt;br&gt;- &lt;strong&gt;2D Toolkit&lt;&#x2F;strong&gt; 和 &lt;strong&gt;TextMesh Pro&lt;&#x2F;strong&gt; 的附加快捷方式，如果有的话。&lt;br&gt;- DOSpiral 快捷方式。&lt;br&gt;- 一个低级系统来&lt;strong&gt;逐字动画绘制 TextMesh Pro 的文本&lt;&#x2F;strong&gt;（ 歪斜、缩放、旋转、转换）。&lt;br&gt;&lt;br&gt;&lt;strong&gt;链接&lt;&#x2F;strong&gt;&lt;br&gt;&lt;a href=&quot;http:&#x2F;&#x2F;dotween.demigiant.com&quot;&gt;DOTween 网站&lt;&#x2F;a&gt;&lt;br&gt;&lt;a href=&quot;http:&#x2F;&#x2F;dotween.demigiant.com&#x2F;pro.php&quot;&gt;DOTween Pro&lt;&#x2F;a&gt;&lt;br&gt;&lt;a href=&quot;http:&#x2F;&#x2F;dotween.demigiant.com&#x2F;documentation.php&quot;&gt;在线文档&lt;&#x2F;a&gt;&lt;br&gt;&lt;a href=&quot;http:&#x2F;&#x2F;dotween.demigiant.com&#x2F;support.php&quot;&gt;Support&lt;&#x2F;a&gt;&lt;br&gt;&lt;a href=&quot;http:&#x2F;&#x2F;forum.unity3d.com&#x2F;threads&#x2F;dotween-hotween-v2-a-unity-tween-engine.260692&#x2F;&quot;&gt;Unity 论坛主题&lt;&#x2F;a&gt;&lt;br&gt;&lt;a href=&quot;http:&#x2F;&#x2F;www.demigiant.com&quot;&gt;发布者的网站&lt;&#x2F;a&gt;&lt;br&gt;&lt;br&gt;&lt;&#x2F;p&gt;
+</content>
+        
+    </entry>
+</feed>
