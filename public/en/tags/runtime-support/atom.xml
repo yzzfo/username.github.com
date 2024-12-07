@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+    <title>yzzfo - Runtime Support</title>
+    <subtitle>Game Development Learning Resources</subtitle>
+    <link rel="self" type="application/atom+xml" href="https://yzzfo.github.io/en/tags/runtime-support/atom.xml"/>
+    <link rel="alternate" type="text/html" href="https://yzzfo.github.io"/>
+    <generator uri="https://www.getzola.org/">Zola</generator>
+    <updated>2024-11-30T13:23:32+00:00</updated>
+    <id>https://yzzfo.github.io/en/tags/runtime-support/atom.xml</id>
+    <entry xml:lang="en">
+        <title>Semantic Color Palette</title>
+        <published>2024-11-29T21:19:48+00:00</published>
+        <updated>2024-11-30T13:23:32+00:00</updated>
+        
+        <author>
+          <name>
+            
+              yzzfo
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://yzzfo.github.io/en/unity/store/semantic-color-palette/"/>
+        <id>https://yzzfo.github.io/en/unity/store/semantic-color-palette/</id>
+        
+        <content type="html" xml:base="https://yzzfo.github.io/en/unity/store/semantic-color-palette/">&lt;p&gt;A semantic color management system for Unity: organize your colors in meaningful palettes and assign them to all kind of &quot;colorable&quot; components.No more updating color values in multiple places!&lt;br&gt;&lt;p &gt;This package provides a &lt;strong&gt;semantic color management system&lt;&#x2F;strong&gt;&lt;em&gt; &lt;&#x2F;em&gt;for Unity.&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;The best way to get a glimpse of the system in action is &lt;a href=&quot;https:&#x2F;&#x2F;www.binarycharm.com&#x2F;tech&#x2F;unity-semantic-color-palette&#x2F;demo&#x2F;&quot; target=&quot;_blank&quot;&gt;trying the online demo&lt;&#x2F;a&gt;, but the videos work too!&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;&lt;strong&gt;So, what is semantic color management?&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;p &gt;Basically, you define a set of &lt;strong&gt;meaningful identifiers&lt;&#x2F;strong&gt; for colors, representing &lt;em&gt;where&#x2F;how&lt;&#x2F;em&gt; each color is used (e.g. &quot;buttonBackground&quot;), and &lt;em&gt;not the colors themselves&lt;&#x2F;em&gt; (e.g. &quot;darkBrown&quot;).&lt;&#x2F;p&gt;&lt;p &gt;Then, elsewhere, you &lt;strong&gt;map&lt;&#x2F;strong&gt; each idenfier to an actual color value.&lt;&#x2F;p&gt;&lt;p &gt;The elements where colors are to be applied never directly refer to actual, specific colors, but only to &lt;em&gt;semantic color ids&lt;&#x2F;em&gt;.&lt;&#x2F;p&gt;&lt;p &gt;This &lt;strong&gt;decoupling&lt;&#x2F;strong&gt; allows to quickly and flawlessly change colors to multiple elements in a &lt;strong&gt;centralized&lt;&#x2F;strong&gt; way, and to easily implement some form of &quot;color skinning&quot; by applying different &lt;em&gt;id -&amp;gt; color&lt;&#x2F;em&gt; mappings.&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;&lt;strong&gt;How does this system work in practice?&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;p &gt;There are three core elements that work together to achieve its design goals:&lt;&#x2F;p&gt;&lt;ul&gt;&lt;li &gt;&lt;strong&gt;Palette&lt;&#x2F;strong&gt;: a named set of &lt;em&gt;id -&amp;gt; color&lt;&#x2F;em&gt; mappings. It is a &lt;em&gt;&quot;data&quot;&lt;&#x2F;em&gt; element, usually persistent.&lt;&#x2F;li&gt;&lt;li &gt;&lt;strong&gt;Palette provider&lt;&#x2F;strong&gt;: an active element, living in a Unity scene, that acts as a &lt;em&gt;broker&lt;&#x2F;em&gt; between &lt;em&gt;palettes&lt;&#x2F;em&gt; and &lt;em&gt;colorers&lt;&#x2F;em&gt;, pushing color updates to any relevant colorers.&lt;&#x2F;li&gt;&lt;li &gt;&lt;strong&gt;Colorer&lt;&#x2F;strong&gt;: an active element that contains the logic to &lt;em&gt;apply one or more colors&lt;&#x2F;em&gt; to a scene component (UI elements, 3D models materials and more). A colorer must be &lt;em&gt;connected&lt;&#x2F;em&gt; to a &lt;em&gt;palette provider,&lt;&#x2F;em&gt; from which it retrieves colors for the color identifiers specified in its configuration.&lt;&#x2F;li&gt;&lt;&#x2F;ul&gt;&lt;p &gt;Ready to use &lt;em&gt;Colorers &lt;&#x2F;em&gt;for Unity components using color properties (UI elements, Materials etc) are included. That said, programmers can easily &lt;strong&gt;extend&lt;&#x2F;strong&gt; the system with additional custom colorers (and providers).&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;You can &lt;strong&gt;improve your workflow&lt;&#x2F;strong&gt; with a new, more reasonable way to setup colors in Unity, with &lt;strong&gt;low friction&lt;&#x2F;strong&gt; and &lt;strong&gt;no compromises&lt;&#x2F;strong&gt; on your project organization.&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;Anything can be done through the &lt;strong&gt;inspector&lt;&#x2F;strong&gt; if you want, but it&#x27;s also easy to use the system through &lt;strong&gt;code&lt;&#x2F;strong&gt; only if you prefer.&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;Palettes can be &lt;strong&gt;imported&lt;&#x2F;strong&gt; from commonly used third party formats and edited in the inspector, and in more advanced scenarios can be loaded at &lt;strong&gt;runtime&lt;&#x2F;strong&gt; from external files.&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;The asset contents are laid out to be easily packaged for use in the &lt;strong&gt;Package Manager&lt;&#x2F;strong&gt;, if you want to easily import it (maybe including your own customizations) from multiple projects.&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;&#x2F;p&gt;
+</content>
+        
+    </entry>
+</feed>

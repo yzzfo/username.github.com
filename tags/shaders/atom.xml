@@ -1,12 +1,76 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh">
-    <title>yzzfo - shaders</title>
+    <title>yzzfo | Share for Free - shaders</title>
     <subtitle>游戏开发学习资源分享</subtitle>
     <link rel="self" type="application/atom+xml" href="https://yzzfo.github.io/tags/shaders/atom.xml"/>
     <link rel="alternate" type="text/html" href="https://yzzfo.github.io"/>
     <generator uri="https://www.getzola.org/">Zola</generator>
-    <updated>2024-12-02T22:06:13+00:00</updated>
+    <updated>2024-12-08T17:36:49+00:00</updated>
     <id>https://yzzfo.github.io/tags/shaders/atom.xml</id>
+    <entry xml:lang="zh">
+        <title>Lightning VFX (BiRP)</title>
+        <published>2024-12-08T17:36:49+00:00</published>
+        <updated>2024-12-08T17:36:49+00:00</updated>
+        
+        <author>
+          <name>
+            
+              yzzfo
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://yzzfo.github.io/unity/store/lightning-vfx-birp/"/>
+        <id>https://yzzfo.github.io/unity/store/lightning-vfx-birp/</id>
+        
+        <content type="html" xml:base="https://yzzfo.github.io/unity/store/lightning-vfx-birp/">&lt;p&gt;⚡️ 释放雷霆，带来闪电特效！ ⚡️&lt;&#x2F;p&gt;
+&lt;p &gt;&lt;strong&gt;⚡️ 用耀眼的闪电点亮你的游戏！&lt;&#x2F;strong&gt; &amp;#127918;✨&lt;&#x2F;p&gt;
+&lt;p &gt;一个史诗般的闪电特效预制件，由先进的粒子系统配置构成，配有&lt;strong&gt;手绘闪电纹理&lt;&#x2F;strong&gt;和&lt;strong&gt;&lt;em&gt;自定义着色器&lt;&#x2F;em&gt;&lt;&#x2F;strong&gt; + 组件，用于&lt;strong&gt;自动变化&lt;&#x2F;strong&gt;、&lt;strong&gt;溶解&lt;&#x2F;strong&gt;和&lt;strong&gt;后期处理效果&lt;&#x2F;strong&gt;。&lt;&#x2F;p&gt;
+&lt;p &gt;&amp;#128073; &lt;a href=&quot;https:&#x2F;&#x2F;mirzabeig.github.io&#x2F;Lightning-VFX-WebGL&#x2F;&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;实时&#x2F;在线 WebGL 演示&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+&lt;p &gt;我们提到过我们的效果具有&lt;strong&gt;真实的动态光源&lt;&#x2F;strong&gt;，能够&lt;strong&gt;投射阴影&lt;&#x2F;strong&gt;并照亮环境吗？ &lt;strong&gt;点亮夜空！&lt;&#x2F;strong&gt; &amp;#127785;️&lt;&#x2F;p&gt;
+&lt;p &gt;&lt;strong&gt;⚡️ &lt;&#x2F;strong&gt;为你的场景充电，让你的玩家&lt;strong&gt;感受到&lt;&#x2F;strong&gt;力量！ &amp;#128170;&amp;#128526;&lt;&#x2F;p&gt;
+&lt;p &gt;使用专门制作的Cinemachine组件来实现&lt;strong&gt;相机震动冲击&lt;&#x2F;strong&gt;，以及新的&lt;strong&gt;后期处理混合系统&lt;&#x2F;strong&gt;，&lt;em&gt;你离效果越近，视觉反馈的力量就越强。&lt;&#x2F;em&gt;&lt;&#x2F;p&gt;
+&lt;p &gt;&lt;strong&gt;⚡️ &lt;&#x2F;strong&gt;让你的&lt;strong&gt;创造力&lt;&#x2F;strong&gt;尽情发挥！ &amp;#127912;&amp;#127752;&lt;&#x2F;p&gt;
+&lt;p &gt;我们使用&lt;strong&gt;Unity的原生粒子系统&lt;&#x2F;strong&gt;来设置效果的几乎每个方面，这意味着你可以&lt;strong&gt;几乎自定义所有内容&lt;&#x2F;strong&gt;。我们的&lt;strong&gt;着色器具有整齐的可调属性&lt;&#x2F;strong&gt;，让你可以获得更多控制，并且你可以&lt;strong&gt;调整径向模糊的质量&lt;&#x2F;strong&gt;。&lt;&#x2F;p&gt;
+&lt;p &gt;&lt;em&gt;你不必只听我们的说法……&lt;&#x2F;em&gt;&lt;&#x2F;p&gt;
+&lt;p &gt;&amp;#128073; &lt;a href=&quot;https:&#x2F;&#x2F;mirzabeig.github.io&#x2F;Lightning-VFX-WebGL&#x2F;&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;试试演示！&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+&lt;p &gt;&lt;strong&gt;在移动设备&#x2F;低端硬件上？&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;p &gt;&amp;#128242; &lt;strong&gt;只需启用屏幕上的性能模式。&lt;&#x2F;strong&gt; &amp;#128640;&amp;#127765;&lt;&#x2F;p&gt;</content>
+        
+    </entry>
+    <entry xml:lang="zh">
+        <title>Amplify Shader Pack</title>
+        <published>2024-12-07T19:59:49+00:00</published>
+        <updated>2024-12-07T19:59:49+00:00</updated>
+        
+        <author>
+          <name>
+            
+              yzzfo
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://yzzfo.github.io/unity/store/amplify-shader-pack/"/>
+        <id>https://yzzfo.github.io/unity/store/amplify-shader-pack/</id>
+        
+        <content type="html" xml:base="https://yzzfo.github.io/unity/store/amplify-shader-pack/">&lt;p&gt;180+ Amplify Shader Editor 示例，适用于 HDRP、URP 和内置渲染器。&lt;&#x2F;p&gt;
+&lt;p &gt;&lt;strong&gt;对 &lt;&#x2F;strong&gt;&lt;a href=&quot;https:&#x2F;&#x2F;assetstore.unity.com&#x2F;packages&#x2F;tools&#x2F;visual-scripting&#x2F;amplify-shader-editor-68570&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;Amplify Shader Editor&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt;&lt;strong&gt; 用户免费。&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;p &gt;无需费用，确保使用与您的 ASE 许可证相同的账户进行结账。&lt;&#x2F;p&gt;
+&lt;p &gt;&lt;strong&gt;在 &lt;&#x2F;strong&gt;&lt;a href=&quot;https:&#x2F;&#x2F;assetstore.unity.com&#x2F;packages&#x2F;tools&#x2F;visual-scripting&#x2F;amplify-bundle-173849&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;Amplify Bundle&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt;&lt;strong&gt; 上节省 35%。&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;p &gt;&lt;a href=&quot;https:&#x2F;&#x2F;assetstore.unity.com&#x2F;packages&#x2F;tools&#x2F;visual-scripting&#x2F;amplify-shader-editor-68570&quot; target=&quot;_blank&quot;&gt;Amplify Shader Editor&lt;&#x2F;a&gt; - 获奖的基于节点的着色器编辑器&lt;&#x2F;p&gt;&lt;p &gt;&lt;a href=&quot;https:&#x2F;&#x2F;assetstore.unity.com&#x2F;packages&#x2F;tools&#x2F;utilities&#x2F;amplify-impostors-119877&quot; target=&quot;_blank&quot;&gt;Amplify Impostors&lt;&#x2F;a&gt; - 一键伪像创建器&lt;&#x2F;p&gt;&lt;p &gt;&lt;a href=&quot;https:&#x2F;&#x2F;assetstore.unity.com&#x2F;packages&#x2F;vfx&#x2F;shaders&#x2F;fullscreen-camera-effects&#x2F;amplify-lut-pack-50070&quot; target=&quot;_blank&quot;&gt;Amplify LUT Pack&lt;&#x2F;a&gt; - 200+ LUT 调色预设&lt;&#x2F;p&gt;
+&lt;p &gt;&lt;strong&gt;最新亮点&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;p &gt;&lt;strong&gt;• 根据 ASE 编辑器 v1.9.6.3 更新&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;p &gt;&lt;strong&gt;• 更新对 Unity 6000.0.14+ 的支持&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;p &gt;&lt;strong&gt;• 优化包大小&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;p &gt;• 为 URP&#x2F;HDRP 17x 添加了预览支持&lt;&#x2F;p&gt;&lt;p &gt;• 添加了新的折射 HDRP 示例&lt;&#x2F;p&gt;&lt;p &gt;• 添加了对 URP&#x2F;HDRP 16x 的支持&lt;&#x2F;p&gt;&lt;p &gt;• 添加了对 URP&#x2F;HDRP 15x 的支持&lt;&#x2F;p&gt;&lt;p &gt;• 添加了对 URP&#x2F;HDRP 14x 的支持&lt;&#x2F;p&gt;&lt;p &gt;• 修复了所有 URP&#x2F;HDRP 10x 和 12x 的示例&lt;&#x2F;p&gt;&lt;p &gt;• 使用 Amplify Shader Editor v1.9.2 构建&lt;&#x2F;p&gt;&lt;p &gt;• 改进了开始屏幕示例导入器&lt;&#x2F;p&gt;
+&lt;p &gt;&lt;strong&gt;重要提示&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;p &gt;• 将最低 Unity 支持提升至 2019.4 LTS&lt;&#x2F;p&gt;&lt;p &gt;• 将最低 URP 支持提升至 10x&lt;&#x2F;p&gt;&lt;p &gt;• 将最低 HDRP 支持提升至 10x&lt;&#x2F;p&gt;&lt;br&gt;&lt;p&gt;超过180个使用Amplify Shader Editor制作的精心挑选的着色器，随时可用且完全可编辑。从基本着色器类型、各种视觉特效（如溶解和变形），到特定的地形示例和带有支持脚本的自定义用途着色器。&lt;&#x2F;p&gt;
+&lt;p&gt;不需要编辑器即可使用，仅在编辑&#x2F;更新时需要。&lt;&#x2F;p&gt;
+&lt;p&gt;• HDRP、URP和内置渲染器&lt;&#x2F;p&gt;
+&lt;p&gt;• 完全可定制&lt;&#x2F;p&gt;
+&lt;p&gt;请查看我们的样本目录，访问&lt;a href=&quot;http:&#x2F;&#x2F;wiki.amplify.pt&#x2F;index.php?title=Unity_Products:Amplify_Shader_Pack&quot; target=&quot;_blank&quot;&gt;官方维基&lt;&#x2F;a&gt;。这是开发您自己着色器的一个很好的起点，您可以使用我们屡获殊荣的着色器编辑器将其个性化。添加新效果、改变属性或在渲染器之间转换，您可以调整的内容没有限制。&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;strong&gt;技术考虑&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;这些着色器是使用Unity 2019.4创建的。内置着色器将与任何Unity版本兼容。&lt;&#x2F;p&gt;
+&lt;p&gt;包括为版本10到16创建的HDRP&#x2F;URP着色器。&lt;strong&gt;您需要&lt;&#x2F;strong&gt;&lt;a href=&quot;https:&#x2F;&#x2F;assetstore.unity.com&#x2F;packages&#x2F;tools&#x2F;visual-scripting&#x2F;amplify-shader-editor-68570&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;Amplify Shader Editor&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt;&lt;strong&gt;来更新这些着色器，以使其与其他SRP版本正常工作。所包含的着色器将在未来SRP更改时根据需要进行更新。&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;使用&lt;strong&gt;不受支持的SRP版本的HDRP&#x2F;URP着色器而不进行更新，可能会导致渲染不正确或显示为粉色&#x2F;洋红色。&lt;&#x2F;strong&gt;这是预期的，着色器必须在编辑器中打开并保存，以便自动更新到不同的受支持SRP版本。&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;strong&gt;** Amplify Shader Editor单独出售 **&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;有关Amplify Shader Editor的更多详细信息，请查看我们的&lt;a href=&quot;https:&#x2F;&#x2F;youtu.be&#x2F;2fYcok5jUKY&quot; target=&quot;_blank&quot;&gt;概述视频&lt;&#x2F;a&gt;和&lt;a href=&quot;http:&#x2F;&#x2F;wiki.amplify.pt&#x2F;index.php?title=Unity_Products:Amplify_Shader_Editor&#x2F;Manual&quot; target=&quot;_blank&quot;&gt;手册&lt;&#x2F;a&gt;。&lt;&#x2F;p&gt;&lt;br&gt;&lt;p&gt;进行更改，使用您渴望的专业工具。我们的产品由行业专业人士开发，我们的支持团队始终超越一步，以解决客户可能遇到的任何问题。&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;a href=&quot;mailto:info@amplify.pt&quot; target=&quot;_blank&quot;&gt;联系我们&lt;&#x2F;a&gt;，我们很想听听您的故事，帮助推广和展示您的作品。&lt;&#x2F;p&gt;</content>
+        
+    </entry>
     <entry xml:lang="zh">
         <title>Mountain Trees - Dynamic Nature</title>
         <published>2024-12-02T22:06:13+00:00</published>

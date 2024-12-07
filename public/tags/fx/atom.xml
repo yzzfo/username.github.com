@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh">
+    <title>yzzfo - FX</title>
+    <subtitle>游戏开发学习资源分享</subtitle>
+    <link rel="self" type="application/atom+xml" href="https://yzzfo.github.io/tags/fx/atom.xml"/>
+    <link rel="alternate" type="text/html" href="https://yzzfo.github.io"/>
+    <generator uri="https://www.getzola.org/">Zola</generator>
+    <updated>2024-12-08T17:36:49+00:00</updated>
+    <id>https://yzzfo.github.io/tags/fx/atom.xml</id>
+    <entry xml:lang="zh">
+        <title>Lightning VFX (BiRP)</title>
+        <published>2024-12-08T17:36:49+00:00</published>
+        <updated>2024-12-08T17:36:49+00:00</updated>
+        
+        <author>
+          <name>
+            
+              yzzfo
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://yzzfo.github.io/unity/store/lightning-vfx-birp/"/>
+        <id>https://yzzfo.github.io/unity/store/lightning-vfx-birp/</id>
+        
+        <content type="html" xml:base="https://yzzfo.github.io/unity/store/lightning-vfx-birp/">&lt;p&gt;⚡️ 释放雷霆，带来闪电特效！ ⚡️&lt;&#x2F;p&gt;
+&lt;p &gt;&lt;strong&gt;⚡️ 用耀眼的闪电点亮你的游戏！&lt;&#x2F;strong&gt; &amp;#127918;✨&lt;&#x2F;p&gt;
+&lt;p &gt;一个史诗般的闪电特效预制件，由先进的粒子系统配置构成，配有&lt;strong&gt;手绘闪电纹理&lt;&#x2F;strong&gt;和&lt;strong&gt;&lt;em&gt;自定义着色器&lt;&#x2F;em&gt;&lt;&#x2F;strong&gt; + 组件，用于&lt;strong&gt;自动变化&lt;&#x2F;strong&gt;、&lt;strong&gt;溶解&lt;&#x2F;strong&gt;和&lt;strong&gt;后期处理效果&lt;&#x2F;strong&gt;。&lt;&#x2F;p&gt;
+&lt;p &gt;&amp;#128073; &lt;a href=&quot;https:&#x2F;&#x2F;mirzabeig.github.io&#x2F;Lightning-VFX-WebGL&#x2F;&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;实时&#x2F;在线 WebGL 演示&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+&lt;p &gt;我们提到过我们的效果具有&lt;strong&gt;真实的动态光源&lt;&#x2F;strong&gt;，能够&lt;strong&gt;投射阴影&lt;&#x2F;strong&gt;并照亮环境吗？ &lt;strong&gt;点亮夜空！&lt;&#x2F;strong&gt; &amp;#127785;️&lt;&#x2F;p&gt;
+&lt;p &gt;&lt;strong&gt;⚡️ &lt;&#x2F;strong&gt;为你的场景充电，让你的玩家&lt;strong&gt;感受到&lt;&#x2F;strong&gt;力量！ &amp;#128170;&amp;#128526;&lt;&#x2F;p&gt;
+&lt;p &gt;使用专门制作的Cinemachine组件来实现&lt;strong&gt;相机震动冲击&lt;&#x2F;strong&gt;，以及新的&lt;strong&gt;后期处理混合系统&lt;&#x2F;strong&gt;，&lt;em&gt;你离效果越近，视觉反馈的力量就越强。&lt;&#x2F;em&gt;&lt;&#x2F;p&gt;
+&lt;p &gt;&lt;strong&gt;⚡️ &lt;&#x2F;strong&gt;让你的&lt;strong&gt;创造力&lt;&#x2F;strong&gt;尽情发挥！ &amp;#127912;&amp;#127752;&lt;&#x2F;p&gt;
+&lt;p &gt;我们使用&lt;strong&gt;Unity的原生粒子系统&lt;&#x2F;strong&gt;来设置效果的几乎每个方面，这意味着你可以&lt;strong&gt;几乎自定义所有内容&lt;&#x2F;strong&gt;。我们的&lt;strong&gt;着色器具有整齐的可调属性&lt;&#x2F;strong&gt;，让你可以获得更多控制，并且你可以&lt;strong&gt;调整径向模糊的质量&lt;&#x2F;strong&gt;。&lt;&#x2F;p&gt;
+&lt;p &gt;&lt;em&gt;你不必只听我们的说法……&lt;&#x2F;em&gt;&lt;&#x2F;p&gt;
+&lt;p &gt;&amp;#128073; &lt;a href=&quot;https:&#x2F;&#x2F;mirzabeig.github.io&#x2F;Lightning-VFX-WebGL&#x2F;&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;试试演示！&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+&lt;p &gt;&lt;strong&gt;在移动设备&#x2F;低端硬件上？&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;p &gt;&amp;#128242; &lt;strong&gt;只需启用屏幕上的性能模式。&lt;&#x2F;strong&gt; &amp;#128640;&amp;#127765;&lt;&#x2F;p&gt;</content>
+        
+    </entry>
+    <entry xml:lang="zh">
+        <title>Lumen: Stylized Light FX</title>
+        <published>2024-12-06T14:26:56+00:00</published>
+        <updated>2024-12-06T14:26:56+00:00</updated>
+        
+        <author>
+          <name>
+            
+              yzzfo
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://yzzfo.github.io/unity/store/lumen-stylized-light-fx/"/>
+        <id>https://yzzfo.github.io/unity/store/lumen-stylized-light-fx/</id>
+        
+        <content type="html" xml:base="https://yzzfo.github.io/unity/store/lumen-stylized-light-fx/">&lt;p&gt;Bring the light back into your project with Lumen: Stylized Light FX! 快速原型设计、保存、重新着色和实例化光晕和阳光射线，使用内置工具。&lt;&#x2F;p&gt;
+&lt;p &gt;&lt;strong&gt;与我们联系：&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;p &gt;&lt;a href=&quot;https:&#x2F;&#x2F;distantlands.wixsite.com&#x2F;distantlands&quot; target=&quot;_blank&quot;&gt;网站&lt;&#x2F;a&gt; | &lt;a href=&quot;mailto:distantlands.productions@gmail.com&quot; target=&quot;_blank&quot;&gt;电子邮件&lt;&#x2F;a&gt; | &lt;a href=&quot;https:&#x2F;&#x2F;discord.gg&#x2F;HWGU4hj&quot; target=&quot;_blank&quot;&gt;Discord&lt;&#x2F;a&gt; | &lt;a href=&quot;https:&#x2F;&#x2F;drive.google.com&#x2F;file&#x2F;d&#x2F;1Bt3RKHDQusY-mbQW44C4QKqUenksda_K&#x2F;view?usp=sharing&quot; target=&quot;_blank&quot;&gt;可玩演示&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+&lt;p &gt;Distant Lands 呈现：&lt;&#x2F;p&gt;&lt;p &gt;&lt;strong&gt;&lt;em&gt;Lumen: Stylized Light FX&lt;&#x2F;em&gt;&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
+&lt;p &gt;创建美丽的风格化光效，从光晕到光环，再到神光和散射！Lumen 是风格化游戏中性能优越的体积光照的一站式解决方案。&lt;&#x2F;p&gt;
+&lt;p &gt;特点 &lt;strong&gt;三种不同的光源系统&lt;&#x2F;strong&gt; 协同工作，极大地美化您的游戏世界：&lt;&#x2F;p&gt;
+&lt;p &gt;您场景中的光线是否显得平淡无奇？您想让观众感受到您游戏中光线的温暖吗？ &lt;strong&gt;LUMEN 光晕&lt;&#x2F;strong&gt; 为您场景中的光源添加微妙的光环，提供类似于体积点光源的效果。这个效果可以极端化，使您的场景充满宏伟的光辉和强大的光环——这是任何玩家可能遇到的神秘物品的必备效果！&lt;&#x2F;p&gt;
+&lt;p &gt; &lt;strong&gt;LUMEN 静态光线&lt;&#x2F;strong&gt; 是实现任何类型体积光线的简单方法。神光、阳光束、聚光灯、2D、3D 或介于两者之间的任何东西，这些光线都能做到！使用这些光线为您的场景增添趣味，引导玩家的视线到重要位置，填充场景以营造氛围，或者仅仅让您的场景更加美丽！&lt;&#x2F;p&gt;&lt;br&gt;&lt;p&gt;最后，&lt;strong&gt;LUMEN 动态光线&lt;&#x2F;strong&gt;使用顶点颜色和自定义着色器实时动态缩放和扭曲光线到特定角度！使用这些光线动态追踪太阳，指向移动目标，或伪造实时体积光照！&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;strong&gt;为什么使用基于网格的效果？&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;基于网格的程序材质，Lumen抛弃了大多数体积光照解决方案所需的所有计算，通过用简单的顶点光照着色器替代传统数学！这使得您的效果可以以低成本计算，从而让您专注于场景的美学，而无需担心帧率下降。除此之外，缺乏纹理使得您的磁盘空间得以最小化，而不会降低使您的场景美丽的光晕和光线的质量！&lt;&#x2F;p&gt;&lt;br&gt;&lt;p &gt;&lt;strong&gt;强大的工具点亮你的世界：&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;ul&gt;&lt;li &gt;可脚本化对象后端，便于快速和轻松地保存。&lt;&#x2F;li&gt;&lt;li &gt;完全基于3D网格的工作流程意味着效果可以无限缩放而不会损失质量！&lt;&#x2F;li&gt;&lt;li &gt;动态和可定制的深度渐变，允许你根据场景的深度显示和隐藏光效。&lt;&#x2F;li&gt;&lt;li &gt;高级相机渐变，根据与相机的距离渐变光效。&lt;&#x2F;li&gt;&lt;li &gt;自定义分层系统，便于轻松定制。&lt;&#x2F;li&gt;&lt;li &gt;内置轻量级着色器，支持GPU实例化。&lt;&#x2F;li&gt;&lt;li &gt;基于自定义噪声的变体系统，平滑地将光效插值到不同的颜色。适用于从微妙、懒散的光移动到偶发、剧烈的照明。&lt;&#x2F;li&gt;&lt;li &gt;全局、本地和每层控制，给予你对光在场景中渲染方式的终极控制。&lt;&#x2F;li&gt;&lt;li &gt;所有着色器均使用Amplify Shader Editor构建，便于在内置和URP之间轻松定制！&lt;&#x2F;li&gt;&lt;&#x2F;ul&gt;&lt;p &gt;&lt;strong&gt;准备好开箱即用的功能：&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;ul&gt;&lt;li &gt;42个预制光效&lt;&#x2F;li&gt;&lt;li &gt;89种光形状&lt;&#x2F;li&gt;&lt;li &gt;两种主要着色器类型&lt;&#x2F;li&gt;&lt;li &gt;从一开始就考虑快速和轻松编辑的完整检查器扩展&lt;&#x2F;li&gt;&lt;li &gt;完全支持任何平台的内置和URP！&lt;&#x2F;li&gt;&lt;&#x2F;ul&gt;</content>
+        
+    </entry>
+    <entry xml:lang="zh">
+        <title>Variety FX 2.0</title>
+        <published>2024-12-03T00:46:20+00:00</published>
+        <updated>2024-12-03T00:46:20+00:00</updated>
+        
+        <author>
+          <name>
+            
+              yzzfo
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://yzzfo.github.io/unity/store/variety-fx-2-0/"/>
+        <id>https://yzzfo.github.io/unity/store/variety-fx-2-0/</id>
+        
+        <content type="html" xml:base="https://yzzfo.github.io/unity/store/variety-fx-2-0/">&lt;p&gt;Variety FX 是一套广泛的环境粒子特效，可以轻松为您的场景增添氛围。&lt;&#x2F;p&gt;
+&lt;p&gt;Variety FX 总共包含 &lt;strong&gt;273 种特效&lt;&#x2F;strong&gt;，分为 4 个主要类别和 24 个子类别，以便于在项目文件夹中查找。&lt;&#x2F;p&gt;
+&lt;p&gt;这些特效适用于风格化或现实主义项目，并且可以适应多种游戏类型，包括生存、恐怖、动作和冒险游戏。&lt;&#x2F;p&gt;
+&lt;p&gt;大多数特效可以通过粒子系统轻松重新着色，或者已经有预制的颜色可以拖放到您的场景中。它们也可以通过更改变换值轻松缩放。&lt;&#x2F;p&gt;
+&lt;p&gt;虽然该资产专注于环境特效，但它还包括一些常见的战斗特效，如爆炸、血液和魔法。&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;a href=&quot;http:&#x2F;&#x2F;bit.ly&#x2F;2cQryoI&quot; target=&quot;_blank&quot;&gt;WebGL 演示&lt;&#x2F;a&gt; • &lt;a href=&quot;http:&#x2F;&#x2F;bit.ly&#x2F;1F4wCu5&quot; target=&quot;_blank&quot;&gt;论坛&lt;&#x2F;a&gt; • &lt;a href=&quot;https:&#x2F;&#x2F;archanor.com&#x2F;support.html&quot; target=&quot;_blank&quot;&gt;支持&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;视频&#x2F;截图中看到的所有 19 个演示场景均已包含。&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;strong&gt;人工特效&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;ul&gt;&lt;li&gt;爆炸&lt;&#x2F;li&gt;&lt;li&gt;烟花&lt;&#x2F;li&gt;&lt;li&gt;信号弹&lt;&#x2F;li&gt;&lt;li&gt;魔法&lt;&#x2F;li&gt;&lt;li&gt;火花&lt;&#x2F;li&gt;&lt;&#x2F;ul&gt;
+&lt;p&gt;&lt;strong&gt;地面特效&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;ul&gt;&lt;li&gt;灰尘&lt;&#x2F;li&gt;&lt;li&gt;火焰&lt;&#x2F;li&gt;&lt;li&gt;雾&lt;&#x2F;li&gt;&lt;li&gt;昆虫&lt;&#x2F;li&gt;&lt;li&gt;树叶&lt;&#x2F;li&gt;&lt;li&gt;闪电&lt;&#x2F;li&gt;&lt;li&gt;液体&lt;&#x2F;li&gt;&lt;li&gt;岩石&lt;&#x2F;li&gt;&lt;li&gt;沙子&lt;&#x2F;li&gt;&lt;li&gt;烟雾&lt;&#x2F;li&gt;&lt;li&gt;闪烁&lt;&#x2F;li&gt;&lt;li&gt;蒸汽&lt;&#x2F;li&gt;&lt;&#x2F;ul&gt;
+&lt;p&gt;&lt;strong&gt;天空特效&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;ul&gt;&lt;li&gt;极光&lt;&#x2F;li&gt;&lt;li&gt;云&lt;&#x2F;li&gt;&lt;li&gt;神光&lt;&#x2F;li&gt;&lt;li&gt;星星&lt;&#x2F;li&gt;&lt;li&gt;天气&lt;&#x2F;li&gt;&lt;&#x2F;ul&gt;
+&lt;p&gt;&lt;strong&gt;水下特效&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;ul&gt;&lt;li&gt;气泡&lt;&#x2F;li&gt;&lt;li&gt;鱼&lt;&#x2F;li&gt;&lt;&#x2F;ul&gt;</content>
+        
+    </entry>
+    <entry xml:lang="zh">
+        <title>Real Fire &amp; Smoke</title>
+        <published>2024-12-02T00:01:20+00:00</published>
+        <updated>2024-12-02T00:01:20+00:00</updated>
+        
+        <author>
+          <name>
+            
+              yzzfo
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://yzzfo.github.io/unity/store/real-fire-smoke/"/>
+        <id>https://yzzfo.github.io/unity/store/real-fire-smoke/</id>
+        
+        <content type="html" xml:base="https://yzzfo.github.io/unity/store/real-fire-smoke/">&lt;p&gt;这个VFX包使用高分辨率的动画精灵表和Shuriken粒子系统来创建动态的火焰和爆炸效果。它具有3种火焰风格和104个预制件，适用于多种用途。&lt;&#x2F;p&gt;
+&lt;p&gt;真实火焰与烟雾使用高分辨率的动画精灵表结合Shuriken粒子系统。具有3种火焰和爆炸风格，方便地按7个类别进行分类，以便于使用。&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;archanor.com&#x2F;assetstore&#x2F;realfire2022&#x2F;&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;WebGL演示&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;strong&gt;主要特性&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
+&lt;ul&gt;&lt;li&gt;3种独特的火焰风格&lt;&#x2F;li&gt;&lt;li&gt;总共104个预制件（21个预制件仅适用于URP）&lt;&#x2F;li&gt;&lt;li&gt;5个爆炸音效&lt;&#x2F;li&gt;&lt;li&gt;3个循环火焰音效&lt;&#x2F;li&gt;&lt;li&gt;7个火焰与烟雾的精灵表（8x8帧，分辨率从2048到8192像素）&lt;&#x2F;li&gt;&lt;&#x2F;ul&gt;
+&lt;p&gt;&lt;strong&gt;效果类别&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
+&lt;ul&gt;&lt;li&gt;折射&lt;&#x2F;li&gt;&lt;li&gt;烟雾&lt;&#x2F;li&gt;&lt;li&gt;火花&lt;&#x2F;li&gt;&lt;li&gt;轨迹&lt;&#x2F;li&gt;&lt;li&gt;爆炸&lt;&#x2F;li&gt;&lt;li&gt;火焰&lt;&#x2F;li&gt;&lt;li&gt;喷火器&lt;&#x2F;li&gt;&lt;li&gt;弹药&lt;&#x2F;li&gt;&lt;&#x2F;ul&gt;</content>
+        
+    </entry>
+    <entry xml:lang="zh">
+        <title>Character Auras</title>
+        <published>2024-11-29T21:20:26+00:00</published>
+        <updated>2024-11-30T13:24:28+00:00</updated>
+        
+        <author>
+          <name>
+            
+              yzzfo
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://yzzfo.github.io/unity/store/character-auras/"/>
+        <id>https://yzzfo.github.io/unity/store/character-auras/</id>
+        
+        <content type="html" xml:base="https://yzzfo.github.io/unity/store/character-auras/">&lt;p&gt;15个惊人的角色光环效果！&lt;&#x2F;p&gt;
+&lt;p&gt;该包包含&lt;strong&gt;15&lt;&#x2F;strong&gt;个惊人的光环效果：&lt;&#x2F;p&gt;&lt;ul&gt;&lt;li&gt;水光环&lt;&#x2F;li&gt;&lt;li&gt;白色光环&lt;&#x2F;li&gt;&lt;li&gt;肥皂光环&lt;&#x2F;li&gt;&lt;li&gt;烟雾光环&lt;&#x2F;li&gt;&lt;li&gt;睡眠光环&lt;&#x2F;li&gt;&lt;li&gt;闪耀光环&lt;&#x2F;li&gt;&lt;li&gt;流星光环&lt;&#x2F;li&gt;&lt;li&gt;闪电光环&lt;&#x2F;li&gt;&lt;li&gt;治疗光环&lt;&#x2F;li&gt;&lt;li&gt;金色光环&lt;&#x2F;li&gt;&lt;li&gt;冰冻光环&lt;&#x2F;li&gt;&lt;li&gt;火焰光环&lt;&#x2F;li&gt;&lt;li&gt;黑暗光环&lt;&#x2F;li&gt;&lt;li&gt;血液光环&lt;&#x2F;li&gt;&lt;li&gt;酸性光环&lt;&#x2F;li&gt;&lt;&#x2F;ul&gt;&lt;p&gt;所有预制件都已准备好用于游戏，只需将它们拖放到您的游戏中即可！&lt;&#x2F;p&gt;
+&lt;p&gt;默认支持内置渲染。&lt;strong&gt;HDRP和URP可以使用&lt;&#x2F;strong&gt;&lt;a href=&quot;https:&#x2F;&#x2F;assetstore.unity.com&#x2F;packages&#x2F;tools&#x2F;utilities&#x2F;support-package-for-hovl-studio-assets-157764&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;这个&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt;&lt;strong&gt;适用于Unity 2021或更低版本的免费包。&lt;&#x2F;strong&gt;在购买我的资产之一后，它将变为免费。&lt;&#x2F;p&gt;&lt;p&gt;&lt;strong&gt;URP&#x2F;HDRP是Unity 2022或Unity 6+的默认设置&lt;&#x2F;strong&gt;。需要Shader Graph，它与此资产一起安装。可以更改为内置渲染。&lt;&#x2F;p&gt;&lt;p&gt;&lt;strong&gt;支持所有平台！&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;strong&gt;这些不是网格效果！所有效果只是简单的循环粒子系统！&lt;&#x2F;strong&gt;宣传媒体（视频、图片）使用了来自Volume组件的后处理“辉光”。&lt;&#x2F;p&gt;&lt;p&gt;如果您有任何问题或疑问，请与我联系。联系方式在个人资料页面上。&lt;&#x2F;p&gt;</content>
+        
+    </entry>
+    <entry xml:lang="zh">
+        <title>Stylized VFX</title>
+        <published>2024-11-29T21:18:59+00:00</published>
+        <updated>2024-11-30T13:22:35+00:00</updated>
+        
+        <author>
+          <name>
+            
+              yzzfo
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://yzzfo.github.io/unity/store/stylized-vfx/"/>
+        <id>https://yzzfo.github.io/unity/store/stylized-vfx/</id>
+        
+        <content type="html" xml:base="https://yzzfo.github.io/unity/store/stylized-vfx/">&lt;p&gt;这款令人惊叹的风格化特效受到了《塞尔达传说：荒野之息》和《原神》等游戏的启发！&lt;&#x2F;p&gt;
+&lt;p&gt;这套风格化特效包可以完全根据您的项目需求进行轻松自定义。&lt;&#x2F;p&gt;
+&lt;p&gt;这款风格化特效包还附带音效！您可以随意使用这些声音。&lt;&#x2F;p&gt;
+&lt;p&gt;包含超过40个特效！（包括变体）&lt;&#x2F;p&gt;</content>
+        
+    </entry>
+</feed>

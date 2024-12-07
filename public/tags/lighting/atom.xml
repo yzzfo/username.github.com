@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh">
+    <title>yzzfo - Lighting</title>
+    <subtitle>游戏开发学习资源分享</subtitle>
+    <link rel="self" type="application/atom+xml" href="https://yzzfo.github.io/tags/lighting/atom.xml"/>
+    <link rel="alternate" type="text/html" href="https://yzzfo.github.io"/>
+    <generator uri="https://www.getzola.org/">Zola</generator>
+    <updated>2024-12-08T17:36:27+00:00</updated>
+    <id>https://yzzfo.github.io/tags/lighting/atom.xml</id>
+    <entry xml:lang="zh">
+        <title>AllSky - 220+ Sky &#x2F; Skybox Set</title>
+        <published>2024-12-08T17:36:27+00:00</published>
+        <updated>2024-12-08T17:36:27+00:00</updated>
+        
+        <author>
+          <name>
+            
+              yzzfo
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://yzzfo.github.io/unity/store/allsky-220-sky-skybox-set/"/>
+        <id>https://yzzfo.github.io/unity/store/allsky-220-sky-skybox-set/</id>
+        
+        <content type="html" xml:base="https://yzzfo.github.io/unity/store/allsky-220-sky-skybox-set/">&lt;p&gt;适于Unity的220多个天空！- 各种风格：白天、夜晚、动漫、云上、卡通、幻想、朦胧、壮丽、太空、 乳状云、无阳光和无月光！&lt;br&gt;&lt;p &gt;适于Unity的220多个天空！&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;- 各种风格：白天、夜晚、动漫、云上、卡通、幻想、朦胧、壮丽、太空、 乳状云、无阳光和无月光！&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;- 适用于寻找各种各样的天空以照亮其环境的照明艺术家、环境艺术家和独立开发人员。&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;- 从白天到夜晚的照明：黄昏、日落、白天的多个时间段、夜晚的多个时间段、天空辉光。&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;- 多种天气和云的类型：晴朗、多云、夏季、暴风雨、秋季、朦胧、壮丽、多雾、积云。&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;-&lt;a href=&quot;https:&#x2F;&#x2F;docs.google.com&#x2F;document&#x2F;d&#x2F;1MMtkBSLw4FEoTNnUvK11DCQhRifIKsn09xmuNDkAaok&#x2F;&quot; target=&quot;_blank&quot;&gt; 在线文件（英文）&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;&lt;&#x2F;p&gt;
+</content>
+        
+    </entry>
+    <entry xml:lang="zh">
+        <title>Mesh Effects</title>
+        <published>2024-11-29T21:19:19+00:00</published>
+        <updated>2024-11-30T13:23:02+00:00</updated>
+        
+        <author>
+          <name>
+            
+              yzzfo
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://yzzfo.github.io/unity/store/mesh-effects/"/>
+        <id>https://yzzfo.github.io/unity/store/mesh-effects/</id>
+        
+        <content type="html" xml:base="https://yzzfo.github.io/unity/store/mesh-effects/">&lt;p&gt;&lt;br&gt;此软件包包含 21 种网格特效。&lt;br&gt;&lt;br&gt;注意：在升级之前，必须删除旧版的软件包。&lt;br&gt;&lt;br&gt;若要使用 URP 和 HDRP，需要导入项目文件夹中包含的补丁。从 Unity 2019.2.19f 起可使用 URP 和 HDRP 渲染&lt;br&gt;&lt;br&gt;支持 PC&#x2F;游戏主机&#x2F;移动设备&#x2F;VR。&lt;br&gt;不兼容 2D 精灵&lt;br&gt;&lt;br&gt;&lt;a href=&quot;http:&#x2F;&#x2F;kripto289.com&#x2F;AssetStore&#x2F;WeaponFX&#x2F;1.4&#x2F;PC.zip&quot;&gt;PC 演示&lt;&#x2F;a&gt;&lt;br&gt;&lt;a href=&quot;http:&#x2F;&#x2F;kripto289.com&#x2F;AssetStore&#x2F;WeaponFX&#x2F;1.4&#x2F;MeshEffectsDemo.apk&quot;&gt;移动版演示&lt;&#x2F;a&gt;&lt;br&gt;&lt;br&gt;- 开箱即用（只需拖放即可）&lt;br&gt;- 单击获得任何颜色&lt;br&gt;- 特效根据真正的网格尺寸进行缩放&lt;br&gt;- 兼容“网格渲染器”和“蒙皮网格渲染器”&lt;br&gt;- 随附演示场景（带动画&#x2F;角色&#x2F;武器&#x2F;环境）&lt;br&gt;重要事项！Unity3d 不支持每个子网格超过 1 个材质。要正常工作，需要分拆子网格。&lt;br&gt;&lt;br&gt;如果有任何疑问或建议，请给我发送&lt;a href=&quot;mailto:kripto289@gmail.com&quot;&gt;电子邮件&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+</content>
+        
+    </entry>
+</feed>

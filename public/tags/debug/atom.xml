@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh">
+    <title>yzzfo - Debug</title>
+    <subtitle>游戏开发学习资源分享</subtitle>
+    <link rel="self" type="application/atom+xml" href="https://yzzfo.github.io/tags/debug/atom.xml"/>
+    <link rel="alternate" type="text/html" href="https://yzzfo.github.io"/>
+    <generator uri="https://www.getzola.org/">Zola</generator>
+    <updated>2024-11-30T13:25:51+00:00</updated>
+    <id>https://yzzfo.github.io/tags/debug/atom.xml</id>
+    <entry xml:lang="zh">
+        <title>EasyPerformanceMonitor - 2024</title>
+        <published>2024-11-29T21:21:24+00:00</published>
+        <updated>2024-11-30T13:25:51+00:00</updated>
+        
+        <author>
+          <name>
+            
+              yzzfo
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://yzzfo.github.io/unity/store/easyperformancemonitor-2024/"/>
+        <id>https://yzzfo.github.io/unity/store/easyperformancemonitor-2024/</id>
+        
+        <content type="html" xml:base="https://yzzfo.github.io/unity/store/easyperformancemonitor-2024/">&lt;p&gt;EasyPerformanceMonitor 是一款专为 Unity3d 设计的游戏内性能监控工具。它可实时监控 FPS、CPU 使用率、GPU 使用率、内存使用率等基本指标。&lt;br&gt;&lt;p &gt;📄 &lt;a href=&quot;https:&#x2F;&#x2F;docs.guardingpearsoftware.com&#x2F;manual&#x2F;EasyPerformanceMonitor&#x2F;Description.html&quot; target=&quot;_blank&quot;&gt;文档&lt;&#x2F;a&gt; 💬 &lt;a href=&quot;https:&#x2F;&#x2F;forum.unity.com&#x2F;threads&#x2F;easyperformancemonitor-cpu-gpu-memory-in-game-monitoring.1490116&#x2F;&quot; target=&quot;_blank&quot;&gt;论坛&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;EasyPerformanceMonitor 是一款专为 Unity3d 设计的游戏内性能监控工具。通过实时监控 FPS、CPU 使用率、GPU 使用率、内存使用率等基本指标，EasyPerformanceMonitor 可帮助您优化应用程序和游戏性能。&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;&lt;strong&gt;⭐&lt;&#x2F;strong&gt;主要事实&lt;strong&gt;⭐&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;✔ 游戏内监控： 游戏内覆盖，让您随时更新。&lt;&#x2F;p&gt;&lt;p &gt;✔ 使用简单： 无需复杂设置或技术知识，即插即用。&lt;&#x2F;p&gt;&lt;p &gt;✔ 兼容性： 与所有 Unity3d 支持的目标平台集成。&lt;&#x2F;p&gt;&lt;p &gt;✔ 自定义数据扩展： 通过集成自定义数据扩展您的监控功能。&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;&lt;strong&gt;⭐&lt;&#x2F;strong&gt;集成&lt;strong&gt;⭐&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;无论目标平台如何，将 EasyPerformanceMonitor 集成到任何应用程序或游戏中都非常简单。只需将 EasyPerformanceMonitor 预制件添加到初始场景中，一切就绪。我们确保集成过程简单明了，让您可以专注于核心开发。&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;&lt;strong&gt;⭐&lt;&#x2F;strong&gt;平台&lt;strong&gt;⭐&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;Unity3d 支持的所有平台。包括 Mono 和 IL2CPP。&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;&lt;strong&gt;⭐&lt;&#x2F;strong&gt;说明&lt;strong&gt;⭐&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;EasyPerformanceMonitor 包含大量手册、脚本 API 参考文档和演示，可让您直接进行监控和优化！&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;&lt;a href=&quot;https:&#x2F;&#x2F;docs.guardingpearsoftware.com&#x2F;manual&#x2F;EasyPerformanceMonitor&#x2F;Description.html&quot; target=&quot;_blank&quot;&gt;文档&lt;&#x2F;a&gt; 和 &lt;a href=&quot;https:&#x2F;&#x2F;docs.guardingpearsoftware.com&#x2F;api&#x2F;EasyPerformanceMonitor&#x2F;GUPS.EasyPerformanceMonitor.html&quot; target=&quot;_blank&quot;&gt;脚本应用程序参考&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;&lt;strong&gt;⭐&lt;&#x2F;strong&gt;联系我们&lt;strong&gt;⭐&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;电子邮件：guardingpearsoftware@gmail.com&lt;&#x2F;p&gt;&lt;p &gt;网站：guardingpearsoftware.com&lt;&#x2F;p&gt;&lt;&#x2F;p&gt;
+</content>
+        
+    </entry>
+    <entry xml:lang="zh">
+        <title>Quantum Console</title>
+        <published>2024-11-29T21:16:53+00:00</published>
+        <updated>2024-11-30T13:17:30+00:00</updated>
+        
+        <author>
+          <name>
+            
+              yzzfo
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://yzzfo.github.io/unity/store/quantum-console/"/>
+        <id>https://yzzfo.github.io/unity/store/quantum-console/</id>
+        
+        <content type="html" xml:base="https://yzzfo.github.io/unity/store/quantum-console/">&lt;p&gt;Quantum Console 是一个拥有许多功能及容易使用的游戏命令控制台。只要在程序里输入[Command],您就可以在命令控制台另加特制的命令及游戏作弊码！&lt;br&gt;&lt;p &gt;&lt;strong&gt;技术支援: &lt;&#x2F;strong&gt;&lt;a href=&quot;mailto:support@qfsw.co.uk&quot; target=&quot;_blank&quot;&gt;邮件&lt;&#x2F;a&gt; | &lt;a href=&quot;https:&#x2F;&#x2F;discord.gg&#x2F;g8SJ7X6&quot; target=&quot;_blank&quot;&gt;Discord&lt;&#x2F;a&gt; | &lt;a href=&quot;https:&#x2F;&#x2F;bitbucket.org&#x2F;QFSW&#x2F;quantum-console&#x2F;issues&quot; target=&quot;_blank&quot;&gt;问题追踪&lt;&#x2F;a&gt; | &lt;a href=&quot;https:&#x2F;&#x2F;twitter.com&#x2F;QFSW1024&quot; target=&quot;_blank&quot;&gt;推特&lt;&#x2F;a&gt; | &lt;a href=&quot;https:&#x2F;&#x2F;www.qfsw.co.uk&#x2F;docs&#x2F;QC&#x2F;&quot; target=&quot;_blank&quot;&gt;资源&lt;&#x2F;a&gt; | &lt;a href=&quot;https:&#x2F;&#x2F;forum.unity.com&#x2F;threads&#x2F;quantum-console-the-ultimate-in-game-development-console.561151&#x2F;&quot; target=&quot;_blank&quot;&gt;讨论区&lt;&#x2F;a&gt; | &lt;a href=&quot;https:&#x2F;&#x2F;www.qfsw.co.uk&#x2F;demos&#x2F;QC&#x2F;&quot; target=&quot;_blank&quot;&gt;演示&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;&lt;p &gt;有問題嗎？歡迎聯絡客服尋求幫助以肯定 &lt;em&gt;Quantum Console&lt;&#x2F;em&gt; 正是適合您需要的解決方案。&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;&lt;strong&gt;使用&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;p &gt;&lt;em&gt;包括但不限于:&lt;&#x2F;em&gt;&lt;&#x2F;p&gt;&lt;p &gt;- 灵活的 QA 工具&lt;&#x2F;p&gt;&lt;p &gt;- 软件开发测试作弊码&lt;&#x2F;p&gt;&lt;p &gt;- 调试协助&lt;&#x2F;p&gt;&lt;p &gt;- 游戏中的作弊码&lt;&#x2F;p&gt;&lt;p &gt;- 适应任何项目&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;&lt;strong&gt;命令功能:&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;p &gt;- 强类型和弱类型命令&lt;&#x2F;p&gt;&lt;p &gt;- 命令重载以及缺省参数&lt;&#x2F;p&gt;&lt;p &gt;- 通用命令&lt;&#x2F;p&gt;&lt;p &gt;- 异步命令&lt;&#x2F;p&gt;&lt;p &gt;- 兼容 functions, properties, fields 和 delegates&lt;&#x2F;p&gt;&lt;p &gt;- 命令黑&#x2F;白名单&lt;&#x2F;p&gt;&lt;p &gt;- 方便使用&lt;&#x2F;p&gt;&lt;p &gt;- 完整 C# 源代码&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;&lt;strong&gt;命令控制台功能:&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;p &gt;- 显示 Debug.Log 消息&lt;&#x2F;p&gt;&lt;p &gt;- 高度可定制&lt;&#x2F;p&gt;&lt;p &gt;- 自定义主题系统&lt;&#x2F;p&gt;&lt;p &gt;- 命令建议和自动完成&lt;&#x2F;p&gt;&lt;p &gt;- 兼容 Text Mesh Pro&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;&lt;strong&gt;内置命令例子:&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;p &gt;- &lt;em&gt;call-static&#x2F;call-instance:&lt;&#x2F;em&gt; 应用任何C#函数属性&lt;&#x2F;p&gt;&lt;p &gt;- &lt;em&gt;man:&lt;&#x2F;em&gt; 显示指定命令的用户手册&lt;&#x2F;p&gt;&lt;p &gt;- &lt;em&gt;exec:&lt;&#x2F;em&gt; 运行时编译并执行 C# 源代码&lt;&#x2F;p&gt;&lt;p &gt;- &lt;em&gt;#define:&lt;&#x2F;em&gt; 定义并创建用户宏&lt;&#x2F;p&gt;&lt;p &gt;- &lt;em&gt;instantiate:&lt;&#x2F;em&gt; 实例对象的副本&lt;&#x2F;p&gt;&lt;p &gt;- &lt;em&gt;destroy:&lt;&#x2F;em&gt; 删除对象&lt;&#x2F;p&gt;&lt;p &gt;- &lt;em&gt;get-object-info:&lt;&#x2F;em&gt; 显示对象 transform 和 component 参数&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;支持仅以英语提供&lt;&#x2F;p&gt;&lt;&#x2F;p&gt;
+</content>
+        
+    </entry>
+    <entry xml:lang="zh">
+        <title>Editor Console Pro</title>
+        <published>2024-11-29T21:16:16+00:00</published>
+        <updated>2024-11-30T13:16:34+00:00</updated>
+        
+        <author>
+          <name>
+            
+              yzzfo
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://yzzfo.github.io/unity/store/editor-console-pro/"/>
+        <id>https://yzzfo.github.io/unity/store/editor-console-pro/</id>
+        
+        <content type="html" xml:base="https://yzzfo.github.io/unity/store/editor-console-pro/">&lt;p&gt;&lt;br&gt;Editor Console Pro 是 Unity 编辑器控制台的强大替代品。&lt;br&gt;如图所示：&lt;br&gt;2017 Unity Mobile Essentials 资源包的一部分！&lt;br&gt;&lt;a href=&quot;http:&#x2F;&#x2F;gamasutra.com&#x2F;blogs&#x2F;SebastienDubois&#x2F;20151111&#x2F;259048&#x2F;Musthave_Unity_plugins__Part_1.php&quot;&gt;必备的 Unity 插件 [Gamasutra]&lt;&#x2F;a&gt;&lt;br&gt;&lt;a href=&quot;http:&#x2F;&#x2F;gamasutra.com&#x2F;blogs&#x2F;SvyatoslavCherkasov&#x2F;20160119&#x2F;263697&#x2F;Unity_plugins_we_used_while_developing_Punch_Club.php&quot;&gt;开发拳击俱乐部时使用的 Unity 插件 [Gamasutra]&lt;&#x2F;a&gt;&lt;br&gt;&lt;br&gt;使用 Console Pro，你可以：&lt;br&gt;&lt;br&gt;- 使用搜索栏位按文本、文件名、类、游戏对象名称快速过滤所有条目。&lt;br&gt;- 使用正则表达式进行搜索和过滤。&lt;br&gt;- 用自己的颜色、图标和切换按钮创建自定义过滤器组，而不仅仅是默认的日志、警告和错误。&lt;br&gt;- 查看围绕堆栈中每个方法调用的源代码，使你可以查看并跳转到日志周围的代码。&lt;br&gt;- 通过单击代码编辑器，将其打开跳到日志堆栈中的任何方法或行，而不仅仅是通过 Debug.Log 调用。&lt;br&gt;- 在列中轻松查看日志条目的文件名、名称空间、游戏对象名称和类别。&lt;br&gt;- 忽略你不再想看到的日志。&lt;br&gt;- 忽略堆栈中的自定义 Debug.Log 类，双击永远不会把你带到错误的代码。&lt;br&gt;- 使用特殊的日志来监视没有垃圾邮件的变量，即使其内容不同，也会折叠。&lt;br&gt;- 使用远程日志记录获取独立版本或手机&#x2F;平板电脑版本的日志和堆栈追踪。&lt;br&gt;- 解析 Editor.log 或其他日志文件，就好像它们是当前日志一样&lt;br&gt;- 为整个日志行着色，以便你可以快速查看不同的日志类型。&lt;br&gt;- 使用自定义字体和颜色。&lt;br&gt;- 一键将完整的日志和堆栈追踪复制到剪贴板。&lt;br&gt;- 将整个控制台输出导出到 txt 文件，包括堆栈追踪。&lt;br&gt;- 覆盖 Unity 的状态栏点击。&lt;br&gt;&lt;br&gt;&lt;a href=&quot;http:&#x2F;&#x2F;flyingworm.com&#x2F;wp-content&#x2F;uploads&#x2F;2017&#x2F;06&#x2F;Editor-Console-Pro-Documentation.pdf&quot;&gt;文档&lt;&#x2F;a&gt;&lt;br&gt;&lt;a href=&quot;mailto:support@flyingworm.com&quot;&gt;支持&lt;&#x2F;a&gt;&lt;br&gt;*** 注意：如果你的 2017.* 有问题，请确保登录你购入资源包的帐户，以更新到最新版本！***&lt;br&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v=tqwS3lquGzk&quot;&gt;概述和教程视频&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+</content>
+        
+    </entry>
+</feed>

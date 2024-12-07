@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh">
+    <title>yzzfo - artifical intelligence</title>
+    <subtitle>游戏开发学习资源分享</subtitle>
+    <link rel="self" type="application/atom+xml" href="https://yzzfo.github.io/tags/artifical-intelligence/atom.xml"/>
+    <link rel="alternate" type="text/html" href="https://yzzfo.github.io"/>
+    <generator uri="https://www.getzola.org/">Zola</generator>
+    <updated>2024-12-06T15:20:53+00:00</updated>
+    <id>https://yzzfo.github.io/tags/artifical-intelligence/atom.xml</id>
+    <entry xml:lang="zh">
+        <title>Behavior Designer - Movement Pack</title>
+        <published>2024-12-06T15:20:53+00:00</published>
+        <updated>2024-12-06T15:20:53+00:00</updated>
+        
+        <author>
+          <name>
+            
+              yzzfo
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://yzzfo.github.io/unity/store/behavior-designer-movement-pack/"/>
+        <id>https://yzzfo.github.io/unity/store/behavior-designer-movement-pack/</id>
+        
+        <content type="html" xml:base="https://yzzfo.github.io/unity/store/behavior-designer-movement-pack/">&lt;p&gt;&lt;br&gt;&lt;strong&gt;需要行为设计器&lt;&#x2F;strong&gt;（&lt;a href=&quot;https:&#x2F;&#x2F;assetstore.unity.com&#x2F;packages&#x2F;tools&#x2F;visual-scripting&#x2F;behavior-designer-behavior-trees-for-everyone-15277&quot;&gt;链接&lt;&#x2F;a&gt;）&lt;br&gt;&lt;br&gt;行为设计器 - 运动资源包包含 17 个不同的行为树任务，侧重于 &lt;strong&gt;2D 和 3D 运动&lt;&#x2F;strong&gt;。&lt;br&gt;&lt;br&gt;除了包含所有 人工智能操作行为外，有些任务还提供独特的功能，如寻找掩护或倾听对象是否在范围内。&lt;br&gt;&lt;br&gt;群聚、队长跟踪以及排队这三个任务提供一个优秀的示例来展示只用一个行为树控制多个人工智能代理。&lt;br&gt;&lt;br&gt;运动资源包与终极角色控制器集成，从而支持借助动画系统根运动来实现运动。&lt;br&gt;&lt;br&gt;任务支持如下：&lt;br&gt;- Unity 的导航网格&lt;br&gt;• * 寻径项目&lt;br&gt;- Poly|Nav&lt;br&gt;&lt;br&gt;每个任务都有详尽的注释，并且编写方式通用而简洁，因此使它很容易集成到自己的项目中。随着我们听到社区的新任务建议，这个资源包将持续增长。&lt;br&gt;&lt;br&gt;包含以下任务：&lt;br&gt;- 向前运动&lt;br&gt;- 向前旋转&lt;br&gt;- 搜寻&lt;br&gt;- 逃走&lt;br&gt;- 追踪&lt;br&gt;- 躲避&lt;br&gt;- 跟随&lt;br&gt;- 巡逻&lt;br&gt;- 覆盖&lt;br&gt;- 游荡&lt;br&gt;- 搜索&lt;br&gt;- 距离内&lt;br&gt;- 能看到对象&lt;br&gt;- 能听到对象&lt;br&gt;- 群聚&lt;br&gt;- 队长跟踪&lt;br&gt;- 队列&lt;br&gt;&lt;br&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.opsive.com&#x2F;assets&#x2F;behavior-designer-movement-pack&#x2F;&quot;&gt;Web 演示&lt;&#x2F;a&gt;&lt;br&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.opsive.com&#x2F;support&#x2F;documentation&#x2F;behavior-designer-movement-pack&#x2F;&quot;&gt;文档&lt;&#x2F;a&gt;&lt;br&gt;&lt;a href=&quot;http:&#x2F;&#x2F;forum.unity3d.com&#x2F;threads&#x2F;227497&quot;&gt;Unity 论坛&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+</content>
+        
+    </entry>
+</feed>

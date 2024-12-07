@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh">
+    <title>yzzfo - Audio</title>
+    <subtitle>游戏开发学习资源分享</subtitle>
+    <link rel="self" type="application/atom+xml" href="https://yzzfo.github.io/tags/audio/atom.xml"/>
+    <link rel="alternate" type="text/html" href="https://yzzfo.github.io"/>
+    <generator uri="https://www.getzola.org/">Zola</generator>
+    <updated>2024-12-06T14:26:09+00:00</updated>
+    <id>https://yzzfo.github.io/tags/audio/atom.xml</id>
+    <entry xml:lang="zh">
+        <title>Battle Sound Library - Magic &amp; Melee - Fantasy RPG</title>
+        <published>2024-12-06T14:26:09+00:00</published>
+        <updated>2024-12-06T14:26:09+00:00</updated>
+        
+        <author>
+          <name>
+            
+              yzzfo
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://yzzfo.github.io/unity/store/battle-sound-library-magic-melee-fantasy-rpg/"/>
+        <id>https://yzzfo.github.io/unity/store/battle-sound-library-magic-melee-fantasy-rpg/</id>
+        
+        <content type="html" xml:base="https://yzzfo.github.io/unity/store/battle-sound-library-magic-melee-fantasy-rpg/">&lt;p&gt;Hundreds of sound clips, and thousands upon thousands of mixes. Create custom combined sounds with the easy to use &quot;Audio Clip Combiner&quot;, and create the perfect soundscape for your project&lt;&#x2F;p&gt;
+&lt;p &gt;--------------------------------------------------&lt;&#x2F;p&gt;&lt;p &gt;&lt;strong&gt;支持、问题、新闻与更新&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;p &gt;➡️ &lt;a href=&quot;https:&#x2F;&#x2F;discord.gg&#x2F;uf3QPF&quot; target=&quot;_blank&quot;&gt;Discord&lt;&#x2F;a&gt; | &lt;a href=&quot;https:&#x2F;&#x2F;infinitypbr.gitbook.io&#x2F;infinity-pbr&#x2F;audio-clip-combiner&quot; target=&quot;_blank&quot;&gt;教程&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;&lt;p &gt;--------------------------------------------------&lt;&#x2F;p&gt;
+&lt;p &gt;&lt;strong&gt;魔法与近战可定制音效库&lt;&#x2F;strong&gt;旨在考虑到定制和随机化。混合和匹配组件声音，您可以拥有数千种独特的声音。&lt;&#x2F;p&gt;
+&lt;p &gt;在运行时随机组合音频片段，或通过单击导出并选择您最喜欢的组合。&lt;&#x2F;p&gt;
+&lt;p &gt;&lt;strong&gt;&lt;em&gt;包括 &lt;&#x2F;em&gt;&lt;&#x2F;strong&gt;&lt;a href=&quot;https:&#x2F;&#x2F;assetstore.unity.com&#x2F;packages&#x2F;slug&#x2F;232612&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;&lt;em&gt;音频片段合成器&lt;&#x2F;em&gt;&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt;&lt;strong&gt;&lt;em&gt; 工具！&lt;&#x2F;em&gt;&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
+&lt;p &gt;&lt;strong&gt;更新&lt;&#x2F;strong&gt;: 音频片段合成器现在有一个“播放随机样本”按钮，可以在导出之前采样声音，在编辑时使用。还有一个“文件夹”上传 -- 选择一个文件夹，所有的音频片段将被添加到该层。&lt;&#x2F;p&gt;
+&lt;p &gt;或者，创建一个新的音频片段合成器对象，选择一个父文件夹，每个包含音频的子文件夹将作为新层添加。&lt;&#x2F;p&gt;
+&lt;p &gt;&amp;#128302;&lt;strong&gt;&lt;em&gt;魔法&lt;&#x2F;em&gt;&lt;&#x2F;strong&gt;&amp;#129502;&lt;&#x2F;p&gt;&lt;p &gt;空气、土壤、电、邪恶&#x2F;黑暗、火、神圣&#x2F;光、冰、毒和水魔法包括多种爆炸、击打、长短热身。&lt;&#x2F;p&gt;
+&lt;p &gt;将这些与通用增益、嗡嗡声和脉冲、法术失效和失败等结合，创造出适合您法术的大量魔法声音。&lt;&#x2F;p&gt;&lt;br&gt;&lt;p&gt;⚔️&lt;strong&gt;&lt;em&gt;近战&lt;&#x2F;em&gt;&lt;&#x2F;strong&gt;&amp;#128737;&lt;&#x2F;p&gt;&lt;p&gt;创建武器类型和伤害类型的组合：肉体、金属和木材目标。武器包括斧头、弓箭、棍棒、拳头、盾牌和剑。&lt;&#x2F;p&gt;
+&lt;p&gt;每组基于多种武器、目标和冲击声音有125种组合。&lt;&#x2F;p&gt;
+&lt;p&gt;⚔️&amp;#128302; &lt;strong&gt;&lt;em&gt;魔法武器&lt;&#x2F;em&gt;&lt;&#x2F;strong&gt;&amp;#129502;&amp;#128737;&lt;&#x2F;p&gt;
+&lt;p&gt;将魔法和近战声音结合在一起，创造出更多声音，如“火焰剑”或“黑暗棍”。&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;strong&gt;500+ 音频片段&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;p&gt;&lt;em&gt;数以万计的可能性&lt;&#x2F;em&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;库中起始约有&lt;strong&gt;500个独立音频片段&lt;&#x2F;strong&gt;。当你开始混合搭配时，这个数量会增长到数十万。你甚至可以将其他包中的音频混合在一起，创造出其他游戏没有的独特声音。&lt;&#x2F;p&gt;
+&lt;p&gt;--------------------------------------&lt;&#x2F;p&gt;&lt;p&gt;查看更多信息及我们所有的模型，请访问 &lt;a href=&quot;http:&#x2F;&#x2F;www.infinitypbr.com&#x2F;&quot; target=&quot;_blank&quot;&gt;InfinityPBR.com&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;&lt;p&gt;--------------------------------------&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;strong&gt;如果您购买了此包，非常感谢！请留下评分和评论，以便其他人了解它的情况！如果您有任何问题、请求或其他事项，&lt;&#x2F;strong&gt;&lt;a href=&quot;https:&#x2F;&#x2F;forum.unity3d.com&#x2F;threads&#x2F;infinity-series-works-in-progress-mega-thread.408430&#x2F;&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;请在论坛上与我联系。&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;</content>
+        
+    </entry>
+</feed>

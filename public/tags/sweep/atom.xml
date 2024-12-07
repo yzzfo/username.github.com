@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh">
+    <title>yzzfo - Sweep</title>
+    <subtitle>游戏开发学习资源分享</subtitle>
+    <link rel="self" type="application/atom+xml" href="https://yzzfo.github.io/tags/sweep/atom.xml"/>
+    <link rel="alternate" type="text/html" href="https://yzzfo.github.io"/>
+    <generator uri="https://www.getzola.org/">Zola</generator>
+    <updated>2024-12-08T17:50:21+00:00</updated>
+    <id>https://yzzfo.github.io/tags/sweep/atom.xml</id>
+    <entry xml:lang="zh">
+        <title>Maintainer</title>
+        <published>2024-12-08T17:50:21+00:00</published>
+        <updated>2024-12-08T17:50:21+00:00</updated>
+        
+        <author>
+          <name>
+            
+              yzzfo
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://yzzfo.github.io/unity/store/maintainer/"/>
+        <id>https://yzzfo.github.io/unity/store/maintainer/</id>
+        
+        <content type="html" xml:base="https://yzzfo.github.io/unity/store/maintainer/">&lt;p&gt;使用这些 Maintainer 功能使您的项目保持良好状态：&lt;&#x2F;br&gt;• 发现并修复项目问题&lt;&#x2F;br&gt;• 查找并删除未使用的资产&lt;&#x2F;br&gt;• 查找资产引用和层次结构引用&lt;br&gt;&lt;p &gt;▶ &lt;a href=&quot;https:&#x2F;&#x2F;www.youtube.com&#x2F;playlist?list=PLbTYvIYxIXSiOj-G7lydP9GdecytDJFHC&quot; target=&quot;_blank&quot;&gt;视频&lt;&#x2F;a&gt; 📖 &lt;a href=&quot;https:&#x2F;&#x2F;codestage.net&#x2F;uas_files&#x2F;maintainer&#x2F;readme.pdf&quot; target=&quot;_blank&quot;&gt;手册&lt;&#x2F;a&gt; 📄 &lt;a href=&quot;https:&#x2F;&#x2F;codestage.net&#x2F;uas_files&#x2F;maintainer&#x2F;api&#x2F;&quot; target=&quot;_blank&quot;&gt;API 参考&lt;&#x2F;a&gt; 💬 &lt;a href=&quot;https:&#x2F;&#x2F;forum.unity.com&#x2F;threads&#x2F;maintainer.309241&#x2F;&quot; target=&quot;_blank&quot;&gt;论坛&lt;&#x2F;a&gt; 💌 &lt;a href=&quot;http:&#x2F;&#x2F;discord.gg&#x2F;FRK5HRzZvq&quot; target=&quot;_blank&quot;&gt;Discord&lt;&#x2F;a&gt; | &lt;a href=&quot;https:&#x2F;&#x2F;codestage.net&#x2F;contacts&quot; target=&quot;_blank&quot;&gt;支持&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;📌&lt;strong&gt; Issues Finder &lt;&#x2F;strong&gt;▶ &lt;a href=&quot;https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v=BAR2ak9OTlo&amp;list=PLbTYvIYxIXSiOj-G7lydP9GdecytDJFHC&amp;index=3&quot; target=&quot;_blank&quot;&gt;教程&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;在您的项目中搜索不同的问题，例如缺少脚本、缺少引用、重复组件、无效层等等。 允许通过自动修复解决一些发现的问题。&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;📌&lt;strong&gt; References Finder&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;在两个范围内查找引用：项目资产和层次结构对象。&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;&lt;strong&gt;项目参考 &lt;&#x2F;strong&gt;▶&lt;a href=&quot;https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v=d1UtVr-MZq8&amp;list=PLbTYvIYxIXSiOj-G7lydP9GdecytDJFHC&amp;index=2&quot; target=&quot;_blank&quot;&gt; 教程&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;&lt;p &gt;允许查找对任何资产的项目范围引用，以快速找出您的材料或声音的使用位置。&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;&lt;strong&gt;层次结构参考 &lt;&#x2F;strong&gt;▶ &lt;a href=&quot;https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v=CoFn6_ZwUqc&amp;list=PLbTYvIYxIXSiOj-G7lydP9GdecytDJFHC&amp;index=1&quot; target=&quot;_blank&quot;&gt;教程&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;&lt;p &gt;在活动场景或预制件中搜索游戏对象和组件引用，以找出这些对象在您的场景&#x2F;预制件中的使用位置，并轻松浏览结果。&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;📌&lt;strong&gt; Project Cleaner &lt;&#x2F;strong&gt;▶&lt;a href=&quot;https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v=QiznofE8xD4&amp;index=2&amp;list=PLbTYvIYxIXSj5p9qn3lcsoUc1R9KnSOIb&quot; target=&quot;_blank&quot;&gt; &lt;&#x2F;a&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v=qEIo4aQ6KzI&amp;list=PLbTYvIYxIXSiOj-G7lydP9GdecytDJFHC&amp;index=4&quot; target=&quot;_blank&quot;&gt;教程&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;在您的项目中查找垃圾，让您检查它并逐个或以批处理模式删除不必要的资产。&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;📌&lt;strong&gt; 整体亮点&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;易于启动：&lt;&#x2F;p&gt;&lt;ul&gt;&lt;li &gt;详细的&lt;a href=&quot;https:&#x2F;&#x2F;codestage.net&#x2F;uas_files&#x2F;maintainer&#x2F;readme.pdf&quot; target=&quot;_blank&quot;&gt;用户手册&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;&lt;li &gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.youtube.com&#x2F;playlist?list=PLbTYvIYxIXSiOj-G7lydP9GdecytDJFHC&quot; target=&quot;_blank&quot;&gt;视频教程&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;&lt;&#x2F;ul&gt;&lt;&#x2F;br&gt;&lt;p &gt;易于扩展：&lt;&#x2F;p&gt;&lt;ul&gt;&lt;li &gt;完整的 &lt;a href=&quot;https:&#x2F;&#x2F;codestage.net&#x2F;uas_files&#x2F;maintainer&#x2F;api&#x2F;&quot; target=&quot;_blank&quot;&gt;API&lt;&#x2F;a&gt; 参考&lt;&#x2F;li&gt;&lt;li &gt;可扩展的依赖扫描器&lt;&#x2F;li&gt;&lt;li &gt;🔥&lt;strong&gt; 包含完整的 C# 源代码！&lt;&#x2F;strong&gt;&lt;&#x2F;li&gt;&lt;&#x2F;ul&gt;&lt;&#x2F;br&gt;&lt;p &gt;自 2015 年以来的支持和更新 💖&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;&lt;strong&gt;请注意，这是按座位授权的版本。&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;p &gt;&lt;strong&gt;对于大型企业，您可能会发现&lt;&#x2F;strong&gt;&lt;a href=&quot;https:&#x2F;&#x2F;assetstore.unity.com&#x2F;packages&#x2F;slug&#x2F;259908&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;Maintainer for Teams&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt;&lt;strong&gt;更为合适。&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;&#x2F;p&gt;
+</content>
+        
+    </entry>
+</feed>

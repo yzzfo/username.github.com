@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh">
+    <title>yzzfo - main menu</title>
+    <subtitle>游戏开发学习资源分享</subtitle>
+    <link rel="self" type="application/atom+xml" href="https://yzzfo.github.io/tags/main-menu/atom.xml"/>
+    <link rel="alternate" type="text/html" href="https://yzzfo.github.io"/>
+    <generator uri="https://www.getzola.org/">Zola</generator>
+    <updated>2024-12-06T14:25:47+00:00</updated>
+    <id>https://yzzfo.github.io/tags/main-menu/atom.xml</id>
+    <entry xml:lang="zh">
+        <title>Heat - Complete Modern UI</title>
+        <published>2024-12-06T14:25:47+00:00</published>
+        <updated>2024-12-06T14:25:47+00:00</updated>
+        
+        <author>
+          <name>
+            
+              yzzfo
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://yzzfo.github.io/unity/store/heat-complete-modern-ui/"/>
+        <id>https://yzzfo.github.io/unity/store/heat-complete-modern-ui/</id>
+        
+        <content type="html" xml:base="https://yzzfo.github.io/unity/store/heat-complete-modern-ui/">&lt;p&gt;Heat是一个完整的UI资产，采用现代&#x2F;极简风格设计。它完全可定制，经过优化，并且有详细文档。&lt;&#x2F;p&gt;
+&lt;p&gt;Heat UI是一个完整的用户界面解决方案，允许您轻松创建时尚的用户界面。它旨在在任何类型的游戏中都能看起来很棒。&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;strong&gt;• UI管理器&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;p&gt;您可以在几秒钟内更改整个UI的外观，而不是逐个更改对象——这一切都通过UI管理器完成！&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;strong&gt;• 完全可定制&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;p&gt;您可以使用检查器调整所有内容，无需为每个小更改处理代码或外部工具。&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;strong&gt;• 丰富的UI组件&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;p&gt;拥有超过15种独特的UI元素、数十个预设和切片精灵，您可以轻松创建各种UI布局。&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;strong&gt;• 完整解决方案&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;p&gt;此包不仅包括UI组件，还包括您可能需要的许多其他工具，例如成就、版权、本地化系统等！&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;strong&gt;• 演示场景&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;p&gt;包括功能齐全的演示场景，帮助您快速入门。&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;strong&gt;• 广泛的平台支持&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;p&gt;支持所有可用的渲染管线（内置、URP、HDRP）以及主要平台，如Windows、macOS、Xbox和PlayStation。&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;strong&gt;• 原生UI支持&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;p&gt;Heat UI是使用原生Unity UI制作的，允许您继续按照习惯工作，甚至可以与第三方UGUI扩展一起使用。&lt;&#x2F;p&gt;
+&lt;p&gt;如果您有任何问题、建议或反馈，请随时&lt;a href=&quot;https:&#x2F;&#x2F;www.michsky.com&#x2F;contact&#x2F;&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;联系我&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt;。&lt;&#x2F;p&gt;&lt;br&gt;&lt;p &gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.michsky.com&#x2F;&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;网站&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt; | &lt;a href=&quot;https:&#x2F;&#x2F;discord.gg&#x2F;VXpHyUt&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;Discord 服务器&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt; | &lt;a href=&quot;http:&#x2F;&#x2F;docs.michsky.com&#x2F;docs&#x2F;heat-ui&#x2F;&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;文档&lt;&#x2F;strong&gt; &lt;&#x2F;a&gt;| &lt;a href=&quot;https:&#x2F;&#x2F;drive.google.com&#x2F;file&#x2F;d&#x2F;1V-w1VF55mSS68-MYUwNTwT9LMl5H_Hy3&#x2F;view?usp=sharing&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;Windows 演示&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+&lt;p &gt;请展开 &lt;strong&gt;&#x27;技术细节&#x27;&lt;&#x2F;strong&gt; 以获取重要信息。&lt;&#x2F;p&gt;</content>
+        
+    </entry>
+</feed>

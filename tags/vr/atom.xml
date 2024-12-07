@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh">
-    <title>yzzfo - VR</title>
+    <title>yzzfo | Share for Free - VR</title>
     <subtitle>游戏开发学习资源分享</subtitle>
     <link rel="self" type="application/atom+xml" href="https://yzzfo.github.io/tags/vr/atom.xml"/>
     <link rel="alternate" type="text/html" href="https://yzzfo.github.io"/>
     <generator uri="https://www.getzola.org/">Zola</generator>
-    <updated>2024-12-02T22:13:57+00:00</updated>
+    <updated>2024-12-07T19:59:43+00:00</updated>
     <id>https://yzzfo.github.io/tags/vr/atom.xml</id>
     <entry xml:lang="zh">
         <title>Mountain Trees - Dynamic Nature</title>
@@ -50,7 +50,7 @@
     <entry xml:lang="zh">
         <title>Flat Kit: Toon Shading and Water</title>
         <published>2024-11-29T21:19:28+00:00</published>
-        <updated>2024-11-30T13:23:10+00:00</updated>
+        <updated>2024-12-07T19:59:43+00:00</updated>
         
         <author>
           <name>

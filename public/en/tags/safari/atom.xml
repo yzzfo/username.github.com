@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+    <title>yzzfo - Safari</title>
+    <subtitle>Game Development Learning Resources</subtitle>
+    <link rel="self" type="application/atom+xml" href="https://yzzfo.github.io/en/tags/safari/atom.xml"/>
+    <link rel="alternate" type="text/html" href="https://yzzfo.github.io"/>
+    <generator uri="https://www.getzola.org/">Zola</generator>
+    <updated>2024-12-07T20:33:31+00:00</updated>
+    <id>https://yzzfo.github.io/en/tags/safari/atom.xml</id>
+    <entry xml:lang="en">
+        <title>UniWebView 5</title>
+        <published>2024-12-07T20:33:31+00:00</published>
+        <updated>2024-12-07T20:33:31+00:00</updated>
+        
+        <author>
+          <name>
+            
+              yzzfo
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://yzzfo.github.io/en/unity/store/uniwebview-5/"/>
+        <id>https://yzzfo.github.io/en/unity/store/uniwebview-5/</id>
+        
+        <content type="html" xml:base="https://yzzfo.github.io/en/unity/store/uniwebview-5/">&lt;p&gt;A powerful web view component to display web content in your mobile game. Browsing through HTTP, running JavaScript, performing OAuth 2.0, and much more.&lt;br&gt;&lt;p &gt;UniWebView is a Unity 3D plugin for &lt;strong&gt;adding a web view component&lt;&#x2F;strong&gt; to your Unity 3D mobile games.&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;Visit our &lt;a href=&quot;https:&#x2F;&#x2F;uniwebview.com&#x2F;&quot; target=&quot;_blank&quot;&gt;official website&lt;&#x2F;a&gt; to learn more about UniWebView 5.&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;&lt;strong&gt;&lt;em&gt;OVERVIEW&lt;&#x2F;em&gt;&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;UniWebView includes a set of abstract high-level APIs in C#, which wrapped the native APIs of iOS and Android platforms. With UniWebView, you can have some behaviors like a browser into your games without knowing anything about native development. It is very useful when you need to show an announcement or notice, add a leader board for player rankings, or just display any web pages to your users.&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;UniWebView supports running on iOS 9.0 or above, and Android 5.0 (API Level 21) or above. It also contains fully functional support for Unity Editor on macOS.&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;&lt;em&gt;Unity 2020.3 or later is required.&lt;&#x2F;em&gt;&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;&lt;strong&gt;&lt;em&gt;FEATURES&lt;&#x2F;em&gt;&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;ul&gt;&lt;li &gt;Web Browsing on the Internet. Display content through HTTP&#x2F;HTTPS.&lt;&#x2F;li&gt;&lt;li &gt;Safe Browsing Mode for secure browsing. Supporting Apple Pay, Google Pay, and more.&lt;&#x2F;li&gt;&lt;li &gt;Built-in support for popular OAuth 2.0 providers. Log in to Google, Facebook, and more.&lt;&#x2F;li&gt;&lt;li &gt;Loading local HTML files.&lt;&#x2F;li&gt;&lt;li &gt;Full JavaScript Support. Running and adding JavaScript on the page.&lt;&#x2F;li&gt;&lt;li &gt;Message System based on url scheme to receive a message from web page.&lt;&#x2F;li&gt;&lt;li &gt;Setting Position and Size by either absolute values or reference Relative Unity UI element.&lt;&#x2F;li&gt;&lt;li &gt;Playing YouTube, Vimeo, or local videos.&lt;&#x2F;li&gt;&lt;li &gt;Uploading photos from the camera or gallery through an input form.&lt;&#x2F;li&gt;&lt;li &gt;Rendering web page to Texture and use in your game world.&lt;&#x2F;li&gt;&lt;li &gt;Clicking through the transparent area of the web view. Creating game UI with the web page.&lt;&#x2F;li&gt;&lt;li &gt;Check &lt;a href=&quot;https:&#x2F;&#x2F;uniwebview.com&#x2F;&quot; target=&quot;_blank&quot;&gt;our website&lt;&#x2F;a&gt; for even more.&lt;&#x2F;li&gt;&lt;&#x2F;ul&gt;&lt;p &gt;&lt;strong&gt;&lt;em&gt;DOCS, GUIDES, AND SUPPORT&lt;&#x2F;em&gt;&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;We prepared detailed documentation and guides. Please visit the &lt;a href=&quot;https:&#x2F;&#x2F;docs.uniwebview.com&#x2F;&quot; target=&quot;_blank&quot;&gt;UniWebView Documentation Site&lt;&#x2F;a&gt; to learn how to use this asset.&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;If you have any questions, take a look at the &lt;a href=&quot;https:&#x2F;&#x2F;docs.uniwebview.com&#x2F;guide&#x2F;faq.html&quot; target=&quot;_blank&quot;&gt;FAQ page&lt;&#x2F;a&gt; or even submit a ticket from our docs page!&lt;&#x2F;p&gt;&lt;&#x2F;p&gt;
+</content>
+        
+    </entry>
+</feed>

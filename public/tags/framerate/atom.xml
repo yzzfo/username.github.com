@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh">
+    <title>yzzfo - framerate</title>
+    <subtitle>游戏开发学习资源分享</subtitle>
+    <link rel="self" type="application/atom+xml" href="https://yzzfo.github.io/tags/framerate/atom.xml"/>
+    <link rel="alternate" type="text/html" href="https://yzzfo.github.io"/>
+    <generator uri="https://www.getzola.org/">Zola</generator>
+    <updated>2024-12-07T20:01:46+00:00</updated>
+    <id>https://yzzfo.github.io/tags/framerate/atom.xml</id>
+    <entry xml:lang="zh">
+        <title>FSR 3 - Upscaling for Unity</title>
+        <published>2024-12-07T20:01:46+00:00</published>
+        <updated>2024-12-07T20:01:46+00:00</updated>
+        
+        <author>
+          <name>
+            
+              yzzfo
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://yzzfo.github.io/unity/store/fsr-3-upscaling-for-unity/"/>
+        <id>https://yzzfo.github.io/unity/store/fsr-3-upscaling-for-unity/</id>
+        
+        <content type="html" xml:base="https://yzzfo.github.io/unity/store/fsr-3-upscaling-for-unity/">&lt;p&gt;优化并提升您的帧率，使用AMD的FidelityFX超分辨率3.1，现在在Unity中首发！&lt;&#x2F;p&gt;
+&lt;p &gt;&lt;strong&gt;FSR 3 - Unity的超分辨率技术&lt;&#x2F;strong&gt;已在&lt;strong&gt;2021&lt;&#x2F;strong&gt;、&lt;strong&gt;2022&lt;&#x2F;strong&gt;、&lt;strong&gt;2023&lt;&#x2F;strong&gt;和&lt;strong&gt;Unity 6&lt;&#x2F;strong&gt;版本中进行了测试！&lt;&#x2F;p&gt;
+&lt;p &gt;⚡&lt;strong&gt;使用FSR 3超分辨率技术提升您的帧数！&lt;&#x2F;strong&gt;⚡&lt;&#x2F;p&gt;&lt;p &gt;&lt;em&gt;当前FSR 3版本：3.1.2&lt;&#x2F;em&gt;&lt;&#x2F;p&gt;
+&lt;p &gt;FSR 3是一种超分辨率技术，基于低分辨率输入生成高质量和高分辨率的帧。通过使用此技术，您的项目可以在显著较低的分辨率下运行，而不会失去视觉质量，并且可以提高帧率！&lt;&#x2F;p&gt;
+&lt;p &gt;此Unity资源旨在与AMD的FidelityFX FSR 3接口，您可以在此找到：&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;GPUOpen-LibrariesAndSDKs&#x2F;FidelityFX-SDK&#x2F;tree&#x2F;main&quot; target=&quot;_blank&quot;&gt;GitHub - GPUOpen-LibrariesAndSDKs&#x2F;FidelityFX-SDK：FidelityFX SDK的主要存储库。&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+&lt;p &gt;如果您的项目受限于GPU性能，FSR 3将为您提供更高的帧率。如果项目受限于CPU性能，它只会降低GPU的工作负载。虽然这似乎是一个很大的限制，但这也意味着在使用FSR 3时，笔记本电脑将消耗更少的电池电量！&lt;&#x2F;p&gt;
+&lt;p &gt;&amp;#127744;&lt;strong&gt;易于使用&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;p &gt;FSR 3的设计旨在简化设置，并提供了详细的文档来描述该过程。&lt;&#x2F;p&gt;&lt;p &gt;此外，FSR 3已与所有默认的Unity后期处理进行了广泛测试，但我们无法保证所有自定义后期处理资源都能开箱即用。如果您在使用自定义资源时遇到问题，请与我们联系，我们将看看是否可以提供支持！&lt;&#x2F;p&gt;
+&lt;p &gt;&lt;strong&gt;&amp;#127912;平台支持&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;p &gt;通过使用计算着色器FSR后端，我们能够支持几乎所有平台，查看下面的技术细节以了解哪些平台已被支持和测试。&lt;&#x2F;p&gt;&lt;br&gt;&lt;p &gt;&lt;strong&gt;&amp;#127808;AAA 抗锯齿&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;p &gt;FSR 3 内置了高质量的时间抗锯齿。消除那些锯齿边缘，同时提升您项目的性能！如果您不想使用上采样，现在也可以仅使用 TAA。&lt;&#x2F;p&gt;
+&lt;p &gt;&lt;strong&gt;&amp;#129497;‍♂️帧生成&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;p &gt;该资产目前尚不支持帧生成。我们正在对此进行调查，您可以加入我的 &lt;a href=&quot;https:&#x2F;&#x2F;discord.gg&#x2F;r9jkRzaPtC&quot; target=&quot;_blank&quot;&gt;Discord&lt;&#x2F;a&gt; 以获取当前状态。&lt;&#x2F;p&gt;
+&lt;p &gt;&lt;strong&gt;&amp;#128153;通过 XeSS 提升更多 - Unity 的上采样&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;p &gt;想要为所有 GPU 品牌提供更好的视觉保真度上采样吗？将新的 &lt;a href=&quot;https:&#x2F;&#x2F;assetstore.unity.com&#x2F;packages&#x2F;slug&#x2F;286113&quot; target=&quot;_blank&quot;&gt;XeSS - Unity 的上采样&lt;&#x2F;a&gt; 添加到您的项目中！&lt;&#x2F;p&gt;
+&lt;p &gt;&lt;strong&gt;&amp;#128154;通过 DLSS 进一步提升 - Unity 的上采样&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;p &gt;您在寻找绝对最佳质量的上采样吗？通过为 NVIDIA 用户添加 &lt;a href=&quot;https:&#x2F;&#x2F;assetstore.unity.com&#x2F;packages&#x2F;tools&#x2F;utilities&#x2F;dlss-upscaling-for-unity-262761&quot; target=&quot;_blank&quot;&gt;DLSS - Unity 的上采样&lt;&#x2F;a&gt; 来增强您项目的视觉保真度。&lt;&#x2F;p&gt;
+&lt;p &gt;&lt;strong&gt;&amp;#128156;通过 SGSR Mobile 提升移动设备性能 - Unity 的上采样&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;p &gt;有时 FSR 3 和 DLSS 对于移动设备或旧设备来说可能过于消耗性能，因此我们特别发布了快速的 &lt;a href=&quot;https:&#x2F;&#x2F;assetstore.unity.com&#x2F;packages&#x2F;tools&#x2F;utilities&#x2F;sgsr-mobile-upscaling-for-unity-283343&quot; target=&quot;_blank&quot;&gt;SGSR Mobile - Unity 的上采样&lt;&#x2F;a&gt;！&lt;&#x2F;p&gt;&lt;br&gt;&lt;p &gt;&amp;#128735;&lt;strong&gt;支持&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;p &gt;如果您在实现 FSR 3 时遇到任何问题，请阅读我们的 &lt;a href=&quot;https:&#x2F;&#x2F;docs.google.com&#x2F;document&#x2F;d&#x2F;1vkKyCwL6TKdPUb2rWRMw7B3tEYyl_ZH9uyFqJqrQTwg&quot; target=&quot;_blank&quot;&gt;文档&lt;&#x2F;a&gt;，或通过 &lt;a href=&quot;https:&#x2F;&#x2F;discord.gg&#x2F;r9jkRzaPtC&quot; target=&quot;_blank&quot;&gt;Discord&lt;&#x2F;a&gt; 或 &lt;a href=&quot;https:&#x2F;&#x2F;discussions.unity.com&#x2F;t&#x2F;released-fsr-3-boost-your-fps-with-amd-fidelityfx-super-resolution-3-0-fsr-3-upscaling&#x2F;899179&quot; target=&quot;_blank&quot;&gt;论坛&lt;&#x2F;a&gt; 联系我们。&lt;&#x2F;p&gt;&lt;p &gt;尽管该资产经过严格测试，但总会有一些边缘情况难以预见，如果您遇到任何问题，请与我们联系！&lt;&#x2F;p&gt;
+&lt;p &gt;&amp;#128119;&lt;strong&gt;第三方集成 &#x2F; 连接&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;p &gt;这些资产已为 Unity 的 FSR 3 - 超分辨率添加了特定支持。请注意，这些资产不包括在内！如果您需要对这些资产的支持，请联系原开发者。&lt;&#x2F;p&gt;&lt;ul&gt;&lt;li &gt;&lt;a href=&quot;https:&#x2F;&#x2F;assetstore.unity.com&#x2F;packages&#x2F;tools&#x2F;gui&#x2F;unified-settings-game-options-ui-240015&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;统一设置与游戏选项 UI&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt;&lt;strong&gt;- &lt;&#x2F;strong&gt;一个统一界面的设置模板，适用于所有渲染管线（URP、HDRP、内置）和输入系统（旧版和新版）。该集成适用于所有版本，包括 &lt;a href=&quot;https:&#x2F;&#x2F;assetstore.unity.com&#x2F;packages&#x2F;tools&#x2F;gui&#x2F;settings-menu-creator-268863&quot; target=&quot;_blank&quot;&gt;免费&lt;&#x2F;a&gt; 版本。&lt;&#x2F;li&gt;&lt;li &gt;&lt;strong&gt;使用&lt;&#x2F;strong&gt; &lt;a href=&quot;https:&#x2F;&#x2F;assetstore.unity.com&#x2F;packages&#x2F;tools&#x2F;gui&#x2F;settings-menu-creator-complete-bundle-275522&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;设置菜单创建器&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt;&lt;strong&gt;轻松创建设置菜单 - &lt;&#x2F;strong&gt;快速构建自定义设置菜单。适用于内置、URP 和 HDRP。&lt;&#x2F;li&gt;&lt;&#x2F;ul&gt;&lt;p &gt;需要与其他资产集成吗？请将请求发送至 &lt;a href=&quot;mailto:info@thenakeddev.com&quot; target=&quot;_blank&quot;&gt;info@thenakeddev.com&lt;&#x2F;a&gt;。&lt;&#x2F;p&gt;&lt;br&gt;&lt;p&gt;该资产在MIT许可证下使用FidelityFX-FSR3；有关详细信息，请参阅包中的Third-Party Notices.txt文件。&lt;&#x2F;p&gt;</content>
+        
+    </entry>
+</feed>

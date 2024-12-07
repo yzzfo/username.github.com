@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+    <title>yzzfo | Share for Free - spritesheet</title>
+    <subtitle>Game Development Learning Resources</subtitle>
+    <link rel="self" type="application/atom+xml" href="https://yzzfo.github.io/en/tags/spritesheet/atom.xml"/>
+    <link rel="alternate" type="text/html" href="https://yzzfo.github.io"/>
+    <generator uri="https://www.getzola.org/">Zola</generator>
+    <updated>2024-12-09T18:35:31+00:00</updated>
+    <id>https://yzzfo.github.io/en/tags/spritesheet/atom.xml</id>
+    <entry xml:lang="en">
+        <title>Animation Baking Studio (3D to 2D)</title>
+        <published>2024-12-09T18:35:31+00:00</published>
+        <updated>2024-12-09T18:35:31+00:00</updated>
+        
+        <author>
+          <name>
+            
+              yzzfo
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://yzzfo.github.io/en/unity/store/animation-baking-studio-3d-to-2d/"/>
+        <id>https://yzzfo.github.io/en/unity/store/animation-baking-studio-3d-to-2d/</id>
+        
+        <content type="html" xml:base="https://yzzfo.github.io/en/unity/store/animation-baking-studio-3d-to-2d/">&lt;p&gt;You can take pictures of various 3D models in various directions. Output files are sprite sheets, animation clips, normal maps, and etc. that can be used for 2D or 2.5D games.&lt;br&gt;&lt;&#x2F;p&gt;
+</content>
+        
+    </entry>
+</feed>

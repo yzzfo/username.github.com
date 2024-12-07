@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+    <title>yzzfo - 2D</title>
+    <subtitle>Game Development Learning Resources</subtitle>
+    <link rel="self" type="application/atom+xml" href="https://yzzfo.github.io/en/tags/2d/atom.xml"/>
+    <link rel="alternate" type="text/html" href="https://yzzfo.github.io"/>
+    <generator uri="https://www.getzola.org/">Zola</generator>
+    <updated>2024-12-06T14:26:56+00:00</updated>
+    <id>https://yzzfo.github.io/en/tags/2d/atom.xml</id>
+    <entry xml:lang="en">
+        <title>Lumen: Stylized Light FX</title>
+        <published>2024-12-06T14:26:56+00:00</published>
+        <updated>2024-12-06T14:26:56+00:00</updated>
+        
+        <author>
+          <name>
+            
+              yzzfo
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://yzzfo.github.io/en/unity/store/lumen-stylized-light-fx/"/>
+        <id>https://yzzfo.github.io/en/unity/store/lumen-stylized-light-fx/</id>
+        
+        <content type="html" xml:base="https://yzzfo.github.io/en/unity/store/lumen-stylized-light-fx/">&lt;p&gt;Bring the light back into your project with Lumen: Stylized Light FX! Quickly prototype, save, recolor, and instantiate light flares and sun rays with the onboard tools.&lt;br&gt;&lt;p &gt;&lt;strong&gt;CONNECT WITH US:&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;p &gt;&lt;a href=&quot;https:&#x2F;&#x2F;distantlands.wixsite.com&#x2F;distantlands&quot; target=&quot;_blank&quot;&gt;Website&lt;&#x2F;a&gt; | &lt;a href=&quot;mailto:distantlands.productions@gmail.com&quot; target=&quot;_blank&quot;&gt;Email&lt;&#x2F;a&gt; | &lt;a href=&quot;https:&#x2F;&#x2F;discord.gg&#x2F;HWGU4hj&quot; target=&quot;_blank&quot;&gt;Discord&lt;&#x2F;a&gt; | &lt;a href=&quot;https:&#x2F;&#x2F;drive.google.com&#x2F;file&#x2F;d&#x2F;1Bt3RKHDQusY-mbQW44C4QKqUenksda_K&#x2F;view?usp=sharing&quot; target=&quot;_blank&quot;&gt;Playable Demo&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;Distant Lands presents:&lt;&#x2F;p&gt;&lt;p &gt;&lt;strong&gt;&lt;em&gt;Lumen: Stylized Light FX&lt;&#x2F;em&gt;&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;Create beautiful stylized light effects ranging from light flares to halos to god rays to scatters! Lumen is a one-stop solution to stylized, performant volumetric lighting in stylized games.&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;Features &lt;strong&gt;THREE DIFFERENT SYSTEMS&lt;&#x2F;strong&gt; of light that work together to dramatically stylize your game worlds:&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;Do the lights in your scene feel lackluster? Do you want your audience to feel the warmth of the lights in your game? &lt;strong&gt;LUMEN LIGHT FLARES &lt;&#x2F;strong&gt;add a subtle halo to the lights in your scene providing an effect similar to that of volumetric point lights. This effect can be turned to the extreme as well filling your scenes with majestic glow and powerful auras—a must for any mystical item that your players may encounter!&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;The &lt;strong&gt;LUMEN STATIC RAYS&lt;&#x2F;strong&gt; are a simple way to achieve any sort of volumetric ray. Godrays, sunshafts, spotlights, 2D, 3D, or anything in between, these rays do it all! Use these to add interest to your scene, direct the player&#x27;s eye to important locations, fill the scene with moody lighting, or just make your scenes even prettier!&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;Finally, &lt;strong&gt;LUMEN DYNAMIC RAYS&lt;&#x2F;strong&gt; use vertex colors and a custom shader to dynamically scale and contort the rays to a specific angle in real-time! Use these rays to track the sun dynamically, point rays at a moving target, or fake real-time volumetric lighting!&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;&lt;strong&gt;WHY MESH-BASED EFFECTS?&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;p &gt;Built on a mesh-based, procedural material, Lumen throws out all of the calculations that most volumetric lighting solutions need by replacing the traditional mathematics with a simple vertex lit shader! This allows your effects to be calculated cheaply so that you can focus on the aesthetics of your scene, without worrying about the framerate decreasing. Beyond this, the lack of textures allows your disk space to be minimized without reducing the quality of the flares and rays that make your scene beautiful!&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;&lt;strong&gt;Powerful tools to light your world:&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;ul&gt;&lt;li &gt;Scriptable object backend for quick and easy saving.&lt;&#x2F;li&gt;&lt;li &gt;A fully 3D mesh-based workflow means that effects can be infinitely scaled with no loss in quality!&lt;&#x2F;li&gt;&lt;li &gt;Dynamic and customizable depth fading that allows you to display and hide the light effects based on the depth of the scene.&lt;&#x2F;li&gt;&lt;li &gt;Advanced camera fading that fades light effects in and out based on the distance to the camera.&lt;&#x2F;li&gt;&lt;li &gt;Custom layering system for easy customization.&lt;&#x2F;li&gt;&lt;li &gt;Lightweight shader built-in with GPU instancing support&lt;&#x2F;li&gt;&lt;li &gt;The custom noise-based variation system smoothly interpolates light effects to a different color. Useful for everything from subtle, lazy light movement to sporadic, violent lighting.&lt;&#x2F;li&gt;&lt;li &gt;Global, local, and per-layer controls give you ultimate control over the way that you want the light to render in your scene.&lt;&#x2F;li&gt;&lt;li &gt;All shaders are built with Amplify Shader Editor for easy customization across Built-in and URP!&lt;&#x2F;li&gt;&lt;&#x2F;ul&gt;&lt;p &gt;&lt;strong&gt;Come prepared with out-of-the-box features:&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;ul&gt;&lt;li &gt;42 Premade light effects&lt;&#x2F;li&gt;&lt;li &gt;89 Light shapes&lt;&#x2F;li&gt;&lt;li &gt;Two main shader types&lt;&#x2F;li&gt;&lt;li &gt;Full inspector extensions built with quick and easy editing in mind from the start&lt;&#x2F;li&gt;&lt;li &gt;Fully supports Built-In and URP for any platform!&lt;&#x2F;li&gt;&lt;&#x2F;ul&gt;&lt;&#x2F;br&gt;&lt;&#x2F;p&gt;
+</content>
+        
+    </entry>
+    <entry xml:lang="en">
+        <title>2D Fantasy sprite bundle</title>
+        <published>2024-11-29T21:20:17+00:00</published>
+        <updated>2024-12-02T22:05:55+00:00</updated>
+        
+        <author>
+          <name>
+            
+              yzzfo
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://yzzfo.github.io/en/unity/store/2d-fantasy-sprite-bundle/"/>
+        <id>https://yzzfo.github.io/en/unity/store/2d-fantasy-sprite-bundle/</id>
+        
+        <content type="html" xml:base="https://yzzfo.github.io/en/unity/store/2d-fantasy-sprite-bundle/">&lt;p&gt;Create unique landscapes with sprite shapes and hand-drawn sprites,perfect for 2d games like side-scrollers or platformers.&lt;br&gt;&lt;p &gt;2D Fantasy sprite bundle is a bundle that includes 9 assets wtih a price discount of ~50%.&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;Assets in bundle:&lt;&#x2F;p&gt;&lt;p &gt;-&lt;a href=&quot;https:&#x2F;&#x2F;assetstore.unity.com&#x2F;packages&#x2F;slug&#x2F;215282&quot; target=&quot;_blank&quot;&gt;Island sprite pack&lt;&#x2F;a&gt;,&lt;&#x2F;p&gt;&lt;p &gt;-&lt;a href=&quot;https:&#x2F;&#x2F;assetstore.unity.com&#x2F;packages&#x2F;slug&#x2F;216237&quot; target=&quot;_blank&quot;&gt;Forest sprite pack&lt;&#x2F;a&gt;,&lt;&#x2F;p&gt;&lt;p &gt;-&lt;a href=&quot;https:&#x2F;&#x2F;assetstore.unity.com&#x2F;packages&#x2F;slug&#x2F;215783&quot; target=&quot;_blank&quot;&gt;Dungeon sprite pack&lt;&#x2F;a&gt;,&lt;&#x2F;p&gt;&lt;p &gt;-&lt;a href=&quot;https:&#x2F;&#x2F;assetstore.unity.com&#x2F;packages&#x2F;slug&#x2F;217340&quot; target=&quot;_blank&quot;&gt;Mountains sprite pack&lt;&#x2F;a&gt;,&lt;&#x2F;p&gt;&lt;p &gt;-&lt;a href=&quot;https:&#x2F;&#x2F;assetstore.unity.com&#x2F;packages&#x2F;slug&#x2F;215558&quot; target=&quot;_blank&quot;&gt;Old forest sprite pack&lt;&#x2F;a&gt;,&lt;&#x2F;p&gt;&lt;p &gt;-&lt;a href=&quot;https:&#x2F;&#x2F;assetstore.unity.com&#x2F;packages&#x2F;slug&#x2F;220769&quot; target=&quot;_blank&quot;&gt;Ice and Snow sprite pack&lt;&#x2F;a&gt;,&lt;&#x2F;p&gt;&lt;p &gt;-&lt;a href=&quot;https:&#x2F;&#x2F;assetstore.unity.com&#x2F;packages&#x2F;slug&#x2F;230552&quot; target=&quot;_blank&quot;&gt;Lava dungeon sprite pack&lt;&#x2F;a&gt;,&lt;&#x2F;p&gt;&lt;p &gt;-&lt;a href=&quot;https:&#x2F;&#x2F;assetstore.unity.com&#x2F;packages&#x2F;slug&#x2F;242096&quot; target=&quot;_blank&quot;&gt;Desert sprite pack&lt;&#x2F;a&gt;,&lt;&#x2F;p&gt;&lt;p &gt;-&lt;a href=&quot;https:&#x2F;&#x2F;assetstore.unity.com&#x2F;packages&#x2F;slug&#x2F;223980&quot; target=&quot;_blank&quot;&gt;Underwater sprite pack&lt;&#x2F;a&gt;,&lt;&#x2F;p&gt;&lt;p &gt;-&lt;a href=&quot;https:&#x2F;&#x2F;u3d.as&#x2F;32mP&quot; target=&quot;_blank&quot;&gt;Spring forest sprite pack&lt;&#x2F;a&gt;,&lt;&#x2F;p&gt;&lt;p &gt;-&lt;a href=&quot;https:&#x2F;&#x2F;assetstore.unity.com&#x2F;packages&#x2F;slug&#x2F;259443&quot; target=&quot;_blank&quot;&gt;Crystal dungeon sprite pack&lt;&#x2F;a&gt;,&lt;&#x2F;p&gt;&lt;p &gt;-&lt;a href=&quot;https:&#x2F;&#x2F;u3d.as&#x2F;3fCZ&quot; target=&quot;_blank&quot;&gt;Abandoned station sprite pack&lt;&#x2F;a&gt;.&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;Roadmap for this Bandle:&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;-Asian theme ,&lt;&#x2F;p&gt;&lt;p &gt;-Flying lands sprite pack ,&lt;&#x2F;p&gt;&lt;p &gt;-Mechanical area sprite pack .&lt;&#x2F;p&gt;&lt;p &gt;and more....&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;&#x2F;br&gt;&lt;&#x2F;br&gt;&lt;&#x2F;p&gt;
+</content>
+        
+    </entry>
+    <entry xml:lang="en">
+        <title>UI Node Connect 4</title>
+        <published>2024-11-29T21:18:21+00:00</published>
+        <updated>2024-11-30T13:21:36+00:00</updated>
+        
+        <author>
+          <name>
+            
+              yzzfo
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://yzzfo.github.io/en/unity/store/ui-node-connect-4/"/>
+        <id>https://yzzfo.github.io/en/unity/store/ui-node-connect-4/</id>
+        
+        <content type="html" xml:base="https://yzzfo.github.io/en/unity/store/ui-node-connect-4/">&lt;p&gt;UI Node Connect 4 is a customizable runtime UGUI Node Graph Framework that facilitates the creation of interactive node graph interfaces inside your Game or App.&lt;br&gt;&lt;p &gt;The UI Node Connect 4 is a &lt;strong&gt;runtime UGUI Node Graph Framework&lt;&#x2F;strong&gt; with Nodes, Ports and Connections, drag and drop, a custom UI line renderer and useful features to create node graphs, flowcharts, circuit boards, connection puzzles, among other creative ways for the users to interact with your game or app.&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;📚&lt;strong&gt; &lt;&#x2F;strong&gt;&lt;a href=&quot;https:&#x2F;&#x2F;docs.google.com&#x2F;document&#x2F;d&#x2F;1Wh4QISqWpeRZiC1uXzM4CAO-uZuCs5Y8agiJM-xHhgo&#x2F;edit&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;Documentation&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;&lt;p &gt;📚&lt;strong&gt; &lt;&#x2F;strong&gt;&lt;a href=&quot;https:&#x2F;&#x2F;docs.google.com&#x2F;document&#x2F;d&#x2F;1Wh4QISqWpeRZiC1uXzM4CAO-uZuCs5Y8agiJM-xHhgo&#x2F;edit&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;Code Reference&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;&lt;p &gt;🎮&lt;strong&gt; &lt;&#x2F;strong&gt;&lt;a href=&quot;https:&#x2F;&#x2F;danielcmcg.itch.io&#x2F;logic-gates&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;Logic Gates Sample Scene&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;&lt;strong&gt;Customize the asset&lt;&#x2F;strong&gt; with your own sprites, texts, colors, buttons and expand it by adding new features using the API to &lt;strong&gt;hook up to events&lt;&#x2F;strong&gt; and analyze the &lt;strong&gt;Nodes, Ports and Connections&lt;&#x2F;strong&gt;.&lt;&#x2F;p&gt;&lt;p &gt;Make the Canvas part of your gameplay by adding a new interaction way for the users to manipulate and connect Nodes to each other.&lt;&#x2F;p&gt;&lt;&#x2F;p&gt;
+</content>
+        
+    </entry>
+</feed>

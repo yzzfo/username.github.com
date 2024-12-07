@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh">
+    <title>yzzfo | Share for Free - Nvidia</title>
+    <subtitle>游戏开发学习资源分享</subtitle>
+    <link rel="self" type="application/atom+xml" href="https://yzzfo.github.io/tags/nvidia/atom.xml"/>
+    <link rel="alternate" type="text/html" href="https://yzzfo.github.io"/>
+    <generator uri="https://www.getzola.org/">Zola</generator>
+    <updated>2024-12-07T20:00:43+00:00</updated>
+    <id>https://yzzfo.github.io/tags/nvidia/atom.xml</id>
+    <entry xml:lang="zh">
+        <title>DLSS - Upscaling for Unity</title>
+        <published>2024-12-07T20:00:43+00:00</published>
+        <updated>2024-12-07T20:00:43+00:00</updated>
+        
+        <author>
+          <name>
+            
+              yzzfo
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://yzzfo.github.io/unity/store/dlss-upscaling-for-unity/"/>
+        <id>https://yzzfo.github.io/unity/store/dlss-upscaling-for-unity/</id>
+        
+        <content type="html" xml:base="https://yzzfo.github.io/unity/store/dlss-upscaling-for-unity/">&lt;p&gt;优化并提升您的帧率，使用DLSS！这个工具通过将低分辨率输入进行上采样，生成高质量的帧，从而实现其魔力。这在几乎没有质量损失的情况下提升了性能！&lt;&#x2F;p&gt;
+&lt;p &gt;&lt;strong&gt;DLSS - Unity的上采样&lt;&#x2F;strong&gt;已在&lt;strong&gt;2021&lt;&#x2F;strong&gt;、&lt;strong&gt;2022&lt;&#x2F;strong&gt;和&lt;strong&gt;2023&lt;&#x2F;strong&gt;版本的Unity中进行了测试！&lt;&#x2F;p&gt;&lt;p &gt;&lt;strong&gt;Unity 6&lt;&#x2F;strong&gt;的支持仍处于实验阶段，因为每个新版本的6都引入了大量的破坏性更改。&lt;&#x2F;p&gt;
+&lt;p &gt;⚡&lt;strong&gt;使用DLSS上采样提升您的帧数！&lt;&#x2F;strong&gt;⚡&lt;&#x2F;p&gt;&lt;p &gt;DLSS是一种上采样技术，基于低分辨率输入创建高质量和高分辨率的帧。通过使用此技术，您的项目可以在显著较低的分辨率下运行，而不会失去视觉质量，并且可以提高帧率！&lt;&#x2F;p&gt;
+&lt;p &gt;如果您的项目受限于GPU性能，DLSS将为您提供更高的帧率。如果项目受限于CPU性能，它所做的只是降低GPU的工作负载。虽然这看起来是一个很大的限制，但这也意味着在使用DLSS时，笔记本电脑将消耗更少的电池电量！&lt;&#x2F;p&gt;
+&lt;p &gt;&amp;#127744;&lt;strong&gt;易于使用&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;p &gt;DLSS的设计旨在简化设置，提供了详细的文档来描述该过程。&lt;&#x2F;p&gt;&lt;p &gt;此外，DLSS已与所有默认的Unity后期处理进行了广泛测试，但我们不能保证所有自定义后期处理资产都能开箱即用。如果您在使用自定义资产时遇到问题，请与我们联系，我们将看看是否可以帮助添加支持！&lt;&#x2F;p&gt;
+&lt;p &gt;&lt;strong&gt;&amp;#127808;AAA抗锯齿&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;p &gt;DLSS内置了高质量的空间抗锯齿功能。消除那些锯齿状边缘和闪烁，同时提升您项目的性能！&lt;&#x2F;p&gt;&lt;br&gt;&lt;p &gt;&lt;strong&gt;❤️进一步提升性能，使用 FSR 3 - Unity 的超分辨率技术&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;p &gt;您是否需要为使用 AMD GPU 或其他平台的玩家提供超分辨率支持？ &lt;a href=&quot;https:&#x2F;&#x2F;assetstore.unity.com&#x2F;packages&#x2F;tools&#x2F;utilities&#x2F;fsr-3-upscaling-for-unity-252172&quot; target=&quot;_blank&quot;&gt;试试我们的 FSR 3 - Unity 超分辨率资源&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+&lt;p &gt;&lt;strong&gt;&amp;#128153;使用 XeSS 进一步提升性能 - Unity 的超分辨率技术&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;p &gt;想要为所有 GPU 品牌提供更好的视觉保真度超分辨率吗？将新的 &lt;a href=&quot;https:&#x2F;&#x2F;assetstore.unity.com&#x2F;packages&#x2F;slug&#x2F;286113&quot; target=&quot;_blank&quot;&gt;XeSS - Unity 的超分辨率技术&lt;&#x2F;a&gt; 添加到您的项目中吧！&lt;&#x2F;p&gt;
+&lt;p &gt;&lt;strong&gt;&amp;#128156;为移动设备提升性能，使用 SGSR Mobile - Unity 的超分辨率技术&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;p &gt;有时 FSR 3、XeSS 和 DLSS 对于移动设备或旧设备来说可能过于消耗性能，因此我们特别发布了极速的 &lt;a href=&quot;https:&#x2F;&#x2F;assetstore.unity.com&#x2F;packages&#x2F;tools&#x2F;utilities&#x2F;sgsr-mobile-upscaling-for-unity-283343&quot; target=&quot;_blank&quot;&gt;SGSR Mobile - Unity 的超分辨率技术&lt;&#x2F;a&gt;！&lt;&#x2F;p&gt;
+&lt;p &gt;&amp;#128735;&lt;strong&gt;支持&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;p &gt;如果您在实施 DLSS 时遇到任何问题，请阅读我们的 &lt;a href=&quot;https:&#x2F;&#x2F;docs.google.com&#x2F;document&#x2F;d&#x2F;1mglcEiYxAj6AR0-85D3nNBj1n67BlMRSJGp4bOCnZ30&#x2F;&quot; target=&quot;_blank&quot;&gt;文档&lt;&#x2F;a&gt;，或通过 &lt;a href=&quot;https:&#x2F;&#x2F;discord.gg&#x2F;r9jkRzaPtC&quot; target=&quot;_blank&quot;&gt;Discord&lt;&#x2F;a&gt; 或 &lt;a href=&quot;https:&#x2F;&#x2F;discussions.unity.com&#x2F;t&#x2F;released-nvidia-dlss-upscaling-for-unity-built-in-and-urp&#x2F;925736&quot; target=&quot;_blank&quot;&gt;论坛&lt;&#x2F;a&gt; 联系我们。&lt;&#x2F;p&gt;&lt;p &gt;尽管该资源经过严格测试，但总会有一些难以预见的边缘情况，如果您遇到任何问题，请与我们联系！&lt;&#x2F;p&gt;&lt;br&gt;&lt;p &gt;&amp;#128119;&lt;strong&gt;第三方集成 &#x2F; 连接&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;p &gt;这些资源已为Unity添加了对DLSS（深度学习超采样）- 上采样的特定支持。请注意，这些资源不包括在内！如果您需要这些资源的支持，请联系原开发者。&lt;&#x2F;p&gt;&lt;ul&gt;&lt;li &gt;&lt;a href=&quot;https:&#x2F;&#x2F;assetstore.unity.com&#x2F;packages&#x2F;tools&#x2F;gui&#x2F;unified-settings-game-options-ui-240015&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;统一设置与游戏选项UI&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt;&lt;strong&gt;- &lt;&#x2F;strong&gt;一个统一界面的设置模板，适用于所有渲染管线（URP、HDRP、内置）和输入系统（旧版和新版）。&lt;&#x2F;li&gt;&lt;li &gt;&lt;strong&gt;使用&lt;&#x2F;strong&gt; &lt;a href=&quot;https:&#x2F;&#x2F;assetstore.unity.com&#x2F;packages&#x2F;tools&#x2F;gui&#x2F;settings-menu-creator-complete-bundle-275522&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;设置菜单创建器&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt;&lt;strong&gt;轻松创建设置菜单 - &lt;&#x2F;strong&gt;快速构建自定义设置菜单。适用于内置、URP和HDRP。该集成适用于所有版本，包括&lt;a href=&quot;https:&#x2F;&#x2F;assetstore.unity.com&#x2F;packages&#x2F;tools&#x2F;gui&#x2F;settings-menu-creator-268863&quot; target=&quot;_blank&quot;&gt;免费&lt;&#x2F;a&gt;版本。&lt;&#x2F;li&gt;&lt;&#x2F;ul&gt;&lt;p &gt;需要与其他资源集成吗？请将请求发送至 &lt;a href=&quot;mailto:info@thenakeddev.com&quot; target=&quot;_blank&quot;&gt;info@thenakeddev.com&lt;&#x2F;a&gt;。&lt;&#x2F;p&gt;</content>
+        
+    </entry>
+</feed>

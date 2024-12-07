@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh">
+    <title>yzzfo - Hand-Painted</title>
+    <subtitle>游戏开发学习资源分享</subtitle>
+    <link rel="self" type="application/atom+xml" href="https://yzzfo.github.io/tags/hand-painted/atom.xml"/>
+    <link rel="alternate" type="text/html" href="https://yzzfo.github.io"/>
+    <generator uri="https://www.getzola.org/">Zola</generator>
+    <updated>2024-12-03T01:14:53+00:00</updated>
+    <id>https://yzzfo.github.io/tags/hand-painted/atom.xml</id>
+    <entry xml:lang="zh">
+        <title>Fantasy Forest Environment</title>
+        <published>2024-12-03T01:14:53+00:00</published>
+        <updated>2024-12-03T01:14:53+00:00</updated>
+        
+        <author>
+          <name>
+            
+              yzzfo
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://yzzfo.github.io/unity/store/fantasy-forest-environment/"/>
+        <id>https://yzzfo.github.io/unity/store/fantasy-forest-environment/</id>
+        
+        <content type="html" xml:base="https://yzzfo.github.io/unity/store/fantasy-forest-environment/">&lt;p&gt;This pack contains over 120 prefabs you need to create stylized forest environment: from trees, bushes to rocks and mushrooms. Demo scene in summer, autumn and winter variants!&lt;br&gt;&lt;strong&gt;更新 2.1 - URP 支持！&lt;&#x2F;strong&gt;&lt;br&gt;&lt;br&gt;▶&lt;a href=&quot;https:&#x2F;&#x2F;forum.unity.com&#x2F;threads&#x2F;fantasy-forest-environment-update-v2-0.708998&#x2F;&quot;&gt;论坛&lt;&#x2F;a&gt;◀ ▶&lt;a href=&quot;https:&#x2F;&#x2F;drive.google.com&#x2F;open?id=12-8v2fjcL6R2J_Ez9oUlipxZJm-t-h-I&quot;&gt;播放演示&lt;&#x2F;a&gt;◀ ▶&lt;a href=&quot;mailto:support@triforge.eu&quot;&gt;支持&lt;&#x2F;a&gt;◀&lt;br&gt;&lt;br&gt;&lt;strong&gt;支持：&lt;&#x2F;strong&gt;&lt;br&gt;&lt;strong&gt;内置渲染 - 2018.2.11 或更新&lt;&#x2F;strong&gt;&lt;br&gt;&lt;strong&gt;URP 7.2 - 2019.3&lt;&#x2F;strong&gt;&lt;br&gt;&lt;br&gt;此资源包内含 120 多个您需要的预制件，以创建风格化的森林环境：从树木、灌木丛到岩石和蘑菇。这些预制件为夏季、秋季和冬季场景提供了精美的手绘纹理和变体。&lt;br&gt;&lt;br&gt;&lt;strong&gt;功能：&lt;&#x2F;strong&gt;&lt;br&gt;&lt;br&gt;➤ 23 种花木手绘地形纹理&lt;br&gt;➤ 12 种树木模型：7 种针叶树、2 种落叶树和 3 种桦木树，以及匹配秋、冬季节的变体 - 总共 36 种树木预制件&lt;br&gt;➤13 种地形细节网格，例如草、灌木和花朵，具有顶点 alpha 以提供适当的风支持&lt;br&gt;➤ 53 个道具模型，例如蘑菇、岩石、篱笆、水生植物、帐篷、篝火、桥梁、瀑布&lt;br&gt;➤ 7 种粒子效果：水溅、火焰、落叶、灰尘、薄雾和雪&lt;br&gt;➤ 自定义树木着色器，具有风力运动以及对 Vegetation Studio Pro 的间接实例化支持&lt;br&gt;&lt;br&gt;&lt;strong&gt;重要说明：&lt;&#x2F;strong&gt;&lt;br&gt;未在移动设备上测试。当前不支持 HDRP。&lt;br&gt;使用 Unity Post Processing Stack v2、线性色彩空间制作屏幕截图和视频，并在 Unity 2018.2.11版中进行渲染。视频中可见的水取材自 Unity 标准资源，不包含此资源包中。&lt;br&gt;&lt;br&gt;需要资源包方面的帮助或有疑问吗？&lt;br&gt;电子邮件：&lt;a href=&quot;mailto:support@triforge.eu&quot;&gt;support@triforge.eu&lt;&#x2F;a&gt;&lt;br&gt;&lt;&#x2F;p&gt;
+</content>
+        
+    </entry>
+    <entry xml:lang="zh">
+        <title>2D Fantasy sprite bundle</title>
+        <published>2024-11-29T21:20:17+00:00</published>
+        <updated>2024-12-02T22:05:55+00:00</updated>
+        
+        <author>
+          <name>
+            
+              yzzfo
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://yzzfo.github.io/unity/store/2d-fantasy-sprite-bundle/"/>
+        <id>https://yzzfo.github.io/unity/store/2d-fantasy-sprite-bundle/</id>
+        
+        <content type="html" xml:base="https://yzzfo.github.io/unity/store/2d-fantasy-sprite-bundle/">&lt;p&gt;创建独特的景观，使用精灵形状和手绘精灵，完美适用于侧滚动或平台类的2D游戏。&lt;&#x2F;p&gt;
+&lt;p&gt;2D幻想精灵包是一个包含9个资产的捆绑包，价格折扣约为50%。&lt;&#x2F;p&gt;
+&lt;p&gt;捆绑包中的资产：&lt;&#x2F;p&gt;&lt;p&gt;-&lt;a href=&quot;https:&#x2F;&#x2F;assetstore.unity.com&#x2F;packages&#x2F;slug&#x2F;215282&quot; target=&quot;_blank&quot;&gt;岛屿精灵包&lt;&#x2F;a&gt;,&lt;&#x2F;p&gt;&lt;p&gt;-&lt;a href=&quot;https:&#x2F;&#x2F;assetstore.unity.com&#x2F;packages&#x2F;slug&#x2F;216237&quot; target=&quot;_blank&quot;&gt;森林精灵包&lt;&#x2F;a&gt;,&lt;&#x2F;p&gt;&lt;p&gt;-&lt;a href=&quot;https:&#x2F;&#x2F;assetstore.unity.com&#x2F;packages&#x2F;slug&#x2F;215783&quot; target=&quot;_blank&quot;&gt;地下城精灵包&lt;&#x2F;a&gt;,&lt;&#x2F;p&gt;&lt;p&gt;-&lt;a href=&quot;https:&#x2F;&#x2F;assetstore.unity.com&#x2F;packages&#x2F;slug&#x2F;217340&quot; target=&quot;_blank&quot;&gt;山脉精灵包&lt;&#x2F;a&gt;,&lt;&#x2F;p&gt;&lt;p&gt;-&lt;a href=&quot;https:&#x2F;&#x2F;assetstore.unity.com&#x2F;packages&#x2F;slug&#x2F;215558&quot; target=&quot;_blank&quot;&gt;古老森林精灵包&lt;&#x2F;a&gt;,&lt;&#x2F;p&gt;&lt;p&gt;-&lt;a href=&quot;https:&#x2F;&#x2F;assetstore.unity.com&#x2F;packages&#x2F;slug&#x2F;220769&quot; target=&quot;_blank&quot;&gt;冰雪精灵包&lt;&#x2F;a&gt;,&lt;&#x2F;p&gt;&lt;p&gt;-&lt;a href=&quot;https:&#x2F;&#x2F;assetstore.unity.com&#x2F;packages&#x2F;slug&#x2F;230552&quot; target=&quot;_blank&quot;&gt;熔岩地下城精灵包&lt;&#x2F;a&gt;,&lt;&#x2F;p&gt;&lt;p&gt;-&lt;a href=&quot;https:&#x2F;&#x2F;assetstore.unity.com&#x2F;packages&#x2F;slug&#x2F;242096&quot; target=&quot;_blank&quot;&gt;沙漠精灵包&lt;&#x2F;a&gt;,&lt;&#x2F;p&gt;&lt;p&gt;-&lt;a href=&quot;https:&#x2F;&#x2F;assetstore.unity.com&#x2F;packages&#x2F;slug&#x2F;223980&quot; target=&quot;_blank&quot;&gt;水下精灵包&lt;&#x2F;a&gt;,&lt;&#x2F;p&gt;&lt;p&gt;-&lt;a href=&quot;https:&#x2F;&#x2F;u3d.as&#x2F;32mP&quot; target=&quot;_blank&quot;&gt;春季森林精灵包&lt;&#x2F;a&gt;,&lt;&#x2F;p&gt;&lt;p&gt;-&lt;a href=&quot;https:&#x2F;&#x2F;assetstore.unity.com&#x2F;packages&#x2F;slug&#x2F;259443&quot; target=&quot;_blank&quot;&gt;水晶地下城精灵包&lt;&#x2F;a&gt;,&lt;&#x2F;p&gt;&lt;p&gt;-&lt;a href=&quot;https:&#x2F;&#x2F;u3d.as&#x2F;3fCZ&quot; target=&quot;_blank&quot;&gt;废弃车站精灵包&lt;&#x2F;a&gt;.&lt;&#x2F;p&gt;
+&lt;p&gt;此捆绑包的路线图：&lt;&#x2F;p&gt;
+&lt;p&gt;-亚洲主题,&lt;&#x2F;p&gt;&lt;p&gt;-飞行土地精灵包,&lt;&#x2F;p&gt;&lt;p&gt;-机械区域精灵包.&lt;&#x2F;p&gt;&lt;p&gt;还有更多....&lt;&#x2F;p&gt;</content>
+        
+    </entry>
+</feed>

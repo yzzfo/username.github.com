@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+    <title>yzzfo | Share for Free - juice</title>
+    <subtitle>Game Development Learning Resources</subtitle>
+    <link rel="self" type="application/atom+xml" href="https://yzzfo.github.io/en/tags/juice/atom.xml"/>
+    <link rel="alternate" type="text/html" href="https://yzzfo.github.io"/>
+    <generator uri="https://www.getzola.org/">Zola</generator>
+    <updated>2024-12-08T17:36:49+00:00</updated>
+    <id>https://yzzfo.github.io/en/tags/juice/atom.xml</id>
+    <entry xml:lang="en">
+        <title>Lightning VFX (BiRP)</title>
+        <published>2024-12-08T17:36:49+00:00</published>
+        <updated>2024-12-08T17:36:49+00:00</updated>
+        
+        <author>
+          <name>
+            
+              yzzfo
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://yzzfo.github.io/en/unity/store/lightning-vfx-birp/"/>
+        <id>https://yzzfo.github.io/en/unity/store/lightning-vfx-birp/</id>
+        
+        <content type="html" xml:base="https://yzzfo.github.io/en/unity/store/lightning-vfx-birp/">&lt;p&gt;⚡️ UNLEASH THE THUNDER w&#x2F; Lightning VFX! ⚡️&lt;br&gt;&lt;p &gt;&lt;strong&gt;⚡️ Light up your game with dazzling bolts of lightning!&lt;&#x2F;strong&gt; 🎮✨&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;An epic lightning VFX prefab made of advanced particle system configurations, a &lt;strong&gt;HAND-DRAWN lightning texture&lt;&#x2F;strong&gt; with &lt;strong&gt;&lt;em&gt;custom shaders&lt;&#x2F;em&gt;&lt;&#x2F;strong&gt; + components for &lt;strong&gt;automatic variation&lt;&#x2F;strong&gt;, &lt;strong&gt;dissolve&lt;&#x2F;strong&gt;, and &lt;strong&gt;post-processing effects&lt;&#x2F;strong&gt;.&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;👉 &lt;a href=&quot;https:&#x2F;&#x2F;mirzabeig.github.io&#x2F;Lightning-VFX-WebGL&#x2F;&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;Realtime&#x2F;Live WebGL Demo&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;Did we mention our effect features &lt;strong&gt;REAL animated lights &lt;&#x2F;strong&gt;that &lt;strong&gt;cast shadows&lt;&#x2F;strong&gt; and illuminate the environment? &lt;strong&gt;Brighten the night!&lt;&#x2F;strong&gt; 🌩️&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;&lt;strong&gt;⚡️ &lt;&#x2F;strong&gt;Charge up your scenes and make your players &lt;strong&gt;feel &lt;&#x2F;strong&gt;the power! 💪😎&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;Using specially-made Cinemachine components for &lt;strong&gt;camera shake impulses&lt;&#x2F;strong&gt; as well as a new &lt;strong&gt;post-processing blending system&lt;&#x2F;strong&gt;, &lt;em&gt;the closer you are to the effect, the greater the visual force-feedback.&lt;&#x2F;em&gt;&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;&lt;strong&gt;⚡️ &lt;&#x2F;strong&gt;Let your &lt;strong&gt;creativity &lt;&#x2F;strong&gt;run wild! 🎨🌈&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;We use &lt;strong&gt;Unity&#x27;s native particle system&lt;&#x2F;strong&gt; to setup nearly every aspect of the effect, meaning you can &lt;strong&gt;customize practically everything&lt;&#x2F;strong&gt;. Our &lt;strong&gt;shaders have neatly exposed properties&lt;&#x2F;strong&gt; for even more control, and you can &lt;strong&gt;tweak the quality of the radial blur&lt;&#x2F;strong&gt;.&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;&lt;em&gt;You don&#x27;t have to take our word for it...&lt;&#x2F;em&gt;&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;👉 &lt;a href=&quot;https:&#x2F;&#x2F;mirzabeig.github.io&#x2F;Lightning-VFX-WebGL&#x2F;&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;TRY THE DEMO!&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;&lt;strong&gt;On mobile&#x2F;low-end hardware?&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;p &gt;📲 &lt;strong&gt;Simply enable the on-screen PERFORMANCE MODE. &lt;&#x2F;strong&gt;🚀🌕&lt;&#x2F;p&gt;&lt;&#x2F;p&gt;
+</content>
+        
+    </entry>
+</feed>

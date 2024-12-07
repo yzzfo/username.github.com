@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh">
+    <title>yzzfo - FPS</title>
+    <subtitle>游戏开发学习资源分享</subtitle>
+    <link rel="self" type="application/atom+xml" href="https://yzzfo.github.io/tags/fps/atom.xml"/>
+    <link rel="alternate" type="text/html" href="https://yzzfo.github.io"/>
+    <generator uri="https://www.getzola.org/">Zola</generator>
+    <updated>2024-12-07T20:01:46+00:00</updated>
+    <id>https://yzzfo.github.io/tags/fps/atom.xml</id>
+    <entry xml:lang="zh">
+        <title>FSR 3 - Upscaling for Unity</title>
+        <published>2024-12-07T20:01:46+00:00</published>
+        <updated>2024-12-07T20:01:46+00:00</updated>
+        
+        <author>
+          <name>
+            
+              yzzfo
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://yzzfo.github.io/unity/store/fsr-3-upscaling-for-unity/"/>
+        <id>https://yzzfo.github.io/unity/store/fsr-3-upscaling-for-unity/</id>
+        
+        <content type="html" xml:base="https://yzzfo.github.io/unity/store/fsr-3-upscaling-for-unity/">&lt;p&gt;优化并提升您的帧率，使用AMD的FidelityFX超分辨率3.1，现在在Unity中首发！&lt;&#x2F;p&gt;
+&lt;p &gt;&lt;strong&gt;FSR 3 - Unity的超分辨率技术&lt;&#x2F;strong&gt;已在&lt;strong&gt;2021&lt;&#x2F;strong&gt;、&lt;strong&gt;2022&lt;&#x2F;strong&gt;、&lt;strong&gt;2023&lt;&#x2F;strong&gt;和&lt;strong&gt;Unity 6&lt;&#x2F;strong&gt;版本中进行了测试！&lt;&#x2F;p&gt;
+&lt;p &gt;⚡&lt;strong&gt;使用FSR 3超分辨率技术提升您的帧数！&lt;&#x2F;strong&gt;⚡&lt;&#x2F;p&gt;&lt;p &gt;&lt;em&gt;当前FSR 3版本：3.1.2&lt;&#x2F;em&gt;&lt;&#x2F;p&gt;
+&lt;p &gt;FSR 3是一种超分辨率技术，基于低分辨率输入生成高质量和高分辨率的帧。通过使用此技术，您的项目可以在显著较低的分辨率下运行，而不会失去视觉质量，并且可以提高帧率！&lt;&#x2F;p&gt;
+&lt;p &gt;此Unity资源旨在与AMD的FidelityFX FSR 3接口，您可以在此找到：&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;GPUOpen-LibrariesAndSDKs&#x2F;FidelityFX-SDK&#x2F;tree&#x2F;main&quot; target=&quot;_blank&quot;&gt;GitHub - GPUOpen-LibrariesAndSDKs&#x2F;FidelityFX-SDK：FidelityFX SDK的主要存储库。&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+&lt;p &gt;如果您的项目受限于GPU性能，FSR 3将为您提供更高的帧率。如果项目受限于CPU性能，它只会降低GPU的工作负载。虽然这似乎是一个很大的限制，但这也意味着在使用FSR 3时，笔记本电脑将消耗更少的电池电量！&lt;&#x2F;p&gt;
+&lt;p &gt;&amp;#127744;&lt;strong&gt;易于使用&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;p &gt;FSR 3的设计旨在简化设置，并提供了详细的文档来描述该过程。&lt;&#x2F;p&gt;&lt;p &gt;此外，FSR 3已与所有默认的Unity后期处理进行了广泛测试，但我们无法保证所有自定义后期处理资源都能开箱即用。如果您在使用自定义资源时遇到问题，请与我们联系，我们将看看是否可以提供支持！&lt;&#x2F;p&gt;
+&lt;p &gt;&lt;strong&gt;&amp;#127912;平台支持&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;p &gt;通过使用计算着色器FSR后端，我们能够支持几乎所有平台，查看下面的技术细节以了解哪些平台已被支持和测试。&lt;&#x2F;p&gt;&lt;br&gt;&lt;p &gt;&lt;strong&gt;&amp;#127808;AAA 抗锯齿&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;p &gt;FSR 3 内置了高质量的时间抗锯齿。消除那些锯齿边缘，同时提升您项目的性能！如果您不想使用上采样，现在也可以仅使用 TAA。&lt;&#x2F;p&gt;
+&lt;p &gt;&lt;strong&gt;&amp;#129497;‍♂️帧生成&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;p &gt;该资产目前尚不支持帧生成。我们正在对此进行调查，您可以加入我的 &lt;a href=&quot;https:&#x2F;&#x2F;discord.gg&#x2F;r9jkRzaPtC&quot; target=&quot;_blank&quot;&gt;Discord&lt;&#x2F;a&gt; 以获取当前状态。&lt;&#x2F;p&gt;
+&lt;p &gt;&lt;strong&gt;&amp;#128153;通过 XeSS 提升更多 - Unity 的上采样&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;p &gt;想要为所有 GPU 品牌提供更好的视觉保真度上采样吗？将新的 &lt;a href=&quot;https:&#x2F;&#x2F;assetstore.unity.com&#x2F;packages&#x2F;slug&#x2F;286113&quot; target=&quot;_blank&quot;&gt;XeSS - Unity 的上采样&lt;&#x2F;a&gt; 添加到您的项目中！&lt;&#x2F;p&gt;
+&lt;p &gt;&lt;strong&gt;&amp;#128154;通过 DLSS 进一步提升 - Unity 的上采样&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;p &gt;您在寻找绝对最佳质量的上采样吗？通过为 NVIDIA 用户添加 &lt;a href=&quot;https:&#x2F;&#x2F;assetstore.unity.com&#x2F;packages&#x2F;tools&#x2F;utilities&#x2F;dlss-upscaling-for-unity-262761&quot; target=&quot;_blank&quot;&gt;DLSS - Unity 的上采样&lt;&#x2F;a&gt; 来增强您项目的视觉保真度。&lt;&#x2F;p&gt;
+&lt;p &gt;&lt;strong&gt;&amp;#128156;通过 SGSR Mobile 提升移动设备性能 - Unity 的上采样&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;p &gt;有时 FSR 3 和 DLSS 对于移动设备或旧设备来说可能过于消耗性能，因此我们特别发布了快速的 &lt;a href=&quot;https:&#x2F;&#x2F;assetstore.unity.com&#x2F;packages&#x2F;tools&#x2F;utilities&#x2F;sgsr-mobile-upscaling-for-unity-283343&quot; target=&quot;_blank&quot;&gt;SGSR Mobile - Unity 的上采样&lt;&#x2F;a&gt;！&lt;&#x2F;p&gt;&lt;br&gt;&lt;p &gt;&amp;#128735;&lt;strong&gt;支持&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;p &gt;如果您在实现 FSR 3 时遇到任何问题，请阅读我们的 &lt;a href=&quot;https:&#x2F;&#x2F;docs.google.com&#x2F;document&#x2F;d&#x2F;1vkKyCwL6TKdPUb2rWRMw7B3tEYyl_ZH9uyFqJqrQTwg&quot; target=&quot;_blank&quot;&gt;文档&lt;&#x2F;a&gt;，或通过 &lt;a href=&quot;https:&#x2F;&#x2F;discord.gg&#x2F;r9jkRzaPtC&quot; target=&quot;_blank&quot;&gt;Discord&lt;&#x2F;a&gt; 或 &lt;a href=&quot;https:&#x2F;&#x2F;discussions.unity.com&#x2F;t&#x2F;released-fsr-3-boost-your-fps-with-amd-fidelityfx-super-resolution-3-0-fsr-3-upscaling&#x2F;899179&quot; target=&quot;_blank&quot;&gt;论坛&lt;&#x2F;a&gt; 联系我们。&lt;&#x2F;p&gt;&lt;p &gt;尽管该资产经过严格测试，但总会有一些边缘情况难以预见，如果您遇到任何问题，请与我们联系！&lt;&#x2F;p&gt;
+&lt;p &gt;&amp;#128119;&lt;strong&gt;第三方集成 &#x2F; 连接&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;p &gt;这些资产已为 Unity 的 FSR 3 - 超分辨率添加了特定支持。请注意，这些资产不包括在内！如果您需要对这些资产的支持，请联系原开发者。&lt;&#x2F;p&gt;&lt;ul&gt;&lt;li &gt;&lt;a href=&quot;https:&#x2F;&#x2F;assetstore.unity.com&#x2F;packages&#x2F;tools&#x2F;gui&#x2F;unified-settings-game-options-ui-240015&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;统一设置与游戏选项 UI&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt;&lt;strong&gt;- &lt;&#x2F;strong&gt;一个统一界面的设置模板，适用于所有渲染管线（URP、HDRP、内置）和输入系统（旧版和新版）。该集成适用于所有版本，包括 &lt;a href=&quot;https:&#x2F;&#x2F;assetstore.unity.com&#x2F;packages&#x2F;tools&#x2F;gui&#x2F;settings-menu-creator-268863&quot; target=&quot;_blank&quot;&gt;免费&lt;&#x2F;a&gt; 版本。&lt;&#x2F;li&gt;&lt;li &gt;&lt;strong&gt;使用&lt;&#x2F;strong&gt; &lt;a href=&quot;https:&#x2F;&#x2F;assetstore.unity.com&#x2F;packages&#x2F;tools&#x2F;gui&#x2F;settings-menu-creator-complete-bundle-275522&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;设置菜单创建器&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt;&lt;strong&gt;轻松创建设置菜单 - &lt;&#x2F;strong&gt;快速构建自定义设置菜单。适用于内置、URP 和 HDRP。&lt;&#x2F;li&gt;&lt;&#x2F;ul&gt;&lt;p &gt;需要与其他资产集成吗？请将请求发送至 &lt;a href=&quot;mailto:info@thenakeddev.com&quot; target=&quot;_blank&quot;&gt;info@thenakeddev.com&lt;&#x2F;a&gt;。&lt;&#x2F;p&gt;&lt;br&gt;&lt;p&gt;该资产在MIT许可证下使用FidelityFX-FSR3；有关详细信息，请参阅包中的Third-Party Notices.txt文件。&lt;&#x2F;p&gt;</content>
+        
+    </entry>
+    <entry xml:lang="zh">
+        <title>EasyPerformanceMonitor - 2024</title>
+        <published>2024-11-29T21:21:24+00:00</published>
+        <updated>2024-11-30T13:25:51+00:00</updated>
+        
+        <author>
+          <name>
+            
+              yzzfo
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://yzzfo.github.io/unity/store/easyperformancemonitor-2024/"/>
+        <id>https://yzzfo.github.io/unity/store/easyperformancemonitor-2024/</id>
+        
+        <content type="html" xml:base="https://yzzfo.github.io/unity/store/easyperformancemonitor-2024/">&lt;p&gt;EasyPerformanceMonitor 是一款专为 Unity3d 设计的游戏内性能监控工具。它可实时监控 FPS、CPU 使用率、GPU 使用率、内存使用率等基本指标。&lt;br&gt;&lt;p &gt;📄 &lt;a href=&quot;https:&#x2F;&#x2F;docs.guardingpearsoftware.com&#x2F;manual&#x2F;EasyPerformanceMonitor&#x2F;Description.html&quot; target=&quot;_blank&quot;&gt;文档&lt;&#x2F;a&gt; 💬 &lt;a href=&quot;https:&#x2F;&#x2F;forum.unity.com&#x2F;threads&#x2F;easyperformancemonitor-cpu-gpu-memory-in-game-monitoring.1490116&#x2F;&quot; target=&quot;_blank&quot;&gt;论坛&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;EasyPerformanceMonitor 是一款专为 Unity3d 设计的游戏内性能监控工具。通过实时监控 FPS、CPU 使用率、GPU 使用率、内存使用率等基本指标，EasyPerformanceMonitor 可帮助您优化应用程序和游戏性能。&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;&lt;strong&gt;⭐&lt;&#x2F;strong&gt;主要事实&lt;strong&gt;⭐&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;✔ 游戏内监控： 游戏内覆盖，让您随时更新。&lt;&#x2F;p&gt;&lt;p &gt;✔ 使用简单： 无需复杂设置或技术知识，即插即用。&lt;&#x2F;p&gt;&lt;p &gt;✔ 兼容性： 与所有 Unity3d 支持的目标平台集成。&lt;&#x2F;p&gt;&lt;p &gt;✔ 自定义数据扩展： 通过集成自定义数据扩展您的监控功能。&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;&lt;strong&gt;⭐&lt;&#x2F;strong&gt;集成&lt;strong&gt;⭐&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;无论目标平台如何，将 EasyPerformanceMonitor 集成到任何应用程序或游戏中都非常简单。只需将 EasyPerformanceMonitor 预制件添加到初始场景中，一切就绪。我们确保集成过程简单明了，让您可以专注于核心开发。&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;&lt;strong&gt;⭐&lt;&#x2F;strong&gt;平台&lt;strong&gt;⭐&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;Unity3d 支持的所有平台。包括 Mono 和 IL2CPP。&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;&lt;strong&gt;⭐&lt;&#x2F;strong&gt;说明&lt;strong&gt;⭐&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;EasyPerformanceMonitor 包含大量手册、脚本 API 参考文档和演示，可让您直接进行监控和优化！&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;&lt;a href=&quot;https:&#x2F;&#x2F;docs.guardingpearsoftware.com&#x2F;manual&#x2F;EasyPerformanceMonitor&#x2F;Description.html&quot; target=&quot;_blank&quot;&gt;文档&lt;&#x2F;a&gt; 和 &lt;a href=&quot;https:&#x2F;&#x2F;docs.guardingpearsoftware.com&#x2F;api&#x2F;EasyPerformanceMonitor&#x2F;GUPS.EasyPerformanceMonitor.html&quot; target=&quot;_blank&quot;&gt;脚本应用程序参考&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;&lt;strong&gt;⭐&lt;&#x2F;strong&gt;联系我们&lt;strong&gt;⭐&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;电子邮件：guardingpearsoftware@gmail.com&lt;&#x2F;p&gt;&lt;p &gt;网站：guardingpearsoftware.com&lt;&#x2F;p&gt;&lt;&#x2F;p&gt;
+</content>
+        
+    </entry>
+    <entry xml:lang="zh">
+        <title>A* Pathfinding Project Pro</title>
+        <published>2024-11-29T21:15:47+00:00</published>
+        <updated>2024-11-30T13:15:32+00:00</updated>
+        
+        <author>
+          <name>
+            
+              yzzfo
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://yzzfo.github.io/unity/store/a-pathfinding-project-pro/"/>
+        <id>https://yzzfo.github.io/unity/store/a-pathfinding-project-pro/</id>
+        
+        <content type="html" xml:base="https://yzzfo.github.io/unity/store/a-pathfinding-project-pro/">&lt;p&gt;The A* Pathfinding Project is a powerful and easy to use pathfinding system for Unity. With blazing fast pathfinding your AIs will be able to find the player in complex mazes in no time at all.&lt;br&gt;&lt;em&gt;A* Pathfinding Project 是一个功能强大并且易于使用的 Unity 寻路系统。&lt;&#x2F;em&gt;通过快速的路径寻找，您的 AI 将立即在复杂的迷宫中找到玩家。&lt;br&gt;非常适合 TD、FPS、RTS 游戏。&lt;br&gt;&lt;br&gt;看看 &lt;a href=&quot;https:&#x2F;&#x2F;arongranberg.com&#x2F;2017&#x2F;04&#x2F;a-pathfinding-project-4-0-update&#x2F;&quot;&gt;4.0 版更新中有哪些新增内容&lt;&#x2F;a&gt;吧！&lt;br&gt;&lt;br&gt;&lt;em&gt;功能：&lt;&#x2F;em&gt;&lt;br&gt;支持网格、导航网格、点和六角形图。自动导航图形生成让你免于手动执行。完全多线程，因此几乎不会影响帧速率。使用光线投射、平滑和漏斗算法进行路径后处理。路径查找调用只需一行代码。可以将图形保存到文件里。在 XZ 平面和 XY 平面上均可局部回避。内含源代码。支持运行时更新图形。&lt;br&gt;&lt;br&gt;包含共 16 个示例场景帮助你入门。还有一份全面的在线文档，其中几乎记录了所有功能和变量。&lt;br&gt;&lt;br&gt;&lt;a href=&quot;http:&#x2F;&#x2F;arongranberg.com&#x2F;astar&#x2F;media&quot;&gt;网页播放器演示和视频&lt;&#x2F;a&gt;&lt;br&gt;&lt;a href=&quot;http:&#x2F;&#x2F;arongranberg.com&#x2F;astar&#x2F;&quot;&gt;这里有更多信息哦！&lt;&#x2F;a&gt;&lt;br&gt;&lt;a href=&quot;http:&#x2F;&#x2F;youtu.be&#x2F;hmx1sx6ezQA&quot;&gt;视频&lt;&#x2F;a&gt;&lt;br&gt;&lt;br&gt;&lt;&#x2F;p&gt;
+</content>
+        
+    </entry>
+</feed>

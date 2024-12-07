@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh">
+    <title>yzzfo - 3D character animation</title>
+    <subtitle>游戏开发学习资源分享</subtitle>
+    <link rel="self" type="application/atom+xml" href="https://yzzfo.github.io/tags/3d-character-animation/atom.xml"/>
+    <link rel="alternate" type="text/html" href="https://yzzfo.github.io"/>
+    <generator uri="https://www.getzola.org/">Zola</generator>
+    <updated>2024-11-30T13:27:26+00:00</updated>
+    <id>https://yzzfo.github.io/tags/3d-character-animation/atom.xml</id>
+    <entry xml:lang="zh">
+        <title>Casual Motions Pack 2</title>
+        <published>2024-11-30T00:39:59+00:00</published>
+        <updated>2024-11-30T13:27:26+00:00</updated>
+        
+        <author>
+          <name>
+            
+              yzzfo
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://yzzfo.github.io/unity/store/casual-motions-pack-2/"/>
+        <id>https://yzzfo.github.io/unity/store/casual-motions-pack-2/</id>
+        
+        <content type="html" xml:base="https://yzzfo.github.io/unity/store/casual-motions-pack-2/">&lt;p&gt;该资产由30个高质量的动作捕捉动画组成，适用于游戏开发。&lt;&#x2F;p&gt;
+&lt;p&gt;动画剪辑均为循环播放。&lt;&#x2F;p&gt;
+&lt;p&gt;该包也基于类人角色。&lt;&#x2F;p&gt;
+&lt;p&gt;这些动作可以用于各种社交内容。&lt;&#x2F;p&gt;</content>
+        
+    </entry>
+</feed>

@@ -1,12 +1,32 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
-    <title>yzzfo - @CoverFirst#</title>
+    <title>yzzfo | Share for Free - @CoverFirst#</title>
     <subtitle>Game Development Learning Resources</subtitle>
     <link rel="self" type="application/atom+xml" href="https://yzzfo.github.io/en/tags/coverfirst/atom.xml"/>
     <link rel="alternate" type="text/html" href="https://yzzfo.github.io"/>
     <generator uri="https://www.getzola.org/">Zola</generator>
-    <updated>2024-11-30T13:24:44+00:00</updated>
+    <updated>2024-12-09T11:45:53+00:00</updated>
     <id>https://yzzfo.github.io/en/tags/coverfirst/atom.xml</id>
+    <entry xml:lang="en">
+        <title>Mesh Baker</title>
+        <published>2024-12-09T11:45:53+00:00</published>
+        <updated>2024-12-09T11:45:53+00:00</updated>
+        
+        <author>
+          <name>
+            
+              yzzfo
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://yzzfo.github.io/en/unity/store/mesh-baker/"/>
+        <id>https://yzzfo.github.io/en/unity/store/mesh-baker/</id>
+        
+        <content type="html" xml:base="https://yzzfo.github.io/en/unity/store/mesh-baker/">&lt;p&gt;&lt;br&gt;Improve performance! Combine meshes and materials to reduce batches! &lt;br&gt;Mesh Baker is a powerful toolkit of flexible non-destructive workflows for optimizing props and scenes. &lt;br&gt;&lt;br&gt;Unity&#x27;s best known optimization tool. Five-star support and updates since 2012.&lt;br&gt;&lt;br&gt;* Create Atlases or Texture Arrays for sets of props&lt;br&gt;* Find, group, and combine meshes in large and complex scenes&lt;br&gt;* Modify prop prefabs to use atlas materials&lt;br&gt;* Supports URP, HDRP, Standard pipelines&lt;br&gt;* Works with built-in and custom shaders&lt;br&gt;* Create atlases for materials that use color tints&lt;br&gt;* Supports props with multiple materials&lt;br&gt;* Handles tiling textures&lt;br&gt;* Combine customize and add props to skinned meshes&lt;br&gt;* Create customizable skinned mesh characters&lt;br&gt;* Combine skinned meshes with blend shapes&lt;BR&gt;* UVs, Normals, Tangents automatically adjusted&lt;br&gt;* Lightmapping support&lt;br&gt;* Mix and match flexible workflow tools&lt;br&gt;* Runtime API&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.youtube.com&#x2F;playlist?list=PLCzm-udM-shncdtvrieqgi-hHDU1kt0d4&quot;&gt;Tutorials&lt;&#x2F;a&gt;&lt;br&gt;&lt;br&gt;&lt;a href=&quot;https:&#x2F;&#x2F;forum.unity.com&#x2F;threads&#x2F;mesh-baker-by-digital-opus-released.159258&#x2F;&quot;&gt;Forum&lt;&#x2F;a&gt;&lt;br&gt;&lt;br&gt;&lt;a href=&quot;http:&#x2F;&#x2F;www.digitalopus.ca&#x2F;site&#x2F;mesh-baker&#x2F;&quot;&gt;Website&lt;&#x2F;a&gt;&lt;br&gt;&lt;br&gt;&lt;&#x2F;p&gt;
+</content>
+        
+    </entry>
     <entry xml:lang="en">
         <title>Basic Motions</title>
         <published>2024-11-29T21:20:35+00:00</published>

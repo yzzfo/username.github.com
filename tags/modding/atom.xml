@@ -1,12 +1,55 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh">
-    <title>yzzfo - modding</title>
+    <title>yzzfo | Share for Free - modding</title>
     <subtitle>游戏开发学习资源分享</subtitle>
     <link rel="self" type="application/atom+xml" href="https://yzzfo.github.io/tags/modding/atom.xml"/>
     <link rel="alternate" type="text/html" href="https://yzzfo.github.io"/>
     <generator uri="https://www.getzola.org/">Zola</generator>
-    <updated>2024-11-30T13:22:05+00:00</updated>
+    <updated>2024-12-09T11:46:07+00:00</updated>
     <id>https://yzzfo.github.io/tags/modding/atom.xml</id>
+    <entry xml:lang="zh">
+        <title>uMod 2.0</title>
+        <published>2024-12-09T11:46:07+00:00</published>
+        <updated>2024-12-09T11:46:07+00:00</updated>
+        
+        <author>
+          <name>
+            
+              yzzfo
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://yzzfo.github.io/unity/store/umod-2-0/"/>
+        <id>https://yzzfo.github.io/unity/store/umod-2-0/</id>
+        
+        <content type="html" xml:base="https://yzzfo.github.io/unity/store/umod-2-0/">&lt;p&gt;uMod 2.0 是一个完整的 Unity 游戏引擎修改解决方案，使您能够快速且轻松地为您的游戏添加修改支持。修改者可以通过在 Unity 编辑器中创建包含资产、脚本甚至整个场景的修改，来扩展和修改游戏玩法。&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;strong&gt;特点&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;开箱即用的基本修改支持&lt;&#x2F;li&gt;
+&lt;li&gt;支持 Unity 能够处理的所有资产，没错！甚至场景和脚本也可以包含在内&lt;&#x2F;li&gt;
+&lt;li&gt;可以从本地文件系统或远程服务器加载&lt;&#x2F;li&gt;
+&lt;li&gt;支持命令行启动修改&lt;&#x2F;li&gt;
+&lt;li&gt;支持多修改加载&lt;&#x2F;li&gt;
+&lt;li&gt;捕获由修改生成的异常和错误&lt;&#x2F;li&gt;
+&lt;li&gt;修改者可以在 Unity 编辑器中创建他们的内容，并使用 uMod Exporter 轻松导出&lt;&#x2F;li&gt;
+&lt;li&gt;C# 脚本和程序集可以包含在修改中&lt;&#x2F;li&gt;
+&lt;li&gt;跨域脚本允许游戏和修改脚本之间的通信&lt;&#x2F;li&gt;
+&lt;li&gt;脚本执行安全性允许开发者限制修改代码&lt;&#x2F;li&gt;
+&lt;li&gt;可定制的构建管道允许创建自定义导出工具&lt;&#x2F;li&gt;
+&lt;li&gt;支持资产共享，允许修改者使用游戏资产&lt;&#x2F;li&gt;
+&lt;li&gt;包含用于管理修改目录的目录工具&lt;&#x2F;li&gt;
+&lt;li&gt;专用的在线脚本参考&lt;&#x2F;li&gt;
+&lt;li&gt;还有更多功能&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;p&gt;&lt;strong&gt;支持的平台&lt;&#x2F;strong&gt;
+仅支持 PC、Mac 和 Linux 平台。如果需要可脚本化的修改，则不支持 IL2CPP。&lt;&#x2F;p&gt;
+&lt;p&gt;想了解更多关于 uMod 2.0 的信息吗？请查看以下链接：&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;a href=&quot;http:&#x2F;&#x2F;trivialinteractive.co.uk&quot;&gt;网站&lt;&#x2F;a&gt; | &lt;a href=&quot;http:&#x2F;&#x2F;trivialinteractive.co.uk&#x2F;products&#x2F;documentation&#x2F;umod_20&#x2F;UserGuide.pdf&quot;&gt;文档&lt;&#x2F;a&gt;| &lt;a href=&quot;http:&#x2F;&#x2F;trivialinteractive.co.uk&#x2F;products&#x2F;documentation&#x2F;umod_20&#x2F;scriptingreference&quot;&gt;脚本参考&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;需要 uMod 2.0 的帮助，发现了错误或只是有一个问题？请通过以下方法之一告诉我们：&lt;br&gt;&lt;a href=&quot;https:&#x2F;&#x2F;forum.unity3d.com&#x2F;threads&#x2F;released-umod-2-0-modding-support-made-easy.449697&#x2F;&quot;&gt;论坛&lt;&#x2F;a&gt; | &lt;a href=&quot;https:&#x2F;&#x2F;discord.gg&#x2F;sHREXjmwa2&quot;&gt;Discord&lt;&#x2F;a&gt; | &lt;a href=&quot;http:&#x2F;&#x2F;www.trivialinteractive.co.uk&#x2F;support.html&quot;&gt;支持&lt;&#x2F;a&gt;| &lt;a href=&quot;http:&#x2F;&#x2F;www.trivialinteractive.co.uk&#x2F;support.html&quot;&gt;功能请求&lt;&#x2F;a&gt; | &lt;a href=&quot;http:&#x2F;&#x2F;www.trivialinteractive.co.uk&#x2F;support.html&quot;&gt;错误报告&lt;&#x2F;a&gt;;&lt;&#x2F;p&gt;
+</content>
+        
+    </entry>
     <entry xml:lang="zh">
         <title>OneJS</title>
         <published>2024-11-29T21:18:31+00:00</published>

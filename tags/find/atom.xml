@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh">
+    <title>yzzfo | Share for Free - find</title>
+    <subtitle>游戏开发学习资源分享</subtitle>
+    <link rel="self" type="application/atom+xml" href="https://yzzfo.github.io/tags/find/atom.xml"/>
+    <link rel="alternate" type="text/html" href="https://yzzfo.github.io"/>
+    <generator uri="https://www.getzola.org/">Zola</generator>
+    <updated>2024-12-08T17:50:27+00:00</updated>
+    <id>https://yzzfo.github.io/tags/find/atom.xml</id>
+    <entry xml:lang="zh">
+        <title>MonKey - Productivity Commands</title>
+        <published>2024-12-08T17:50:27+00:00</published>
+        <updated>2024-12-08T17:50:27+00:00</updated>
+        
+        <author>
+          <name>
+            
+              yzzfo
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://yzzfo.github.io/unity/store/monkey-productivity-commands/"/>
+        <id>https://yzzfo.github.io/unity/store/monkey-productivity-commands/</id>
+        
+        <content type="html" xml:base="https://yzzfo.github.io/unity/store/monkey-productivity-commands/">&lt;p&gt;A command manager with tons of commands included to accelerate your Unity workflow and to say goodbye to tedious and repetitive tasks&lt;&#x2F;p&gt;
+&lt;p &gt;&lt;strong&gt;MonKey&lt;&#x2F;strong&gt; 是终极的 &lt;strong&gt;生产力提升工具&lt;&#x2F;strong&gt; 和 &lt;strong&gt;工作流程增强器&lt;&#x2F;strong&gt;，为 Unity 提供了最简单、最高效的编辑器使用方式，得益于其巧妙的 &lt;strong&gt;命令管理器&lt;&#x2F;strong&gt;！&lt;&#x2F;p&gt;
+&lt;p &gt;&lt;strong&gt;更快地搜索、选择、重命名和创建&lt;&#x2F;strong&gt;，并享受更 &lt;strong&gt;流畅&lt;&#x2F;strong&gt; 的编辑器体验，尽在丛林中最聪明的 MonKey。&lt;&#x2F;p&gt;
+&lt;p &gt;我们刚刚发布了一个新插件，名为 &lt;strong&gt;Grabbit&lt;&#x2F;strong&gt;！你可以在 &lt;a href=&quot;http:&#x2F;&#x2F;u3d.as&#x2F;28rH&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;这里查看！&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+&lt;p &gt;如果你有问题，欢迎来 &lt;a href=&quot;https:&#x2F;&#x2F;discord.gg&#x2F;wRzsqxn&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;我们的 Discord 频道&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt;！&lt;&#x2F;p&gt;
+&lt;p &gt;受到 Zbrush、Houdini、Blender 或 Resharper 中系统的启发，MonKey 为 &lt;strong&gt;艺术家&lt;&#x2F;strong&gt;、&lt;strong&gt;设计师&lt;&#x2F;strong&gt; 和 &lt;strong&gt;程序员&lt;&#x2F;strong&gt; 提供了直接访问节省时间和高级命令的方式。&lt;&#x2F;p&gt;&lt;p &gt;MonKey 消除了重复或繁琐任务的麻烦，或是浏览冗长菜单的烦恼：输入你的命令，更快完成工作！&lt;&#x2F;p&gt;
+&lt;p &gt;⭐&lt;strong&gt;有用链接&lt;&#x2F;strong&gt;⭐&lt;&#x2F;p&gt;
+&lt;p &gt;◽&lt;a href=&quot;https:&#x2F;&#x2F;sites.google.com&#x2F;view&#x2F;monkey-commander&#x2F;monkey&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;我们的网站&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+&lt;p &gt;◽&lt;a href=&quot;https:&#x2F;&#x2F;sites.google.com&#x2F;view&#x2F;monkey-user-guide&#x2F;home&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;我们的手册&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+&lt;p &gt;◽&lt;a href=&quot;https:&#x2F;&#x2F;www.facebook.com&#x2F;MonKeyCommander&#x2F;&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;我们的 Facebook 页面&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+&lt;p &gt;⭐&lt;strong&gt;功能亮点&lt;&#x2F;strong&gt;⭐&lt;&#x2F;p&gt;
+&lt;p &gt;✔️ &lt;strong&gt;为设计师、艺术家和程序员提供超过 130 个命令&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
+&lt;p &gt;✔️ &lt;strong&gt;带属性的自定义命令&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
+&lt;p &gt;✔️ &lt;strong&gt;超级快速模糊搜索&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
+&lt;p &gt;✔️ &lt;strong&gt;热键管理器&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;br&gt;&lt;p&gt;✔️ &lt;strong&gt;强大的参数化命令&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;✔️ &lt;strong&gt;用于关卡设计的交互式命令&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;✔️ &lt;strong&gt;支持来自Unity和插件的菜单项&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;✔️ &lt;strong&gt;集成命令帮助与人性化命名&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;✔️ &lt;strong&gt;完全的撤销支持&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;✔️ &lt;strong&gt;出色的性能与大型项目优化&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;✔️ &lt;strong&gt;命令验证&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;✔️ &lt;strong&gt;灵活的界面&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;✔️ &lt;strong&gt;有序选择&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;✔️ &lt;strong&gt;C#编辑器工具&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;✔️ &lt;strong&gt;积极的支持与命令路线图&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;✔️ &lt;strong&gt;一只可爱的MonKey！&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;⭐&lt;strong&gt;详细信息&lt;&#x2F;strong&gt;⭐&lt;&#x2F;p&gt;
+&lt;p&gt;✔️ &lt;strong&gt;为设计师、艺术家和程序员提供超过130个命令&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;MonKey配备了满足所有Unity用户需求的命令。&lt;&#x2F;p&gt;
+&lt;p&gt;它们涵盖的功能包括：&lt;&#x2F;p&gt;
+&lt;p&gt;◽对象创建&lt;&#x2F;p&gt;
+&lt;p&gt;◽对象查找&lt;&#x2F;p&gt;
+&lt;p&gt;◽选择&lt;&#x2F;p&gt;
+&lt;p&gt;◽重命名&lt;&#x2F;p&gt;
+&lt;p&gt;◽场景管理&lt;&#x2F;p&gt;
+&lt;p&gt;◽关卡设计&lt;&#x2F;p&gt;
+&lt;p&gt;◽预制件&lt;&#x2F;p&gt;
+&lt;p&gt;◽可脚本化对象&lt;&#x2F;p&gt;
+&lt;p&gt;◽用户界面&lt;&#x2F;p&gt;
+&lt;p&gt;◽物理&lt;&#x2F;p&gt;
+&lt;p&gt;◽组件&lt;&#x2F;p&gt;
+&lt;p&gt;◽还有更多：&lt;a href=&quot;https:&#x2F;&#x2F;sites.google.com&#x2F;view&#x2F;monkey-user-guide&#x2F;command-list&quot; target=&quot;_blank&quot;&gt;查看命令列表！&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;✔️ &lt;strong&gt;带属性的自定义命令&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;使用属性以超快且独立于代码的方式编写具有高级自定义和参数支持的新命令。&lt;&#x2F;p&gt;
+&lt;p&gt;只需将属性添加到静态编辑器方法，它将在MonKey中可用！&lt;&#x2F;p&gt;
+&lt;p&gt;✔️ &lt;strong&gt;超级快速的模糊搜索与出色的性能&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;我们的自定义搜索算法提供最佳的人性化体验！&lt;&#x2F;p&gt;
+&lt;p&gt;多种访问命令的方式，包括热键、快速名称和关键字搜索。&lt;&#x2F;p&gt;
+&lt;p&gt;MonKey针对大型项目或大量命令进行了优化。&lt;&#x2F;p&gt;&lt;br&gt;&lt;p&gt;✔️ &lt;strong&gt;集成命令帮助与人性化命名&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;MonKey 的界面为所有命令提供帮助，并以易于理解的方式命名。&lt;&#x2F;p&gt;
+&lt;p&gt;✔️ &lt;strong&gt;热键管理器与快速命名&lt;&#x2F;strong&gt;MonKey 检测命令与菜单项之间的热键冲突，并在搜索中显示它们。&lt;&#x2F;p&gt;
+&lt;p&gt;使用快速命名作为热键的快速替代方案！&lt;&#x2F;p&gt;
+&lt;p&gt;✔️ &lt;strong&gt;参数化命令与命令验证：&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;参数化命令完全支持，比 Unity 菜单项提供更直观和高级的用法。&lt;&#x2F;p&gt;
+&lt;p&gt;MonKey 配备自动完成特性，可以快速搜索 GameObjects、Assets、Enums 或任何变量类型。&lt;&#x2F;p&gt;
+&lt;p&gt;对于参数，MonKey 支持 Unity 类型、C# 值类型、枚举、数组等，并且可以轻松扩展！&lt;&#x2F;p&gt;
+&lt;p&gt;MonKey 还具有命令验证功能，以限制命令在特定场景中的使用。&lt;&#x2F;p&gt;
+&lt;p&gt;✔️ &lt;strong&gt;集成您的插件和 Unity 的菜单项&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;直接在 MonKey 中搜索 Unity 的菜单功能和您的插件菜单项！&lt;&#x2F;p&gt;
+&lt;p&gt;✔️ &lt;strong&gt;用于关卡设计的交互式场景命令&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;强大且新兴的命令用于场景视图中的关卡设计。&lt;&#x2F;p&gt;
+&lt;p&gt;结合少量功能以加速您的创作！&lt;&#x2F;p&gt;
+&lt;p&gt;包括碰撞约束、距离约束、对象实例化、测量、对齐、夹紧、组件、对象替换等命令，以及更多功能！&lt;&#x2F;p&gt;
+&lt;p&gt;✔️ &lt;strong&gt;完整的撤销支持&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;MonKey 的命令具有完整的撤销支持（在 Unity 的限制内）。再也不用担心实验了！&lt;&#x2F;p&gt;
+&lt;p&gt;✔️ &lt;strong&gt;灵活的界面&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;界面的用户体验设计旨在易于扩展，并在直观与功能之间取得平衡。MonKey 的控制台可以停靠或用作弹出窗口，并包含许多设置以自定义外观和使用方式。&lt;&#x2F;p&gt;&lt;br&gt;&lt;p&gt;✔️ &lt;strong&gt;有序选择&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;MonKey 存储了您选择对象的顺序（Unity 不会）：通过使用我们的系统，使您的命令更具用户友好性和可靠性！&lt;&#x2F;p&gt;
+&lt;p&gt;✔️ &lt;strong&gt;C# 编辑器工具：&lt;&#x2F;strong&gt;MonKey 包含高级功能和对编辑器变量的访问，例如鼠标位置、简单的撤销设置、场景射线检测、按键事件、层级搜索等。&lt;&#x2F;p&gt;
+&lt;p&gt;让您的编辑器工具创建真正闪耀起来！&lt;&#x2F;p&gt;
+&lt;p&gt;✔️ &lt;strong&gt;主动支持和命令路线图&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;我们致力于定期添加新命令和功能，以加速您的工作流程，让您充分体验 Unity 编辑器的潜力！&lt;&#x2F;p&gt;
+&lt;p&gt;✔️ &lt;strong&gt;一只可爱的 MonKey！&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;难道不是吗？他确实让我们的日子更加光明！&lt;&#x2F;p&gt;
+&lt;p&gt;⭐&lt;strong&gt;接下来会有什么？&lt;&#x2F;strong&gt;⭐&lt;&#x2F;p&gt;
+&lt;p&gt;作为 Jungle，我们为 Unity 开发工具，但我们主要是游戏开发者。&lt;&#x2F;p&gt;
+&lt;p&gt;我们使用 MonKey 更高效地制作游戏，因此您可以放心，插件将不断改进：我们也从中受益 :)&lt;&#x2F;p&gt;
+&lt;p&gt;⭐&lt;strong&gt;兼容性&lt;&#x2F;strong&gt;⭐&lt;&#x2F;p&gt;
+&lt;p&gt;请注意，MonKey 的功能仅与编辑器相关。MonKey 的目标是加速游戏制作：它在运行时不可用。&lt;&#x2F;p&gt;
+&lt;p&gt;⭐&lt;strong&gt;与 MonKey 一起提高生产力！&lt;&#x2F;strong&gt;⭐&lt;&#x2F;p&gt;
+&lt;p&gt;我们无法想象在没有 MonKey 的情况下使用 Unity，我们相信您也会被说服！&lt;&#x2F;p&gt;</content>
+        
+    </entry>
+</feed>

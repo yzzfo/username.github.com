@@ -1,12 +1,82 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh">
-    <title>yzzfo - particles</title>
+    <title>yzzfo | Share for Free - particles</title>
     <subtitle>游戏开发学习资源分享</subtitle>
     <link rel="self" type="application/atom+xml" href="https://yzzfo.github.io/tags/particles/atom.xml"/>
     <link rel="alternate" type="text/html" href="https://yzzfo.github.io"/>
     <generator uri="https://www.getzola.org/">Zola</generator>
-    <updated>2024-12-03T00:46:20+00:00</updated>
+    <updated>2024-12-08T17:42:29+00:00</updated>
     <id>https://yzzfo.github.io/tags/particles/atom.xml</id>
+    <entry xml:lang="zh">
+        <title>RPG VFX Bundle</title>
+        <published>2024-12-08T17:42:29+00:00</published>
+        <updated>2024-12-08T17:42:29+00:00</updated>
+        
+        <author>
+          <name>
+            
+              yzzfo
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://yzzfo.github.io/unity/store/rpg-vfx-bundle/"/>
+        <id>https://yzzfo.github.io/unity/store/rpg-vfx-bundle/</id>
+        
+        <content type="html" xml:base="https://yzzfo.github.io/unity/store/rpg-vfx-bundle/">&lt;p&gt;Huge amount of high quality effects for RPG and top-down games!&lt;br&gt;该资源包括：&lt;br&gt;- 不同的复杂特效（魔法箭、盾牌、强化和弱化咒语、击中、魔法圈、喷射、攻击咒语、激光、轨道标记等）&lt;br&gt;- 大量独特的纹理&lt;br&gt;- 多用途自定义着色器&lt;br&gt;- 脚本，其中之一允许您更改特效的颜色，&lt;a href = &quot;https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v=s7eF_AprVEY&quot;&gt;因此您只需单击一下即可更改颜色。&lt;&#x2F;a&gt;&lt;br&gt;&lt;br&gt;&lt;STRONG&gt;支持 HDRP 和 URP (LWRP)。&lt;br&gt;&lt;a href = &quot;https:&#x2F;&#x2F;assetstore.unity.com&#x2F;packages&#x2F;slug&#x2F;157764&quot;&gt;此处&lt;&#x2F;a&gt;是 HDRP 和 URP (LWRP) 的支持包！&lt;br&gt;支持 PC&#x2F;游戏主机&#x2F;移动设备&#x2F;VR。&lt;&#x2F;STRONG&gt;&lt;br&gt;所有效果都经过了优化并且适用于所有平台。可以轻松调整大小和颜色。&lt;br&gt;&lt;br&gt;由于此资源包包含许多独特的特效，因此它包括：&lt;br&gt;&lt;br&gt;&lt;a href = &quot;http:&#x2F;&#x2F;u3d.as&#x2F;1jhP&quot;&gt;AAA 魔法圈和盾牌&lt;&#x2F;a&gt;&lt;br&gt;&lt;a href = &quot;http:&#x2F;&#x2F;u3d.as&#x2F;1kp7&quot;&gt;AAA 风格化喷射第 1 波&lt;&#x2F;a&gt;&lt;br&gt;&lt;a href = &quot;http:&#x2F;&#x2F;u3d.as&#x2F;1nia&quot;&gt;AOE 魔法咒语第 1 波&lt;&#x2F;a&gt;&lt;br&gt;&lt;a href = &quot;http:&#x2F;&#x2F;u3d.as&#x2F;1mjE&quot;&gt;3D 激光资源包&lt;&#x2F;a&gt;&lt;br&gt;&lt;a href = &quot;http:&#x2F;&#x2F;u3d.as&#x2F;1mo4&quot;&gt;地图轨道标记 VFX&lt;&#x2F;a&gt;&lt;br&gt;+ 更多特效&lt;br&gt;&lt;br&gt;促销媒体（视频、图像等）采用“泛光”后期特效！&lt;br&gt;&lt;br&gt;如果您有任何疑问或问题，欢迎咨询&lt;a href = &quot;mailto:gorobecn2@gmail.com&quot;&gt;我&lt;&#x2F;a&gt;。&lt;&#x2F;p&gt;
+</content>
+        
+    </entry>
+    <entry xml:lang="zh">
+        <title>Lightning VFX (BiRP)</title>
+        <published>2024-12-08T17:36:49+00:00</published>
+        <updated>2024-12-08T17:36:49+00:00</updated>
+        
+        <author>
+          <name>
+            
+              yzzfo
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://yzzfo.github.io/unity/store/lightning-vfx-birp/"/>
+        <id>https://yzzfo.github.io/unity/store/lightning-vfx-birp/</id>
+        
+        <content type="html" xml:base="https://yzzfo.github.io/unity/store/lightning-vfx-birp/">&lt;p&gt;⚡️ 释放雷霆，带来闪电特效！ ⚡️&lt;&#x2F;p&gt;
+&lt;p &gt;&lt;strong&gt;⚡️ 用耀眼的闪电点亮你的游戏！&lt;&#x2F;strong&gt; &amp;#127918;✨&lt;&#x2F;p&gt;
+&lt;p &gt;一个史诗般的闪电特效预制件，由先进的粒子系统配置构成，配有&lt;strong&gt;手绘闪电纹理&lt;&#x2F;strong&gt;和&lt;strong&gt;&lt;em&gt;自定义着色器&lt;&#x2F;em&gt;&lt;&#x2F;strong&gt; + 组件，用于&lt;strong&gt;自动变化&lt;&#x2F;strong&gt;、&lt;strong&gt;溶解&lt;&#x2F;strong&gt;和&lt;strong&gt;后期处理效果&lt;&#x2F;strong&gt;。&lt;&#x2F;p&gt;
+&lt;p &gt;&amp;#128073; &lt;a href=&quot;https:&#x2F;&#x2F;mirzabeig.github.io&#x2F;Lightning-VFX-WebGL&#x2F;&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;实时&#x2F;在线 WebGL 演示&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+&lt;p &gt;我们提到过我们的效果具有&lt;strong&gt;真实的动态光源&lt;&#x2F;strong&gt;，能够&lt;strong&gt;投射阴影&lt;&#x2F;strong&gt;并照亮环境吗？ &lt;strong&gt;点亮夜空！&lt;&#x2F;strong&gt; &amp;#127785;️&lt;&#x2F;p&gt;
+&lt;p &gt;&lt;strong&gt;⚡️ &lt;&#x2F;strong&gt;为你的场景充电，让你的玩家&lt;strong&gt;感受到&lt;&#x2F;strong&gt;力量！ &amp;#128170;&amp;#128526;&lt;&#x2F;p&gt;
+&lt;p &gt;使用专门制作的Cinemachine组件来实现&lt;strong&gt;相机震动冲击&lt;&#x2F;strong&gt;，以及新的&lt;strong&gt;后期处理混合系统&lt;&#x2F;strong&gt;，&lt;em&gt;你离效果越近，视觉反馈的力量就越强。&lt;&#x2F;em&gt;&lt;&#x2F;p&gt;
+&lt;p &gt;&lt;strong&gt;⚡️ &lt;&#x2F;strong&gt;让你的&lt;strong&gt;创造力&lt;&#x2F;strong&gt;尽情发挥！ &amp;#127912;&amp;#127752;&lt;&#x2F;p&gt;
+&lt;p &gt;我们使用&lt;strong&gt;Unity的原生粒子系统&lt;&#x2F;strong&gt;来设置效果的几乎每个方面，这意味着你可以&lt;strong&gt;几乎自定义所有内容&lt;&#x2F;strong&gt;。我们的&lt;strong&gt;着色器具有整齐的可调属性&lt;&#x2F;strong&gt;，让你可以获得更多控制，并且你可以&lt;strong&gt;调整径向模糊的质量&lt;&#x2F;strong&gt;。&lt;&#x2F;p&gt;
+&lt;p &gt;&lt;em&gt;你不必只听我们的说法……&lt;&#x2F;em&gt;&lt;&#x2F;p&gt;
+&lt;p &gt;&amp;#128073; &lt;a href=&quot;https:&#x2F;&#x2F;mirzabeig.github.io&#x2F;Lightning-VFX-WebGL&#x2F;&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;试试演示！&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+&lt;p &gt;&lt;strong&gt;在移动设备&#x2F;低端硬件上？&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;p &gt;&amp;#128242; &lt;strong&gt;只需启用屏幕上的性能模式。&lt;&#x2F;strong&gt; &amp;#128640;&amp;#127765;&lt;&#x2F;p&gt;</content>
+        
+    </entry>
+    <entry xml:lang="zh">
+        <title>Better Fog: Height Fog, Light Scattering &amp; More</title>
+        <published>2024-12-07T20:00:36+00:00</published>
+        <updated>2024-12-07T20:00:36+00:00</updated>
+        
+        <author>
+          <name>
+            
+              yzzfo
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://yzzfo.github.io/unity/store/better-fog-height-fog-light-scattering-more/"/>
+        <id>https://yzzfo.github.io/unity/store/better-fog-height-fog-light-scattering-more/</id>
+        
+        <content type="html" xml:base="https://yzzfo.github.io/unity/store/better-fog-height-fog-light-scattering-more/">&lt;p&gt;为您的游戏增添深度和感觉。 实现更真实的效果或打造真正独特的外观。 改进或完全改变游戏的外观，无需担心透明、水或天空盒。&lt;br&gt;&lt;p &gt;Better Fog 是一种后处理效果，提供多种功能，可打造从逼真到风格化的多种外观和风格。 这种效果不是体积解决方案，可确保最佳性能。 它还包括其他功能，例如平面或球体分析世界雾、自定义雾粒子着色器等。 Better Fog 使用 Shader Graph (URP) 和 Amplify Shader Editor（内置）制作，支持透明对象，无需修改其着色器。&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;加入我们新的 Discord 获取更新、报告问题或只是打个招呼！&lt;&#x2F;p&gt;&lt;p &gt;购买前请检查文档。&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;&lt;a href=&quot;https:&#x2F;&#x2F;discord.gg&#x2F;K88zmyuZFD&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;Discord &lt;&#x2F;strong&gt;&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;&lt;p &gt;&lt;a href=&quot;https:&#x2F;&#x2F;inabstudios.gitbook.io&#x2F;better-fog&#x2F;&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;Documentation &lt;&#x2F;strong&gt;&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;特征：&lt;&#x2F;p&gt;&lt;p &gt;屏幕空间光散射 (SSMS)：使用它可以为雾创建更真实的感觉。&lt;&#x2F;p&gt;&lt;p &gt;渐变雾色：创建您自己的自定义外观或使用资源中包含的众多渐变之一。&lt;&#x2F;p&gt;&lt;p &gt;天空盒雾集成：确保与任何天空盒保持一致的视觉效果。&lt;&#x2F;p&gt;&lt;p &gt;基于距离的雾：默认雾，可以选择使用径向距离。&lt;&#x2F;p&gt;&lt;p &gt;高度雾：大气高度雾。&lt;&#x2F;p&gt;&lt;p &gt;体积混合：使用后处理体积在各种预设之间进行混合。&lt;&#x2F;p&gt;&lt;p &gt;透明物体和粒子支持：雾对于粒子和透明物体效果很好。&lt;&#x2F;p&gt;&lt;p &gt;世界雾：使用带有自定义着色器的平面和球体自定义并添加雾。&lt;&#x2F;p&gt;&lt;p &gt;带粒子的自定义雾：包括程序雾粒子 FX。&lt;&#x2F;p&gt;&lt;p &gt;雾能量损失：模拟由于雾散射而导致的光子能量损失。&lt;&#x2F;p&gt;&lt;p &gt;简单集成：轻松将效果添加到您的项目中。&lt;&#x2F;p&gt;&lt;p &gt;多功能定制：根据需要调整每个功能并使用关键字以获得更好的性能。&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;兼容性：&lt;&#x2F;p&gt;&lt;p &gt;支持URP和内置版本2021.3及以上。&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;限制：&lt;&#x2F;p&gt;&lt;p &gt;仅支持定向光。&lt;&#x2F;p&gt;&lt;p &gt;非体积。&lt;&#x2F;p&gt;&lt;p &gt;不支持 MSAA。&lt;&#x2F;p&gt;&lt;p &gt;需要能够进行深度渲染的设备。&lt;&#x2F;p&gt;&lt;p &gt;不支持正交相机、VR、webGL、VFX 图形粒子混合。&lt;&#x2F;p&gt;&lt;&#x2F;p&gt;
+</content>
+        
+    </entry>
     <entry xml:lang="zh">
         <title>Variety FX 2.0</title>
         <published>2024-12-03T00:46:20+00:00</published>

@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh">
+    <title>yzzfo - 视频</title>
+    <subtitle>游戏开发学习资源分享</subtitle>
+    <link rel="self" type="application/atom+xml" href="https://yzzfo.github.io/tags/shi-pin/atom.xml"/>
+    <link rel="alternate" type="text/html" href="https://yzzfo.github.io"/>
+    <generator uri="https://www.getzola.org/">Zola</generator>
+    <updated>2024-12-07T14:00:17+00:00</updated>
+    <id>https://yzzfo.github.io/tags/shi-pin/atom.xml</id>
+    <entry xml:lang="zh">
+        <title>AVPro Video – Ultra Edition</title>
+        <published>2024-12-07T14:00:17+00:00</published>
+        <updated>2024-12-07T14:00:17+00:00</updated>
+        
+        <author>
+          <name>
+            
+              yzzfo
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://yzzfo.github.io/unity/other/avpro-video/"/>
+        <id>https://yzzfo.github.io/unity/other/avpro-video/</id>
+        
+        <content type="html" xml:base="https://yzzfo.github.io/unity/other/avpro-video/">&lt;p&gt;&lt;strong&gt;AVPro Video:&lt;&#x2F;strong&gt; Unity 的高级视频播放插件&lt;&#x2F;p&gt;
+&lt;h3&gt;新功能：&lt;&#x2F;h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;支持 Android Vulkan 管道&lt;&#x2F;li&gt;
+  &lt;li&gt;重写的 Android OpenGLES 管道&lt;&#x2F;li&gt;
+  &lt;li&gt;支持 visionOS（仅限 Ultra 版）&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h3&gt;通用功能：&lt;&#x2F;h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;易于使用&lt;&#x2F;li&gt;
+  &lt;li&gt;快速且强大的视频播放&lt;&#x2F;li&gt;
+  &lt;li&gt;基于 11 年的 Unity 视频插件开发经验&lt;&#x2F;li&gt;
+  &lt;li&gt;在专业项目中经过严格测试&lt;&#x2F;li&gt;
+  &lt;li&gt;原生支持 Windows、macOS、iOS、tvOS、visionOS 和 Android&lt;&#x2F;li&gt;
+  &lt;li&gt;无需大型依赖库（例如 FFMPEG）&lt;&#x2F;li&gt;
+  &lt;li&gt;支持 Unity 2018.x – 2023.x&lt;&#x2F;li&gt;
+  &lt;li&gt;易于使用的拖放组件&lt;&#x2F;li&gt;
+  &lt;li&gt;提供带水印的免费试用版&lt;&#x2F;li&gt;
+  &lt;li&gt;完善的文档和开发者支持&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h3&gt;播放功能：&lt;&#x2F;h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;播放本地、远程和自适应（HLS&#x2F;DASH）视频&lt;&#x2F;li&gt;
+  &lt;li&gt;支持 VR、360、180、单声道和立体声视频&lt;&#x2F;li&gt;
+  &lt;li&gt;支持 8K+ 视频解码（在支持的系统上）&lt;&#x2F;li&gt;
+  &lt;li&gt;透明视频&lt;&#x2F;li&gt;
+  &lt;li&gt;字幕支持&lt;&#x2F;li&gt;
+  &lt;li&gt;音频传输到 Unity&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h3&gt;工作流程功能：&lt;&#x2F;h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;编辑器中预览和播放&lt;&#x2F;li&gt;
+  &lt;li&gt;资源类型便于定义视频内容&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h3&gt;Ultra 版功能：&lt;&#x2F;h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;自定义 HTTP 头&lt;&#x2F;li&gt;
+  &lt;li&gt;AES-128 HLS 支持&lt;&#x2F;li&gt;
+  &lt;li&gt;解码到 10-Bit 纹理（仅限 Windows、macOS、tvOS、visionOS 和 iOS）&lt;&#x2F;li&gt;
+  &lt;li&gt;Hap 编解码器（仅限 Windows 和 macOS）&lt;&#x2F;li&gt;
+  &lt;li&gt;10-Bit NotchLC 编解码器（仅限 Windows）&lt;&#x2F;li&gt;
+  &lt;li&gt;空间 360 音频&lt;&#x2F;li&gt;
+  &lt;li&gt;视频缓存（仅限 Android 和 iOS）&lt;&#x2F;li&gt;
+  &lt;li&gt;visionOS 平台支持&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;p&gt;AVPro Video 曾在 2016 年获得 Unity 资产商店奖提名。&lt;&#x2F;p&gt;
+&lt;h3&gt;版本&lt;&#x2F;h3&gt;
+&lt;p&gt;我们提供了多个版本的 AVPro Video，以便您可以选择最适合您项目的版本：&lt;&#x2F;p&gt;
+&lt;ul&gt;
+  &lt;li&gt;核心版&lt;&#x2F;li&gt;
+  &lt;li&gt;核心桌面版&lt;&#x2F;li&gt;
+  &lt;li&gt;核心移动版&lt;&#x2F;li&gt;
+  &lt;li&gt;Ultra 版&lt;&#x2F;li&gt;
+  &lt;li&gt;企业版&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;p&gt;此资源包含 AVPro Video Ultra 版，因此它完全支持所有平台和 Ultra 版功能。您可以访问此页面以了解更多有关不同版本的功能、价格和升级信息。&lt;&#x2F;p&gt;
+&lt;h3&gt;技术细节&lt;&#x2F;h3&gt;
+&lt;p&gt;此资源使用了以下第三方组件：&lt;&#x2F;p&gt;
+&lt;ul&gt;
+  &lt;li&gt;ExoPlayer，遵循 Apache License 2.0&lt;&#x2F;li&gt;
+  &lt;li&gt;Hap，遵循 BSD 2-Clause “Simplified” License&lt;&#x2F;li&gt;
+  &lt;li&gt;Libsamplerate，遵循 BSD 2-Clause “Simplified” License&lt;&#x2F;li&gt;
+  &lt;li&gt;GDCL-MPEG4，遵循 GDCL Source Code License&lt;&#x2F;li&gt;
+  &lt;li&gt;Facebook Audio 360，遵循自定义许可&lt;&#x2F;li&gt;
+  &lt;li&gt;Squish，遵循 MIT License&lt;&#x2F;li&gt;
+  &lt;li&gt;Snappy，遵循 BSD 类型的自定义许可&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;p&gt;详情请参阅包内的 Third-Party Notices.txt 文件。&lt;&#x2F;p&gt;
+</content>
+        
+    </entry>
+</feed>

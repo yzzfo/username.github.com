@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh">
+    <title>yzzfo - Tools</title>
+    <subtitle>游戏开发学习资源分享</subtitle>
+    <link rel="self" type="application/atom+xml" href="https://yzzfo.github.io/tags/tools/atom.xml"/>
+    <link rel="alternate" type="text/html" href="https://yzzfo.github.io"/>
+    <generator uri="https://www.getzola.org/">Zola</generator>
+    <updated>2024-12-08T17:36:34+00:00</updated>
+    <id>https://yzzfo.github.io/tags/tools/atom.xml</id>
+    <entry xml:lang="zh">
+        <title>Advanced Culling System 2 : Revamped and Boosted Up!</title>
+        <published>2024-12-08T17:36:34+00:00</published>
+        <updated>2024-12-08T17:36:34+00:00</updated>
+        
+        <author>
+          <name>
+            
+              yzzfo
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://yzzfo.github.io/unity/store/advanced-culling-system-2-revamped-and-boosted-up/"/>
+        <id>https://yzzfo.github.io/unity/store/advanced-culling-system-2-revamped-and-boosted-up/</id>
+        
+        <content type="html" xml:base="https://yzzfo.github.io/unity/store/advanced-culling-system-2-revamped-and-boosted-up/">&lt;p&gt;高级剔除系统 (ACS)：提升您的 Unity 项目性能&lt;&#x2F;p&gt;
+&lt;p&gt;发现新发布的工具 &lt;a href=&quot;http:&#x2F;&#x2F;u3d.as&#x2F;357x&quot; target=&quot;_blank&quot;&gt;MeshFusion Pro!&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;forum.unity.com&#x2F;threads&#x2F;released-advanced-culling-system-2-revamped-and-boosted-up.1479780&#x2F;&quot; target=&quot;_blank&quot;&gt;Unity 论坛&lt;&#x2F;a&gt; | &lt;a href=&quot;https:&#x2F;&#x2F;discord.gg&#x2F;6EYUn9QhXF&quot; target=&quot;_blank&quot;&gt;Discord 服务器&lt;&#x2F;a&gt; | &lt;a href=&quot;https:&#x2F;&#x2F;drive.google.com&#x2F;file&#x2F;d&#x2F;1D3qEYNO2K10isrhV78bpkQCyfMw2I0rG&#x2F;view?usp=sharing&quot; target=&quot;_blank&quot;&gt;文档&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;strong&gt;高级剔除系统 (ACS)：提升您的 Unity 项目性能&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;通过 ACS 提升您项目的效率，这是一种&lt;strong&gt;独特的优化解决方案&lt;&#x2F;strong&gt;，专为 Unity 设计。高级剔除系统是一个多功能工具，包含两个强大的模块：&lt;strong&gt;静态剔除 (StaticCulling) 和动态剔除 (DynamicCulling)&lt;&#x2F;strong&gt;。这些工具使您能够为您的项目实施&lt;strong&gt;最有效的&lt;&#x2F;strong&gt;优化策略。&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;strong&gt;主要特点：&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;ul&gt;&lt;li&gt;兼容所有渲染管线&lt;&#x2F;li&gt;&lt;li&gt;支持所有支持作业的 платформы&lt;&#x2F;li&gt;&lt;li&gt;支持多摄像机&lt;&#x2F;li&gt;&lt;li&gt;支持 LOD（细节层次）&lt;&#x2F;li&gt;&lt;li&gt;易于使用&lt;&#x2F;li&gt;&lt;li&gt;包含教程&lt;&#x2F;li&gt;&lt;li&gt;真正用户友好的界面&lt;&#x2F;li&gt;&lt;li&gt;由 Burst 和作业系统驱动&lt;&#x2F;li&gt;&lt;li&gt;仅需几次点击即可优化&lt;&#x2F;li&gt;&lt;&#x2F;ul&gt;
+&lt;p&gt;&lt;strong&gt;静态剔除模块&lt;&#x2F;strong&gt;允许&lt;strong&gt;预处理对象的可见性&lt;&#x2F;strong&gt;，然后在运行时简单地打开和关闭它们。这种方法提供了&lt;strong&gt;深度自定义选项&lt;&#x2F;strong&gt;，并在运行时产生更少的负载。&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;strong&gt;优势：&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;ul&gt;&lt;li&gt;剔除网格、LOD 组、光源和自定义对象&lt;&#x2F;li&gt;&lt;li&gt;支持透明度&lt;&#x2F;li&gt;&lt;li&gt;创建自定义剔除目标并剔除任何类型的对象&lt;&#x2F;li&gt;&lt;li&gt;非常适合小型到中型场景&lt;&#x2F;li&gt;&lt;&#x2F;ul&gt;&lt;br&gt;&lt;p &gt;&lt;strong&gt;动态剔除&lt;&#x2F;strong&gt;是一个简化&lt;strong&gt;静态和动态对象&lt;&#x2F;strong&gt;优化的模块，无需&lt;strong&gt;预处理&lt;&#x2F;strong&gt;。&lt;&#x2F;p&gt;
+&lt;p &gt;&lt;strong&gt;优点：&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;ul&gt;&lt;li &gt;支持静态和动态对象&lt;&#x2F;li&gt;&lt;li &gt;剔除网格、LOD组和自定义对象&lt;&#x2F;li&gt;&lt;li &gt;针对实例化对象进行了优化&lt;&#x2F;li&gt;&lt;li &gt;无需预处理&lt;&#x2F;li&gt;&lt;li &gt;能够处理大型和复杂场景&lt;&#x2F;li&gt;&lt;&#x2F;ul&gt;
+&lt;p &gt;体验&lt;strong&gt;全新的优化水平&lt;&#x2F;strong&gt;，尽在高级剔除系统！&lt;&#x2F;p&gt;</content>
+        
+    </entry>
+    <entry xml:lang="zh">
+        <title>OpenCV for Unity</title>
+        <published>2024-12-08T12:43:11+00:00</published>
+        <updated>2024-12-08T12:43:11+00:00</updated>
+        
+        <author>
+          <name>
+            
+              yzzfo
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://yzzfo.github.io/unity/store/opencv-for-unity/"/>
+        <id>https://yzzfo.github.io/unity/store/opencv-for-unity/</id>
+        
+        <content type="html" xml:base="https://yzzfo.github.io/unity/store/opencv-for-unity/">&lt;p&gt;OpenCV for Unity is an Assets Plugin for using OpenCV from within Unity cross-platform game engine.&lt;br&gt;&lt;strong&gt;适用于 Unity 云版本&lt;&#x2F;strong&gt;&lt;br&gt;&lt;br&gt;支持 &lt;strong&gt;iOS&lt;&#x2F;strong&gt; 和 &lt;strong&gt;Android&lt;&#x2F;strong&gt;&lt;br&gt;支持 &lt;strong&gt;Windows10 UWP&lt;&#x2F;strong&gt;&lt;br&gt;支持 &lt;strong&gt;Lumin ( MagicLeap )&lt;&#x2F;strong&gt;&lt;br&gt;支持 &lt;strong&gt;WebGL&lt;&#x2F;strong&gt;&lt;br&gt;支持 &lt;strong&gt;Win&lt;&#x2F;strong&gt; 、 &lt;strong&gt;Mac&lt;&#x2F;strong&gt; 和 &lt;strong&gt;Linux&lt;&#x2F;strong&gt; 平台&lt;br&gt;支持在&lt;strong&gt;编辑器&lt;&#x2F;strong&gt;中预览&lt;br&gt;&lt;br&gt;&lt;strong&gt;Unity 的 OpenCV&lt;&#x2F;strong&gt; 是一个资源插件，可在 &lt;strong&gt;Unity &lt;&#x2F;strong&gt;中使用 &lt;strong&gt;OpenCV 4.4.0&lt;&#x2F;strong&gt;。&lt;br&gt;&lt;br&gt;&lt;a href=&quot;https:&#x2F;&#x2F;enoxsoftware.com&#x2F;opencvforunity&#x2F;&quot;&gt;官方网站&lt;&#x2F;a&gt; | &lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;EnoxSoftware&#x2F;OpenCVForUnity&quot;&gt;示例编码&lt;&#x2F;a&gt; | &lt;a href=&quot;https:&#x2F;&#x2F;play.google.com&#x2F;store&#x2F;apps&#x2F;details?id=com.enoxsoftware.opencvforunityexample&quot;&gt;Android 演示&lt;&#x2F;a&gt; &lt;a href=&quot;https:&#x2F;&#x2F;enoxsoftware.github.io&#x2F;OpenCVForUnity&#x2F;webgl_example&#x2F;index.html&quot;&gt;WebGL 演示&lt;&#x2F;a&gt; | &lt;a href=&quot;https:&#x2F;&#x2F;youtu.be&#x2F;HnXGIvHvU9I&quot;&gt;教程和演示视频&lt;&#x2F;a&gt; | &lt;a href=&quot;http:&#x2F;&#x2F;forum.unity3d.com&#x2F;threads&#x2F;released-opencv-for-unity.277080&#x2F;&quot;&gt;论坛&lt;&#x2F;a&gt; | &lt;a href=&quot;https:&#x2F;&#x2F;enoxsoftware.github.io&#x2F;OpenCVForUnity&#x2F;3.0.0&#x2F;doc&#x2F;html&#x2F;index.html&quot;&gt;API 引用&lt;&#x2F;a&gt; | &lt;a href=&quot;https:&#x2F;&#x2F;enoxsoftware.com&#x2F;opencvforunity&#x2F;documentation&#x2F;support-modules&#x2F;&quot;&gt;支持模块&lt;&#x2F;a&gt; | &lt;a href=&quot;https:&#x2F;&#x2F;enoxsoftware.com&#x2F;opencvforunity&#x2F;get_asset&#x2F;&quot;&gt;免费试用版&lt;&#x2F;a&gt;&lt;br&gt;&lt;br&gt;&lt;strong&gt;功能：&lt;&#x2F;strong&gt;&lt;br&gt;- 由于该资源包是 &lt;strong&gt;OpenCV Java 的克隆&lt;&#x2F;strong&gt;，因此您可以使用与 &lt;strong&gt;OpenCV Java 4.4.0&lt;&#x2F;strong&gt;（&lt;a href=&quot;http:&#x2F;&#x2F;enoxsoftware.github.io&#x2F;OpenCVForUnity&#x2F;3.0.0&#x2F;doc&#x2F;html&#x2F;index.html&quot;&gt;链接&lt;&#x2F;a&gt;）相同的 API。&lt;br&gt;&lt;br&gt;- 您可以使用 Unity 的 &lt;strong&gt;WebCamTexture&lt;&#x2F;strong&gt; 功能进行&lt;strong&gt;实时&lt;&#x2F;strong&gt;图像处理。 &lt;strong&gt;（实时人脸检测可以在 iPhone 5 上流畅运行）&lt;&#x2F;strong&gt;&lt;br&gt;&lt;br&gt;- 提供了 &lt;strong&gt;Unity 的 Texture2D&lt;&#x2F;strong&gt; 和 &lt;strong&gt;OpenCV 的 Mat&lt;&#x2F;strong&gt; 相互转换的方法。&lt;br&gt;&lt;br&gt;- &lt;strong&gt;IDisposable&lt;&#x2F;strong&gt; 已在许多类中实现。您可以使用 &quot;&lt;strong&gt;using&lt;&#x2F;strong&gt;&quot;语句管理资源。&lt;br&gt;&lt;br&gt;- 提供了&lt;strong&gt;与其他发布者资源集成的示例&lt;&#x2F;strong&gt;。（例如，&lt;a href=&quot;https:&#x2F;&#x2F;assetstore.unity.com&#x2F;packages&#x2F;tools&#x2F;visual-scripting&#x2F;playmaker-368&quot;&gt;PlayMaker&lt;&#x2F;a&gt;、&lt;a href=&quot;https:&#x2F;&#x2F;assetstore.unity.com&#x2F;packages&#x2F;tools&#x2F;integration&#x2F;natdevice-media-device-api-162053&quot;&gt;NatDevice&lt;&#x2F;a&gt;、&lt;a href=&quot;https:&#x2F;&#x2F;assetstore.unity.com&#x2F;packages&#x2F;tools&#x2F;integration&#x2F;natcorder-video-recording-api-102645&quot;&gt;NatCorder&lt;&#x2F;a&gt;）&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;strong&gt;试用和演示：&lt;&#x2F;strong&gt;&lt;br&gt;- &lt;a href=&quot;https:&#x2F;&#x2F;enoxsoftware.com&#x2F;opencvforunity&#x2F;get_asset&#x2F;&quot;&gt;免费试用版&lt;&#x2F;a&gt;&lt;br&gt;- &lt;a href=&quot;https:&#x2F;&#x2F;play.google.com&#x2F;store&#x2F;apps&#x2F;details?id=com.enoxsoftware.opencvforunityexample&quot;&gt;Android 演示&lt;&#x2F;a&gt;&lt;br&gt;- &lt;a href=&quot;https:&#x2F;&#x2F;enoxsoftware.github.io&#x2F;OpenCVForUnity&#x2F;webgl_example&#x2F;index.html&quot;&gt;WebGL 演示&lt;&#x2F;a&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;提供使用 OpenCV for Unity 的代码示例。&lt;br&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.assetstore.unity3d.com&#x2F;#!&#x2F;content&#x2F;29678&quot;&gt;基于 Marker 的 AR 示例&lt;&#x2F;a&gt;&lt;br&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.assetstore.unity3d.com&#x2F;#!&#x2F;content&#x2F;77560&quot;&gt;不依赖 Marker 的 AR 示例&lt;&#x2F;a&gt;&lt;br&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.assetstore.unity3d.com&#x2F;#!&#x2F;content&#x2F;35284&quot;&gt;FaceTracker 示例&lt;&#x2F;a&gt;&lt;br&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.assetstore.unity3d.com&#x2F;en&#x2F;#!&#x2F;content&#x2F;66602&quot;&gt;FaceSwapper 示例&lt;&#x2F;a&gt;&lt;br&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.assetstore.unity3d.com&#x2F;#!&#x2F;content&#x2F;79999&quot;&gt;FaceMask 示例&lt;&#x2F;a&gt;&lt;br&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.assetstore.unity3d.com&#x2F;jp&#x2F;#!&#x2F;content&#x2F;73233&quot;&gt;实时人脸识别示例&lt;&#x2F;a&gt;&lt;br&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;EnoxSoftware&#x2F;GoogleVRWithOpenCVForUnityExample&quot;&gt;使用 OpenCV for Unity 的 GoogleVR 示例&lt;&#x2F;a&gt;&lt;br&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;EnoxSoftware&#x2F;KinectWithOpenCVForUnityExample&quot;&gt;使用 OpenCV for Unity 的 Kinect 示例&lt;&#x2F;a&gt;&lt;br&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;EnoxSoftware&#x2F;AVProWithOpenCVForUnityExample&quot;&gt;使用 OpenCV for Unity 的 AVPro 示例&lt;&#x2F;a&gt;&lt;br&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;EnoxSoftware&#x2F;HoloLensWithOpenCVForUnityExample&quot;&gt;使用 OpenCV for Unity 的 HoloLens 示例&lt;&#x2F;a&gt;&lt;br&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.assetstore.unity3d.com&#x2F;#!&#x2F;content&#x2F;94516&quot;&gt;OpenCVforUnity 的 PlayMakerActions&lt;&#x2F;a&gt;&lt;br&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;EnoxSoftware&#x2F;NatDeviceWithOpenCVForUnityExample&quot;&gt;使用 OpenCVForUnity 的 NatDevice 示例&lt;&#x2F;a&gt;&lt;br&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;EnoxSoftware&#x2F;NatCorderWithOpenCVForUnityExample&quot;&gt;使用 OpenCVForUnity 的 NatCorder 示例&lt;&#x2F;a&gt;&lt;br&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;EnoxSoftware&#x2F;MagicLeapWithOpenCVForUnityExample&quot;&gt;使用 OpenCVForUnity 的 MagicLeap 示例&lt;&#x2F;a&gt;&lt;br&gt;&lt;br&gt;&lt;strong&gt;OpenCV for Unity&lt;&#x2F;strong&gt; 在 &lt;strong&gt;3 条款 BSD 许可&lt;&#x2F;strong&gt;下使用 &lt;strong&gt;OpenCV&lt;&#x2F;strong&gt;；有关详细信息，请参阅资源包中的 Third-Party Notices.txt 文件。&lt;br&gt;&lt;br&gt;&lt;a href=&quot;https:&#x2F;&#x2F;enoxsoftware.com&#x2F;opencvforunity&#x2F;get_asset&#x2F;&quot;&gt;免费试用版本&lt;&#x2F;a&gt;可供使用。&lt;br&gt;&lt;br&gt;&lt;strong&gt;系统要求&lt;&#x2F;strong&gt;&lt;br&gt;&lt;strong&gt;构建 Windows 独立平台和预览编辑器：Windows 8 或&lt;&#x2F;strong&gt;更高版本&lt;br&gt;&lt;strong&gt;构建 Mac 独立平台和预览编辑器：OSX 10.9 或更高版本&lt;&#x2F;strong&gt;&lt;br&gt;&lt;strong&gt;Linux 平台和预览编辑器版本： Ubuntu16.04 或更高版本&lt;&#x2F;strong&gt;&lt;br&gt;&lt;strong&gt;Android 版本：API 级别 21 或更高级别&lt;&#x2F;strong&gt;&lt;br&gt;&lt;strong&gt;iOS 版本：iOS 8.0 或更高版本&lt;&#x2F;strong&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;a href=&quot;https:&#x2F;&#x2F;enoxsoftware.com&#x2F;opencvforunity&#x2F;&quot;&gt;更多信息 &amp;gt;&amp;gt;&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+</content>
+        
+    </entry>
+</feed>

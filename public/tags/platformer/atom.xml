@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh">
+    <title>yzzfo - Platformer</title>
+    <subtitle>游戏开发学习资源分享</subtitle>
+    <link rel="self" type="application/atom+xml" href="https://yzzfo.github.io/tags/platformer/atom.xml"/>
+    <link rel="alternate" type="text/html" href="https://yzzfo.github.io"/>
+    <generator uri="https://www.getzola.org/">Zola</generator>
+    <updated>2024-12-03T00:46:43+00:00</updated>
+    <id>https://yzzfo.github.io/tags/platformer/atom.xml</id>
+    <entry xml:lang="zh">
+        <title>Mountain Valley - Stylized Fantasy Nature Environment</title>
+        <published>2024-12-03T00:46:43+00:00</published>
+        <updated>2024-12-03T00:46:43+00:00</updated>
+        
+        <author>
+          <name>
+            
+              yzzfo
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://yzzfo.github.io/unity/store/mountain-valley-stylized-fantasy-nature-environment/"/>
+        <id>https://yzzfo.github.io/unity/store/mountain-valley-stylized-fantasy-nature-environment/</id>
+        
+        <content type="html" xml:base="https://yzzfo.github.io/unity/store/mountain-valley-stylized-fantasy-nature-environment/">&lt;p&gt;Create beautiful stylized environments for your game with our modular asset pack!&lt;&#x2F;p&gt;
+&lt;p&gt;使用我们的&lt;strong&gt;山谷&lt;&#x2F;strong&gt;模块化资产包，为您的游戏构建美丽的风景——这是一个令人惊叹的风格化环境，非常适合平台游戏和奇幻角色扮演游戏。该包具有令人叹为观止的鲜艳色彩、郁郁葱葱的植被，如树木、草和灌木，以及岩石和自定义天空盒。用这个精美制作的山谷环境为您的游戏世界注入生命，为您的项目增添一丝魔力。&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;strong&gt;特点与内容&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;ul&gt;&lt;li&gt;美丽的风格化环境艺术&lt;&#x2F;li&gt;&lt;li&gt;树木和其他植被上的美丽风动画&lt;&#x2F;li&gt;&lt;li&gt;美丽的演示场景，展示如何将所有包含的功能结合在一起&lt;&#x2F;li&gt;&lt;li&gt;植被入门包（花、岩石、树、灌木和草）&lt;&#x2F;li&gt;&lt;li&gt;落叶粒子系统&lt;&#x2F;li&gt;&lt;li&gt;漂浮尘埃粒子系统&lt;&#x2F;li&gt;&lt;li&gt;光线粒子系统&lt;&#x2F;li&gt;&lt;li&gt;具有颜色调和风设置的自定义植被着色器&lt;&#x2F;li&gt;&lt;&#x2F;ul&gt;
+&lt;p&gt;&lt;strong&gt;*请注意&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;p&gt;演示视频中的音频文件不属于此包&lt;&#x2F;p&gt;</content>
+        
+    </entry>
+    <entry xml:lang="zh">
+        <title>2D Fantasy sprite bundle</title>
+        <published>2024-11-29T21:20:17+00:00</published>
+        <updated>2024-12-02T22:05:55+00:00</updated>
+        
+        <author>
+          <name>
+            
+              yzzfo
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://yzzfo.github.io/unity/store/2d-fantasy-sprite-bundle/"/>
+        <id>https://yzzfo.github.io/unity/store/2d-fantasy-sprite-bundle/</id>
+        
+        <content type="html" xml:base="https://yzzfo.github.io/unity/store/2d-fantasy-sprite-bundle/">&lt;p&gt;创建独特的景观，使用精灵形状和手绘精灵，完美适用于侧滚动或平台类的2D游戏。&lt;&#x2F;p&gt;
+&lt;p&gt;2D幻想精灵包是一个包含9个资产的捆绑包，价格折扣约为50%。&lt;&#x2F;p&gt;
+&lt;p&gt;捆绑包中的资产：&lt;&#x2F;p&gt;&lt;p&gt;-&lt;a href=&quot;https:&#x2F;&#x2F;assetstore.unity.com&#x2F;packages&#x2F;slug&#x2F;215282&quot; target=&quot;_blank&quot;&gt;岛屿精灵包&lt;&#x2F;a&gt;,&lt;&#x2F;p&gt;&lt;p&gt;-&lt;a href=&quot;https:&#x2F;&#x2F;assetstore.unity.com&#x2F;packages&#x2F;slug&#x2F;216237&quot; target=&quot;_blank&quot;&gt;森林精灵包&lt;&#x2F;a&gt;,&lt;&#x2F;p&gt;&lt;p&gt;-&lt;a href=&quot;https:&#x2F;&#x2F;assetstore.unity.com&#x2F;packages&#x2F;slug&#x2F;215783&quot; target=&quot;_blank&quot;&gt;地下城精灵包&lt;&#x2F;a&gt;,&lt;&#x2F;p&gt;&lt;p&gt;-&lt;a href=&quot;https:&#x2F;&#x2F;assetstore.unity.com&#x2F;packages&#x2F;slug&#x2F;217340&quot; target=&quot;_blank&quot;&gt;山脉精灵包&lt;&#x2F;a&gt;,&lt;&#x2F;p&gt;&lt;p&gt;-&lt;a href=&quot;https:&#x2F;&#x2F;assetstore.unity.com&#x2F;packages&#x2F;slug&#x2F;215558&quot; target=&quot;_blank&quot;&gt;古老森林精灵包&lt;&#x2F;a&gt;,&lt;&#x2F;p&gt;&lt;p&gt;-&lt;a href=&quot;https:&#x2F;&#x2F;assetstore.unity.com&#x2F;packages&#x2F;slug&#x2F;220769&quot; target=&quot;_blank&quot;&gt;冰雪精灵包&lt;&#x2F;a&gt;,&lt;&#x2F;p&gt;&lt;p&gt;-&lt;a href=&quot;https:&#x2F;&#x2F;assetstore.unity.com&#x2F;packages&#x2F;slug&#x2F;230552&quot; target=&quot;_blank&quot;&gt;熔岩地下城精灵包&lt;&#x2F;a&gt;,&lt;&#x2F;p&gt;&lt;p&gt;-&lt;a href=&quot;https:&#x2F;&#x2F;assetstore.unity.com&#x2F;packages&#x2F;slug&#x2F;242096&quot; target=&quot;_blank&quot;&gt;沙漠精灵包&lt;&#x2F;a&gt;,&lt;&#x2F;p&gt;&lt;p&gt;-&lt;a href=&quot;https:&#x2F;&#x2F;assetstore.unity.com&#x2F;packages&#x2F;slug&#x2F;223980&quot; target=&quot;_blank&quot;&gt;水下精灵包&lt;&#x2F;a&gt;,&lt;&#x2F;p&gt;&lt;p&gt;-&lt;a href=&quot;https:&#x2F;&#x2F;u3d.as&#x2F;32mP&quot; target=&quot;_blank&quot;&gt;春季森林精灵包&lt;&#x2F;a&gt;,&lt;&#x2F;p&gt;&lt;p&gt;-&lt;a href=&quot;https:&#x2F;&#x2F;assetstore.unity.com&#x2F;packages&#x2F;slug&#x2F;259443&quot; target=&quot;_blank&quot;&gt;水晶地下城精灵包&lt;&#x2F;a&gt;,&lt;&#x2F;p&gt;&lt;p&gt;-&lt;a href=&quot;https:&#x2F;&#x2F;u3d.as&#x2F;3fCZ&quot; target=&quot;_blank&quot;&gt;废弃车站精灵包&lt;&#x2F;a&gt;.&lt;&#x2F;p&gt;
+&lt;p&gt;此捆绑包的路线图：&lt;&#x2F;p&gt;
+&lt;p&gt;-亚洲主题,&lt;&#x2F;p&gt;&lt;p&gt;-飞行土地精灵包,&lt;&#x2F;p&gt;&lt;p&gt;-机械区域精灵包.&lt;&#x2F;p&gt;&lt;p&gt;还有更多....&lt;&#x2F;p&gt;</content>
+        
+    </entry>
+</feed>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh">
+    <title>yzzfo | Share for Free - Motion Matching</title>
+    <subtitle>游戏开发学习资源分享</subtitle>
+    <link rel="self" type="application/atom+xml" href="https://yzzfo.github.io/tags/motion-matching/atom.xml"/>
+    <link rel="alternate" type="text/html" href="https://yzzfo.github.io"/>
+    <generator uri="https://www.getzola.org/">Zola</generator>
+    <updated>2024-12-09T11:45:59+00:00</updated>
+    <id>https://yzzfo.github.io/tags/motion-matching/atom.xml</id>
+    <entry xml:lang="zh">
+        <title>Motion Matching for Unity</title>
+        <published>2024-12-09T11:45:59+00:00</published>
+        <updated>2024-12-09T11:45:59+00:00</updated>
+        
+        <author>
+          <name>
+            
+              yzzfo
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://yzzfo.github.io/unity/store/motion-matching-for-unity/"/>
+        <id>https://yzzfo.github.io/unity/store/motion-matching-for-unity/</id>
+        
+        <content type="html" xml:base="https://yzzfo.github.io/unity/store/motion-matching-for-unity/">&lt;p&gt;Motion Matching for Unity (MxM) is an advanced alternative animation system to mecanim which enables fluid and responsive character animation without the need for state machines.&lt;br&gt;&lt;em&gt;唯一一款面向大众的用于游戏制作的运动匹配系&lt;&#x2F;em&gt;统。&lt;br&gt;&lt;br&gt;&lt;strong&gt;最新推出！(v2.2.4)&lt;&#x2F;strong&gt; MxM 现在包含一组免费的平移动作，适用于 v2.2.2 中添加的动画&lt;br&gt;&lt;br&gt;&lt;strong&gt;最新推出！(v2.2.2)&lt;&#x2F;strong&gt; MxM 现包含一组免费的动作捕捉数据，专用于运动匹配设计和捕捉。&lt;br&gt;&lt;br&gt;&lt;strong&gt;&lt;em&gt;&lt;strong&gt;预告片中显示的大部分 3D 模型均不包含在资源包中。&lt;&#x2F;strong&gt;&lt;&#x2F;em&gt;&lt;&#x2F;strong&gt;&lt;br&gt;&lt;br&gt;&lt;em&gt;&lt;strong&gt;独立平台演示 -&lt;&#x2F;strong&gt; 下载&lt;a href=&quot;https:&#x2F;&#x2F;drive.google.com&#x2F;open?id=1_vP1ZG5qJlwEp7LHV1zgNUehFoIkDq23&quot;&gt;“独立平台游戏玩法演示”&lt;&#x2F;a&gt;，尝试用 MxM 制作的新角色（不随附在资源包中）。&lt;&#x2F;em&gt;下载&lt;a href=&quot;https:&#x2F;&#x2F;drive.google.com&#x2F;open?id=1yGbCLYy--RKH6juMEs9r5aZ_emS95Ac4&quot;&gt;“独立平台压力测试”&lt;&#x2F;a&gt;演示，了解 MxM 如何提高性能。&lt;br&gt;&lt;br&gt;&lt;em&gt;&lt;strong&gt;随附的演示场景 -&lt;&#x2F;strong&gt; MxM 随附的演示场景包括玩家控制的 Robot Kyle，它能够四处跑动，进行某些跑酷翻越&lt;&#x2F;em&gt;。此处显示的翻越系统仅用于演示 MxM 事件功能，&lt;strong&gt;并不&lt;&#x2F;strong&gt;旨在成为可随时制作的翻越系统。&lt;br&gt;&lt;br&gt;&lt;strong&gt;什么是运动匹配&lt;&#x2F;strong&gt;&lt;br&gt;Unity 运动匹配 (MxM) 是 Mecanim 的替代动画系统，无需状态机即可制作出流畅且响应灵敏的动画。无需指定过渡、定义条件或理解复杂的动画逻辑。运动匹配 (Motion Matching) 为你处理大部分类似操作，实现无限量的开始、停止、移动和转弯。&lt;br&gt;&lt;br&gt;运动匹配通过将角色的姿势和所需的未来路径（来自玩家输入）与库中的所有动画进行比较来实现这一点。系统将选择跳转的最合适的时间和剪辑。这些都在电光火石间进行，因为这是通过 Unity 的新任务系统和 Burst 编译器实现的。&lt;br&gt;&lt;br&gt;&lt;strong&gt;适用人群是谁？&lt;&#x2F;strong&gt;&lt;br&gt;MxM 不是即插即用的资源。你至少要了解 Unity 中的基本脚本制作功能。但是，资深程序员可以最充分地利用这一资源。建议具有 Unity 和 C# 编程中等经验的人员使用。&lt;br&gt;&lt;br&gt;MxM 支持剪辑，但具有较高动画带宽的动作捕捉用户和工作室将更充分地发挥这一资源的作用。&lt;br&gt;&lt;br&gt;&lt;em&gt;&lt;strong&gt;平台 -&lt;&#x2F;strong&gt; 尽管 MxM 可在移动设备上运行，但它尚不积极支持移动平台。&lt;&#x2F;em&gt;&lt;br&gt;&lt;br&gt;&lt;em&gt;&lt;strong&gt;依赖性 -&lt;&#x2F;strong&gt; 只有配备来自资源包管理器的大量 Unity 资源包，MxM 才可运作（如作业）。其中有些可能是预览资源包。但是，这些资源包在结合 MxM 使用时，性能均表现稳定。请阅读快速入门指南，了解详情。&lt;&#x2F;em&gt;&lt;br&gt;&lt;br&gt;&lt;em&gt;&lt;strong&gt;动画要求 -&lt;&#x2F;strong&gt; MxM 可能不适用于某些动画集。需要过渡动画才能实现较好的覆盖度和连续性。请阅读&lt;a href=&quot;https:&#x2F;&#x2F;docs.google.com&#x2F;document&#x2F;d&#x2F;116VnMJEkSyHuVOESaIhdd4KAvUJ6OWFDWhrKZnbrPDc&#x2F;edit?usp=sharing&quot;&gt;文档&lt;&#x2F;a&gt;，了解详情。&lt;&#x2F;em&gt;&lt;br&gt;&lt;br&gt;&lt;strong&gt;功能：&lt;&#x2F;strong&gt;(v2.2.5)&lt;br&gt;- 非结构化的互动动画&lt;br&gt;- 流畅、自然及响应灵敏的动画输出*&lt;br&gt;- 无需状态机和显式过渡&lt;br&gt;- 强大的角色动作事件系统&lt;br&gt;- 内置动画扭曲，用于跑酷等动作 - 支持动作过程中的多世界接触（如在腾跃时将手放在岩脊上）&lt;br&gt;- 标记系统，用于控制移动类型和姿势&lt;br&gt;- 内置图层系统 - 通过单个函数调用，在 Mecanim 和 MxM 之间淡化 - 闪电般快速的性能表现。MxM 具有多线程，使用 Unity 的新任务系统 Burst 编译器和 SIMD 数学库&lt;br&gt;- 混合空间以覆盖动画间隙 - 自定义编辑器和检查器，以帮助处理数据&lt;br&gt;- 支持剪辑和未剪辑的动作捕捉**&lt;br&gt;- 开箱即用，适用于大多数 IK 系统***&lt;br&gt;- 强大的调试工具&lt;br&gt;- 查看文档以了解详情&lt;br&gt;&lt;br&gt;&lt;em&gt;动画输出质量和响应性能取决于源动画的质量和响应性能。&lt;br&gt;&lt;&#x2F;em&gt;* 并非所有动画集都运作良好。请参见动画要求，了解详情。&lt;br&gt;*** 由于 Unity 的错误和局限，仅部分支持 &#x27;Unity Animation Rigging&#x27; 。&lt;br&gt;&lt;br&gt;&lt;strong&gt;技术支持：&lt;&#x2F;strong&gt;&lt;br&gt;- &lt;a href=&quot;https:&#x2F;&#x2F;discord.gg&#x2F;CFyhERt&quot;&gt;Discord 频道&lt;&#x2F;a&gt;&lt;br&gt;- &lt;a href=&quot;https:&#x2F;&#x2F;forum.unity.com&#x2F;threads&#x2F;released-motion-matching-for-unity-advanced-character-animation-with-no-animation-state-machine.685489&#x2F;&quot;&gt;论坛页&lt;&#x2F;a&gt;&lt;br&gt;&lt;br&gt;&lt;strong&gt;文档&lt;&#x2F;strong&gt;&lt;br&gt;- &lt;a href=&quot;https:&#x2F;&#x2F;docs.google.com&#x2F;document&#x2F;d&#x2F;1EWlYWT4mFi9d895J6P7GBOeDQXM-HK5wjqgY3w9hu3w&#x2F;edit?usp=sharing&quot;&gt;快速入门指南&lt;&#x2F;a&gt;&lt;br&gt;- &lt;a href=&quot;https:&#x2F;&#x2F;docs.google.com&#x2F;document&#x2F;d&#x2F;1zBdEQh8nJyOkWnKS5fAwchaE7u0kEvl4fSxlR7S2Wfk&#x2F;edit?usp=sharing&quot;&gt;用户手册&lt;&#x2F;a&gt;&lt;br&gt;- &lt;a href=&quot;https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v=hiWvExOyBgQ&amp;list=PLV3KWwaS27WJqBeZCOVp1h5VKTshdrQrk&quot;&gt;视频教程&lt;&#x2F;a&gt;&lt;br&gt;&lt;br&gt;&lt;strong&gt;警告：&lt;&#x2F;strong&gt;运动匹配是输出动画的通用动画系统。它不处理程序动画&#x2F;IK 或游戏代码。建议具备良好的脚本制作能力，以将游戏玩法信息传递至动作匹配系统。&lt;&#x2F;p&gt;
+</content>
+        
+    </entry>
+</feed>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh">
+    <title>yzzfo - command console</title>
+    <subtitle>游戏开发学习资源分享</subtitle>
+    <link rel="self" type="application/atom+xml" href="https://yzzfo.github.io/tags/command-console/atom.xml"/>
+    <link rel="alternate" type="text/html" href="https://yzzfo.github.io"/>
+    <generator uri="https://www.getzola.org/">Zola</generator>
+    <updated>2024-11-30T13:17:30+00:00</updated>
+    <id>https://yzzfo.github.io/tags/command-console/atom.xml</id>
+    <entry xml:lang="zh">
+        <title>Quantum Console</title>
+        <published>2024-11-29T21:16:53+00:00</published>
+        <updated>2024-11-30T13:17:30+00:00</updated>
+        
+        <author>
+          <name>
+            
+              yzzfo
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://yzzfo.github.io/unity/store/quantum-console/"/>
+        <id>https://yzzfo.github.io/unity/store/quantum-console/</id>
+        
+        <content type="html" xml:base="https://yzzfo.github.io/unity/store/quantum-console/">&lt;p&gt;Quantum Console 是一个拥有许多功能及容易使用的游戏命令控制台。只要在程序里输入[Command],您就可以在命令控制台另加特制的命令及游戏作弊码！&lt;br&gt;&lt;p &gt;&lt;strong&gt;技术支援: &lt;&#x2F;strong&gt;&lt;a href=&quot;mailto:support@qfsw.co.uk&quot; target=&quot;_blank&quot;&gt;邮件&lt;&#x2F;a&gt; | &lt;a href=&quot;https:&#x2F;&#x2F;discord.gg&#x2F;g8SJ7X6&quot; target=&quot;_blank&quot;&gt;Discord&lt;&#x2F;a&gt; | &lt;a href=&quot;https:&#x2F;&#x2F;bitbucket.org&#x2F;QFSW&#x2F;quantum-console&#x2F;issues&quot; target=&quot;_blank&quot;&gt;问题追踪&lt;&#x2F;a&gt; | &lt;a href=&quot;https:&#x2F;&#x2F;twitter.com&#x2F;QFSW1024&quot; target=&quot;_blank&quot;&gt;推特&lt;&#x2F;a&gt; | &lt;a href=&quot;https:&#x2F;&#x2F;www.qfsw.co.uk&#x2F;docs&#x2F;QC&#x2F;&quot; target=&quot;_blank&quot;&gt;资源&lt;&#x2F;a&gt; | &lt;a href=&quot;https:&#x2F;&#x2F;forum.unity.com&#x2F;threads&#x2F;quantum-console-the-ultimate-in-game-development-console.561151&#x2F;&quot; target=&quot;_blank&quot;&gt;讨论区&lt;&#x2F;a&gt; | &lt;a href=&quot;https:&#x2F;&#x2F;www.qfsw.co.uk&#x2F;demos&#x2F;QC&#x2F;&quot; target=&quot;_blank&quot;&gt;演示&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;&lt;p &gt;有問題嗎？歡迎聯絡客服尋求幫助以肯定 &lt;em&gt;Quantum Console&lt;&#x2F;em&gt; 正是適合您需要的解決方案。&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;&lt;strong&gt;使用&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;p &gt;&lt;em&gt;包括但不限于:&lt;&#x2F;em&gt;&lt;&#x2F;p&gt;&lt;p &gt;- 灵活的 QA 工具&lt;&#x2F;p&gt;&lt;p &gt;- 软件开发测试作弊码&lt;&#x2F;p&gt;&lt;p &gt;- 调试协助&lt;&#x2F;p&gt;&lt;p &gt;- 游戏中的作弊码&lt;&#x2F;p&gt;&lt;p &gt;- 适应任何项目&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;&lt;strong&gt;命令功能:&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;p &gt;- 强类型和弱类型命令&lt;&#x2F;p&gt;&lt;p &gt;- 命令重载以及缺省参数&lt;&#x2F;p&gt;&lt;p &gt;- 通用命令&lt;&#x2F;p&gt;&lt;p &gt;- 异步命令&lt;&#x2F;p&gt;&lt;p &gt;- 兼容 functions, properties, fields 和 delegates&lt;&#x2F;p&gt;&lt;p &gt;- 命令黑&#x2F;白名单&lt;&#x2F;p&gt;&lt;p &gt;- 方便使用&lt;&#x2F;p&gt;&lt;p &gt;- 完整 C# 源代码&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;&lt;strong&gt;命令控制台功能:&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;p &gt;- 显示 Debug.Log 消息&lt;&#x2F;p&gt;&lt;p &gt;- 高度可定制&lt;&#x2F;p&gt;&lt;p &gt;- 自定义主题系统&lt;&#x2F;p&gt;&lt;p &gt;- 命令建议和自动完成&lt;&#x2F;p&gt;&lt;p &gt;- 兼容 Text Mesh Pro&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;&lt;strong&gt;内置命令例子:&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;p &gt;- &lt;em&gt;call-static&#x2F;call-instance:&lt;&#x2F;em&gt; 应用任何C#函数属性&lt;&#x2F;p&gt;&lt;p &gt;- &lt;em&gt;man:&lt;&#x2F;em&gt; 显示指定命令的用户手册&lt;&#x2F;p&gt;&lt;p &gt;- &lt;em&gt;exec:&lt;&#x2F;em&gt; 运行时编译并执行 C# 源代码&lt;&#x2F;p&gt;&lt;p &gt;- &lt;em&gt;#define:&lt;&#x2F;em&gt; 定义并创建用户宏&lt;&#x2F;p&gt;&lt;p &gt;- &lt;em&gt;instantiate:&lt;&#x2F;em&gt; 实例对象的副本&lt;&#x2F;p&gt;&lt;p &gt;- &lt;em&gt;destroy:&lt;&#x2F;em&gt; 删除对象&lt;&#x2F;p&gt;&lt;p &gt;- &lt;em&gt;get-object-info:&lt;&#x2F;em&gt; 显示对象 transform 和 component 参数&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;支持仅以英语提供&lt;&#x2F;p&gt;&lt;&#x2F;p&gt;
+</content>
+        
+    </entry>
+</feed>

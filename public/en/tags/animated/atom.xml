@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+    <title>yzzfo - Animated</title>
+    <subtitle>Game Development Learning Resources</subtitle>
+    <link rel="self" type="application/atom+xml" href="https://yzzfo.github.io/en/tags/animated/atom.xml"/>
+    <link rel="alternate" type="text/html" href="https://yzzfo.github.io"/>
+    <generator uri="https://www.getzola.org/">Zola</generator>
+    <updated>2024-12-06T14:25:47+00:00</updated>
+    <id>https://yzzfo.github.io/en/tags/animated/atom.xml</id>
+    <entry xml:lang="en">
+        <title>Heat - Complete Modern UI</title>
+        <published>2024-12-06T14:25:47+00:00</published>
+        <updated>2024-12-06T14:25:47+00:00</updated>
+        
+        <author>
+          <name>
+            
+              yzzfo
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://yzzfo.github.io/en/unity/store/heat-complete-modern-ui/"/>
+        <id>https://yzzfo.github.io/en/unity/store/heat-complete-modern-ui/</id>
+        
+        <content type="html" xml:base="https://yzzfo.github.io/en/unity/store/heat-complete-modern-ui/">&lt;p&gt;Heat is a complete UI asset crafted in a modern&#x2F;minimalistic style. It&#x27;s fully customizable, optimized, and documented.&lt;br&gt;&lt;p &gt;Heat UI is a complete user interface solution that allows you to easily create stylish user interfaces. It is designed to look great on any genre.&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;&lt;strong&gt;• UI Manager&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;p &gt;Instead of changing objects one by one, you change the whole look of your UI within seconds - all using the UI Manager!&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;&lt;strong&gt;• Fully Customizable&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;p &gt;You can tweak everything using the inspector, no need to deal with code or external tools for every minor change.&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;&lt;strong&gt;• Rich UI Components&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;p &gt;With over 15 unique UI elements, dozens of presets and sliced sprites, you can easily create various UI layouts.&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;&lt;strong&gt;• Complete Solution&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;p &gt;This package includes not just UI components, but also many other tools you may need, such as Achievements, Credits, Localization System, and more!&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;&lt;strong&gt;• Demo Scenes&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;p &gt;Includes fully featured demo scenes to get you started quickly.&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;&lt;strong&gt;• Wide Platform Support&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;p &gt;Supports all available rendering pipelines (Built-in, URP, HDRP) and major platforms such as Windows, macOS, Xbox, and PlayStation.&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;&lt;strong&gt;• Native UI Support&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;p &gt;Heat UI is made using the native Unity UI, allowing you to continue working as you&#x27;re used to and even use third-party UGUI extensions with it.&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;If you have any questions, suggestions or feedback, feel free to &lt;a href=&quot;https:&#x2F;&#x2F;www.michsky.com&#x2F;contact&#x2F;&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;contact me&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt;.&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.michsky.com&#x2F;&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;Website&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt; | &lt;a href=&quot;https:&#x2F;&#x2F;discord.gg&#x2F;VXpHyUt&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;Discord Server&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt; | &lt;a href=&quot;http:&#x2F;&#x2F;docs.michsky.com&#x2F;docs&#x2F;heat-ui&#x2F;&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;Documentation&lt;&#x2F;strong&gt; &lt;&#x2F;a&gt;| &lt;a href=&quot;https:&#x2F;&#x2F;drive.google.com&#x2F;file&#x2F;d&#x2F;1V-w1VF55mSS68-MYUwNTwT9LMl5H_Hy3&#x2F;view?usp=sharing&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;Windows Demo&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;Please expand &lt;strong&gt;&#x27;Technical Details&#x27;&lt;&#x2F;strong&gt; for important details.&lt;&#x2F;p&gt;&lt;&#x2F;p&gt;
+</content>
+        
+    </entry>
+    <entry xml:lang="en">
+        <title>Spine Animator</title>
+        <published>2024-12-05T23:26:37+00:00</published>
+        <updated>2024-12-05T23:47:37+00:00</updated>
+        
+        <author>
+          <name>
+            
+              yzzfo
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://yzzfo.github.io/en/unity/store/spine-animator/"/>
+        <id>https://yzzfo.github.io/en/unity/store/spine-animator/</id>
+        
+        <content type="html" xml:base="https://yzzfo.github.io/en/unity/store/spine-animator/">&lt;p&gt;&lt;br&gt;&lt;p &gt;⚡ &lt;strong&gt;ANIMATORS HATE HIM!&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;&lt;strong&gt;FImpossible Creations discovered revolutionary new algorithm to create spine chain animations for animals and creatures without any effort!&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;&#x2F;br&gt;&lt;&#x2F;br&gt;&lt;p &gt;☄️ Spine Animator is component which animates your skeleton&#x27;s spine bones accordingly to movement without loosing any keyframed animation motion. &lt;strong&gt;It&#x27;s simulating real animal-like spine movement&lt;&#x2F;strong&gt; without any need of additional animating or coding.&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;&#x2F;br&gt;&lt;&#x2F;br&gt;&lt;p &gt;⌛ &lt;strong&gt;This component will make your animations look much more real and AAA like without spending a lot of time&lt;&#x2F;strong&gt;for making decent animations of walking &#x2F; running with rotation to sides by your creatures and without spending a lot of money for animator to create this animations.&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;&#x2F;br&gt;&lt;&#x2F;br&gt;&lt;p &gt;✍ Another benefit from this procedural animating is that all movement of bones is continuous, when your object is rotating, spine is fitting to movement all the time, so &lt;strong&gt;you can finally make your snakes, millipedes and other creatures animate like they&#x27;re real!&lt;&#x2F;strong&gt;  What&#x27;s more, when creature go up on the terrain&#x2F;ground slope,&lt;strong&gt; body rotation will fit to it automatically!&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;&#x2F;br&gt;&lt;&#x2F;br&gt;&lt;p &gt;⚙ &lt;strong&gt;Don&#x27;t worry about performance&lt;&#x2F;strong&gt;, you can run many Spine Animators simultaneously without loosing any FPS even on mobile!&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;&lt;strong&gt;Package works on all SRPs! It&#x27;s not shader related package.&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;p &gt;(&lt;strong&gt;You just need to covert standard Demo materials&lt;&#x2F;strong&gt; for demo examples)&lt;&#x2F;p&gt;&lt;p &gt;Built In ✅ LWRP ✅ URP ✅ HDRP ✅ Custom RP ✅&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;Spine Animator is not related with the &quot;Spine&quot; software in any way.&lt;&#x2F;p&gt;&lt;p &gt;Spine Animator is plugin which needs just Unity to work.&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;&lt;strong&gt;Also if you use &lt;&#x2F;strong&gt;&lt;a href=&quot;https:&#x2F;&#x2F;assetstore.unity.com&#x2F;packages&#x2F;tools&#x2F;utilities&#x2F;optimizers-122247&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;Optimizers&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt;&lt;strong&gt; you can let yourself use even more of them!&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;&#x2F;br&gt;&lt;p &gt;&lt;a href=&quot;https:&#x2F;&#x2F;forum.unity.com&#x2F;threads&#x2F;spine-animator-boost-your-animations-to-insane-level-without-any-effort.569485&#x2F;&quot; target=&quot;_blank&quot;&gt;Community Thread Link&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;&lt;a href=&quot;http:&#x2F;&#x2F;www.filipmoeglich.pl&#x2F;download&#x2F;Spine%20Animator%20User%20Manual.pdf&quot; target=&quot;_blank&quot;&gt;Visual friendly user manual&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v=7KoaA_WaJoA&quot; target=&quot;_blank&quot;&gt;Manual Video Explaining Different Parameters&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;&#x2F;br&gt;&lt;&#x2F;br&gt;&lt;p &gt;⭐ &lt;strong&gt;MAIN FEATURES&lt;&#x2F;strong&gt; ⭐&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;● Includes interactive demo scenes&lt;&#x2F;p&gt;&lt;p &gt;● Includes full source code&lt;&#x2F;p&gt;&lt;p &gt;● Easy setup and incredible effect&lt;&#x2F;p&gt;&lt;p &gt;● Fully cooperating with keyframed animations&lt;&#x2F;p&gt;&lt;p &gt;● Tutorial videos on my &lt;a href=&quot;https:&#x2F;&#x2F;www.youtube.com&#x2F;channel&#x2F;UCDvDWSr6MAu1Qy9vX4w8jkw&quot; target=&quot;_blank&quot;&gt;Youtube Channel&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;&lt;p &gt;● Not needed any coding&lt;&#x2F;p&gt;&lt;p &gt;● Visual friendly inspector window with helpful features&lt;&#x2F;p&gt;&lt;p &gt;● Highly customizable&lt;&#x2F;p&gt;&lt;p &gt;● Very high performance&lt;&#x2F;p&gt;&lt;p &gt;● Blending with original animation&lt;&#x2F;p&gt;&lt;&#x2F;p&gt;
+</content>
+        
+    </entry>
+</feed>

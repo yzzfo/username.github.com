@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh">
+    <title>yzzfo - javascript</title>
+    <subtitle>游戏开发学习资源分享</subtitle>
+    <link rel="self" type="application/atom+xml" href="https://yzzfo.github.io/tags/javascript/atom.xml"/>
+    <link rel="alternate" type="text/html" href="https://yzzfo.github.io"/>
+    <generator uri="https://www.getzola.org/">Zola</generator>
+    <updated>2024-12-07T20:33:31+00:00</updated>
+    <id>https://yzzfo.github.io/tags/javascript/atom.xml</id>
+    <entry xml:lang="zh">
+        <title>UniWebView 5</title>
+        <published>2024-12-07T20:33:31+00:00</published>
+        <updated>2024-12-07T20:33:31+00:00</updated>
+        
+        <author>
+          <name>
+            
+              yzzfo
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://yzzfo.github.io/unity/store/uniwebview-5/"/>
+        <id>https://yzzfo.github.io/unity/store/uniwebview-5/</id>
+        
+        <content type="html" xml:base="https://yzzfo.github.io/unity/store/uniwebview-5/">&lt;p&gt;面向移动平台的 Web View 强大控件，帮助您在游戏中显示网页内容。显示 HTTP 网页，执行 JavaScript，通过 OAuth 2.0 登入，以及更多其他功能。&lt;br&gt;&lt;p &gt;UniWebView 可以用于向您的 Unity 3D 手机游戏中添加&lt;strong&gt;网页视图组件&lt;&#x2F;strong&gt;。&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;欢迎访问我们的&lt;a href=&quot;https:&#x2F;&#x2F;uniwebview.com&#x2F;&quot; target=&quot;_blank&quot;&gt;官方网站&lt;&#x2F;a&gt;，以了解有关 UniWebView 5 的更多信息。&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;&lt;strong&gt;&lt;em&gt;概览&lt;&#x2F;em&gt;&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;UniWebView 包含一组 C# 的高层级 API，它对 iOS 和 Android 平台的本机 API 进行了抽象封装。使用 UniWebView，您可以在无需了解本机开发的任何内容的情况下，就将浏览器行为添加到游戏中。当您需要显示活动公告及通知，或为玩家排名添加排行板，或是向用户显示任何网页内容时，UniWebView 都可以帮助您轻松解决问题。&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;UniWebView 支持 iOS 9.0 或更高版本，以及 Android 5.0 (API Level 21) 或更高版本。它还包含在 macOS 上的 Unity Editor 的完整功能支持。&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;UniWebView 可以运行在 Unity 2020.3 或者更高版本中。&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;&lt;strong&gt;&lt;em&gt;功能&lt;&#x2F;em&gt;&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;ul&gt;&lt;li &gt;网络浏览，像浏览器一样显示 HTTP&#x2F;HTTPS 内容。&lt;&#x2F;li&gt;&lt;li &gt;使用安全浏览，支持 Apple Pay 或 Google Pay 等。&lt;&#x2F;li&gt;&lt;li &gt;内置常用的 OAuth 2.0 提供商支持，简单登录 Google&#x2F;Facebook 等。&lt;&#x2F;li&gt;&lt;li &gt;载入本地 HTML 文件。&lt;&#x2F;li&gt;&lt;li &gt;JavaScript 完整支持。在页面上执行或添加 JavaScript。&lt;&#x2F;li&gt;&lt;li &gt;基于 url scheme 的消息系统，在 Unity 侧获取页面消息。&lt;&#x2F;li&gt;&lt;li &gt;通过绝对值或引用 Unity UI 元素的相对值来设置位置和大小。&lt;&#x2F;li&gt;&lt;li &gt;播放 YouTube，Vimeo 或本地视频。&lt;&#x2F;li&gt;&lt;li &gt;使用相机或照片库，通过 input 表单进行图片上传。&lt;&#x2F;li&gt;&lt;li &gt;将网页渲染为 Texture 并在游戏世界中使用。&lt;&#x2F;li&gt;&lt;li &gt;网页透明部分穿透点击，使用网页制作游戏 UI。&lt;&#x2F;li&gt;&lt;li &gt;查看&lt;a href=&quot;https:&#x2F;&#x2F;uniwebview.com&#x2F;&quot; target=&quot;_blank&quot;&gt;我们的网站&lt;&#x2F;a&gt;获取更多信息。&lt;&#x2F;li&gt;&lt;&#x2F;ul&gt;&lt;p &gt;&lt;strong&gt;&lt;em&gt;文档，指南和技术支持&lt;&#x2F;em&gt;&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;我们准备了详细的文档和指南。请访问&lt;a href=&quot;http:&#x2F;&#x2F;docs.uniwebview.com&#x2F;&quot; target=&quot;_blank&quot;&gt;UniWebView 文档网站&lt;&#x2F;a&gt;来了解如何使用。&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;如果您有任何问题，请查看&lt;a href=&quot;https:&#x2F;&#x2F;docs.uniwebview.com&#x2F;guide&#x2F;faq.html&quot; target=&quot;_blank&quot;&gt;常见问题解答页面&lt;&#x2F;a&gt;，或者从我们的文档网站向我们提交问题！&lt;&#x2F;p&gt;&lt;&#x2F;p&gt;
+</content>
+        
+    </entry>
+    <entry xml:lang="zh">
+        <title>OneJS</title>
+        <published>2024-11-29T21:18:31+00:00</published>
+        <updated>2024-11-30T13:22:05+00:00</updated>
+        
+        <author>
+          <name>
+            
+              yzzfo
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://yzzfo.github.io/unity/store/onejs/"/>
+        <id>https://yzzfo.github.io/unity/store/onejs/</id>
+        
+        <content type="html" xml:base="https://yzzfo.github.io/unity/store/onejs/">&lt;p&gt;OneJS将JavaScript和许多受欢迎的网页技术带入Unity，无需浏览器或Web视图即可与UI Toolkit无缝集成。&lt;&#x2F;p&gt;
+&lt;p &gt;&lt;a href=&quot;http:&#x2F;&#x2F;onejs.com&#x2F;&quot; target=&quot;_blank&quot;&gt;访问onejs.com以获取文档和教程&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;&lt;p &gt;&lt;a href=&quot;https:&#x2F;&#x2F;discord.gg&#x2F;dwnYFte6SF&quot; target=&quot;_blank&quot;&gt;Discord&lt;&#x2F;a&gt; • &lt;a href=&quot;https:&#x2F;&#x2F;www.youtube.com&#x2F;Singtaa&quot; target=&quot;_blank&quot;&gt;Youtube&lt;&#x2F;a&gt; • &lt;a href=&quot;https:&#x2F;&#x2F;twitter.com&#x2F;Singtaa&quot; target=&quot;_blank&quot;&gt;Twitter&#x2F;X&lt;&#x2F;a&gt; • &lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;Singtaa&quot; target=&quot;_blank&quot;&gt;Github&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+&lt;p &gt;&lt;em&gt;(建议熟悉React和Typescript)&lt;&#x2F;em&gt;&lt;&#x2F;p&gt;
+&lt;p &gt;OneJS将React风格的工作流程的强大功能带入Unity UI开发。它为Preact提供了一个轻量级的DOM层，与UI Toolkit无缝集成，以实现高性能。利用您已经熟悉和喜爱的Typescript、JSX、Tailwind以及许多其他网页技术——所有这些都可以在Unity中原生运行。&lt;&#x2F;p&gt;
+&lt;p &gt;通过V2，OneJS现在通过Puerts实现了高达100倍的性能提升。新的ESBuild工作流程简化了部署并支持npm包。&lt;&#x2F;p&gt;
+&lt;p &gt;除了UI，OneJS还使得实现mod系统变得简单。赋予您的玩家使用TypeScript、JSX和USS创建游戏附加组件和mod的能力。&lt;&#x2F;p&gt;</content>
+        
+    </entry>
+</feed>

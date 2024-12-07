@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh">
+    <title>yzzfo - 符文</title>
+    <subtitle>游戏开发学习资源分享</subtitle>
+    <link rel="self" type="application/atom+xml" href="https://yzzfo.github.io/tags/fu-wen/atom.xml"/>
+    <link rel="alternate" type="text/html" href="https://yzzfo.github.io"/>
+    <generator uri="https://www.getzola.org/">Zola</generator>
+    <updated>2024-12-08T17:42:29+00:00</updated>
+    <id>https://yzzfo.github.io/tags/fu-wen/atom.xml</id>
+    <entry xml:lang="zh">
+        <title>RPG VFX Bundle</title>
+        <published>2024-12-08T17:42:29+00:00</published>
+        <updated>2024-12-08T17:42:29+00:00</updated>
+        
+        <author>
+          <name>
+            
+              yzzfo
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://yzzfo.github.io/unity/store/rpg-vfx-bundle/"/>
+        <id>https://yzzfo.github.io/unity/store/rpg-vfx-bundle/</id>
+        
+        <content type="html" xml:base="https://yzzfo.github.io/unity/store/rpg-vfx-bundle/">&lt;p&gt;Huge amount of high quality effects for RPG and top-down games!&lt;br&gt;该资源包括：&lt;br&gt;- 不同的复杂特效（魔法箭、盾牌、强化和弱化咒语、击中、魔法圈、喷射、攻击咒语、激光、轨道标记等）&lt;br&gt;- 大量独特的纹理&lt;br&gt;- 多用途自定义着色器&lt;br&gt;- 脚本，其中之一允许您更改特效的颜色，&lt;a href = &quot;https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v=s7eF_AprVEY&quot;&gt;因此您只需单击一下即可更改颜色。&lt;&#x2F;a&gt;&lt;br&gt;&lt;br&gt;&lt;STRONG&gt;支持 HDRP 和 URP (LWRP)。&lt;br&gt;&lt;a href = &quot;https:&#x2F;&#x2F;assetstore.unity.com&#x2F;packages&#x2F;slug&#x2F;157764&quot;&gt;此处&lt;&#x2F;a&gt;是 HDRP 和 URP (LWRP) 的支持包！&lt;br&gt;支持 PC&#x2F;游戏主机&#x2F;移动设备&#x2F;VR。&lt;&#x2F;STRONG&gt;&lt;br&gt;所有效果都经过了优化并且适用于所有平台。可以轻松调整大小和颜色。&lt;br&gt;&lt;br&gt;由于此资源包包含许多独特的特效，因此它包括：&lt;br&gt;&lt;br&gt;&lt;a href = &quot;http:&#x2F;&#x2F;u3d.as&#x2F;1jhP&quot;&gt;AAA 魔法圈和盾牌&lt;&#x2F;a&gt;&lt;br&gt;&lt;a href = &quot;http:&#x2F;&#x2F;u3d.as&#x2F;1kp7&quot;&gt;AAA 风格化喷射第 1 波&lt;&#x2F;a&gt;&lt;br&gt;&lt;a href = &quot;http:&#x2F;&#x2F;u3d.as&#x2F;1nia&quot;&gt;AOE 魔法咒语第 1 波&lt;&#x2F;a&gt;&lt;br&gt;&lt;a href = &quot;http:&#x2F;&#x2F;u3d.as&#x2F;1mjE&quot;&gt;3D 激光资源包&lt;&#x2F;a&gt;&lt;br&gt;&lt;a href = &quot;http:&#x2F;&#x2F;u3d.as&#x2F;1mo4&quot;&gt;地图轨道标记 VFX&lt;&#x2F;a&gt;&lt;br&gt;+ 更多特效&lt;br&gt;&lt;br&gt;促销媒体（视频、图像等）采用“泛光”后期特效！&lt;br&gt;&lt;br&gt;如果您有任何疑问或问题，欢迎咨询&lt;a href = &quot;mailto:gorobecn2@gmail.com&quot;&gt;我&lt;&#x2F;a&gt;。&lt;&#x2F;p&gt;
+</content>
+        
+    </entry>
+    <entry xml:lang="zh">
+        <title>Character Auras</title>
+        <published>2024-11-29T21:20:26+00:00</published>
+        <updated>2024-11-30T13:24:28+00:00</updated>
+        
+        <author>
+          <name>
+            
+              yzzfo
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://yzzfo.github.io/unity/store/character-auras/"/>
+        <id>https://yzzfo.github.io/unity/store/character-auras/</id>
+        
+        <content type="html" xml:base="https://yzzfo.github.io/unity/store/character-auras/">&lt;p&gt;15个惊人的角色光环效果！&lt;&#x2F;p&gt;
+&lt;p&gt;该包包含&lt;strong&gt;15&lt;&#x2F;strong&gt;个惊人的光环效果：&lt;&#x2F;p&gt;&lt;ul&gt;&lt;li&gt;水光环&lt;&#x2F;li&gt;&lt;li&gt;白色光环&lt;&#x2F;li&gt;&lt;li&gt;肥皂光环&lt;&#x2F;li&gt;&lt;li&gt;烟雾光环&lt;&#x2F;li&gt;&lt;li&gt;睡眠光环&lt;&#x2F;li&gt;&lt;li&gt;闪耀光环&lt;&#x2F;li&gt;&lt;li&gt;流星光环&lt;&#x2F;li&gt;&lt;li&gt;闪电光环&lt;&#x2F;li&gt;&lt;li&gt;治疗光环&lt;&#x2F;li&gt;&lt;li&gt;金色光环&lt;&#x2F;li&gt;&lt;li&gt;冰冻光环&lt;&#x2F;li&gt;&lt;li&gt;火焰光环&lt;&#x2F;li&gt;&lt;li&gt;黑暗光环&lt;&#x2F;li&gt;&lt;li&gt;血液光环&lt;&#x2F;li&gt;&lt;li&gt;酸性光环&lt;&#x2F;li&gt;&lt;&#x2F;ul&gt;&lt;p&gt;所有预制件都已准备好用于游戏，只需将它们拖放到您的游戏中即可！&lt;&#x2F;p&gt;
+&lt;p&gt;默认支持内置渲染。&lt;strong&gt;HDRP和URP可以使用&lt;&#x2F;strong&gt;&lt;a href=&quot;https:&#x2F;&#x2F;assetstore.unity.com&#x2F;packages&#x2F;tools&#x2F;utilities&#x2F;support-package-for-hovl-studio-assets-157764&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;这个&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt;&lt;strong&gt;适用于Unity 2021或更低版本的免费包。&lt;&#x2F;strong&gt;在购买我的资产之一后，它将变为免费。&lt;&#x2F;p&gt;&lt;p&gt;&lt;strong&gt;URP&#x2F;HDRP是Unity 2022或Unity 6+的默认设置&lt;&#x2F;strong&gt;。需要Shader Graph，它与此资产一起安装。可以更改为内置渲染。&lt;&#x2F;p&gt;&lt;p&gt;&lt;strong&gt;支持所有平台！&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;strong&gt;这些不是网格效果！所有效果只是简单的循环粒子系统！&lt;&#x2F;strong&gt;宣传媒体（视频、图片）使用了来自Volume组件的后处理“辉光”。&lt;&#x2F;p&gt;&lt;p&gt;如果您有任何问题或疑问，请与我联系。联系方式在个人资料页面上。&lt;&#x2F;p&gt;</content>
+        
+    </entry>
+    <entry xml:lang="zh">
+        <title>Mesh Effects</title>
+        <published>2024-11-29T21:19:19+00:00</published>
+        <updated>2024-11-30T13:23:02+00:00</updated>
+        
+        <author>
+          <name>
+            
+              yzzfo
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://yzzfo.github.io/unity/store/mesh-effects/"/>
+        <id>https://yzzfo.github.io/unity/store/mesh-effects/</id>
+        
+        <content type="html" xml:base="https://yzzfo.github.io/unity/store/mesh-effects/">&lt;p&gt;&lt;br&gt;此软件包包含 21 种网格特效。&lt;br&gt;&lt;br&gt;注意：在升级之前，必须删除旧版的软件包。&lt;br&gt;&lt;br&gt;若要使用 URP 和 HDRP，需要导入项目文件夹中包含的补丁。从 Unity 2019.2.19f 起可使用 URP 和 HDRP 渲染&lt;br&gt;&lt;br&gt;支持 PC&#x2F;游戏主机&#x2F;移动设备&#x2F;VR。&lt;br&gt;不兼容 2D 精灵&lt;br&gt;&lt;br&gt;&lt;a href=&quot;http:&#x2F;&#x2F;kripto289.com&#x2F;AssetStore&#x2F;WeaponFX&#x2F;1.4&#x2F;PC.zip&quot;&gt;PC 演示&lt;&#x2F;a&gt;&lt;br&gt;&lt;a href=&quot;http:&#x2F;&#x2F;kripto289.com&#x2F;AssetStore&#x2F;WeaponFX&#x2F;1.4&#x2F;MeshEffectsDemo.apk&quot;&gt;移动版演示&lt;&#x2F;a&gt;&lt;br&gt;&lt;br&gt;- 开箱即用（只需拖放即可）&lt;br&gt;- 单击获得任何颜色&lt;br&gt;- 特效根据真正的网格尺寸进行缩放&lt;br&gt;- 兼容“网格渲染器”和“蒙皮网格渲染器”&lt;br&gt;- 随附演示场景（带动画&#x2F;角色&#x2F;武器&#x2F;环境）&lt;br&gt;重要事项！Unity3d 不支持每个子网格超过 1 个材质。要正常工作，需要分拆子网格。&lt;br&gt;&lt;br&gt;如果有任何疑问或建议，请给我发送&lt;a href=&quot;mailto:kripto289@gmail.com&quot;&gt;电子邮件&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+</content>
+        
+    </entry>
+</feed>

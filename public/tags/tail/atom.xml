@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh">
+    <title>yzzfo - tail</title>
+    <subtitle>游戏开发学习资源分享</subtitle>
+    <link rel="self" type="application/atom+xml" href="https://yzzfo.github.io/tags/tail/atom.xml"/>
+    <link rel="alternate" type="text/html" href="https://yzzfo.github.io"/>
+    <generator uri="https://www.getzola.org/">Zola</generator>
+    <updated>2024-12-05T23:47:37+00:00</updated>
+    <id>https://yzzfo.github.io/tags/tail/atom.xml</id>
+    <entry xml:lang="zh">
+        <title>Spine Animator</title>
+        <published>2024-12-05T23:26:37+00:00</published>
+        <updated>2024-12-05T23:47:37+00:00</updated>
+        
+        <author>
+          <name>
+            
+              yzzfo
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://yzzfo.github.io/unity/store/spine-animator/"/>
+        <id>https://yzzfo.github.io/unity/store/spine-animator/</id>
+        
+        <content type="html" xml:base="https://yzzfo.github.io/unity/store/spine-animator/">&lt;p&gt;&lt;br&gt;⚡ &lt;strong&gt;动画师讨厌他！&lt;br&gt;FImpossible Creations发明了一种革命性的全新算法，可以创建动物和生物的脊椎链动画，超级简单！&lt;&#x2F;strong&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;☄️ Spine Animator组件可根据运动创建骨架的脊椎骨动画，不会松散任何关键帧动画运动。&lt;strong&gt;它可模拟真实动物的脊椎运动&lt;&#x2F;strong&gt;，无需额外的动画制作和编码。&lt;br&gt;&lt;br&gt;&lt;br&gt;⌛&lt;strong&gt;该组件会让你的动画看起来更真实、更有 3A 感，无需让你花费大量时间&lt;&#x2F;strong&gt;制作生物行走或跑步时旋转到两边的动画，也不用花大钱雇动画师制作动画。&lt;br&gt;&lt;br&gt;&lt;br&gt;✍这种程序式动画的另一个好处是，骨骼的所有运动都是连续的。当你的对象旋转时，脊椎可以一直随之移动，这样&lt;strong&gt;你做出来的蛇、多足动物和其他生物的动画就和真的一样！&lt;&#x2F;strong&gt;此外，当生物在地形或斜坡往上运动时，&lt;strong&gt;身体旋转会自动随之变化！&lt;&#x2F;strong&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;⚙ &lt;strong&gt;不用担心性能&lt;&#x2F;strong&gt;问题，你可以同时运行多个Spine Animators，也不会松散任何帧数，移动端也没问题！&lt;br&gt;&lt;strong&gt;如果你使用&lt;a href =&quot;https:&#x2F;&#x2F;assetstore.unity.com&#x2F;packages&#x2F;tools&#x2F;utilities&#x2F;optimizers-122247&quot;&gt;Optimizers&lt;&#x2F;a&gt;，你可以用的东西会更多！&lt;&#x2F;strong&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;a href=&quot;https:&#x2F;&#x2F;forum.unity.com&#x2F;threads&#x2F;spine-animator-boost-your-animations-to-insane-level-without-any-effort.569485&#x2F;&quot;&gt;社区主题链接&lt;&#x2F;a&gt;&lt;br&gt;&lt;br&gt;&lt;a href=&quot;http:&#x2F;&#x2F;www.filipmoeglich.pl&#x2F;download&#x2F;Spine%20Animator%20User%20Manual.pdf&quot;&gt;易于阅读的用户手册&lt;&#x2F;a&gt;&lt;br&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v=7KoaA_WaJoA&quot;&gt;手册视频解释不同参数&lt;&#x2F;a&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;⭐ &lt;strong&gt;主要功能&lt;&#x2F;strong&gt; ⭐&lt;br&gt;&lt;br&gt;● 包含互动演示场景&lt;br&gt;● 包含完整源代码&lt;br&gt;● 轻松设置，效果出色&lt;br&gt;● 与关键帧动画完全兼容&lt;br&gt;● 我&lt;a href=&quot;https:&#x2F;&#x2F;www.youtube.com&#x2F;channel&#x2F;UCDvDWSr6MAu1Qy9vX4w8jkw&quot;&gt;的Youtube频道&lt;&#x2F;a&gt;上可找到教程视频&lt;br&gt;● 无需任何编码&lt;br&gt;● 方便查看的检查器窗口，有许多有用的功能&lt;br&gt;● 可高度自定义&lt;br&gt;● 性能表现极好&lt;br&gt;● 与原始动画混合&lt;&#x2F;p&gt;
+</content>
+        
+    </entry>
+</feed>

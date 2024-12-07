@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh">
+    <title>yzzfo | Share for Free - Build</title>
+    <subtitle>游戏开发学习资源分享</subtitle>
+    <link rel="self" type="application/atom+xml" href="https://yzzfo.github.io/tags/build/atom.xml"/>
+    <link rel="alternate" type="text/html" href="https://yzzfo.github.io"/>
+    <generator uri="https://www.getzola.org/">Zola</generator>
+    <updated>2024-12-08T17:50:14+00:00</updated>
+    <id>https://yzzfo.github.io/tags/build/atom.xml</id>
+    <entry xml:lang="zh">
+        <title>Build Report Tool</title>
+        <published>2024-12-08T17:50:14+00:00</published>
+        <updated>2024-12-08T17:50:14+00:00</updated>
+        
+        <author>
+          <name>
+            
+              yzzfo
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://yzzfo.github.io/unity/store/build-report-tool/"/>
+        <id>https://yzzfo.github.io/unity/store/build-report-tool/</id>
+        
+        <content type="html" xml:base="https://yzzfo.github.io/unity/store/build-report-tool/">&lt;p&gt;&lt;br&gt;希望将游戏版本降至 50 MB 以下？要查看哪些资源占据了大量磁盘空间？&lt;br&gt;&lt;br&gt;这一工具可为 Unity 版本信息提供良好的前端。它显示构建时随附的资源以及每个资源占用多少存储空间。&lt;br&gt;&lt;br&gt;&lt;strong&gt;资源使用&#x2F;依赖性：&lt;&#x2F;strong&gt;查看哪个资源正在使用哪个资源，从而了解资源随附在该版本内的原因。&lt;br&gt;&lt;br&gt;&lt;strong&gt;未使用资源列表：&lt;&#x2F;strong&gt;或许你有不再使用的文件？查看未使用资源列表中哪些资源&lt;strong&gt;不&lt;&#x2F;strong&gt;包括在你的版本中！&lt;br&gt;&lt;br&gt;&lt;strong&gt;保存至 XML：&lt;&#x2F;strong&gt;将版本报告保存至 XML 文件中！存储多个版本报告以供参考，也可以将其发送至团队成员。&lt;br&gt;&lt;br&gt;&lt;strong&gt;项目设置：&lt;&#x2F;strong&gt;查看构建时项目使用了哪些版本设置。在查看自动版本的设置时，该功能非常适合连续集成系统。&lt;br&gt;&lt;br&gt;&lt;strong&gt;DLL 列表：&lt;&#x2F;strong&gt;查看你的版本中具体包含了哪些 Mono DLL 及其占用了多少空间。&lt;br&gt;&lt;br&gt;也适用于个人版和移动端。&lt;br&gt;&lt;br&gt;如需支持或咨询，请发送 Tweet 至 &lt;a href=&quot;https:&#x2F;&#x2F;twitter.com&#x2F;AnomalusUndrdog&quot;&gt;@AnomalusUndrdog&lt;&#x2F;a&gt;，或在 Unity 论坛上&lt;a href=&quot;https:&#x2F;&#x2F;forum.unity.com&#x2F;members&#x2F;anomalusundrdog.8479&#x2F;&quot;&gt;向我发送私信&lt;&#x2F;a&gt;，或加入我们的 Unity &lt;a href=&quot;https:&#x2F;&#x2F;forum.unity.com&#x2F;threads&#x2F;build-report-tool-track-files-in-your-project-that-need-slimming-down.178279&#x2F;&quot;&gt;论坛主题帖&lt;&#x2F;a&gt;讨论。&lt;br&gt;&lt;br&gt;&lt;&#x2F;p&gt;
+</content>
+        
+    </entry>
+</feed>

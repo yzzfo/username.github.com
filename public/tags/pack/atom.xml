@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh">
+    <title>yzzfo - Pack</title>
+    <subtitle>游戏开发学习资源分享</subtitle>
+    <link rel="self" type="application/atom+xml" href="https://yzzfo.github.io/tags/pack/atom.xml"/>
+    <link rel="alternate" type="text/html" href="https://yzzfo.github.io"/>
+    <generator uri="https://www.getzola.org/">Zola</generator>
+    <updated>2024-12-08T17:36:27+00:00</updated>
+    <id>https://yzzfo.github.io/tags/pack/atom.xml</id>
+    <entry xml:lang="zh">
+        <title>AllSky - 220+ Sky &#x2F; Skybox Set</title>
+        <published>2024-12-08T17:36:27+00:00</published>
+        <updated>2024-12-08T17:36:27+00:00</updated>
+        
+        <author>
+          <name>
+            
+              yzzfo
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://yzzfo.github.io/unity/store/allsky-220-sky-skybox-set/"/>
+        <id>https://yzzfo.github.io/unity/store/allsky-220-sky-skybox-set/</id>
+        
+        <content type="html" xml:base="https://yzzfo.github.io/unity/store/allsky-220-sky-skybox-set/">&lt;p&gt;适于Unity的220多个天空！- 各种风格：白天、夜晚、动漫、云上、卡通、幻想、朦胧、壮丽、太空、 乳状云、无阳光和无月光！&lt;br&gt;&lt;p &gt;适于Unity的220多个天空！&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;- 各种风格：白天、夜晚、动漫、云上、卡通、幻想、朦胧、壮丽、太空、 乳状云、无阳光和无月光！&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;- 适用于寻找各种各样的天空以照亮其环境的照明艺术家、环境艺术家和独立开发人员。&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;- 从白天到夜晚的照明：黄昏、日落、白天的多个时间段、夜晚的多个时间段、天空辉光。&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;- 多种天气和云的类型：晴朗、多云、夏季、暴风雨、秋季、朦胧、壮丽、多雾、积云。&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;-&lt;a href=&quot;https:&#x2F;&#x2F;docs.google.com&#x2F;document&#x2F;d&#x2F;1MMtkBSLw4FEoTNnUvK11DCQhRifIKsn09xmuNDkAaok&#x2F;&quot; target=&quot;_blank&quot;&gt; 在线文件（英文）&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;&lt;&#x2F;p&gt;
+</content>
+        
+    </entry>
+    <entry xml:lang="zh">
+        <title>Amplify Shader Pack</title>
+        <published>2024-12-07T19:59:49+00:00</published>
+        <updated>2024-12-07T19:59:49+00:00</updated>
+        
+        <author>
+          <name>
+            
+              yzzfo
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://yzzfo.github.io/unity/store/amplify-shader-pack/"/>
+        <id>https://yzzfo.github.io/unity/store/amplify-shader-pack/</id>
+        
+        <content type="html" xml:base="https://yzzfo.github.io/unity/store/amplify-shader-pack/">&lt;p&gt;180+ Amplify Shader Editor 示例，适用于 HDRP、URP 和内置渲染器。&lt;&#x2F;p&gt;
+&lt;p &gt;&lt;strong&gt;对 &lt;&#x2F;strong&gt;&lt;a href=&quot;https:&#x2F;&#x2F;assetstore.unity.com&#x2F;packages&#x2F;tools&#x2F;visual-scripting&#x2F;amplify-shader-editor-68570&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;Amplify Shader Editor&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt;&lt;strong&gt; 用户免费。&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;p &gt;无需费用，确保使用与您的 ASE 许可证相同的账户进行结账。&lt;&#x2F;p&gt;
+&lt;p &gt;&lt;strong&gt;在 &lt;&#x2F;strong&gt;&lt;a href=&quot;https:&#x2F;&#x2F;assetstore.unity.com&#x2F;packages&#x2F;tools&#x2F;visual-scripting&#x2F;amplify-bundle-173849&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;Amplify Bundle&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt;&lt;strong&gt; 上节省 35%。&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;p &gt;&lt;a href=&quot;https:&#x2F;&#x2F;assetstore.unity.com&#x2F;packages&#x2F;tools&#x2F;visual-scripting&#x2F;amplify-shader-editor-68570&quot; target=&quot;_blank&quot;&gt;Amplify Shader Editor&lt;&#x2F;a&gt; - 获奖的基于节点的着色器编辑器&lt;&#x2F;p&gt;&lt;p &gt;&lt;a href=&quot;https:&#x2F;&#x2F;assetstore.unity.com&#x2F;packages&#x2F;tools&#x2F;utilities&#x2F;amplify-impostors-119877&quot; target=&quot;_blank&quot;&gt;Amplify Impostors&lt;&#x2F;a&gt; - 一键伪像创建器&lt;&#x2F;p&gt;&lt;p &gt;&lt;a href=&quot;https:&#x2F;&#x2F;assetstore.unity.com&#x2F;packages&#x2F;vfx&#x2F;shaders&#x2F;fullscreen-camera-effects&#x2F;amplify-lut-pack-50070&quot; target=&quot;_blank&quot;&gt;Amplify LUT Pack&lt;&#x2F;a&gt; - 200+ LUT 调色预设&lt;&#x2F;p&gt;
+&lt;p &gt;&lt;strong&gt;最新亮点&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;p &gt;&lt;strong&gt;• 根据 ASE 编辑器 v1.9.6.3 更新&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;p &gt;&lt;strong&gt;• 更新对 Unity 6000.0.14+ 的支持&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;p &gt;&lt;strong&gt;• 优化包大小&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;p &gt;• 为 URP&#x2F;HDRP 17x 添加了预览支持&lt;&#x2F;p&gt;&lt;p &gt;• 添加了新的折射 HDRP 示例&lt;&#x2F;p&gt;&lt;p &gt;• 添加了对 URP&#x2F;HDRP 16x 的支持&lt;&#x2F;p&gt;&lt;p &gt;• 添加了对 URP&#x2F;HDRP 15x 的支持&lt;&#x2F;p&gt;&lt;p &gt;• 添加了对 URP&#x2F;HDRP 14x 的支持&lt;&#x2F;p&gt;&lt;p &gt;• 修复了所有 URP&#x2F;HDRP 10x 和 12x 的示例&lt;&#x2F;p&gt;&lt;p &gt;• 使用 Amplify Shader Editor v1.9.2 构建&lt;&#x2F;p&gt;&lt;p &gt;• 改进了开始屏幕示例导入器&lt;&#x2F;p&gt;
+&lt;p &gt;&lt;strong&gt;重要提示&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;p &gt;• 将最低 Unity 支持提升至 2019.4 LTS&lt;&#x2F;p&gt;&lt;p &gt;• 将最低 URP 支持提升至 10x&lt;&#x2F;p&gt;&lt;p &gt;• 将最低 HDRP 支持提升至 10x&lt;&#x2F;p&gt;&lt;br&gt;&lt;p&gt;超过180个使用Amplify Shader Editor制作的精心挑选的着色器，随时可用且完全可编辑。从基本着色器类型、各种视觉特效（如溶解和变形），到特定的地形示例和带有支持脚本的自定义用途着色器。&lt;&#x2F;p&gt;
+&lt;p&gt;不需要编辑器即可使用，仅在编辑&#x2F;更新时需要。&lt;&#x2F;p&gt;
+&lt;p&gt;• HDRP、URP和内置渲染器&lt;&#x2F;p&gt;
+&lt;p&gt;• 完全可定制&lt;&#x2F;p&gt;
+&lt;p&gt;请查看我们的样本目录，访问&lt;a href=&quot;http:&#x2F;&#x2F;wiki.amplify.pt&#x2F;index.php?title=Unity_Products:Amplify_Shader_Pack&quot; target=&quot;_blank&quot;&gt;官方维基&lt;&#x2F;a&gt;。这是开发您自己着色器的一个很好的起点，您可以使用我们屡获殊荣的着色器编辑器将其个性化。添加新效果、改变属性或在渲染器之间转换，您可以调整的内容没有限制。&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;strong&gt;技术考虑&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;这些着色器是使用Unity 2019.4创建的。内置着色器将与任何Unity版本兼容。&lt;&#x2F;p&gt;
+&lt;p&gt;包括为版本10到16创建的HDRP&#x2F;URP着色器。&lt;strong&gt;您需要&lt;&#x2F;strong&gt;&lt;a href=&quot;https:&#x2F;&#x2F;assetstore.unity.com&#x2F;packages&#x2F;tools&#x2F;visual-scripting&#x2F;amplify-shader-editor-68570&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;Amplify Shader Editor&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt;&lt;strong&gt;来更新这些着色器，以使其与其他SRP版本正常工作。所包含的着色器将在未来SRP更改时根据需要进行更新。&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;使用&lt;strong&gt;不受支持的SRP版本的HDRP&#x2F;URP着色器而不进行更新，可能会导致渲染不正确或显示为粉色&#x2F;洋红色。&lt;&#x2F;strong&gt;这是预期的，着色器必须在编辑器中打开并保存，以便自动更新到不同的受支持SRP版本。&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;strong&gt;** Amplify Shader Editor单独出售 **&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;有关Amplify Shader Editor的更多详细信息，请查看我们的&lt;a href=&quot;https:&#x2F;&#x2F;youtu.be&#x2F;2fYcok5jUKY&quot; target=&quot;_blank&quot;&gt;概述视频&lt;&#x2F;a&gt;和&lt;a href=&quot;http:&#x2F;&#x2F;wiki.amplify.pt&#x2F;index.php?title=Unity_Products:Amplify_Shader_Editor&#x2F;Manual&quot; target=&quot;_blank&quot;&gt;手册&lt;&#x2F;a&gt;。&lt;&#x2F;p&gt;&lt;br&gt;&lt;p&gt;进行更改，使用您渴望的专业工具。我们的产品由行业专业人士开发，我们的支持团队始终超越一步，以解决客户可能遇到的任何问题。&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;a href=&quot;mailto:info@amplify.pt&quot; target=&quot;_blank&quot;&gt;联系我们&lt;&#x2F;a&gt;，我们很想听听您的故事，帮助推广和展示您的作品。&lt;&#x2F;p&gt;</content>
+        
+    </entry>
+    <entry xml:lang="zh">
+        <title>Low Poly Vegetation Kit Pro</title>
+        <published>2024-12-03T00:51:18+00:00</published>
+        <updated>2024-12-03T00:51:18+00:00</updated>
+        
+        <author>
+          <name>
+            
+              yzzfo
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://yzzfo.github.io/unity/store/low-poly-vegetation-kit-pro/"/>
+        <id>https://yzzfo.github.io/unity/store/low-poly-vegetation-kit-pro/</id>
+        
+        <content type="html" xml:base="https://yzzfo.github.io/unity/store/low-poly-vegetation-kit-pro/">&lt;p&gt;Unlock your creativity with the Low Poly Vegetation Kit Pro. Ideal for designing low-poly vegetation environments.&lt;&#x2F;p&gt;
+&lt;p&gt;ⓘ &lt;strong&gt;注意&lt;&#x2F;strong&gt;&lt;em&gt;:&lt;&#x2F;em&gt;&lt;strong&gt;&lt;em&gt; &lt;&#x2F;em&gt;&lt;&#x2F;strong&gt;&lt;em&gt;在更新到新版本之前，请确保备份您的项目，如果您正在使用旧版本。&lt;&#x2F;em&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;Low Poly Vegetation Kit Pro的&lt;strong&gt;免费版本&lt;&#x2F;strong&gt;可在&lt;a href=&quot;https:&#x2F;&#x2F;assetstore.unity.com&#x2F;packages&#x2F;3d&#x2F;environments&#x2F;low-poly-vegetation-kit-free-version-176906&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;这里&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt;获取。&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;strong&gt;包内包含（46个独特资产）&lt;&#x2F;strong&gt;:&lt;&#x2F;p&gt;
+&lt;ul&gt;&lt;li&gt;&lt;strong&gt;植被&lt;&#x2F;strong&gt;:&lt;strong&gt; &lt;&#x2F;strong&gt;树木（5个）、植物（3个）、草地（5个）、花朵（3个）、树桩（5个）、树枝（3个）、原木、蘑菇（3个）。&lt;&#x2F;li&gt;&lt;li&gt;&lt;strong&gt;岩石&lt;&#x2F;strong&gt;:&lt;strong&gt; &lt;&#x2F;strong&gt;岩石（5个）、岩石悬崖（5个）、小岩石（5个）、山脉。&lt;&#x2F;li&gt;&lt;li&gt;&lt;strong&gt;水&lt;&#x2F;strong&gt;: 详细水面，平面水面。&lt;&#x2F;li&gt;&lt;&#x2F;ul&gt;
+&lt;p&gt;&lt;strong&gt;包含两个演示场景&lt;&#x2F;strong&gt;:&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;strong&gt;主演示场景&lt;&#x2F;strong&gt;:&lt;&#x2F;p&gt;&lt;ul&gt;&lt;li&gt;探索主演示场景，查看资产如何无缝集成到不同环境中。&lt;&#x2F;li&gt;&lt;&#x2F;ul&gt;
+&lt;p&gt;&lt;strong&gt;展示演示场景&lt;&#x2F;strong&gt;:&lt;&#x2F;p&gt;&lt;ul&gt;&lt;li&gt;通过展示演示场景仔细观察。查看每个资产的细节和独特特征，逐一突出显示。&lt;&#x2F;li&gt;&lt;&#x2F;ul&gt;&lt;br&gt;&lt;p &gt;&lt;strong&gt;特点&lt;&#x2F;strong&gt;:&lt;&#x2F;p&gt;&lt;ul&gt;&lt;li &gt;&lt;strong&gt;每个模型&lt;&#x2F;strong&gt;都配备了&lt;strong&gt;细节层级（LODs）&lt;&#x2F;strong&gt;，通过自动利用远处物体的细节层级来确保最佳性能。此功能支持创建数千个模型，同时保持高效渲染。&lt;&#x2F;li&gt;&lt;li &gt;您可以为&lt;strong&gt;大多数资产&lt;&#x2F;strong&gt;自定义&lt;strong&gt;颜色&lt;&#x2F;strong&gt;，使您能够调整模型的外观以匹配不同的环境和主题。&lt;&#x2F;li&gt;&lt;li &gt;&lt;strong&gt;每个模型&lt;&#x2F;strong&gt;都配备了&lt;strong&gt;预配置的碰撞体&lt;&#x2F;strong&gt;以增强功能性。&lt;&#x2F;li&gt;&lt;li &gt;&lt;strong&gt;每个预制件的支点&lt;&#x2F;strong&gt;位于&lt;strong&gt;模型的中心底部&lt;&#x2F;strong&gt;，确保精确对齐&lt;strong&gt;。&lt;&#x2F;strong&gt;&lt;&#x2F;li&gt;&lt;li &gt;&lt;strong&gt;逼真的比例&lt;&#x2F;strong&gt;以提供真实的体验。&lt;&#x2F;li&gt;&lt;&#x2F;ul&gt;
+&lt;p &gt;所有截图均使用&lt;strong&gt;Unity 2022.3.18f1&lt;&#x2F;strong&gt;的标准渲染管线制作。&lt;&#x2F;p&gt;
+&lt;p &gt;&lt;strong&gt;兼容性&lt;&#x2F;strong&gt;:&lt;&#x2F;p&gt;&lt;ul&gt;&lt;li &gt;推荐与&lt;strong&gt;Unity 2022.3.18f1&lt;&#x2F;strong&gt;及更高版本一起使用。&lt;&#x2F;li&gt;&lt;&#x2F;ul&gt;
+&lt;p &gt;如有任何支持相关的问题，您可以通过此&lt;a href=&quot;mailto:animationcraft84@gmail.com&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;支持&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt;链接与我联系。&lt;&#x2F;p&gt;
+&lt;p &gt;如果您喜欢这个资产，欢迎查看我的&lt;strong&gt;其他作品&lt;&#x2F;strong&gt;:&lt;&#x2F;p&gt;&lt;br&gt;&lt;ul&gt;&lt;li &gt;&lt;a href=&quot;https:&#x2F;&#x2F;assetstore.unity.com&#x2F;packages&#x2F;3d&#x2F;environments&#x2F;stylized-survival-kit-193143&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;风格化生存工具包&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;&lt;li &gt;&lt;a href=&quot;https:&#x2F;&#x2F;assetstore.unity.com&#x2F;packages&#x2F;3d&#x2F;environments&#x2F;stylized-nature-kit-185089&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;风格化自然工具包&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;&lt;li &gt;&lt;a href=&quot;https:&#x2F;&#x2F;assetstore.unity.com&#x2F;packages&#x2F;3d&#x2F;environments&#x2F;low-poly-medieval-kit-155572&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;低多边形中世纪工具包&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;&lt;li &gt;&lt;a href=&quot;https:&#x2F;&#x2F;assetstore.unity.com&#x2F;packages&#x2F;3d&#x2F;environments&#x2F;low-poly-vegetation-kit-free-version-176906&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;低多边形植被工具包 Lite&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;&lt;&#x2F;ul&gt;
+&lt;p &gt;敬请关注&lt;strong&gt;即将更新&lt;&#x2F;strong&gt;。&lt;&#x2F;p&gt;&lt;p &gt;————————————————————&lt;&#x2F;p&gt;&lt;p &gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.youtube.com&#x2F;@proxygamesart&#x2F;featured&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;YouTube&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt; | &lt;a href=&quot;https:&#x2F;&#x2F;twitter.com&#x2F;proxygamesart&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;Twitter&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt; | &lt;a href=&quot;https:&#x2F;&#x2F;www.instagram.com&#x2F;proxygamesart&#x2F;&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;Instagram&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt; | &lt;a href=&quot;https:&#x2F;&#x2F;www.facebook.com&#x2F;proxygamesart&#x2F;&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;Facebook&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;&lt;p &gt;————————————————————&lt;&#x2F;p&gt;
+&lt;p &gt;ⓘ 欲了解更多信息，请查看&lt;strong&gt;&quot;&lt;&#x2F;strong&gt;&lt;em&gt;技术细节&lt;&#x2F;em&gt;&quot;部分。&lt;&#x2F;p&gt;</content>
+        
+    </entry>
+    <entry xml:lang="zh">
+        <title>Mountain Valley - Stylized Fantasy Nature Environment</title>
+        <published>2024-12-03T00:46:43+00:00</published>
+        <updated>2024-12-03T00:46:43+00:00</updated>
+        
+        <author>
+          <name>
+            
+              yzzfo
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://yzzfo.github.io/unity/store/mountain-valley-stylized-fantasy-nature-environment/"/>
+        <id>https://yzzfo.github.io/unity/store/mountain-valley-stylized-fantasy-nature-environment/</id>
+        
+        <content type="html" xml:base="https://yzzfo.github.io/unity/store/mountain-valley-stylized-fantasy-nature-environment/">&lt;p&gt;Create beautiful stylized environments for your game with our modular asset pack!&lt;&#x2F;p&gt;
+&lt;p&gt;使用我们的&lt;strong&gt;山谷&lt;&#x2F;strong&gt;模块化资产包，为您的游戏构建美丽的风景——这是一个令人惊叹的风格化环境，非常适合平台游戏和奇幻角色扮演游戏。该包具有令人叹为观止的鲜艳色彩、郁郁葱葱的植被，如树木、草和灌木，以及岩石和自定义天空盒。用这个精美制作的山谷环境为您的游戏世界注入生命，为您的项目增添一丝魔力。&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;strong&gt;特点与内容&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;ul&gt;&lt;li&gt;美丽的风格化环境艺术&lt;&#x2F;li&gt;&lt;li&gt;树木和其他植被上的美丽风动画&lt;&#x2F;li&gt;&lt;li&gt;美丽的演示场景，展示如何将所有包含的功能结合在一起&lt;&#x2F;li&gt;&lt;li&gt;植被入门包（花、岩石、树、灌木和草）&lt;&#x2F;li&gt;&lt;li&gt;落叶粒子系统&lt;&#x2F;li&gt;&lt;li&gt;漂浮尘埃粒子系统&lt;&#x2F;li&gt;&lt;li&gt;光线粒子系统&lt;&#x2F;li&gt;&lt;li&gt;具有颜色调和风设置的自定义植被着色器&lt;&#x2F;li&gt;&lt;&#x2F;ul&gt;
+&lt;p&gt;&lt;strong&gt;*请注意&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;p&gt;演示视频中的音频文件不属于此包&lt;&#x2F;p&gt;</content>
+        
+    </entry>
+    <entry xml:lang="zh">
+        <title>Winter Environment - Nature Pack</title>
+        <published>2024-11-29T21:17:23+00:00</published>
+        <updated>2024-12-02T21:45:37+00:00</updated>
+        
+        <author>
+          <name>
+            
+              yzzfo
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://yzzfo.github.io/unity/store/winter-environment-nature-pack/"/>
+        <id>https://yzzfo.github.io/unity/store/winter-environment-nature-pack/</id>
+        
+        <content type="html" xml:base="https://yzzfo.github.io/unity/store/winter-environment-nature-pack/">&lt;p &gt;&lt;a href=&quot;mailto:contact@angrymesh.com&quot; target=&quot;_blank&quot;&gt;支持&lt;&#x2F;a&gt; | &lt;a href=&quot;https:&#x2F;&#x2F;docs.google.com&#x2F;document&#x2F;d&#x2F;1JuJERUs9bHl0VlrwWS2Npzt2NnEEhCTISLQhiKrBZ54&#x2F;edit?usp=sharing&quot; target=&quot;_blank&quot;&gt;文档&lt;&#x2F;a&gt; | &lt;a href=&quot;https:&#x2F;&#x2F;www.facebook.com&#x2F;ANGRYMESH&#x2F;&quot; target=&quot;_blank&quot;&gt;脸书&lt;&#x2F;a&gt; | &lt;a href=&quot;https:&#x2F;&#x2F;twitter.com&#x2F;ANGRY_MESH&quot; target=&quot;_blank&quot;&gt;推特&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+&lt;p &gt;&lt;strong&gt;描述：&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;p &gt;为快速和高质量开发冬季自然场景而创建的冬季环境资产。该包包含额外的着色器，您可以使用它们调整树木、草地和道具上的雪量。&amp;nbsp;&lt;&#x2F;p&gt;
+&lt;p &gt;&lt;a href=&quot;https:&#x2F;&#x2F;docs.google.com&#x2F;document&#x2F;d&#x2F;1JuJERUs9bHl0VlrwWS2Npzt2NnEEhCTISLQhiKrBZ54&#x2F;edit#heading=h.kmmifbye97yv&quot; target=&quot;_blank&quot;&gt;AG全局设置&lt;&#x2F;a&gt;让您控制全局风设置，如方向、幅度、速度、比例和网格刚度。您可以在整个场景中全局控制风设置，也可以为每种材质局部控制。这使您能够以不同的方式调整物体的刚性及风对它们的影响。&lt;&#x2F;p&gt;
+&lt;p &gt;除了风设置，AG全局设置还包含AO&#x2F;半透明&#x2F;色调颜色和雪的全局参数。全局设置可以为每个场景独特。您可以在不更改基本网格材质的情况下调整环境的外观。&lt;&#x2F;p&gt;
+&lt;p &gt;纹理具有高分辨率，并且是从扫描数据创建的。该资产包含3种类型的树木。每种类型的树木仅使用两种材质（叶子和树皮）。树木的过度绘制较低，绘制调用使用较少。&lt;&#x2F;p&gt;&lt;br&gt;&lt;p &gt;&lt;strong&gt;功能：&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;p &gt;• &lt;strong&gt;新功能！&lt;&#x2F;strong&gt; 为Unity版本6000.0.23+添加了HDRP和URP模板。&lt;&#x2F;p&gt;&lt;p &gt;• 包含&lt;a href=&quot;http:&#x2F;&#x2F;wiki.amplify.pt&#x2F;index.php?title=Unity_Products:Amplify_Shader_Editor&#x2F;Manual#Shader_Functions&quot; target=&quot;_blank&quot;&gt;Amplify Shader Functions&lt;&#x2F;a&gt;。&lt;&#x2F;p&gt;&lt;p &gt;• GPU全局和局部风效应，具有高级控制设置（方向、幅度、速度、大小和物体刚度）。&lt;&#x2F;p&gt;&lt;p &gt;• 风设置可以在场景视图中实时修改。&lt;&#x2F;p&gt;&lt;p &gt;• AO&#x2F;半透明&#x2F;色调和雪的全局和局部设置。&lt;&#x2F;p&gt;&lt;p &gt;• 根据风向在树干上添加雪。&lt;&#x2F;p&gt;&lt;p &gt;• 基于扫描数据创建的PBR纹理。&lt;&#x2F;p&gt;&lt;p &gt;• 所有着色器支持GPU和DOTS实例化。&lt;&#x2F;p&gt;&lt;p &gt;• 对于低绘制调用使用的树木，低过度绘制。&lt;&#x2F;p&gt;&lt;p &gt;• 在树木和灌木的最后LOD处交叉网格。&lt;&#x2F;p&gt;&lt;p &gt;• 所有地面纹理的Albedo&#x2F;NM&#x2F;AO&#x2F;光滑度&#x2F;遮罩和高度图。&lt;&#x2F;p&gt;&lt;p &gt;• 所有预制件的LOD。&lt;&#x2F;p&gt;
+&lt;p &gt;&lt;strong&gt;兼容性：&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;p &gt;• &lt;a href=&quot;https:&#x2F;&#x2F;assetstore.unity.com&#x2F;packages&#x2F;3d&#x2F;environments&#x2F;pbr-rocks-nature-pack-100777&quot; target=&quot;_blank&quot;&gt;PBR岩石 - 自然包&lt;&#x2F;a&gt; - 使用通用着色器和脚本。&lt;&#x2F;p&gt;&lt;p &gt;• &lt;a href=&quot;https:&#x2F;&#x2F;assetstore.unity.com&#x2F;packages&#x2F;tools&#x2F;utilities&#x2F;the-vegetation-engine-159647&quot; target=&quot;_blank&quot;&gt;植被引擎&lt;&#x2F;a&gt; - 转换预设。&lt;&#x2F;p&gt;&lt;p &gt;• &lt;a href=&quot;https:&#x2F;&#x2F;assetstore.unity.com&#x2F;packages&#x2F;tools&#x2F;visual-scripting&#x2F;amplify-shader-editor-68570&quot; target=&quot;_blank&quot;&gt;Amplify Shader Editor&lt;&#x2F;a&gt; - 完整的着色器编辑支持。&lt;&#x2F;p&gt;
+&lt;p &gt;&lt;strong&gt;RP兼容性：&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;p &gt;• 标准渲染管线2021.3+&lt;&#x2F;p&gt;&lt;p &gt;• HD渲染管线（HDRP）12.1.14+&lt;&#x2F;p&gt;&lt;p &gt;• 通用渲染管线（URP）12.1.14+&lt;&#x2F;p&gt;&lt;br&gt;&lt;p &gt;&lt;strong&gt;内容:&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;p &gt;• HDRP 和 URP 模板。&lt;&#x2F;p&gt;&lt;p &gt;• 2 个 Unity Standard 的演示场景。&lt;&#x2F;p&gt;&lt;p &gt;• 2 个 HDRP 模板的演示场景。&lt;&#x2F;p&gt;&lt;p &gt;• 2 个 URP 模板的演示场景。&lt;&#x2F;p&gt;&lt;p &gt;• 1 个包含所有资产的演示场景。&lt;&#x2F;p&gt;&lt;p &gt;• 12 棵冷杉树 (+3 棵带根的冷杉树)。&lt;&#x2F;p&gt;&lt;p &gt;• 7 棵白桦树。&lt;&#x2F;p&gt;&lt;p &gt;• 7 丛灌木。&lt;&#x2F;p&gt;&lt;p &gt;• 17 个草地预制件。&lt;&#x2F;p&gt;&lt;p &gt;• 50 个道具（栅栏、碎片、根、木板、树桩）&lt;&#x2F;p&gt;&lt;p &gt;• 3 座背景山。&lt;&#x2F;p&gt;&lt;p &gt;• 4 个粒子预制件（雪&#x2F;雾&#x2F;风暴）。&lt;&#x2F;p&gt;&lt;p &gt;• 5 块岩石（来自 &lt;a href=&quot;https:&#x2F;&#x2F;assetstore.unity.com&#x2F;packages&#x2F;3d&#x2F;environments&#x2F;pbr-rocks-nature-pack-100777&quot; target=&quot;_blank&quot;&gt;PBR 岩石包&lt;&#x2F;a&gt;）。&lt;&#x2F;p&gt;&lt;p &gt;• 6 种地面纹理（总共 36 种，包含所有贴图：Albedo&#x2F;NM&#x2F;AO&#x2F;光滑度&#x2F;遮罩&#x2F;高度）。&lt;&#x2F;p&gt;&lt;p &gt;• 20 种最后 LOD 的交叉纹理。&lt;&#x2F;p&gt;&lt;p &gt;• 6 种带雪的着色器（树皮&#x2F;树叶&#x2F;树交叉&#x2F;草&#x2F;道具&#x2F;细节道具）。&lt;&#x2F;p&gt;&lt;p &gt;• 6 种不带雪的着色器（树皮&#x2F;树叶&#x2F;树交叉&#x2F;草&#x2F;道具&#x2F;细节道具）。&lt;&#x2F;p&gt;&lt;p &gt;• 每个 RP 的 2 个后期处理配置文件（标准&#x2F;URP&#x2F;HDRP）&lt;&#x2F;p&gt;&lt;p &gt;• 带有所有用于全局设置的脚本的箭头预制件（AG 全局设置）。&lt;&#x2F;p&gt;&lt;p &gt;• 5 个全局设置脚本。&lt;&#x2F;p&gt;&lt;p &gt;• 8 个着色器函数。&lt;&#x2F;p&gt;&lt;p &gt;• 3 个可以用于全局色调颜色的噪声纹理。&lt;&#x2F;p&gt;
+&lt;p &gt;&lt;strong&gt;限制:&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;p &gt;• 可缩放环境遮蔽后期处理会在物体上造成视觉伪影（Unity 限制）。&lt;&#x2F;p&gt;&lt;p &gt;• 使用极端风设置时物体会变形。&lt;&#x2F;p&gt;&lt;p &gt;• AG 全局设置中的雪参数不影响地形纹理。&lt;&#x2F;p&gt;
+&lt;p &gt;&lt;strong&gt;重要:&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;p &gt;您必须在每个场景中保留一个 AG 全局设置预制件。当您创建新场景时，请确保您的场景中有一个 AG 全局预制件。&lt;&#x2F;p&gt;&lt;p &gt;在您的场景中仅使用一个 AG 全局预制件。不支持多个 AG 全局预制件。&lt;&#x2F;p&gt;&lt;br&gt;&lt;p&gt;您可以在&lt;a href=&quot;https:&#x2F;&#x2F;docs.google.com&#x2F;document&#x2F;d&#x2F;1JuJERUs9bHl0VlrwWS2Npzt2NnEEhCTISLQhiKrBZ54&#x2F;edit#heading=h.kmmifbye97yv&quot; target=&quot;_blank&quot;&gt;在线文档&lt;&#x2F;a&gt;中找到有关AG Global系统的更多信息，也可以在这个&lt;a href=&quot;https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v=sny_KqTdG1U&quot; target=&quot;_blank&quot;&gt;视频&lt;&#x2F;a&gt;中找到。&lt;&#x2F;p&gt;
+&lt;p&gt;对于HDRP模板，您可以在&lt;a href=&quot;https:&#x2F;&#x2F;docs.google.com&#x2F;document&#x2F;d&#x2F;1JuJERUs9bHl0VlrwWS2Npzt2NnEEhCTISLQhiKrBZ54&#x2F;edit#heading=h.zawpzn5ymzon&quot; target=&quot;_blank&quot;&gt;这里&lt;&#x2F;a&gt;找到导入步骤。&lt;&#x2F;p&gt;
+&lt;p&gt;对于URP模板，您可以在&lt;a href=&quot;https:&#x2F;&#x2F;docs.google.com&#x2F;document&#x2F;d&#x2F;1JuJERUs9bHl0VlrwWS2Npzt2NnEEhCTISLQhiKrBZ54&#x2F;edit#heading=h.9iv9cjs094e8&quot; target=&quot;_blank&quot;&gt;这里&lt;&#x2F;a&gt;找到导入步骤。&lt;&#x2F;p&gt;
+&lt;p&gt;要获得与我们的截图&#x2F;预告片中展示的相同相机效果，您需要&lt;a href=&quot;https:&#x2F;&#x2F;docs.google.com&#x2F;document&#x2F;d&#x2F;1JuJERUs9bHl0VlrwWS2Npzt2NnEEhCTISLQhiKrBZ54&#x2F;edit#heading=h.hvlzvvs4rwtn&quot; target=&quot;_blank&quot;&gt;导入后处理堆栈并将颜色空间设置为线性。&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;有关更多信息，请查看在线&lt;a href=&quot;https:&#x2F;&#x2F;docs.google.com&#x2F;document&#x2F;d&#x2F;1JuJERUs9bHl0VlrwWS2Npzt2NnEEhCTISLQhiKrBZ54&#x2F;edit?usp=sharing&quot; target=&quot;_blank&quot;&gt;文档&lt;&#x2F;a&gt;。&lt;&#x2F;p&gt;
+&lt;p&gt;如有任何问题或疑虑，请随时通过以下方式与我们联系：&lt;a href=&quot;mailto:contact@angrymesh.com&quot; target=&quot;_blank&quot;&gt;contact@angrymesh.com&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;strong&gt;更多资源：&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;assetstore.unity.com&#x2F;packages&#x2F;3d&#x2F;environments&#x2F;pbr-rocks-nature-pack-100777&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;自然包 - PBR岩石&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;assetstore.unity.com&#x2F;packages&#x2F;vfx&#x2F;shaders&#x2F;top-projection-shaders-pack-106862&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;顶级投影着色器&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;assetstore.unity.com&#x2F;packages&#x2F;3d&#x2F;props&#x2F;free-snowman-105123&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;免费雪人&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;</content>
+        
+    </entry>
+</feed>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+    <title>yzzfo - warning</title>
+    <subtitle>Game Development Learning Resources</subtitle>
+    <link rel="self" type="application/atom+xml" href="https://yzzfo.github.io/en/tags/warning/atom.xml"/>
+    <link rel="alternate" type="text/html" href="https://yzzfo.github.io"/>
+    <generator uri="https://www.getzola.org/">Zola</generator>
+    <updated>2024-12-06T11:03:27+00:00</updated>
+    <id>https://yzzfo.github.io/en/tags/warning/atom.xml</id>
+    <entry xml:lang="en">
+        <title>UI SFX Mega Pack</title>
+        <published>2024-12-06T11:03:27+00:00</published>
+        <updated>2024-12-06T11:03:27+00:00</updated>
+        
+        <author>
+          <name>
+            
+              yzzfo
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://yzzfo.github.io/en/unity/store/ui-sfx-mega-pack/"/>
+        <id>https://yzzfo.github.io/en/unity/store/ui-sfx-mega-pack/</id>
+        
+        <content type="html" xml:base="https://yzzfo.github.io/en/unity/store/ui-sfx-mega-pack/">&lt;p&gt;A collection of sound clips made for UI elements. A sound pack that will be useful for multiple type of games. Beside UI element these sound clips may be usefull for other things too!&lt;br&gt;&lt;p &gt;The most of these sound clips are categorized, but they may fit for other purposes too. Some clips fit into multiple categories, that’s why some categories have way more sound clips than others. Some sound clips fit perfectly for a voice of a robot character. Only your creativity is the limit how you going to use this sound pack.&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;Let me know if you have a sugestion for this sound pack, like what is it missing from it. If I find your suggestion to be a useful addition, then I will consider it to add it in a future update.&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;There are &lt;strong&gt;2682 Wav&lt;&#x2F;strong&gt; audio files in this package.&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;A free version of this asset is available here: &lt;a href=&quot;https:&#x2F;&#x2F;assetstore.unity.com&#x2F;packages&#x2F;audio&#x2F;sound-fx&#x2F;ui-sfx-free-pack-245925&quot; target=&quot;_blank&quot;&gt;UI SFX Free Pack&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;&lt;strong&gt;List of all categories:&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;p &gt;- &lt;em&gt;Buttons &lt;&#x2F;em&gt;(799 wav files): Some sound clips are a different variation of the same recording, they are edited in a way to sound differently. These sound clips fit into multiple categories.&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;- &lt;em&gt;Cancel &lt;&#x2F;em&gt;(200 wav files): These are based on some of the above mentioned sound clips. These sound clips fit perfectly for a „cancel”, „decline” or „close” buttons.&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;- &lt;em&gt;Extras &lt;&#x2F;em&gt;(65 wav files): Various sound clips that were made from interference noises.&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;- &lt;em&gt;High_Pitched &lt;&#x2F;em&gt;(780 wav files): These sound clips are a highly edited version of some sound clips from „Buttons” category. These sound clips are very useful for multiple purposes, some clips could be even used as a character&#x2F;robot voice.&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;- &lt;em&gt;Ok &lt;&#x2F;em&gt;(150 wav files): These sound clips are perfecr for an „Ok” or „Accept” button, but they can also fit for other purposes too.&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;- &lt;em&gt;Purchase &lt;&#x2F;em&gt;(270 wav files): These sound clips contain the sound of metal coins in multiple variations. They fit perfectly for that case when a user purchase something in your game.&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;- &lt;em&gt;Repair &lt;&#x2F;em&gt;(200 wav files): These sound clips contain the sounds of ratchet wrenches, hamer noises and drilling machine sounds in multiple variations. They have singles and mixed together sound clips. Perfect for that case when something got repaired in your game.&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;- &lt;em&gt;Sliders &lt;&#x2F;em&gt;(63 wav files): These sound clips are designed for UI sliders, they sound like something is swiping, sliding. Some of these sound clips are seamlessly looping.&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;- &lt;em&gt;Warning_Popup &lt;&#x2F;em&gt;(155 wav files): These are designed for a warning popup window or when a message popup in your game.&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;Read the documentation here: &lt;a href=&quot;http:&#x2F;&#x2F;skrilstudio.com&#x2F;Docs&#x2F;UI%20SFX%20Mega%20Pack%20Documentation.pdf&quot; target=&quot;_blank&quot;&gt;Documentation.pdf&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;If you have suggestions or problems, feel free to contact me in &lt;a href=&quot;mailto:info@skrilstudio.com&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;Email&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt;, &lt;a href=&quot;https:&#x2F;&#x2F;www.facebook.com&#x2F;yugelmobile&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;Facebook&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt;, or fill out the contact form on my &lt;a href=&quot;http:&#x2F;&#x2F;skrilstudio.com&#x2F;contact.html&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;website&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt;.&lt;&#x2F;p&gt;&lt;&#x2F;p&gt;
+</content>
+        
+    </entry>
+</feed>

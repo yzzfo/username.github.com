@@ -1,12 +1,92 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
-    <title>yzzfo - VFX</title>
+    <title>yzzfo | Share for Free - VFX</title>
     <subtitle>Game Development Learning Resources</subtitle>
     <link rel="self" type="application/atom+xml" href="https://yzzfo.github.io/en/tags/vfx/atom.xml"/>
     <link rel="alternate" type="text/html" href="https://yzzfo.github.io"/>
     <generator uri="https://www.getzola.org/">Zola</generator>
-    <updated>2024-12-06T14:26:56+00:00</updated>
+    <updated>2024-12-08T17:42:29+00:00</updated>
     <id>https://yzzfo.github.io/en/tags/vfx/atom.xml</id>
+    <entry xml:lang="en">
+        <title>RPG VFX Bundle</title>
+        <published>2024-12-08T17:42:29+00:00</published>
+        <updated>2024-12-08T17:42:29+00:00</updated>
+        
+        <author>
+          <name>
+            
+              yzzfo
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://yzzfo.github.io/en/unity/store/rpg-vfx-bundle/"/>
+        <id>https://yzzfo.github.io/en/unity/store/rpg-vfx-bundle/</id>
+        
+        <content type="html" xml:base="https://yzzfo.github.io/en/unity/store/rpg-vfx-bundle/">&lt;p&gt;Huge amount of high quality effects for RPG and top-down games!&lt;br&gt;&lt;p &gt;The asset includes:&lt;&#x2F;p&gt;&lt;ul&gt;&lt;li &gt;Different complex effects (Magic arrows, shields, buff and debuff spells, hits, magic circles, projectiles, attack spells, lasers, track markers and more)&lt;&#x2F;li&gt;&lt;li &gt;A large number of unique textures&lt;&#x2F;li&gt;&lt;li &gt;Multipurpose custom shaders&lt;&#x2F;li&gt;&lt;li &gt;Scripts, one of which allows you to change the color of the effects,&lt;a href=&quot;https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v=s7eF_AprVEY&quot; target=&quot;_blank&quot;&gt; so you can change the color in 1 click.&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;&lt;&#x2F;ul&gt;&lt;p &gt;Supports built-in render by default. &lt;strong&gt;HDRP and URP are supported using &lt;&#x2F;strong&gt;&lt;a href=&quot;https:&#x2F;&#x2F;assetstore.unity.com&#x2F;packages&#x2F;tools&#x2F;utilities&#x2F;support-package-for-hovl-studio-assets-157764&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;this&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt;&lt;strong&gt; FREE package for Unity 2021 or below. &lt;&#x2F;strong&gt;It becomes free after purchasing one of my assets.&lt;&#x2F;p&gt;&lt;p &gt;&lt;strong&gt;URP&#x2F;HDRP is default from Unity 2022 or Unity 6+&lt;&#x2F;strong&gt;. Shader Graph is required which is installed together with this asset. Can be changed to built-in render. All effects work on all platforms. They can be easily re-sized and re-colored.&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;Promo media (videos, images) uses post process &quot;Bloom&quot; from the Volume component.&lt;&#x2F;p&gt;&lt;p &gt;Contact me if you have any problems or questions. Contact methods on the profile page.&lt;&#x2F;p&gt;&lt;&#x2F;p&gt;
+</content>
+        
+    </entry>
+    <entry xml:lang="en">
+        <title>Lightning VFX (BiRP)</title>
+        <published>2024-12-08T17:36:49+00:00</published>
+        <updated>2024-12-08T17:36:49+00:00</updated>
+        
+        <author>
+          <name>
+            
+              yzzfo
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://yzzfo.github.io/en/unity/store/lightning-vfx-birp/"/>
+        <id>https://yzzfo.github.io/en/unity/store/lightning-vfx-birp/</id>
+        
+        <content type="html" xml:base="https://yzzfo.github.io/en/unity/store/lightning-vfx-birp/">&lt;p&gt;⚡️ UNLEASH THE THUNDER w&#x2F; Lightning VFX! ⚡️&lt;br&gt;&lt;p &gt;&lt;strong&gt;⚡️ Light up your game with dazzling bolts of lightning!&lt;&#x2F;strong&gt; 🎮✨&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;An epic lightning VFX prefab made of advanced particle system configurations, a &lt;strong&gt;HAND-DRAWN lightning texture&lt;&#x2F;strong&gt; with &lt;strong&gt;&lt;em&gt;custom shaders&lt;&#x2F;em&gt;&lt;&#x2F;strong&gt; + components for &lt;strong&gt;automatic variation&lt;&#x2F;strong&gt;, &lt;strong&gt;dissolve&lt;&#x2F;strong&gt;, and &lt;strong&gt;post-processing effects&lt;&#x2F;strong&gt;.&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;👉 &lt;a href=&quot;https:&#x2F;&#x2F;mirzabeig.github.io&#x2F;Lightning-VFX-WebGL&#x2F;&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;Realtime&#x2F;Live WebGL Demo&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;Did we mention our effect features &lt;strong&gt;REAL animated lights &lt;&#x2F;strong&gt;that &lt;strong&gt;cast shadows&lt;&#x2F;strong&gt; and illuminate the environment? &lt;strong&gt;Brighten the night!&lt;&#x2F;strong&gt; 🌩️&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;&lt;strong&gt;⚡️ &lt;&#x2F;strong&gt;Charge up your scenes and make your players &lt;strong&gt;feel &lt;&#x2F;strong&gt;the power! 💪😎&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;Using specially-made Cinemachine components for &lt;strong&gt;camera shake impulses&lt;&#x2F;strong&gt; as well as a new &lt;strong&gt;post-processing blending system&lt;&#x2F;strong&gt;, &lt;em&gt;the closer you are to the effect, the greater the visual force-feedback.&lt;&#x2F;em&gt;&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;&lt;strong&gt;⚡️ &lt;&#x2F;strong&gt;Let your &lt;strong&gt;creativity &lt;&#x2F;strong&gt;run wild! 🎨🌈&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;We use &lt;strong&gt;Unity&#x27;s native particle system&lt;&#x2F;strong&gt; to setup nearly every aspect of the effect, meaning you can &lt;strong&gt;customize practically everything&lt;&#x2F;strong&gt;. Our &lt;strong&gt;shaders have neatly exposed properties&lt;&#x2F;strong&gt; for even more control, and you can &lt;strong&gt;tweak the quality of the radial blur&lt;&#x2F;strong&gt;.&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;&lt;em&gt;You don&#x27;t have to take our word for it...&lt;&#x2F;em&gt;&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;👉 &lt;a href=&quot;https:&#x2F;&#x2F;mirzabeig.github.io&#x2F;Lightning-VFX-WebGL&#x2F;&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;TRY THE DEMO!&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;&lt;strong&gt;On mobile&#x2F;low-end hardware?&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;p &gt;📲 &lt;strong&gt;Simply enable the on-screen PERFORMANCE MODE. &lt;&#x2F;strong&gt;🚀🌕&lt;&#x2F;p&gt;&lt;&#x2F;p&gt;
+</content>
+        
+    </entry>
+    <entry xml:lang="en">
+        <title>Better Fog: Height Fog, Light Scattering &amp; More</title>
+        <published>2024-12-07T20:00:36+00:00</published>
+        <updated>2024-12-07T20:00:36+00:00</updated>
+        
+        <author>
+          <name>
+            
+              yzzfo
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://yzzfo.github.io/en/unity/store/better-fog-height-fog-light-scattering-more/"/>
+        <id>https://yzzfo.github.io/en/unity/store/better-fog-height-fog-light-scattering-more/</id>
+        
+        <content type="html" xml:base="https://yzzfo.github.io/en/unity/store/better-fog-height-fog-light-scattering-more/">&lt;p&gt;Add depth and feel to your game. Achieve greater realism or craft a truly unique look. Improve or completely transform your game&#x27;s appearance without concerns over transparents, water, or skyboxes.&lt;br&gt;&lt;p &gt;&lt;strong&gt;Better Fog&lt;&#x2F;strong&gt; is a post-processing effect offering a wide variety of features to craft numerous looks and styles, from realistic to stylized. This effect is not a volumetric solution, ensuring optimal performance. It also includes additional features such as a plane or sphere analytical world fog, a custom fog particle shader, and more. Crafted using Shader Graph (URP) and the Amplify Shader Editor (Built-in), Better Fog supports transparent objects without the need to modify their shaders.&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;Join &lt;a href=&quot;https:&#x2F;&#x2F;discord.gg&#x2F;K88zmyuZFD&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;Discord &lt;&#x2F;strong&gt;&lt;&#x2F;a&gt;for updates, to report issues, or just to say hello!&lt;&#x2F;p&gt;&lt;p &gt;Please check the &lt;a href=&quot;https:&#x2F;&#x2F;inabstudios.gitbook.io&#x2F;better-fog&#x2F;&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;documentation &lt;&#x2F;strong&gt;&lt;&#x2F;a&gt;before purchasing.&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;&lt;strong&gt;Features:&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;ul&gt;&lt;li &gt;&lt;strong&gt;Screen Space Light Scattering (SSMS):&lt;&#x2F;strong&gt; Use it to create a more realistic feel for the fog.&lt;&#x2F;li&gt;&lt;li &gt;&lt;strong&gt;Gradient Fog Colors:&lt;&#x2F;strong&gt; Create your own custom look or use one of the many gradients included with the asset.&lt;&#x2F;li&gt;&lt;li &gt;&lt;strong&gt;Skybox Fog Integration:&lt;&#x2F;strong&gt; Ensure consistent visuals with any skybox.&lt;&#x2F;li&gt;&lt;li &gt;&lt;strong&gt;Distance-Based Fog:&lt;&#x2F;strong&gt; Default fog with the option to use radial distance.&lt;&#x2F;li&gt;&lt;li &gt;&lt;strong&gt;Height Fog:&lt;&#x2F;strong&gt; Atmospheric height fog.&lt;&#x2F;li&gt;&lt;li &gt;&lt;strong&gt;Volume Blending:&lt;&#x2F;strong&gt; Use post-processing volumes to blend between various presets.&lt;&#x2F;li&gt;&lt;li &gt;&lt;strong&gt;Transparents &amp;amp; Particle Support:&lt;&#x2F;strong&gt; The fog works well with particles and transparent objects.&lt;&#x2F;li&gt;&lt;li &gt;&lt;strong&gt;World Fog:&lt;&#x2F;strong&gt; Customize and add fog using planes and spheres with custom shaders.&lt;&#x2F;li&gt;&lt;li &gt;&lt;strong&gt;Custom Fog with Particles:&lt;&#x2F;strong&gt; Includes procedural fog particle FX.&lt;&#x2F;li&gt;&lt;li &gt;&lt;strong&gt;Fog Energy Loss:&lt;&#x2F;strong&gt; Imitate the loss of photon energy due to fog scattering.&lt;&#x2F;li&gt;&lt;li &gt;&lt;strong&gt;Simple Integration:&lt;&#x2F;strong&gt; Easily add the effect to your project.&lt;&#x2F;li&gt;&lt;li &gt;&lt;strong&gt;Versatile Customization:&lt;&#x2F;strong&gt; Adjust each feature as needed and use keywords for better performance.&lt;&#x2F;li&gt;&lt;&#x2F;ul&gt;&lt;&#x2F;br&gt;&lt;p &gt;&lt;strong&gt;Compatibility:&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;ul&gt;&lt;li &gt;Supports URP and Built-in versions 2021.3 and above.&lt;&#x2F;li&gt;&lt;li &gt;Unity 6 support! (see limitations below)&lt;&#x2F;li&gt;&lt;li &gt;Built-in requires Shader Graph for the demo scenes to work.&lt;&#x2F;li&gt;&lt;&#x2F;ul&gt;&lt;&#x2F;br&gt;&lt;p &gt;&lt;strong&gt;Limitations:&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;ul&gt;&lt;li &gt;Only supports directional light light scattering.&lt;&#x2F;li&gt;&lt;li &gt;Non-volumetric.&lt;&#x2F;li&gt;&lt;li &gt;No MSAA support.&lt;&#x2F;li&gt;&lt;li &gt;Requires devices capable of depth rendering.&lt;&#x2F;li&gt;&lt;li &gt;No support for orthographic camera, VR, webGL, VFX graph particles blending.&lt;&#x2F;li&gt;&lt;&#x2F;ul&gt;&lt;&#x2F;p&gt;
+</content>
+        
+    </entry>
+    <entry xml:lang="en">
+        <title>Amplify Shader Pack</title>
+        <published>2024-12-07T19:59:49+00:00</published>
+        <updated>2024-12-07T19:59:49+00:00</updated>
+        
+        <author>
+          <name>
+            
+              yzzfo
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://yzzfo.github.io/en/unity/store/amplify-shader-pack/"/>
+        <id>https://yzzfo.github.io/en/unity/store/amplify-shader-pack/</id>
+        
+        <content type="html" xml:base="https://yzzfo.github.io/en/unity/store/amplify-shader-pack/">&lt;p&gt;180+ Amplify Shader Editor samples for HDRP, URP, and Built-in Renderer.&lt;br&gt;&lt;p &gt;&lt;strong&gt;FREE FOR &lt;&#x2F;strong&gt;&lt;a href=&quot;https:&#x2F;&#x2F;assetstore.unity.com&#x2F;packages&#x2F;tools&#x2F;visual-scripting&#x2F;amplify-shader-editor-68570&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;Amplify Shader Editor&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt;&lt;strong&gt; OWNERS.&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;p &gt;Checkout at no cost, be sure to use the same account that has your ASE license.&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;&lt;strong&gt;SAVE 35% ON &lt;&#x2F;strong&gt;&lt;a href=&quot;https:&#x2F;&#x2F;assetstore.unity.com&#x2F;packages&#x2F;tools&#x2F;visual-scripting&#x2F;amplify-bundle-173849&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;Amplify Bundle&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;&lt;p &gt;&lt;a href=&quot;https:&#x2F;&#x2F;assetstore.unity.com&#x2F;packages&#x2F;tools&#x2F;visual-scripting&#x2F;amplify-shader-editor-68570&quot; target=&quot;_blank&quot;&gt;Amplify Shader Editor&lt;&#x2F;a&gt; - Award-winning node-based shader editor&lt;&#x2F;p&gt;&lt;p &gt;&lt;a href=&quot;https:&#x2F;&#x2F;assetstore.unity.com&#x2F;packages&#x2F;tools&#x2F;utilities&#x2F;amplify-impostors-119877&quot; target=&quot;_blank&quot;&gt;Amplify Impostors&lt;&#x2F;a&gt; - 1-Click Impostor Creator&lt;&#x2F;p&gt;&lt;p &gt;&lt;a href=&quot;https:&#x2F;&#x2F;assetstore.unity.com&#x2F;packages&#x2F;vfx&#x2F;shaders&#x2F;fullscreen-camera-effects&#x2F;amplify-lut-pack-50070&quot; target=&quot;_blank&quot;&gt;Amplify LUT Pack&lt;&#x2F;a&gt; - 200+ LUT Grading Presets&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;&lt;strong&gt;LATEST HIGHLIGHTS&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;p &gt;&lt;strong&gt;• Updated per ASE editor v1.9.6.3&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;p &gt;&lt;strong&gt;• Updated support for Unity 6000.0.14+&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;p &gt;&lt;strong&gt;• Optimized package size&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;p &gt;• Added preview support for URP&#x2F;HDRP 17x&lt;&#x2F;p&gt;&lt;p &gt;• Added new sample Refraction HDRP&lt;&#x2F;p&gt;&lt;p &gt;• Added support for URP&#x2F;HDRP 16x&lt;&#x2F;p&gt;&lt;p &gt;• Added support for URP&#x2F;HDRP 15x&lt;&#x2F;p&gt;&lt;p &gt;• Added support for URP&#x2F;HDRP 14x&lt;&#x2F;p&gt;&lt;p &gt;• Fixed all samples for URP&#x2F;HDRP 10x and 12x&lt;&#x2F;p&gt;&lt;p &gt;• Built with Amplify Shader Editor v1.9.2&lt;&#x2F;p&gt;&lt;p &gt;• Improved Start Screen sample importer&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;&lt;strong&gt;IMPORTANT&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;p &gt;• Raised minimum Unity support to 2019.4 LTS&lt;&#x2F;p&gt;&lt;p &gt;• Raised minimum URP support to 10x&lt;&#x2F;p&gt;&lt;p &gt;• Raised minimum HDRP support to 10x&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;Over 180 curated shaders made with Amplify Shader Editor, ready to use and fully editable. From basic shader types, varied VFX such as Dissolves and Deformations, to specific Terrain examples and custom purpose shaders with supporting scripts.&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;Editor not required to use, only needed to edit&#x2F;update&lt;&#x2F;p&gt;&lt;p &gt;• HDRP, URP, and Built-in Renderer&lt;&#x2F;p&gt;&lt;p &gt;• Fully Customizable&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;Chec our sample catalogue at &lt;a href=&quot;http:&#x2F;&#x2F;wiki.amplify.pt&#x2F;index.php?title=Unity_Products:Amplify_Shader_Pack&quot; target=&quot;_blank&quot;&gt;Official Wiki&lt;&#x2F;a&gt;. A great starting point to develop your own shaders, you can make them your own with our award-winning shader editor. Add new effects, change properties or convert between renderers, there are no limits to what you can tweak.&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;&lt;strong&gt;TECHNICAL CONSIDERATIONS&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;p &gt;These shaders have been created with Unity 2019.4. Built-in shaders will work with any Unity version.&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;Includes HDRP&#x2F;URP shaders been created for versions 10 to 16. &lt;strong&gt;You need &lt;&#x2F;strong&gt;&lt;a href=&quot;https:&#x2F;&#x2F;assetstore.unity.com&#x2F;packages&#x2F;tools&#x2F;visual-scripting&#x2F;amplify-shader-editor-68570&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;Amplify Shader Editor&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt;&lt;strong&gt; to update these shaders in order to make them work properly with other SRP versions. The included shader will be updated whenever necessary, depending on future SRP changes.&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;Using &lt;strong&gt;HDRP&#x2F;URP shaders with an unsupported SRP version, without updating them, will likely render incorrectly or show as Pink&#x2F;Magenta. &lt;&#x2F;strong&gt;This is expected, shaders must be open with the editor and saved to automatically update them to a different supported SRP version.&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;&lt;strong&gt;** Amplify Shader Editor sold separately **&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;For additional details on Amplify Shader Editor, check our &lt;a href=&quot;https:&#x2F;&#x2F;youtu.be&#x2F;2fYcok5jUKY&quot; target=&quot;_blank&quot;&gt;Overview Video&lt;&#x2F;a&gt; and &lt;a href=&quot;http:&#x2F;&#x2F;wiki.amplify.pt&#x2F;index.php?title=Unity_Products:Amplify_Shader_Editor&#x2F;Manual&quot; target=&quot;_blank&quot;&gt;Manual&lt;&#x2F;a&gt;.&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;Make the change, use the professional tools you crave. Our products are developed by industry professionals and our support team always goes one step beyond to resolve any possible issues our clients might have.&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;&lt;a href=&quot;mailto:info@amplify.pt&quot; target=&quot;_blank&quot;&gt;Get in touch&lt;&#x2F;a&gt;, we would love to hear your story, help promote and feature your work.&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;&#x2F;p&gt;
+</content>
+        
+    </entry>
     <entry xml:lang="en">
         <title>Lumen: Stylized Light FX</title>
         <published>2024-12-06T14:26:56+00:00</published>

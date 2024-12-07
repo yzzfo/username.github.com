@@ -1,12 +1,45 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh">
-    <title>yzzfo - humanoid</title>
+    <title>yzzfo | Share for Free - humanoid</title>
     <subtitle>游戏开发学习资源分享</subtitle>
     <link rel="self" type="application/atom+xml" href="https://yzzfo.github.io/tags/humanoid/atom.xml"/>
     <link rel="alternate" type="text/html" href="https://yzzfo.github.io"/>
     <generator uri="https://www.getzola.org/">Zola</generator>
-    <updated>2024-12-05T23:47:09+00:00</updated>
+    <updated>2024-12-09T14:09:18+00:00</updated>
     <id>https://yzzfo.github.io/tags/humanoid/atom.xml</id>
+    <entry xml:lang="zh">
+        <title>Leaning Animator</title>
+        <published>2024-12-09T14:09:18+00:00</published>
+        <updated>2024-12-09T14:09:18+00:00</updated>
+        
+        <author>
+          <name>
+            
+              yzzfo
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://yzzfo.github.io/unity/store/leaning-animator/"/>
+        <id>https://yzzfo.github.io/unity/store/leaning-animator/</id>
+        
+        <content type="html" xml:base="https://yzzfo.github.io/unity/store/leaning-animator/">&lt;p&gt;提升你的人形角色运动动画的真实感，使用针对整个物体、脊柱骨骼和手臂的程序倾斜算法！&lt;&#x2F;p&gt;
+&lt;p&gt;⚡ &lt;strong&gt;提升你的人形角色运动动画的真实感，使用针对整个物体、脊柱骨骼和手臂的程序倾斜算法！&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;☄️ 只需几次点击即可快速设置，然后根据你的需求进行调整！&lt;&#x2F;p&gt;
+&lt;p&gt;该组件专为双足&#x2F;类人角色设计，适用于&lt;&#x2F;p&gt;
+&lt;p&gt;任何动画设置，无论是类人、通用还是遗留类型。&lt;&#x2F;p&gt;
+&lt;p&gt;⌛ 使用地面调整功能，通过整个模型的旋转和脊柱的旋转对齐，将角色模型与地面对齐，以模拟角色在不平坦地形上奔跑时寻找平衡姿势的动画。&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;strong&gt;该包适用于所有SRP！这不是与着色器相关的包。&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;(你只需将标准演示材料转换为演示示例)&lt;&#x2F;p&gt;
+&lt;p&gt;内置 ✅ LWRP ✅ URP ✅ HDRP ✅ 自定义RP ✅&lt;&#x2F;p&gt;
+&lt;p&gt;⭐ &lt;strong&gt;主要特点&lt;&#x2F;strong&gt; ⭐&lt;&#x2F;p&gt;
+&lt;p&gt;• 快速设置&lt;&#x2F;p&gt;
+&lt;p&gt;• 良好的性能&lt;&#x2F;p&gt;
+&lt;p&gt;• 干净紧凑的检查器窗口&lt;&#x2F;p&gt;
+&lt;p&gt;• 适用于所有类型的骨架&lt;&#x2F;p&gt;
+&lt;p&gt;• 包含有用类的源代码&lt;&#x2F;p&gt;</content>
+        
+    </entry>
     <entry xml:lang="zh">
         <title>Legs Animator</title>
         <published>2024-12-04T16:04:50+00:00</published>

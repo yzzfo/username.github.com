@@ -1,12 +1,85 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh">
-    <title>yzzfo - Animation</title>
+    <title>yzzfo | Share for Free - Animation</title>
     <subtitle>游戏开发学习资源分享</subtitle>
     <link rel="self" type="application/atom+xml" href="https://yzzfo.github.io/tags/animation/atom.xml"/>
     <link rel="alternate" type="text/html" href="https://yzzfo.github.io"/>
     <generator uri="https://www.getzola.org/">Zola</generator>
-    <updated>2024-11-30T13:20:28+00:00</updated>
+    <updated>2024-12-09T14:09:18+00:00</updated>
     <id>https://yzzfo.github.io/tags/animation/atom.xml</id>
+    <entry xml:lang="zh">
+        <title>Leaning Animator</title>
+        <published>2024-12-09T14:09:18+00:00</published>
+        <updated>2024-12-09T14:09:18+00:00</updated>
+        
+        <author>
+          <name>
+            
+              yzzfo
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://yzzfo.github.io/unity/store/leaning-animator/"/>
+        <id>https://yzzfo.github.io/unity/store/leaning-animator/</id>
+        
+        <content type="html" xml:base="https://yzzfo.github.io/unity/store/leaning-animator/">&lt;p&gt;提升你的人形角色运动动画的真实感，使用针对整个物体、脊柱骨骼和手臂的程序倾斜算法！&lt;&#x2F;p&gt;
+&lt;p&gt;⚡ &lt;strong&gt;提升你的人形角色运动动画的真实感，使用针对整个物体、脊柱骨骼和手臂的程序倾斜算法！&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;☄️ 只需几次点击即可快速设置，然后根据你的需求进行调整！&lt;&#x2F;p&gt;
+&lt;p&gt;该组件专为双足&#x2F;类人角色设计，适用于&lt;&#x2F;p&gt;
+&lt;p&gt;任何动画设置，无论是类人、通用还是遗留类型。&lt;&#x2F;p&gt;
+&lt;p&gt;⌛ 使用地面调整功能，通过整个模型的旋转和脊柱的旋转对齐，将角色模型与地面对齐，以模拟角色在不平坦地形上奔跑时寻找平衡姿势的动画。&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;strong&gt;该包适用于所有SRP！这不是与着色器相关的包。&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;(你只需将标准演示材料转换为演示示例)&lt;&#x2F;p&gt;
+&lt;p&gt;内置 ✅ LWRP ✅ URP ✅ HDRP ✅ 自定义RP ✅&lt;&#x2F;p&gt;
+&lt;p&gt;⭐ &lt;strong&gt;主要特点&lt;&#x2F;strong&gt; ⭐&lt;&#x2F;p&gt;
+&lt;p&gt;• 快速设置&lt;&#x2F;p&gt;
+&lt;p&gt;• 良好的性能&lt;&#x2F;p&gt;
+&lt;p&gt;• 干净紧凑的检查器窗口&lt;&#x2F;p&gt;
+&lt;p&gt;• 适用于所有类型的骨架&lt;&#x2F;p&gt;
+&lt;p&gt;• 包含有用类的源代码&lt;&#x2F;p&gt;</content>
+        
+    </entry>
+    <entry xml:lang="zh">
+        <title>Motion Matching for Unity</title>
+        <published>2024-12-09T11:45:59+00:00</published>
+        <updated>2024-12-09T11:45:59+00:00</updated>
+        
+        <author>
+          <name>
+            
+              yzzfo
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://yzzfo.github.io/unity/store/motion-matching-for-unity/"/>
+        <id>https://yzzfo.github.io/unity/store/motion-matching-for-unity/</id>
+        
+        <content type="html" xml:base="https://yzzfo.github.io/unity/store/motion-matching-for-unity/">&lt;p&gt;Motion Matching for Unity (MxM) is an advanced alternative animation system to mecanim which enables fluid and responsive character animation without the need for state machines.&lt;br&gt;&lt;em&gt;唯一一款面向大众的用于游戏制作的运动匹配系&lt;&#x2F;em&gt;统。&lt;br&gt;&lt;br&gt;&lt;strong&gt;最新推出！(v2.2.4)&lt;&#x2F;strong&gt; MxM 现在包含一组免费的平移动作，适用于 v2.2.2 中添加的动画&lt;br&gt;&lt;br&gt;&lt;strong&gt;最新推出！(v2.2.2)&lt;&#x2F;strong&gt; MxM 现包含一组免费的动作捕捉数据，专用于运动匹配设计和捕捉。&lt;br&gt;&lt;br&gt;&lt;strong&gt;&lt;em&gt;&lt;strong&gt;预告片中显示的大部分 3D 模型均不包含在资源包中。&lt;&#x2F;strong&gt;&lt;&#x2F;em&gt;&lt;&#x2F;strong&gt;&lt;br&gt;&lt;br&gt;&lt;em&gt;&lt;strong&gt;独立平台演示 -&lt;&#x2F;strong&gt; 下载&lt;a href=&quot;https:&#x2F;&#x2F;drive.google.com&#x2F;open?id=1_vP1ZG5qJlwEp7LHV1zgNUehFoIkDq23&quot;&gt;“独立平台游戏玩法演示”&lt;&#x2F;a&gt;，尝试用 MxM 制作的新角色（不随附在资源包中）。&lt;&#x2F;em&gt;下载&lt;a href=&quot;https:&#x2F;&#x2F;drive.google.com&#x2F;open?id=1yGbCLYy--RKH6juMEs9r5aZ_emS95Ac4&quot;&gt;“独立平台压力测试”&lt;&#x2F;a&gt;演示，了解 MxM 如何提高性能。&lt;br&gt;&lt;br&gt;&lt;em&gt;&lt;strong&gt;随附的演示场景 -&lt;&#x2F;strong&gt; MxM 随附的演示场景包括玩家控制的 Robot Kyle，它能够四处跑动，进行某些跑酷翻越&lt;&#x2F;em&gt;。此处显示的翻越系统仅用于演示 MxM 事件功能，&lt;strong&gt;并不&lt;&#x2F;strong&gt;旨在成为可随时制作的翻越系统。&lt;br&gt;&lt;br&gt;&lt;strong&gt;什么是运动匹配&lt;&#x2F;strong&gt;&lt;br&gt;Unity 运动匹配 (MxM) 是 Mecanim 的替代动画系统，无需状态机即可制作出流畅且响应灵敏的动画。无需指定过渡、定义条件或理解复杂的动画逻辑。运动匹配 (Motion Matching) 为你处理大部分类似操作，实现无限量的开始、停止、移动和转弯。&lt;br&gt;&lt;br&gt;运动匹配通过将角色的姿势和所需的未来路径（来自玩家输入）与库中的所有动画进行比较来实现这一点。系统将选择跳转的最合适的时间和剪辑。这些都在电光火石间进行，因为这是通过 Unity 的新任务系统和 Burst 编译器实现的。&lt;br&gt;&lt;br&gt;&lt;strong&gt;适用人群是谁？&lt;&#x2F;strong&gt;&lt;br&gt;MxM 不是即插即用的资源。你至少要了解 Unity 中的基本脚本制作功能。但是，资深程序员可以最充分地利用这一资源。建议具有 Unity 和 C# 编程中等经验的人员使用。&lt;br&gt;&lt;br&gt;MxM 支持剪辑，但具有较高动画带宽的动作捕捉用户和工作室将更充分地发挥这一资源的作用。&lt;br&gt;&lt;br&gt;&lt;em&gt;&lt;strong&gt;平台 -&lt;&#x2F;strong&gt; 尽管 MxM 可在移动设备上运行，但它尚不积极支持移动平台。&lt;&#x2F;em&gt;&lt;br&gt;&lt;br&gt;&lt;em&gt;&lt;strong&gt;依赖性 -&lt;&#x2F;strong&gt; 只有配备来自资源包管理器的大量 Unity 资源包，MxM 才可运作（如作业）。其中有些可能是预览资源包。但是，这些资源包在结合 MxM 使用时，性能均表现稳定。请阅读快速入门指南，了解详情。&lt;&#x2F;em&gt;&lt;br&gt;&lt;br&gt;&lt;em&gt;&lt;strong&gt;动画要求 -&lt;&#x2F;strong&gt; MxM 可能不适用于某些动画集。需要过渡动画才能实现较好的覆盖度和连续性。请阅读&lt;a href=&quot;https:&#x2F;&#x2F;docs.google.com&#x2F;document&#x2F;d&#x2F;116VnMJEkSyHuVOESaIhdd4KAvUJ6OWFDWhrKZnbrPDc&#x2F;edit?usp=sharing&quot;&gt;文档&lt;&#x2F;a&gt;，了解详情。&lt;&#x2F;em&gt;&lt;br&gt;&lt;br&gt;&lt;strong&gt;功能：&lt;&#x2F;strong&gt;(v2.2.5)&lt;br&gt;- 非结构化的互动动画&lt;br&gt;- 流畅、自然及响应灵敏的动画输出*&lt;br&gt;- 无需状态机和显式过渡&lt;br&gt;- 强大的角色动作事件系统&lt;br&gt;- 内置动画扭曲，用于跑酷等动作 - 支持动作过程中的多世界接触（如在腾跃时将手放在岩脊上）&lt;br&gt;- 标记系统，用于控制移动类型和姿势&lt;br&gt;- 内置图层系统 - 通过单个函数调用，在 Mecanim 和 MxM 之间淡化 - 闪电般快速的性能表现。MxM 具有多线程，使用 Unity 的新任务系统 Burst 编译器和 SIMD 数学库&lt;br&gt;- 混合空间以覆盖动画间隙 - 自定义编辑器和检查器，以帮助处理数据&lt;br&gt;- 支持剪辑和未剪辑的动作捕捉**&lt;br&gt;- 开箱即用，适用于大多数 IK 系统***&lt;br&gt;- 强大的调试工具&lt;br&gt;- 查看文档以了解详情&lt;br&gt;&lt;br&gt;&lt;em&gt;动画输出质量和响应性能取决于源动画的质量和响应性能。&lt;br&gt;&lt;&#x2F;em&gt;* 并非所有动画集都运作良好。请参见动画要求，了解详情。&lt;br&gt;*** 由于 Unity 的错误和局限，仅部分支持 &#x27;Unity Animation Rigging&#x27; 。&lt;br&gt;&lt;br&gt;&lt;strong&gt;技术支持：&lt;&#x2F;strong&gt;&lt;br&gt;- &lt;a href=&quot;https:&#x2F;&#x2F;discord.gg&#x2F;CFyhERt&quot;&gt;Discord 频道&lt;&#x2F;a&gt;&lt;br&gt;- &lt;a href=&quot;https:&#x2F;&#x2F;forum.unity.com&#x2F;threads&#x2F;released-motion-matching-for-unity-advanced-character-animation-with-no-animation-state-machine.685489&#x2F;&quot;&gt;论坛页&lt;&#x2F;a&gt;&lt;br&gt;&lt;br&gt;&lt;strong&gt;文档&lt;&#x2F;strong&gt;&lt;br&gt;- &lt;a href=&quot;https:&#x2F;&#x2F;docs.google.com&#x2F;document&#x2F;d&#x2F;1EWlYWT4mFi9d895J6P7GBOeDQXM-HK5wjqgY3w9hu3w&#x2F;edit?usp=sharing&quot;&gt;快速入门指南&lt;&#x2F;a&gt;&lt;br&gt;- &lt;a href=&quot;https:&#x2F;&#x2F;docs.google.com&#x2F;document&#x2F;d&#x2F;1zBdEQh8nJyOkWnKS5fAwchaE7u0kEvl4fSxlR7S2Wfk&#x2F;edit?usp=sharing&quot;&gt;用户手册&lt;&#x2F;a&gt;&lt;br&gt;- &lt;a href=&quot;https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v=hiWvExOyBgQ&amp;list=PLV3KWwaS27WJqBeZCOVp1h5VKTshdrQrk&quot;&gt;视频教程&lt;&#x2F;a&gt;&lt;br&gt;&lt;br&gt;&lt;strong&gt;警告：&lt;&#x2F;strong&gt;运动匹配是输出动画的通用动画系统。它不处理程序动画&#x2F;IK 或游戏代码。建议具备良好的脚本制作能力，以将游戏玩法信息传递至动作匹配系统。&lt;&#x2F;p&gt;
+</content>
+        
+    </entry>
+    <entry xml:lang="zh">
+        <title>Final IK</title>
+        <published>2024-12-09T11:45:46+00:00</published>
+        <updated>2024-12-09T11:45:46+00:00</updated>
+        
+        <author>
+          <name>
+            
+              yzzfo
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://yzzfo.github.io/unity/store/final-ik/"/>
+        <id>https://yzzfo.github.io/unity/store/final-ik/</id>
+        
+        <content type="html" xml:base="https://yzzfo.github.io/unity/store/final-ik/">&lt;p&gt;The final Inverse Kinematics solution for Unity.&lt;br&gt;Unity 的最终逆向运动学解决方案。&lt;br&gt;&lt;br&gt;&lt;strong&gt;更新 (1.9)：&lt;&#x2F;strong&gt;&lt;br&gt;1.9 版本对最终逆向运动学 (Final IK) 进行了很多修复和改进：&lt;br&gt;&lt;br&gt;- 增加了&lt;a href=&quot;https:&#x2F;&#x2F;youtu.be&#x2F;yF7EyomgZKo&quot;&gt;烘焙器&lt;&#x2F;a&gt;，这是一个强大的新工具，可将 IK 烘焙到 Humanoid、Generic 和 Legacy 动画剪辑中。&lt;br&gt;- 将 LOD 级别添加至 VRIK。&lt;br&gt;- &lt;a href=&quot;https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v=5b_87OuPJxE&quot;&gt;已在新版 Oculus Quest 硬件上测试&lt;&#x2F;a&gt; VRIK。&lt;br&gt;- 更新的&lt;a href=&quot;http:&#x2F;&#x2F;www.root-motion.com&#x2F;finalikdox&#x2F;html&#x2F;pages.html&quot;&gt;文档&lt;&#x2F;a&gt;。&lt;br&gt;&lt;br&gt;请参阅发行说明来了解全部更新细节。&lt;br&gt;Final IK 1.9 与 PuppetMaster 0.9 和 Unity 2017&#x2F;2018&#x2F;2019 版本完全兼容。&lt;br&gt;&lt;br&gt;&lt;strong&gt;我可以用 Final IK 做什么?&lt;&#x2F;strong&gt;&lt;br&gt;在 YouTube &lt;a href=&quot;http:&#x2F;&#x2F;www.youtube.com&#x2F;user&#x2F;SnuffThePuppy&quot;&gt;上观看超过30个(还在不断增加)演示视频。&lt;&#x2F;a&gt;&lt;br&gt;&lt;br&gt;&lt;strong&gt;它包含了什么?&lt;&#x2F;strong&gt;&lt;br&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v=4DjwC-0aoKE&quot;&gt;VRIK&lt;&#x2F;a&gt;&lt;br&gt;&lt;a href=&quot;https:&#x2F;&#x2F;youtu.be&#x2F;yF7EyomgZKo&quot;&gt;烘焙器&lt;&#x2F;a&gt;&lt;br&gt;&lt;a href=&quot;http:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v=mNvtZCboy7w&quot;&gt;全身双足 IK&lt;&#x2F;a&gt;&lt;br&gt;&lt;a href=&quot;http:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v=qpodhNYMnjw&quot;&gt;双足 IK&lt;&#x2F;a&gt;&lt;br&gt;&lt;a href=&quot;http:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v=-z_l7Jdz8Bo&quot;&gt;CCD IK&lt;&#x2F;a&gt;&lt;br&gt;&lt;a href=&quot;http:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v=wSVMwj5SlZ0&quot;&gt;多效果器 FABRIK（前后延伸反向运动学）&lt;&#x2F;a&gt;&lt;br&gt;&lt;a href=&quot;http:&#x2F;&#x2F;www.root-motion.com&#x2F;finalikdox&#x2F;html&#x2F;BipedIK.png&quot;&gt;Look-At IK&lt;&#x2F;a&gt;&lt;br&gt;&lt;a href=&quot;http:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v=rE4nE5tMdnI&quot;&gt;Aim IK&lt;&#x2F;a&gt;&lt;br&gt;&lt;a href=&quot;http:&#x2F;&#x2F;www.root-motion.com&#x2F;finalikdox&#x2F;html&#x2F;page2.html&quot;&gt;Arm IK&lt;&#x2F;a&gt;&lt;br&gt;&lt;a href=&quot;http:&#x2F;&#x2F;www.root-motion.com&#x2F;finalikdox&#x2F;html&#x2F;page11.html&quot;&gt;Leg IK&lt;&#x2F;a&gt;&lt;br&gt;&lt;a href=&quot;http:&#x2F;&#x2F;www.root-motion.com&#x2F;finalikdox&#x2F;html&#x2F;LimbIK.png&quot;&gt;Limb IK&lt;&#x2F;a&gt;&lt;br&gt;&lt;a href=&quot;http:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v=b7EgN0X-TsI&quot;&gt;旋转限制&lt;&#x2F;a&gt;&lt;br&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v=9MiZiaJorws&quot;&gt;Grounder&lt;&#x2F;a&gt;&lt;br&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v=GwC-zh5iyPA&quot;&gt;交互系统&lt;&#x2F;a&gt;&lt;br&gt;CCDIKJ、AimIKJ - 基于 AnimationJobs 的多线程求解器&lt;br&gt;+ 62 个演示场景，所有组件均提供示例脚本&lt;br&gt;&lt;br&gt;&lt;strong&gt;效果如何？&lt;&#x2F;strong&gt;&lt;br&gt;&lt;a href=&quot;http:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v=AxZAD_hlvUA&quot;&gt;台式机&lt;&#x2F;a&gt;&lt;br&gt;&lt;a href=&quot;http:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v=ZuWvGq3yV44&quot;&gt;移动端&lt;&#x2F;a&gt;&lt;br&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v=5b_87OuPJxE&quot;&gt;VR&lt;&#x2F;a&gt;&lt;br&gt;&lt;br&gt;&lt;strong&gt;技术概览&lt;&#x2F;strong&gt;&lt;br&gt;- 适用于 Humanoid、Generic 和 Legacy 动画类型&lt;br&gt;- 已在 Standalone、WebGL、IOS、Android 及所有 VR 平台（包括 Oculus Quest）上进行测试&lt;br&gt;- 包含完整的源代码&lt;br&gt;- 适用于每个组件的自定义可撤销检查器和场景视图手柄&lt;br&gt;- 警报系统可防止空引用和无效设置&lt;br&gt;- 性能得到极大优化&lt;br&gt;-模块化，易于扩展。制作自己的自定义角色设定&lt;br&gt;- HTML 文档、完整注释的代码和工具提示组件&lt;br&gt;- 已在大量角色上进行测试&lt;br&gt;&lt;br&gt;&lt;strong&gt;链接&lt;&#x2F;strong&gt;&lt;br&gt;&lt;a href=&quot;http:&#x2F;&#x2F;www.root-motion.com&quot;&gt;发布者的网站&lt;&#x2F;a&gt;&lt;br&gt;&lt;br&gt;&lt;strong&gt;Support&lt;&#x2F;strong&gt;&lt;br&gt;&lt;a href=&quot;https:&#x2F;&#x2F;rootmotion.freshdesk.com&#x2F;support&#x2F;home&quot;&gt;帮助、社区和支持请求&lt;&#x2F;a&gt;&lt;br&gt;&lt;a href=&quot;http:&#x2F;&#x2F;www.root-motion.com&#x2F;finalikdox&#x2F;html&#x2F;page1.html&quot;&gt;在线用户手册&lt;&#x2F;a&gt;&lt;br&gt;&lt;a href=&quot;http:&#x2F;&#x2F;www.root-motion.com&#x2F;finalikdox&#x2F;html&#x2F;classes.html&quot;&gt;在线脚本引用&lt;&#x2F;a&gt;&lt;br&gt;&lt;br&gt;&lt;strong&gt;电子邮件&lt;&#x2F;strong&gt;&lt;br&gt;support@root-motion.com&lt;br&gt;contact@root-motion.com&lt;br&gt;&lt;br&gt;&lt;strong&gt;您未来的计划是什么？&lt;&#x2F;strong&gt;&lt;br&gt;继续改进 Final IK 和它的文档，并添加了更多功能。根据你的反馈和实际用例，我将大部分开发软件包的 Full Body IK 和 VR IK 部分。&lt;br&gt;&lt;br&gt;&lt;strong&gt;在购买前我还应该知道什么？&lt;&#x2F;strong&gt;&lt;br&gt;确保从&lt;a href=&quot;http:&#x2F;&#x2F;www.root-motion.com&#x2F;finalikdox&#x2F;html&#x2F;page1.html&quot;&gt;在线用户手册&lt;&#x2F;a&gt;中阅读有关你最感兴趣的组件。&lt;p&gt;其中有一个环节介绍了每个组件的要求和局限性。&lt;&#x2F;p&gt;&lt;br&gt;期待与您合作，&lt;br&gt;Partel Lang - Final IK 开发者&lt;&#x2F;p&gt;&lt;&#x2F;p&gt;
+</content>
+        
+    </entry>
     <entry xml:lang="zh">
         <title>DOTween Pro</title>
         <published>2024-11-29T21:17:52+00:00</published>

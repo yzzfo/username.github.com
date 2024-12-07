@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh">
+    <title>yzzfo - Blueprints</title>
+    <subtitle>游戏开发学习资源分享</subtitle>
+    <link rel="self" type="application/atom+xml" href="https://yzzfo.github.io/tags/blueprints/atom.xml"/>
+    <link rel="alternate" type="text/html" href="https://yzzfo.github.io"/>
+    <generator uri="https://www.getzola.org/">Zola</generator>
+    <updated>2024-11-30T13:16:43+00:00</updated>
+    <id>https://yzzfo.github.io/tags/blueprints/atom.xml</id>
+    <entry xml:lang="zh">
+        <title>FlowCanvas</title>
+        <published>2024-11-29T21:16:25+00:00</published>
+        <updated>2024-11-30T13:16:43+00:00</updated>
+        
+        <author>
+          <name>
+            
+              yzzfo
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://yzzfo.github.io/unity/store/flowcanvas/"/>
+        <id>https://yzzfo.github.io/unity/store/flowcanvas/</id>
+        
+        <content type="html" xml:base="https://yzzfo.github.io/unity/store/flowcanvas/">&lt;p&gt;&lt;br&gt;&lt;br&gt;&lt;strong&gt;-------------------------------------&lt;br&gt;-- 夏季折扣减 20%！ --&lt;br&gt;-------------------------------------&lt;br&gt;&lt;br&gt;&lt;&#x2F;strong&gt;&lt;br&gt;&lt;strong&gt;‘.需要 Net 4.x’ 等效运行时版本。&lt;br&gt;‘.不再支持 Net 3.5（已弃用）。&lt;&#x2F;strong&gt;&lt;br&gt;&lt;br&gt;&lt;a href=&quot;https:&#x2F;&#x2F;flowcanvas.paradoxnotion.com&#x2F;features-comparison&#x2F;&quot;&gt;[功能对比]&lt;&#x2F;a&gt;&lt;br&gt;&lt;a href=&quot;http:&#x2F;&#x2F;www.flowcanvas.paradoxnotion.com&quot;&gt;[文档、论坛、下载]&lt;&#x2F;a&gt;&lt;br&gt;&lt;a href=&quot;https:&#x2F;&#x2F;discord.gg&#x2F;97q2Rjh&quot;&gt;[在 Discord 上加入我们]&lt;&#x2F;a&gt;&lt;br&gt;&lt;br&gt;&lt;strong&gt;FlowCanvas&lt;&#x2F;strong&gt; 是 Unity 的一款功能强大、丰富的视觉脚本解决方案，赋予你与 Unity 蓝图类似的创建和操纵游戏元素任一方面的功能，而无需太深的编程知识。&lt;br&gt;&lt;br&gt;&lt;strong&gt;FlowCanvas&lt;&#x2F;strong&gt; 带给你仅在代码中具备的完全灵活性，通过一个直观的可视化节点编辑器，你可以从快速原型中创建出东西，甚至是完全的游戏机制，而且无需编写任何代码。&lt;br&gt;&lt;br&gt;&lt;strong&gt;✔ 设计者：&lt;&#x2F;strong&gt;无需编码就能制作原型、迭代和完全实现你的想法，同时又能以有趣的方式了解代码的运作原理。如果你熟悉 Unreal Blueprints 的话，这用起来将得心应手。&lt;br&gt;&lt;br&gt;&lt;strong&gt;✔ 编程员：&lt;&#x2F;strong&gt;与你的代码更深一层地接口，并以简单的、完整记录的 API 创造解耦系统和&#x2F;或为设计师们提供新的自含式节点。&lt;br&gt;&lt;br&gt;通过将事件、流控制器和功能节点组合在一起，创建和操纵游戏玩法元素，包括但不局限于：&lt;br&gt;&lt;br&gt;●玩家控制。&lt;br&gt;● 关卡设计事件。&lt;br&gt;● 游戏机制。&lt;br&gt;● 用户界面。&lt;br&gt;● 玩家互动。&lt;br&gt;● 资源管理系统。&lt;br&gt;● 还有很多很多！&lt;br&gt;&lt;br&gt;FlowCanvas 是一款制作框架&lt;strong&gt;来供精美的游戏使用，包括 Graveyard Keeper、 Deadhold、 Memories Retold 和 Frankie&#x27;s Revenge&lt;&#x2F;strong&gt; 更多等等。&lt;br&gt;&lt;br&gt;&lt;strong&gt;功能亮点&lt;&#x2F;strong&gt;&lt;br&gt;--&lt;br&gt;● 具有所有专业功能的时尚而直观的可视化节点编辑器。&lt;br&gt;&lt;em&gt;（全部撤销&#x2F;重做、放大&#x2F;缩小、迷你地图、多选、复制、复制&#x2F;粘贴、JSON 导入&#x2F;导出、群组、注释等）&lt;&#x2F;em&gt;&lt;br&gt;● 立即支持所有平台。&lt;br&gt;&lt;em&gt;（类别、结构、枚举、收藏、界面等）&lt;&#x2F;em&gt;&lt;br&gt;● 为所有任何的 Unity 功能、代码和第三方 API 自动生成节点。包括方法、属性、字段、Unity 事件、C# 事件、委托、通用方法、构建器、提取器和运行子。&lt;br&gt;● 超过 60 多个内置事件节点，包括触发、碰撞、粒子、可见性、输入、UI 以及更多。&lt;br&gt;● 超过 30 多个内置信息流控制器节点，包括 for 循环、if、while、冷却、过滤、切换器、选择器、goto、switch 语句及更多等等。&lt;br&gt;● 自定义事件系统，可轻松地在图形间进行沟通。&lt;br&gt;● 自定义（可视化脚本）本地 flowScript 功能。&lt;br&gt;●自定义（可视化脚本）可再用的宏和嵌套的 flowScript。&lt;br&gt;● 图形、游戏对象和全局变量。&lt;br&gt;● 具有实例或静态属性和字段的数据绑定变量。&lt;br&gt;● 使用 UNET 的网络同步变量 (Network Sync Variable)。&lt;br&gt;&lt;em&gt;（由于 UNET 已被弃用，它即将会被替换为新的网络解决方案）&lt;&#x2F;em&gt;&lt;br&gt;● 预制件可覆盖的变量。&lt;br&gt;● 丰富多彩和内容翔实的运行时可视化调试。&lt;br&gt;● 节点浏览器，来搜索、收藏和阅读内置的文档。&lt;br&gt;● 首选类型配置器，以根据项目需求定制与类型相关的菜单。&lt;br&gt;● 图形迷你地图，以轻松浏览图形。&lt;br&gt;● 图形控制台，单击鼠标即可自动定位故障节点。&lt;br&gt;● 图形资源器，来快速找到图形中使用的节点和变量。&lt;br&gt;● 图形重构器，来批量重构缺失的节点以及映像引用。&lt;br&gt;● AutoConvert 连接类型和通用 WildPorts 来更快地运行。&lt;br&gt;● 对打字灵敏的智能情景菜单。&lt;br&gt;● 基于多目标对象的事件节点。&lt;br&gt;● 完整、部分、紧凑显示模式和自动边框画布组。&lt;br&gt;● 在运行时实时编辑，更快速实现你的想法。&lt;br&gt;● 整洁的和记录完整的 API，来轻松地扩展和创建自定义节点，同时支持通用 (T) 节点。&lt;br&gt;● 用嵌套子图将 &lt;a href=&quot;http:&#x2F;&#x2F;u3d.as&#x2F;6tv&quot;&gt;NodeCanvas&lt;&#x2F;a&gt;、BehaviorTrees、FSM 和 DialogueTrees 与任何其他图形模块集成。&lt;br&gt;● &lt;strong&gt;用户友好。轻量级。无需设置。&lt;br&gt;● 性能稳定。接近零的资源占用。异步图加载。&lt;br&gt;● 供 JIT 平台使用的快速优化映像。&lt;br&gt;● 强大的类型连接。无需封装。&lt;br&gt;● 支持所有平台。&lt;br&gt;● 包含全部 C# 源代码！&lt;br&gt;● 以及更多…&lt;br&gt;&lt;&#x2F;strong&gt;&lt;br&gt;&lt;strong&gt;将 FlowCanvas 添加至你的项目中，享受 Unity 功能丰富、 时髦的可视化脚本，实现无限可能性。&lt;br&gt;&lt;br&gt;购买 FlowCanvas 之后让你在以后购买 NodeCanvas 时获得 20% 的折扣！&lt;br&gt;&lt;&#x2F;strong&gt;&lt;br&gt;&lt;a href=&quot;https:&#x2F;&#x2F;flowcanvas.paradoxnotion.com&#x2F;features-comparison&#x2F;&quot;&gt;[功能对比]&lt;&#x2F;a&gt;&lt;br&gt;&lt;a href=&quot;http:&#x2F;&#x2F;www.flowcanvas.paradoxnotion.com&quot;&gt;[文档、论坛、下载]&lt;&#x2F;a&gt;&lt;br&gt;&lt;a href=&quot;https:&#x2F;&#x2F;discord.gg&#x2F;97q2Rjh&quot;&gt;[在 Discord 上加入我们]&lt;&#x2F;a&gt;&lt;br&gt;&lt;&#x2F;p&gt;
+</content>
+        
+    </entry>
+</feed>

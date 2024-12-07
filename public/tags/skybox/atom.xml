@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh">
+    <title>yzzfo - Skybox</title>
+    <subtitle>游戏开发学习资源分享</subtitle>
+    <link rel="self" type="application/atom+xml" href="https://yzzfo.github.io/tags/skybox/atom.xml"/>
+    <link rel="alternate" type="text/html" href="https://yzzfo.github.io"/>
+    <generator uri="https://www.getzola.org/">Zola</generator>
+    <updated>2024-12-08T17:36:27+00:00</updated>
+    <id>https://yzzfo.github.io/tags/skybox/atom.xml</id>
+    <entry xml:lang="zh">
+        <title>AllSky - 220+ Sky &#x2F; Skybox Set</title>
+        <published>2024-12-08T17:36:27+00:00</published>
+        <updated>2024-12-08T17:36:27+00:00</updated>
+        
+        <author>
+          <name>
+            
+              yzzfo
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://yzzfo.github.io/unity/store/allsky-220-sky-skybox-set/"/>
+        <id>https://yzzfo.github.io/unity/store/allsky-220-sky-skybox-set/</id>
+        
+        <content type="html" xml:base="https://yzzfo.github.io/unity/store/allsky-220-sky-skybox-set/">&lt;p&gt;适于Unity的220多个天空！- 各种风格：白天、夜晚、动漫、云上、卡通、幻想、朦胧、壮丽、太空、 乳状云、无阳光和无月光！&lt;br&gt;&lt;p &gt;适于Unity的220多个天空！&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;- 各种风格：白天、夜晚、动漫、云上、卡通、幻想、朦胧、壮丽、太空、 乳状云、无阳光和无月光！&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;- 适用于寻找各种各样的天空以照亮其环境的照明艺术家、环境艺术家和独立开发人员。&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;- 从白天到夜晚的照明：黄昏、日落、白天的多个时间段、夜晚的多个时间段、天空辉光。&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;- 多种天气和云的类型：晴朗、多云、夏季、暴风雨、秋季、朦胧、壮丽、多雾、积云。&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;-&lt;a href=&quot;https:&#x2F;&#x2F;docs.google.com&#x2F;document&#x2F;d&#x2F;1MMtkBSLw4FEoTNnUvK11DCQhRifIKsn09xmuNDkAaok&#x2F;&quot; target=&quot;_blank&quot;&gt; 在线文件（英文）&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;&lt;&#x2F;p&gt;
+</content>
+        
+    </entry>
+    <entry xml:lang="zh">
+        <title>Better Fog: Height Fog, Light Scattering &amp; More</title>
+        <published>2024-12-07T20:00:36+00:00</published>
+        <updated>2024-12-07T20:00:36+00:00</updated>
+        
+        <author>
+          <name>
+            
+              yzzfo
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://yzzfo.github.io/unity/store/better-fog-height-fog-light-scattering-more/"/>
+        <id>https://yzzfo.github.io/unity/store/better-fog-height-fog-light-scattering-more/</id>
+        
+        <content type="html" xml:base="https://yzzfo.github.io/unity/store/better-fog-height-fog-light-scattering-more/">&lt;p&gt;为您的游戏增添深度和感觉。 实现更真实的效果或打造真正独特的外观。 改进或完全改变游戏的外观，无需担心透明、水或天空盒。&lt;br&gt;&lt;p &gt;Better Fog 是一种后处理效果，提供多种功能，可打造从逼真到风格化的多种外观和风格。 这种效果不是体积解决方案，可确保最佳性能。 它还包括其他功能，例如平面或球体分析世界雾、自定义雾粒子着色器等。 Better Fog 使用 Shader Graph (URP) 和 Amplify Shader Editor（内置）制作，支持透明对象，无需修改其着色器。&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;加入我们新的 Discord 获取更新、报告问题或只是打个招呼！&lt;&#x2F;p&gt;&lt;p &gt;购买前请检查文档。&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;&lt;a href=&quot;https:&#x2F;&#x2F;discord.gg&#x2F;K88zmyuZFD&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;Discord &lt;&#x2F;strong&gt;&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;&lt;p &gt;&lt;a href=&quot;https:&#x2F;&#x2F;inabstudios.gitbook.io&#x2F;better-fog&#x2F;&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;Documentation &lt;&#x2F;strong&gt;&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;特征：&lt;&#x2F;p&gt;&lt;p &gt;屏幕空间光散射 (SSMS)：使用它可以为雾创建更真实的感觉。&lt;&#x2F;p&gt;&lt;p &gt;渐变雾色：创建您自己的自定义外观或使用资源中包含的众多渐变之一。&lt;&#x2F;p&gt;&lt;p &gt;天空盒雾集成：确保与任何天空盒保持一致的视觉效果。&lt;&#x2F;p&gt;&lt;p &gt;基于距离的雾：默认雾，可以选择使用径向距离。&lt;&#x2F;p&gt;&lt;p &gt;高度雾：大气高度雾。&lt;&#x2F;p&gt;&lt;p &gt;体积混合：使用后处理体积在各种预设之间进行混合。&lt;&#x2F;p&gt;&lt;p &gt;透明物体和粒子支持：雾对于粒子和透明物体效果很好。&lt;&#x2F;p&gt;&lt;p &gt;世界雾：使用带有自定义着色器的平面和球体自定义并添加雾。&lt;&#x2F;p&gt;&lt;p &gt;带粒子的自定义雾：包括程序雾粒子 FX。&lt;&#x2F;p&gt;&lt;p &gt;雾能量损失：模拟由于雾散射而导致的光子能量损失。&lt;&#x2F;p&gt;&lt;p &gt;简单集成：轻松将效果添加到您的项目中。&lt;&#x2F;p&gt;&lt;p &gt;多功能定制：根据需要调整每个功能并使用关键字以获得更好的性能。&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;兼容性：&lt;&#x2F;p&gt;&lt;p &gt;支持URP和内置版本2021.3及以上。&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;限制：&lt;&#x2F;p&gt;&lt;p &gt;仅支持定向光。&lt;&#x2F;p&gt;&lt;p &gt;非体积。&lt;&#x2F;p&gt;&lt;p &gt;不支持 MSAA。&lt;&#x2F;p&gt;&lt;p &gt;需要能够进行深度渲染的设备。&lt;&#x2F;p&gt;&lt;p &gt;不支持正交相机、VR、webGL、VFX 图形粒子混合。&lt;&#x2F;p&gt;&lt;&#x2F;p&gt;
+</content>
+        
+    </entry>
+    <entry xml:lang="zh">
+        <title>Toon Fantasy Nature</title>
+        <published>2024-11-29T21:17:32+00:00</published>
+        <updated>2024-12-02T21:46:33+00:00</updated>
+        
+        <author>
+          <name>
+            
+              yzzfo
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://yzzfo.github.io/unity/store/toon-fantasy-nature/"/>
+        <id>https://yzzfo.github.io/unity/store/toon-fantasy-nature/</id>
+        
+        <content type="html" xml:base="https://yzzfo.github.io/unity/store/toon-fantasy-nature/">&lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;assetstore.unity.com&#x2F;publishers&#x2F;18116&quot;&gt; &lt;strong&gt;SICS Games&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt; 呈现：&lt;&#x2F;p&gt;一套风格化的资源集合，为您的游戏增添美丽的环境。&lt;&#x2F;p&gt;
+&lt;p&gt;有任何问题或建议吗？&lt;&#x2F;p&gt;&lt;p&gt;欢迎通过我们的 &lt;a href=&quot;http:&#x2F;&#x2F;discord.gg&#x2F;nwQpAet&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;Discord&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt; 与我们联系&lt;&#x2F;p&gt;
+&lt;p&gt;◙ &lt;strong&gt;特色&lt;&#x2F;strong&gt; ◙&lt;&#x2F;p&gt;
+&lt;p&gt;• &lt;strong&gt;200&lt;&#x2F;strong&gt; 个预制件，从小植物和岩石到大型橡树和松树。&lt;&#x2F;p&gt;&lt;p&gt;• &lt;strong&gt;8&lt;&#x2F;strong&gt; &lt;strong&gt;演示场景&lt;&#x2F;strong&gt; 展示了该包中的所有资源，并提供多种光照预设（包括后期处理配置文件）。&lt;&#x2F;p&gt;
+&lt;p&gt;◙ &lt;strong&gt;资源列表 &lt;&#x2F;strong&gt;◙&lt;&#x2F;p&gt;
+&lt;p&gt;• &lt;strong&gt;植被资源 &lt;&#x2F;strong&gt;•&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;strong&gt;(x137) 植物、花卉和树木&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;p&gt;植被资源包括：&lt;&#x2F;p&gt;&lt;p&gt;&lt;strong&gt;(x36) 树木&lt;&#x2F;strong&gt;，如 &lt;strong&gt;白杨树&lt;&#x2F;strong&gt;、&lt;strong&gt;松树&lt;&#x2F;strong&gt;、&lt;strong&gt;桦树&lt;&#x2F;strong&gt;、&lt;strong&gt;橡树&lt;&#x2F;strong&gt;等。&lt;&#x2F;p&gt;&lt;p&gt;&lt;strong&gt;(x18) 倒下的和破损的树木&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;p&gt;&lt;strong&gt;(x38) 灌木、蕨类植物&lt;&#x2F;strong&gt;、&lt;strong&gt;花卉&lt;&#x2F;strong&gt;等。&lt;&#x2F;p&gt;&lt;p&gt;&lt;strong&gt;(x20) 百合、莲花&lt;&#x2F;strong&gt;及其他水生植物。&lt;&#x2F;p&gt;&lt;p&gt;&lt;strong&gt;(x18) 蘑菇&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;• &lt;strong&gt;岩石 &lt;&#x2F;strong&gt;•&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;strong&gt;(x20) 岩石&lt;&#x2F;strong&gt;，从小卵石到大石块&lt;&#x2F;p&gt;
+&lt;p&gt;• &lt;strong&gt;外部道具 &lt;&#x2F;strong&gt;•&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;strong&gt;(x25) 道具&lt;&#x2F;strong&gt;，包括 &lt;strong&gt;木制凉亭和秋千&lt;&#x2F;strong&gt;、&lt;strong&gt;篝火&lt;&#x2F;strong&gt;（包含火粒子系统）、&lt;strong&gt;围栏和桥梁工具包&lt;&#x2F;strong&gt;等。&lt;&#x2F;p&gt;
+&lt;p&gt;• &lt;strong&gt;背景资源和贴花 &lt;&#x2F;strong&gt;•&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;strong&gt;(x18) 背景树木&lt;&#x2F;strong&gt;、碎片和 &lt;strong&gt;落叶&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;p&gt;&lt;strong&gt;(x3) 手绘天空盒&lt;&#x2F;strong&gt;：白天、夜晚和日落。&lt;&#x2F;p&gt;
+&lt;p&gt;• &lt;strong&gt;粒子系统 &lt;&#x2F;strong&gt;•&lt;&#x2F;p&gt;&lt;br&gt;&lt;p &gt;&lt;strong&gt;(x8) 粒子系统&lt;&#x2F;strong&gt;，包括 &lt;strong&gt;阳光光束&lt;&#x2F;strong&gt;、&lt;strong&gt;萤火虫&lt;&#x2F;strong&gt;、&lt;strong&gt;落叶&lt;&#x2F;strong&gt; 等等。&lt;&#x2F;p&gt;
+&lt;p &gt;此包与该系列的其他资产完美契合：&lt;&#x2F;p&gt;&lt;p &gt;&lt;a href=&quot;http:&#x2F;&#x2F;assetstore.unity.com&#x2F;lists&#x2F;toon-series-44946&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;卡通系列&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+&lt;p &gt;支持与社区：&lt;&#x2F;p&gt;&lt;p &gt;&lt;a href=&quot;http:&#x2F;&#x2F;discord.gg&#x2F;nwQpAet&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;Discord&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt;&lt;strong&gt; &lt;&#x2F;strong&gt;• &lt;a href=&quot;http:&#x2F;&#x2F;forum.unity3d.com&#x2F;threads&#x2F;toon-series-growing-content-stylized-3d-art.464823&#x2F;&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;论坛&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt;&lt;strong&gt; &lt;&#x2F;strong&gt;• &lt;a href=&quot;http:&#x2F;&#x2F;twitter.com&#x2F;steve_sics&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;推特&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt;&lt;strong&gt; &lt;&#x2F;strong&gt;•&lt;strong&gt; &lt;&#x2F;strong&gt;&lt;a href=&quot;mailto:sics.production@gmail.com&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;邮件&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;</content>
+        
+    </entry>
+</feed>

@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh">
+    <title>yzzfo - agent</title>
+    <subtitle>游戏开发学习资源分享</subtitle>
+    <link rel="self" type="application/atom+xml" href="https://yzzfo.github.io/tags/agent/atom.xml"/>
+    <link rel="alternate" type="text/html" href="https://yzzfo.github.io"/>
+    <generator uri="https://www.getzola.org/">Zola</generator>
+    <updated>2024-12-06T15:21:04+00:00</updated>
+    <id>https://yzzfo.github.io/tags/agent/atom.xml</id>
+    <entry xml:lang="zh">
+        <title>Behavior Designer - Formations Pack</title>
+        <published>2024-12-06T15:21:04+00:00</published>
+        <updated>2024-12-06T15:21:04+00:00</updated>
+        
+        <author>
+          <name>
+            
+              yzzfo
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://yzzfo.github.io/unity/store/behavior-designer-formations-pack/"/>
+        <id>https://yzzfo.github.io/unity/store/behavior-designer-formations-pack/</id>
+        
+        <content type="html" xml:base="https://yzzfo.github.io/unity/store/behavior-designer-formations-pack/">&lt;p &gt;&lt;strong&gt;需要行为设计器&lt;&#x2F;strong&gt; (&lt;a href=&quot;https:&#x2F;&#x2F;assetstore.unity.com&#x2F;packages&#x2F;tools&#x2F;visual-scripting&#x2F;behavior-designer-behavior-trees-for-everyone-15277&quot; target=&quot;_blank&quot;&gt;链接&lt;&#x2F;a&gt;)&lt;&#x2F;p&gt;
+&lt;p &gt;行为设计器 - 阵型包包含14个不同的行为树任务，专注于&lt;strong&gt;使用Unity的NavMesh或A*寻路项目的群体阵型&lt;&#x2F;strong&gt;。&lt;&#x2F;p&gt;
+&lt;p &gt;代理可以随时加入或离开阵型。阵型将动态响应变化。&lt;&#x2F;p&gt;
+&lt;p &gt;每个任务都有良好的注释，并以通用和简洁的方式编写，使其非常容易集成到您自己的项目中。随着我们听到社区的新任务建议，这个包将继续增长。&lt;&#x2F;p&gt;
+&lt;p &gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.opsive.com&#x2F;assets&#x2F;behavior-designer-formations-pack&#x2F;&quot; target=&quot;_blank&quot;&gt;网页演示&lt;&#x2F;a&gt; | &lt;a href=&quot;https:&#x2F;&#x2F;www.opsive.com&#x2F;support&#x2F;documentation&#x2F;behavior-designer-formations-pack&#x2F;&quot; target=&quot;_blank&quot;&gt;文档&lt;&#x2F;a&gt; | &lt;a href=&quot;http:&#x2F;&#x2F;forum.unity3d.com&#x2F;threads&#x2F;behavior-designer-formations-pack.316906&#x2F;&quot; target=&quot;_blank&quot;&gt;Unity论坛&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+&lt;p &gt;包含以下任务：&lt;&#x2F;p&gt;&lt;ul&gt;&lt;li &gt;列&lt;&#x2F;li&gt;&lt;li &gt;行&lt;&#x2F;li&gt;&lt;li &gt;网格&lt;&#x2F;li&gt;&lt;li &gt;线&lt;&#x2F;li&gt;&lt;li &gt;梯队&lt;&#x2F;li&gt;&lt;li &gt;楔形&lt;&#x2F;li&gt;&lt;li &gt;V形&lt;&#x2F;li&gt;&lt;li &gt;弧形&lt;&#x2F;li&gt;&lt;li &gt;游击队员&lt;&#x2F;li&gt;&lt;li &gt;蜂群&lt;&#x2F;li&gt;&lt;li &gt;菱形&lt;&#x2F;li&gt;&lt;li &gt;三角形&lt;&#x2F;li&gt;&lt;li &gt;正方形&lt;&#x2F;li&gt;&lt;li &gt;圆形&lt;&#x2F;li&gt;&lt;&#x2F;ul&gt;</content>
+        
+    </entry>
+    <entry xml:lang="zh">
+        <title>Behavior Designer - Movement Pack</title>
+        <published>2024-12-06T15:20:53+00:00</published>
+        <updated>2024-12-06T15:20:53+00:00</updated>
+        
+        <author>
+          <name>
+            
+              yzzfo
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://yzzfo.github.io/unity/store/behavior-designer-movement-pack/"/>
+        <id>https://yzzfo.github.io/unity/store/behavior-designer-movement-pack/</id>
+        
+        <content type="html" xml:base="https://yzzfo.github.io/unity/store/behavior-designer-movement-pack/">&lt;p&gt;&lt;br&gt;&lt;strong&gt;需要行为设计器&lt;&#x2F;strong&gt;（&lt;a href=&quot;https:&#x2F;&#x2F;assetstore.unity.com&#x2F;packages&#x2F;tools&#x2F;visual-scripting&#x2F;behavior-designer-behavior-trees-for-everyone-15277&quot;&gt;链接&lt;&#x2F;a&gt;）&lt;br&gt;&lt;br&gt;行为设计器 - 运动资源包包含 17 个不同的行为树任务，侧重于 &lt;strong&gt;2D 和 3D 运动&lt;&#x2F;strong&gt;。&lt;br&gt;&lt;br&gt;除了包含所有 人工智能操作行为外，有些任务还提供独特的功能，如寻找掩护或倾听对象是否在范围内。&lt;br&gt;&lt;br&gt;群聚、队长跟踪以及排队这三个任务提供一个优秀的示例来展示只用一个行为树控制多个人工智能代理。&lt;br&gt;&lt;br&gt;运动资源包与终极角色控制器集成，从而支持借助动画系统根运动来实现运动。&lt;br&gt;&lt;br&gt;任务支持如下：&lt;br&gt;- Unity 的导航网格&lt;br&gt;• * 寻径项目&lt;br&gt;- Poly|Nav&lt;br&gt;&lt;br&gt;每个任务都有详尽的注释，并且编写方式通用而简洁，因此使它很容易集成到自己的项目中。随着我们听到社区的新任务建议，这个资源包将持续增长。&lt;br&gt;&lt;br&gt;包含以下任务：&lt;br&gt;- 向前运动&lt;br&gt;- 向前旋转&lt;br&gt;- 搜寻&lt;br&gt;- 逃走&lt;br&gt;- 追踪&lt;br&gt;- 躲避&lt;br&gt;- 跟随&lt;br&gt;- 巡逻&lt;br&gt;- 覆盖&lt;br&gt;- 游荡&lt;br&gt;- 搜索&lt;br&gt;- 距离内&lt;br&gt;- 能看到对象&lt;br&gt;- 能听到对象&lt;br&gt;- 群聚&lt;br&gt;- 队长跟踪&lt;br&gt;- 队列&lt;br&gt;&lt;br&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.opsive.com&#x2F;assets&#x2F;behavior-designer-movement-pack&#x2F;&quot;&gt;Web 演示&lt;&#x2F;a&gt;&lt;br&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.opsive.com&#x2F;support&#x2F;documentation&#x2F;behavior-designer-movement-pack&#x2F;&quot;&gt;文档&lt;&#x2F;a&gt;&lt;br&gt;&lt;a href=&quot;http:&#x2F;&#x2F;forum.unity3d.com&#x2F;threads&#x2F;227497&quot;&gt;Unity 论坛&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+</content>
+        
+    </entry>
+    <entry xml:lang="zh">
+        <title>Behavior Designer - Tactical Pack</title>
+        <published>2024-12-06T15:20:32+00:00</published>
+        <updated>2024-12-06T15:20:32+00:00</updated>
+        
+        <author>
+          <name>
+            
+              yzzfo
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://yzzfo.github.io/unity/store/behavior-designer-tactical-pack/"/>
+        <id>https://yzzfo.github.io/unity/store/behavior-designer-tactical-pack/</id>
+        
+        <content type="html" xml:base="https://yzzfo.github.io/unity/store/behavior-designer-tactical-pack/">&lt;p &gt;&lt;strong&gt;需要行为设计器&lt;&#x2F;strong&gt; (&lt;a href=&quot;https:&#x2F;&#x2F;assetstore.unity.com&#x2F;packages&#x2F;tools&#x2F;visual-scripting&#x2F;behavior-designer-behavior-trees-for-everyone-15277&quot; target=&quot;_blank&quot;&gt;链接&lt;&#x2F;a&gt;)&lt;&#x2F;p&gt;
+&lt;p &gt;行为设计器 - 战术包包含13个不同的行为树任务，专注于使用Unity的NavMesh或A*寻路项目的战术情况。&lt;&#x2F;p&gt;
+&lt;p &gt;攻击在每个游戏中都是独特的。战术包使用接口，您可以实现适合您游戏的自定义攻击和伤害逻辑。此外，战术包可以使用Playmaker或第三人称控制器来处理攻击和伤害。&lt;&#x2F;p&gt;
+&lt;p &gt;每个任务都有良好的注释，并以通用和简洁的方式编写，使其非常容易集成到您自己的项目中。随着我们听到社区的新任务建议，这个包将继续增长。&lt;&#x2F;p&gt;
+&lt;p &gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.opsive.com&#x2F;assets&#x2F;behavior-designer-tactical-pack&#x2F;&quot; target=&quot;_blank&quot;&gt;网页演示&lt;&#x2F;a&gt; |  &lt;a href=&quot;https:&#x2F;&#x2F;www.opsive.com&#x2F;support&#x2F;documentation&#x2F;behavior-designer-tactical-pack&#x2F;&quot; target=&quot;_blank&quot;&gt;文档&lt;&#x2F;a&gt; | &lt;a href=&quot;http:&#x2F;&#x2F;forum.unity3d.com&#x2F;threads&#x2F;behavior-designer-tactical-pack.327353&#x2F;&quot; target=&quot;_blank&quot;&gt;Unity论坛&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+&lt;p &gt;包含以下任务：&lt;&#x2F;p&gt;&lt;ul&gt;&lt;li &gt;攻击&lt;&#x2F;li&gt;&lt;li &gt;冲锋&lt;&#x2F;li&gt;&lt;li &gt;行进射击&lt;&#x2F;li&gt;&lt;li &gt;侧翼&lt;&#x2F;li&gt;&lt;li &gt;埋伏&lt;&#x2F;li&gt;&lt;li &gt;边打边退&lt;&#x2F;li&gt;&lt;li &gt;跳跃前进&lt;&#x2F;li&gt;&lt;li &gt;包围&lt;&#x2F;li&gt;&lt;li &gt;防御&lt;&#x2F;li&gt;&lt;li &gt;保持&lt;&#x2F;li&gt;&lt;li &gt;撤退&lt;&#x2F;li&gt;&lt;li &gt;请求增援&lt;&#x2F;li&gt;&lt;li &gt;增援响应&lt;&#x2F;li&gt;&lt;&#x2F;ul&gt;</content>
+        
+    </entry>
+    <entry xml:lang="zh">
+        <title>Behavior Designer - Behavior Trees for Everyone</title>
+        <published>2024-11-29T21:16:06+00:00</published>
+        <updated>2024-11-30T13:16:25+00:00</updated>
+        
+        <author>
+          <name>
+            
+              yzzfo
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://yzzfo.github.io/unity/store/behavior-designer-behavior-trees-for-everyone/"/>
+        <id>https://yzzfo.github.io/unity/store/behavior-designer-behavior-trees-for-everyone/</id>
+        
+        <content type="html" xml:base="https://yzzfo.github.io/unity/store/behavior-designer-behavior-trees-for-everyone/">&lt;p&gt;&lt;br&gt;AAA 工作室使用行为树来创建&lt;strong&gt;栩栩如生的 AI&lt;&#x2F;strong&gt;。有了Opsive 的 Behavior Designer，便可以将行为树的力量带给 Unity！&lt;br&gt;&lt;br&gt;Behavior Designer 是&lt;strong&gt;专为每个人设计的行为树实现&lt;&#x2F;strong&gt; - 程序员、艺术家、设计师。&lt;br&gt;&lt;br&gt;Behavior Designer 提供具有强大的 API 的直观可视化编辑器，帮您轻松创建新任务。它还包含数百个任务，PlayMaker 集成和广泛的第三方集成让你无需编写任何代码就能&lt;strong&gt;创建复杂 AI！&lt;&#x2F;strong&gt;&lt;br&gt;&lt;br&gt;从设计伊始，Behavior Designer 就旨在尽可能高效，做到&lt;strong&gt;初始化后零配置&lt;&#x2F;strong&gt;。因此，它在包括移动设备的所有平台上运行都很出色。Behavior Designer &lt;strong&gt;专注于行为树，这意味着每次更新都会有更好的行为树实现。&lt;&#x2F;strong&gt;&lt;br&gt;&lt;br&gt;&lt;a href=&quot;https:&#x2F;&#x2F;opsive.com&#x2F;assets&#x2F;behavior-designer&quot;&gt;概述&lt;&#x2F;a&gt;|&lt;a href=&quot;https:&#x2F;&#x2F;opsive.com&#x2F;support&#x2F;documentation&#x2F;behavior-designer&#x2F;overview&#x2F;&quot;&gt;文档&lt;&#x2F;a&gt;|&lt;a href=&quot;https:&#x2F;&#x2F;opsive.com&#x2F;videos&#x2F;?pid=803&quot;&gt;视频&lt;&#x2F;a&gt;|&lt;a href=&quot;https:&#x2F;&#x2F;opsive.com&#x2F;integrations&#x2F;?pid=803&quot;&gt;样本&lt;&#x2F;a&gt;|&lt;a href=&quot;http:&#x2F;&#x2F;forum.unity3d.com&#x2F;threads&#x2F;227497&quot;&gt;论坛&lt;&#x2F;a&gt;| &lt;a href=&quot;https:&#x2F;&#x2F;discord.gg&#x2F;QX6VFgc&quot;&gt;Discord&lt;&#x2F;a&gt;&lt;br&gt;&lt;br&gt;✔️&lt;strong&gt;功能：&lt;&#x2F;strong&gt;&lt;br&gt;• 一款直观的可视化编辑器&lt;br&gt;• 强大的 API&lt;br&gt;• 可视化运行时调试器&lt;br&gt;• 进行任务之间通信的变量&lt;br&gt;• 条件终止&lt;br&gt;• 内置在事件系统中&lt;br&gt;• 使用现有代码，进行反射任务&lt;br&gt;• 数百项任务&lt;br&gt;• 借助 Unity Theory 评估任务&lt;br&gt;• 实时错误检测&lt;br&gt;• 二进制或 JSON 序列化&lt;br&gt;• 数据导向设计&lt;br&gt;• 启动后零运行时分配&lt;br&gt;• 对象绘制器（属性绘制器）&lt;br&gt;• 包含运行时源代码&lt;br&gt;• 大量的文档和视频&lt;br&gt;• 提供在线样本项目&lt;br&gt;• &lt;a href=&quot;https:&#x2F;&#x2F;opsive.com&#x2F;assets&#x2F;behavior-designer&quot;&gt;以及更多&lt;&#x2F;a&gt;&lt;br&gt;&lt;br&gt;✔️ &lt;strong&gt;附件资源包：&lt;&#x2F;strong&gt;&lt;br&gt;• &lt;a href=&quot;https:&#x2F;&#x2F;assetstore.unity.com&#x2F;packages&#x2F;tools&#x2F;ai&#x2F;behavior-designer-formations-pack-28980&quot;&gt;编队包&lt;&#x2F;a&gt;&lt;br&gt;• &lt;a href=&quot;https:&#x2F;&#x2F;assetstore.unity.com&#x2F;packages&#x2F;tools&#x2F;ai&#x2F;behavior-designer-movement-pack-16853&quot;&gt;运动包&lt;&#x2F;a&gt;&lt;br&gt;• &lt;a href=&quot;https:&#x2F;&#x2F;assetstore.unity.com&#x2F;packages&#x2F;tools&#x2F;ai&#x2F;behavior-designer-tactical-pack-6182&quot;&gt;战术包&lt;&#x2F;a&gt;&lt;br&gt;&lt;br&gt;✔️ &lt;strong&gt;集成：&lt;&#x2F;strong&gt;&lt;br&gt;• 2D 工具包&lt;br&gt;• A* 寻路项目（运动包）&lt;br&gt;• 冒险制作器&lt;br&gt;• 反作弊工具包&lt;br&gt;• Blox&lt;br&gt;• Bolt（可视化脚本）&lt;br&gt;• 摄像机路径动画器&lt;br&gt;• Cinema Director&lt;br&gt;• 控制狂&lt;br&gt;• Core GameKit&lt;br&gt;• Curvy&lt;br&gt;• 对话系统&lt;br&gt;• DOTween&lt;br&gt;• Final IK&lt;br&gt;• Inventory Pro&lt;br&gt;• LeanTween&lt;br&gt;• Love&#x2F;Hate&lt;br&gt;• Master Audio&lt;br&gt;• 镜像&lt;br&gt;• NGUI&lt;br&gt;• 粒子运动场&lt;br&gt;• PlayMaker&lt;br&gt;• PolyNav（运动包）&lt;br&gt;• Pool Boss&lt;br&gt;• 池管理器&lt;br&gt;• 池、触发器、约束捆绑&lt;br&gt;• Rewired&lt;br&gt;- Simple Waypoint System&lt;br&gt;• 终极角色控制器&lt;br&gt;• 终级库存系统&lt;br&gt;• uScript&lt;br&gt;• uSequencer&lt;br&gt;&lt;br&gt;* 某些推广截屏包括来自运动包或第三方集成的任务。&lt;&#x2F;p&gt;
+</content>
+        
+    </entry>
+</feed>

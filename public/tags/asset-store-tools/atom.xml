@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh">
+    <title>yzzfo - Asset Store Tools</title>
+    <subtitle>游戏开发学习资源分享</subtitle>
+    <link rel="self" type="application/atom+xml" href="https://yzzfo.github.io/tags/asset-store-tools/atom.xml"/>
+    <link rel="alternate" type="text/html" href="https://yzzfo.github.io"/>
+    <generator uri="https://www.getzola.org/">Zola</generator>
+    <updated>2024-12-02T19:47:22+00:00</updated>
+    <id>https://yzzfo.github.io/tags/asset-store-tools/atom.xml</id>
+    <entry xml:lang="zh">
+        <title>Runtime Transform Handles</title>
+        <published>2024-12-02T19:47:22+00:00</published>
+        <updated>2024-12-02T19:47:22+00:00</updated>
+        
+        <author>
+          <name>
+            
+              yzzfo
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://yzzfo.github.io/unity/store/runtime-transform-handles/"/>
+        <id>https://yzzfo.github.io/unity/store/runtime-transform-handles/</id>
+        
+        <content type="html" xml:base="https://yzzfo.github.io/unity/store/runtime-transform-handles/">&lt;p&gt;Runtime Transform Handles 是用于在场景中操作 GameObjects 的运行时 3D 控件。&lt;&#x2F;p&gt;
+&lt;p &gt;&lt;strong&gt;Runtime Transform Handles&lt;&#x2F;strong&gt; 是用于在场景中操作 GameObjects 的运行时 3D 控件。通过变换组件，有三种内置变换工具用于定位、旋转和缩放对象。补充控件，如场景小工具和网格，允许更改视角和投影模式，并在场景中显示网格。其他重要组件包括选择组件、场景组件和控件组件，它们允许选择对象、导航场景以及更改变换控件的外观。&lt;&#x2F;p&gt;
+&lt;p &gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;BattlehubCode&#x2F;RTH_Docs&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;文档&lt;&#x2F;strong&gt; &lt;&#x2F;a&gt;&lt;strong&gt;|&lt;&#x2F;strong&gt; &lt;a href=&quot;https:&#x2F;&#x2F;t.me&#x2F;battlehub&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;Telegram&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+&lt;p &gt;这是 &lt;a href=&quot;https:&#x2F;&#x2F;www.assetstore.unity3d.com&#x2F;en&#x2F;#!&#x2F;content&#x2F;64806&quot; target=&quot;_blank&quot;&gt;Runtime Editor&lt;&#x2F;a&gt; 的精简版&lt;&#x2F;p&gt;
+&lt;p &gt;&lt;strong&gt;功能：&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;p &gt;♥ 位置控件，&lt;&#x2F;p&gt;&lt;p &gt;♥ 旋转控件；&lt;&#x2F;p&gt;&lt;p &gt;♥ 缩放控件；&lt;&#x2F;p&gt;&lt;p &gt;♥ 网格；&lt;&#x2F;p&gt;&lt;p &gt;♥ 框选；&lt;&#x2F;p&gt;&lt;p &gt;♥ 选择小工具；&lt;&#x2F;p&gt;&lt;p &gt;♥ 对齐到网格 &amp;amp; 顶点捕捉；&lt;&#x2F;p&gt;&lt;p &gt;♥ 场景导航；&lt;&#x2F;p&gt;&lt;p &gt;♥ 全局 &amp;amp; 本地坐标；&lt;&#x2F;p&gt;&lt;p &gt;♥ 撤销 &amp;amp; 重做；&lt;&#x2F;p&gt;&lt;p &gt;♥ 触控支持；&lt;&#x2F;p&gt;&lt;p &gt;♥ 多摄像机支持；&lt;&#x2F;p&gt;</content>
+        
+    </entry>
+    <entry xml:lang="zh">
+        <title>Runtime Editor</title>
+        <published>2024-11-29T21:19:38+00:00</published>
+        <updated>2024-11-30T13:23:24+00:00</updated>
+        
+        <author>
+          <name>
+            
+              yzzfo
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://yzzfo.github.io/unity/store/runtime-editor/"/>
+        <id>https://yzzfo.github.io/unity/store/runtime-editor/</id>
+        
+        <content type="html" xml:base="https://yzzfo.github.io/unity/store/runtime-editor/">&lt;p&gt;Runtime Editor is a set of scripts and prefabs that help you create scene editor, game level editor, or your own modeling application&lt;br&gt;&lt;strong&gt;运行时编辑器&lt;&#x2F;strong&gt;是一套脚本和预制件，可帮助你创建场景编辑器、关卡编辑器，或者构建你自己的建模应用程序。它支持拖放、撤消和重新，以及选择 api。为了实现用户界面和核心功能，运行时编辑器使用&lt;a href=&quot;https:&#x2F;&#x2F;assetstore.unity.com&#x2F;packages&#x2F;tools&#x2F;modeling&#x2F;runtime-transform-handles-65363&quot;&gt;了变换句柄&lt;&#x2F;a&gt;、&lt;a href=&quot;https:&#x2F;&#x2F;assetstore.unity.com&#x2F;packages&#x2F;tools&#x2F;modeling&#x2F;gizmos-77103&quot;&gt;小工具&lt;&#x2F;a&gt;、&lt;a href=&quot;https:&#x2F;&#x2F;assetstore.unity.com&#x2F;packages&#x2F;tools&#x2F;modeling&#x2F;runtime-save-load-72578&quot;&gt;存档加载&lt;&#x2F;a&gt;子系统和三个控件：&lt;a href=&quot;https:&#x2F;&#x2F;assetstore.unity.com&#x2F;packages&#x2F;tools&#x2F;gui&#x2F;menu-control-138619&quot;&gt;菜单&lt;&#x2F;a&gt;、&lt;a href=&quot;https:&#x2F;&#x2F;assetstore.unity.com&#x2F;packages&#x2F;tools&#x2F;gui&#x2F;virtualizing-tree-view-101871&quot;&gt;虚拟化树状视图&lt;&#x2F;a&gt;，以及&lt;a href=&quot;https:&#x2F;&#x2F;assetstore.unity.com&#x2F;packages&#x2F;tools&#x2F;gui&#x2F;dock-panel-138621&quot;&gt;程序坞面板。&lt;&#x2F;a&gt;&lt;br&#x2F;&gt;&lt;br&#x2F;&gt;&lt;a href=&quot;http:&#x2F;&#x2F;rteditor.battlehub.net&#x2F;&quot;&gt;&lt;strong&gt;文档&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt; &lt;strong&gt;|&lt;&#x2F;strong&gt; &lt;a href=&quot;https:&#x2F;&#x2F;forum.unity3d.com&#x2F;threads&#x2F;runtime-editor.470084&#x2F;&quot;&gt;&lt;strong&gt;论坛&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt;&lt;br&#x2F;&gt;&lt;br&#x2F;&gt;&lt;strong&gt;功能：&lt;&#x2F;strong&gt;&lt;br&#x2F;&gt;♥ 定位、旋转、伸缩变形句柄；&lt;br&#x2F;&gt;♥ 网格、盒形选择、场景小工具；&lt;br&#x2F;&gt;♥ 变形句柄移动版和 AR 核心支持；&lt;br&#x2F;&gt;♥ 全局和局部坐标；&lt;br&#x2F;&gt;♥ 局部和中央轴心点模式；&lt;br&#x2F;&gt;♥ 顶点和网格捕捉；&lt;br&#x2F;&gt;♥ 碰撞器、光线和音源小工具；&lt;br&#x2F;&gt;♥ 场景导航、正交和透视视图；&lt;br&#x2F;&gt;♥ 撤消和重做 API；&lt;br&#x2F;&gt;♥ 对象选择 API；&lt;br&#x2F;&gt;♥ 对象生命周期事件；&lt;br&#x2F;&gt;♥ 游戏和编辑模式；&lt;br&#x2F;&gt;♥ 可配置的检视器；&lt;br&#x2F;&gt;♥ 组件和材料编辑器；&lt;br&#x2F;&gt;♥ 16 种内置的属性编辑器；&lt;br&#x2F;&gt;♥ 增加组件控制；&lt;br&#x2F;&gt;♥ 多个场景和镜头支持；&lt;br&#x2F;&gt;♥ 停靠面板和窗口管理；&lt;br&#x2F;&gt;♥ 对话、消息框和确认；&lt;br&#x2F;&gt;♥ 轻松使用新窗口进行扩展；&lt;br&#x2F;&gt;♥ 可配置的主菜单和上下文菜单；&lt;br&#x2F;&gt;♥ 快速虚拟化树状视图；&lt;br&#x2F;&gt;♥ 可配置的保存和加载子系统；&lt;br&#x2F;&gt;♥ 易于使用的项目 API；&lt;br&#x2F;&gt;♥ 静态和动态资源支持；&lt;br&#x2F;&gt;♥ 资源捆绑包支持；&lt;br&#x2F;&gt;♥ 多项目支持；&lt;br&#x2F;&gt;&lt;br&#x2F;&gt;&lt;strong&gt;Telegram: https:&#x2F;&#x2F;t.me&#x2F;battlehub&lt;&#x2F;strong&gt;&lt;br&#x2F;&gt;&lt;br&#x2F;&gt;&lt;&#x2F;p&gt;
+</content>
+        
+    </entry>
+</feed>

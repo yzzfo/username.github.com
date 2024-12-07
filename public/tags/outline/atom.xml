@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh">
+    <title>yzzfo - outline</title>
+    <subtitle>游戏开发学习资源分享</subtitle>
+    <link rel="self" type="application/atom+xml" href="https://yzzfo.github.io/tags/outline/atom.xml"/>
+    <link rel="alternate" type="text/html" href="https://yzzfo.github.io"/>
+    <generator uri="https://www.getzola.org/">Zola</generator>
+    <updated>2024-12-07T19:59:43+00:00</updated>
+    <id>https://yzzfo.github.io/tags/outline/atom.xml</id>
+    <entry xml:lang="zh">
+        <title>Highlight Plus - All in One Outline &amp; Selection Effects</title>
+        <published>2024-11-29T21:20:55+00:00</published>
+        <updated>2024-11-30T13:25:09+00:00</updated>
+        
+        <author>
+          <name>
+            
+              yzzfo
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://yzzfo.github.io/unity/store/highlight-plus-all-in-one-outline-selection-effects/"/>
+        <id>https://yzzfo.github.io/unity/store/highlight-plus-all-in-one-outline-selection-effects/</id>
+        
+        <content type="html" xml:base="https://yzzfo.github.io/unity/store/highlight-plus-all-in-one-outline-selection-effects/">&lt;p&gt;Highlight Plus adds outline, glow, overlay, see-through and other effects to objects and characters in your scene.&lt;br&gt;&lt;strong&gt;Highlight Plus&lt;&#x2F;strong&gt; 为场景中的所有对象都&lt;strong&gt;添加了轮廓、发光、 覆盖及其&lt;&#x2F;strong&gt;他特效。&lt;br&gt;&lt;br&gt;HP 在设计时考虑到了&lt;strong&gt;平台兼容性&lt;&#x2F;strong&gt;和&lt;strong&gt;性能&lt;&#x2F;strong&gt;。&lt;br&gt;&lt;br&gt;&lt;a href=&quot;https:&#x2F;&#x2F;kronnect.me&#x2F;unity&#x2F;highp&#x2F;demo&#x2F;&#x2F;&quot;&gt;Web 演示&lt;&#x2F;a&gt;&lt;br&gt;&lt;br&gt;&lt;strong&gt;** 视觉特征 &lt;strong&gt;&lt;&#x2F;strong&gt;&lt;br&gt;&lt;br&gt;- 轮廓颜色、α 和宽度&lt;br&gt;- 外部发光颜色、宽度、α、动画速度、抖动、多色彩&lt;br&gt;- 内部发光颜色、宽度和强度&lt;br&gt;- 覆盖颜色、α 和动画速度&lt;br&gt;- 透视特效强度、着色颜色和 α被遮挡的对象保持正确的深度。外加其他着色边界选项。&lt;br&gt;- 目标特效，带有可自定义的过渡、动画、纹理和颜色。也与蒙皮网格兼容。除了将目标突出，你现在还可以利用这一新功能处理任何数量的地点。&lt;br&gt;- 击中&#x2F;闪光特效，具有自定义的颜色、强度和淡出持续时间&lt;br&gt;&lt;br&gt;&lt;strong&gt;&lt;&#x2F;strong&gt; 其他特征 &lt;strong&gt;&lt;&#x2F;strong&gt;&lt;br&gt;&lt;br&gt;- 在编辑器中预览效果（无需进入任何模式）&lt;br&gt;- 极为灵活：可以影响单个或一组对象，或通过图层选项以自动模式运行&lt;br&gt;- 通过输入体积触发的选项&lt;br&gt;- 可排除特定的子网格&lt;br&gt;- 可精确控制自动模式的事件系统&lt;br&gt;- 淡入&#x2F;淡出&lt;br&gt;- 将设置复制到可重复使用的配置文件中&lt;br&gt;- 适用于法线、蒙皮网格及 LOD 群组&lt;br&gt;- 适用于正交和透视摄像机及多个摄像机&lt;br&gt;- 安全：不会修改对象材质、着色器或网格&lt;br&gt;- 性能：这不是完整的屏幕图像特效&lt;br&gt;- 有序透视更多详细信息，&lt;a href=&quot;https:&#x2F;&#x2F;medium.com&#x2F;@KronnectGames&#x2F;ordered-see-through-effect-with-highlight-plus-b5f190e4d7a7&quot;&gt;请查看此处&lt;&#x2F;a&gt;。&lt;br&gt;- 3 个质量等级&lt;br&gt;&lt;br&gt;&lt;strong&gt;&lt;&#x2F;strong&gt; 平台兼容性 **&lt;&#x2F;strong&gt;&lt;br&gt;&lt;br&gt;内置&#x2F;标准管线 (Unity 2018.4+)&lt;br&gt;- 与 Mac、Windows、Android、iOS、WebGL 兼容&lt;br&gt;- 兼容 VR&lt;br&gt;- 移动端速度极快&lt;br&gt;&lt;br&gt;通用渲染管线 (Unity 2019.3+)&lt;br&gt;该资源还随附一个专用于通用渲染管线的版本。&lt;br&gt;&lt;br&gt;请注意：Highlight Plus 适用于网格（3D 或 2D）。&lt;br&gt;为实现精灵高亮，&lt;a href=&quot;https:&#x2F;&#x2F;assetstore.unity.com&#x2F;packages&#x2F;tools&#x2F;particles-effects&#x2F;highlight-plus-2d-138383&quot;&gt;请使用 Highlight Plus 2D&lt;&#x2F;a&gt;。&lt;br&gt;&lt;br&gt;&lt;a href=&quot;https:&#x2F;&#x2F;assetstore.unity.com&#x2F;publishers&#x2F;15018&quot;&gt;请查看我们的其他资源。&lt;&#x2F;a&gt;&lt;br&gt;&lt;br&gt;&lt;a href=&quot;http:&#x2F;&#x2F;kronnect.me&#x2F;taptapgo&quot;&gt;支持论坛&lt;&#x2F;a&gt;&lt;br&gt;&lt;br&gt;&lt;&#x2F;p&gt;
+</content>
+        
+    </entry>
+    <entry xml:lang="zh">
+        <title>Flat Kit: Toon Shading and Water</title>
+        <published>2024-11-29T21:19:28+00:00</published>
+        <updated>2024-12-07T19:59:43+00:00</updated>
+        
+        <author>
+          <name>
+            
+              yzzfo
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://yzzfo.github.io/unity/store/flat-kit-toon-shading-and-water/"/>
+        <id>https://yzzfo.github.io/unity/store/flat-kit-toon-shading-and-water/</id>
+        
+        <content type="html" xml:base="https://yzzfo.github.io/unity/store/flat-kit-toon-shading-and-water/">&lt;p&gt;Flat Kit is a complete solution to achieve the stylish cel-shaded look: shaders, models, image effects, presets, examples.&lt;br&gt;&lt;strong&gt;Flat Kit&lt;&#x2F;strong&gt; 是一款可实现风格化卡通渲染的整套工具：着色器、模型、图像特效、预设、示例。&lt;br&gt;&lt;strong&gt;自定义着色模型&lt;&#x2F;strong&gt;功能多样，可用于经典卡通着色，也可用于风格独特的实验性项目。&lt;br&gt;&lt;br&gt;&lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;youtu.be&#x2F;Sc838YuWPhA&quot;&gt;&lt;strong&gt;演示视频&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt;|&lt;a href=&quot;https:&#x2F;&#x2F;drive.google.com&#x2F;open?id=1GQbTaZQmdmliz31bKxJDDSlhAz0vKgHQ3mxDfCV-iOw&quot;&gt;&lt;strong&gt;在线用户手册&lt;&#x2F;strong&gt;（请留下评论！）&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;&lt;br&gt;&lt;strong&gt;功能：&lt;&#x2F;strong&gt;&lt;br&gt;• 功能丰富的&lt;strong&gt;抛光卡通着色&lt;&#x2F;strong&gt;（见下文）&lt;br&gt;• ​​​&lt;strong&gt;渐变雾&lt;&#x2F;strong&gt;：多层水平&#x2F;垂直渐变雾图像效果&lt;br&gt;• ​​适用于 Unity 或第三方地形的​&lt;strong&gt;地形着色器&lt;&#x2F;strong&gt;&lt;br&gt;• 3D 亮点和上帝之光&lt;strong&gt;光平面着色器&lt;&#x2F;strong&gt;&lt;br&gt;• &lt;strong&gt;移动端支持&lt;&#x2F;strong&gt;&lt;br&gt;• 支持&lt;strong&gt;内置和 URP&lt;&#x2F;strong&gt; - 所有对象着色器和后处理效果支持两种渲染管线。&lt;br&gt;&lt;br&gt;• &lt;&#x2F;strong&gt;支持顶点颜色&lt;&#x2F;strong&gt;（仅限内置 RP），也适用于 Polybrush&lt;br&gt;•Unity 内置阴影的控制能力&lt;br&gt;• 支持间接光照&lt;br&gt;• 直观、简洁和流畅的界面 - 仅使用您需要的功能&lt;br&gt;• 精确地为场景着色 - 无需臆测&lt;br&gt;• 完整源代码&lt;br&gt;• 详尽的在线手册&lt;br&gt;&lt;br&gt;&lt;strong&gt;Core Cel &lt;&#x2F;strong&gt;着色器概述：&lt;br&gt;• 带有参数绑定功能的卡通着色：&lt;strong&gt;单步、跃变、曲线&lt;&#x2F;strong&gt;&lt;br&gt;• 两个独立的卡通层&lt;br&gt;• 高度渐变层&lt;br&gt;• 几种&lt;strong&gt;轮廓线&lt;&#x2F;strong&gt;工具&lt;br&gt;• 法线和卡通着色之间的参数混合&lt;br&gt;• 风格化的&lt;strong&gt;镜面和边缘光照&lt;&#x2F;strong&gt;&lt;br&gt;• 支持&lt;strong&gt;法线贴图&lt;&#x2F;strong&gt;&lt;br&gt;• 可在 .cginc 文件中&lt;strong&gt;重复使用自定义光照&lt;&#x2F;strong&gt;，您可以将其集成到着色器中（非必须）。&lt;br&gt;&lt;br&gt;&lt;strong&gt;该资源包包括&lt;&#x2F;strong&gt;：&lt;br&gt;• 3 种 uber 着色器，带有大量切换键和参数&lt;br&gt;• 自定义卡通着色光照库&lt;br&gt;• 2 种后处理效果：雾和轮廓线&lt;br&gt;• 8 个演示场景&lt;br&gt;• 90+ 个模型&lt;br&gt;• 20+ 种材质预设&lt;br&gt;&lt;br&gt;如有疑问，请告诉我们！&lt;br&gt;&lt;a href=&quot;mailto:info@dustyroom.com&quot;&gt;info@dustyroom.com&lt;&#x2F;a&gt; | &lt;a href=&quot;https:&#x2F;&#x2F;twitter.com&#x2F;_dstrm&quot;&gt;@_dstrm&lt;&#x2F;a&gt; | 可在&lt;a href=&quot;https:&#x2F;&#x2F;drive.google.com&#x2F;open?id=1GQbTaZQmdmliz31bKxJDDSlhAz0vKgHQ3mxDfCV-iOw&quot;&gt;在线用户指南&lt;&#x2F;a&gt;上评论&lt;&#x2F;p&gt;
+</content>
+        
+    </entry>
+</feed>

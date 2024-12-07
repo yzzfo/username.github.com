@@ -1,12 +1,32 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh">
-    <title>yzzfo - Functionality</title>
+    <title>yzzfo | Share for Free - Functionality</title>
     <subtitle>游戏开发学习资源分享</subtitle>
     <link rel="self" type="application/atom+xml" href="https://yzzfo.github.io/tags/functionality/atom.xml"/>
     <link rel="alternate" type="text/html" href="https://yzzfo.github.io"/>
     <generator uri="https://www.getzola.org/">Zola</generator>
-    <updated>2024-12-06T14:27:47+00:00</updated>
+    <updated>2024-12-07T20:00:28+00:00</updated>
     <id>https://yzzfo.github.io/tags/functionality/atom.xml</id>
+    <entry xml:lang="zh">
+        <title>Playmaker</title>
+        <published>2024-12-07T20:00:28+00:00</published>
+        <updated>2024-12-07T20:00:28+00:00</updated>
+        
+        <author>
+          <name>
+            
+              yzzfo
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://yzzfo.github.io/unity/store/playmaker/"/>
+        <id>https://yzzfo.github.io/unity/store/playmaker/</id>
+        
+        <content type="html" xml:base="https://yzzfo.github.io/unity/store/playmaker/">&lt;p&gt;&lt;br&gt;&lt;strong&gt;一款供《炉石传说》&lt;&#x2F;strong&gt;、&lt;strong&gt;《INSIDE》&lt;&#x2F;strong&gt;、&lt;strong&gt;《空心骑士》&lt;&#x2F;strong&gt;、&lt;strong&gt;《第一棵树》&lt;&#x2F;strong&gt;、&lt;strong&gt;《观察》&lt;&#x2F;strong&gt;、&lt;strong&gt;《梦幻降临》&lt;&#x2F;strong&gt;等游戏使用的顶级 Unity 可视化脚本工具：&lt;a href=&quot;http:&#x2F;&#x2F;www.hutonggames.com&#x2F;showcase.html&quot;&gt;Project Showcase&lt;&#x2F;a&gt;​​​&lt;br&#x2F;&gt;&lt;br&#x2F;&gt;艺术家和设计师：无需编码就能实现你的创作视角！ 解锁 Unity 的强大力量。&lt;br&#x2F;&gt;&lt;br&#x2F;&gt;程序员：给你的工具箱增添一个功能强大的可视化状态机编辑器。通过自定义动作与脚本交互或扩展 Playmaker。&lt;br&#x2F;&gt;&lt;br&#x2F;&gt;&lt;p&gt;&lt;strong&gt;PLAYMAKER 的差异&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;br&#x2F;&gt;&lt;p&gt;&lt;strong&gt;易于理解&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;br&#x2F;&gt;&lt;p&gt;其他的可视化脚本工具只是直接以数千个节点将 Unity API（为程序员编写的）和 C# 语言（编程）揭露出来。如果你已经知道如何编程的话，那你就可以构建自己所需要的，但是这对于非程序员来说是很难学的！&lt;&#x2F;p&gt;&lt;br&#x2F;&gt;&lt;p&gt;PlayMaker 采用更高级的策略，借助状态、动作和事件来提供一个直观的结构并助你快速构建行为。这实际上使非程序员和程序员两者都能够更快地、更高效地制作。&lt;&#x2F;p&gt;&lt;br&#x2F;&gt;&lt;p&gt;&lt;strong&gt;可随时制作&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;br&#x2F;&gt;&lt;p&gt;PlayMaker 已在数十个已推出的产品中使用，包括《炉石传说》、《INSIDE》、《空心骑士》、《第一棵树》、《梦幻降临》、《看火人》、以及更多等等。从 AAA 工作室到独立开发人员我们都合作过，以确保 PlayMaker 满足他们在每个平台上的需求。&lt;&#x2F;p&gt;&lt;br&#x2F;&gt;&lt;p&gt;&lt;strong&gt;性能&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;br&#x2F;&gt;&lt;p&gt;其他可视化脚本解决方案使用的是委托或反射来调用图形中每个节点。即使简单的行为也需要多个节点。这样就积累得很快并会对性能造成受严重打击！&lt;&#x2F;p&gt;&lt;br&#x2F;&gt;&lt;p&gt;PlayMaker 的动作是 C# 脚本，就和你的项目中任何其他脚本一样。调用它们起来快速高效。你也需要更少操作来达到同样在其他可视化脚本工具中数十个节点的效果。&lt;&#x2F;p&gt;&lt;br&#x2F;&gt;&lt;p&gt;&lt;strong&gt;生态系统&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;br&#x2F;&gt;&lt;p&gt;PlayMaker 有一个活跃的用户社区，里面有在线管理员和资深用户来回答你的问题。生态系统浏览器能够轻松访问不断增长的自定义动作、教程、样本、模板等。&lt;&#x2F;p&gt;&lt;br&#x2F;&gt;&lt;p&gt;许多第三方资源都支持 PlayMaker，有易于使用的动作，因此不用你去弄明白这些写给程序员的 API。&lt;&#x2F;p&gt;&lt;br&#x2F;&gt;&lt;strong&gt;功能&lt;&#x2F;strong&gt;&lt;br&#x2F;&gt;&lt;br&#x2F;&gt;:: 2018.3+ 版本中支持&lt;strong&gt;新的&lt;&#x2F;strong&gt;嵌套式预制件&lt;br&#x2F;&gt;:: &lt;strong&gt;新的&lt;&#x2F;strong&gt;集成 UI 动作和事件。&lt;br&#x2F;&gt;:: 动作中&lt;strong&gt;新的&lt;&#x2F;strong&gt;自动转换变量。&lt;br&#x2F;&gt;:: &lt;strong&gt;新的&lt;&#x2F;strong&gt;性能改进。&lt;br&#x2F;&gt;:: 动作的&lt;strong&gt;新&lt;&#x2F;strong&gt;类别图标。&lt;br&#x2F;&gt;:: &lt;strong&gt;新的&lt;&#x2F;strong&gt;收藏夹和最近操作。&lt;br&#x2F;&gt;:: &lt;strong&gt;新的&lt;&#x2F;strong&gt;动作属性。&lt;br&#x2F;&gt;:: 在直观的图形视图中构建行为。&lt;br&#x2F;&gt;:: 拖放动作 - 无语法错误！&lt;br&#x2F;&gt;:: 使用复制&#x2F;粘贴和模板节省时间。&lt;br&#x2F;&gt;:: 访问脚本和第三方插件。&lt;br&#x2F;&gt;:: 享受强大的运行时调试：&lt;br&#x2F;&gt;:: 观察状态、变量和事件。&lt;br&#x2F;&gt;:: 通过调试流程暂停和倒回时间。&lt;br&#x2F;&gt;:: 下载热门插件的动作资源包：&lt;br&#x2F;&gt;:: NGUI、2DToolkit、Photon、iTween...&lt;br&#x2F;&gt;:: 通过自定义动作扩展 Playmaker。&lt;br&#x2F;&gt;:: 在我们的 YouTube 频道上观看教程。&lt;br&#x2F;&gt;:: 加入活跃的在线社区。&lt;br&#x2F;&gt;&lt;br&#x2F;&gt;&lt;a href=&quot;http:&#x2F;&#x2F;www.hutonggames.com&#x2F;&quot;&gt;更多信息 &amp;gt;&amp;gt;&lt;&#x2F;a&gt;&lt;br&#x2F;&gt;&lt;br&#x2F;&gt;&lt;br&#x2F;&gt;&lt;br&#x2F;&gt;注意：Unity 的 Alpha 版本无正式支持。我们尝试尽可能支持 Unity 的 Beta 版，但一般建议你使用 Unity 的官方发布版本以实现最高兼容性。&lt;&#x2F;p&gt;
+</content>
+        
+    </entry>
     <entry xml:lang="zh">
         <title>Odin Validator</title>
         <published>2024-12-06T14:27:47+00:00</published>

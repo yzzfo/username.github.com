@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh">
+    <title>yzzfo - ragdoll</title>
+    <subtitle>游戏开发学习资源分享</subtitle>
+    <link rel="self" type="application/atom+xml" href="https://yzzfo.github.io/tags/ragdoll/atom.xml"/>
+    <link rel="alternate" type="text/html" href="https://yzzfo.github.io"/>
+    <generator uri="https://www.getzola.org/">Zola</generator>
+    <updated>2024-11-30T13:17:21+00:00</updated>
+    <id>https://yzzfo.github.io/tags/ragdoll/atom.xml</id>
+    <entry xml:lang="zh">
+        <title>PuppetMaster</title>
+        <published>2024-11-29T21:16:44+00:00</published>
+        <updated>2024-11-30T13:17:21+00:00</updated>
+        
+        <author>
+          <name>
+            
+              yzzfo
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://yzzfo.github.io/unity/store/puppetmaster/"/>
+        <id>https://yzzfo.github.io/unity/store/puppetmaster/</id>
+        
+        <content type="html" xml:base="https://yzzfo.github.io/unity/store/puppetmaster/">&lt;p&gt;Advanced active ragdoll physics complete with ragdoll creation and editing tools from the creator of Final IK.&lt;br&gt;高级的活跃布娃娃物理系统，带有布娃娃创建和编辑工具，由 Final IK &lt;a href=&quot;https:&#x2F;&#x2F;www.assetstore.unity3d.com&#x2F;en&#x2F;#!&#x2F;content&#x2F;14290&quot;&gt;的开发者开发。&lt;&#x2F;a&gt;&lt;br&gt;&lt;br&gt;&lt;strong&gt;0.9 版本更新：&lt;&#x2F;strong&gt;&lt;br&gt;- 增加了&lt;a href=&quot;https:&#x2F;&#x2F;youtu.be&#x2F;uakZqX1hju0&quot;&gt;烘焙器&lt;&#x2F;a&gt;，一款强大的新工具，可将 PuppetMaster 物理系统烘焙到人型角色、通用和旧版 动画剪辑中。&lt;br&gt;- 全新高度优化且易用的&lt;a href=&quot;https:&#x2F;&#x2F;youtu.be&#x2F;Bkw1gmrDr1I&quot;&gt;道具系统&lt;&#x2F;a&gt;&lt;br&gt;- 用于断开身体部位的新优化的 API。&lt;br&gt;- 更新了&lt;a href=&quot;http:&#x2F;&#x2F;www.root-motion.com&#x2F;puppetmasterdox&#x2F;html&#x2F;pages.html&quot;&gt;文档&lt;&#x2F;a&gt;&lt;br&gt;- 修复了许多错误，提升了稳定性，请参阅发行说明以获取完整列表。&lt;br&gt;&lt;br&gt;PuppetMaster 0.9 完全兼容 Final IK 1.9 和 Unity 2017&#x2F;2018&#x2F;2019 版本。&lt;br&gt;&lt;br&gt;&lt;strong&gt;我可以用 PuppetMaster 来做&lt;&#x2F;strong&gt;什么？&lt;br&gt;- 制作布娃娃动画&lt;br&gt;- 一键创建两足动物布娃娃&lt;br&gt;- 在场景视图中直观地可视化编辑碰撞体和关节限制。&lt;br&gt;- 为布娃娃角色创建程序化行为。&lt;br&gt;&lt;br&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v=on7wAz0fsGg&quot;&gt;概述视频&lt;&#x2F;a&gt;&lt;br&gt;&lt;br&gt;&lt;strong&gt;技术概述？&lt;&#x2F;strong&gt;&lt;br&gt;PuppetMaster 和布娃娃编辑工具适用于 Humanoid、Generic 和 Legacy 角色，布娃娃创建适用于所有两足角色。已知的移动平台均可使用。&lt;br&gt;&lt;br&gt;PuppetMaster 完全兼容 Unity 内置的反向动力学工具以及 Final-IK。&lt;br&gt;&lt;br&gt;&lt;strong&gt;NB！&lt;&#x2F;strong&gt;如果你装有 Final IK，则可从“PuppetMaster&#x2F;_Integration”文件夹导入 Final IK 的演示项目。&lt;br&gt;&lt;br&gt;&lt;strong&gt;如何学习使用 PuppetMaste&lt;&#x2F;strong&gt;r？&lt;br&gt;&lt;a href=&quot;https:&#x2F;&#x2F;rootmotion.freshdesk.com&#x2F;support&#x2F;home&quot;&gt;帮助、社区和支持请求&lt;&#x2F;a&gt;&lt;br&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.youtube.com&#x2F;playlist?list=PLVxSIA1OaTOuE2SB9NUbckQ9r2hTg4mvL&quot;&gt;教程视频频道&lt;&#x2F;a&gt;&lt;br&gt;&lt;a href=&quot;http:&#x2F;&#x2F;root-motion.com&#x2F;puppetmasterdox&#x2F;html&#x2F;pages.html&quot;&gt;用户手册&lt;&#x2F;a&gt;&lt;br&gt;&lt;a href=&quot;http:&#x2F;&#x2F;root-motion.com&#x2F;puppetmasterdox&#x2F;html&#x2F;annotated.html&quot;&gt;脚本参考&lt;&#x2F;a&gt;&lt;br&gt;&lt;a href=&quot;http:&#x2F;&#x2F;www.root-motion.com&quot;&gt;发布者的网站&lt;&#x2F;a&gt;&lt;br&gt;support@root-motion.com&lt;br&gt;&lt;br&gt;&lt;strong&gt;NB！&lt;&#x2F;strong&gt;若要查看每个组件的基本学习资源，请右键单击菜单标题，点击帮助按钮，然后点击快捷菜单中的教程&#x2F;手册链接。&lt;br&gt;&lt;br&gt;&lt;strong&gt;你对使用该产品有什么计划？&lt;&#x2F;strong&gt;&lt;br&gt;与 Final IK 类似，PuppetMaster 会经历一段长期的 beta 测试期，未来几年会继续不断开发。开发点主要在确保产品的稳定性，以及给布娃娃创建新的智能程序化行为。&lt;br&gt;&lt;br&gt;期待共同合作，&lt;br&gt;Partel Lang - PuppetMaster 的开发者&lt;&#x2F;p&gt;&lt;&#x2F;p&gt;
+</content>
+        
+    </entry>
+</feed>

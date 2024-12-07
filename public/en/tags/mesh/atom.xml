@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+    <title>yzzfo - mesh</title>
+    <subtitle>Game Development Learning Resources</subtitle>
+    <link rel="self" type="application/atom+xml" href="https://yzzfo.github.io/en/tags/mesh/atom.xml"/>
+    <link rel="alternate" type="text/html" href="https://yzzfo.github.io"/>
+    <generator uri="https://www.getzola.org/">Zola</generator>
+    <updated>2024-12-06T14:28:15+00:00</updated>
+    <id>https://yzzfo.github.io/en/tags/mesh/atom.xml</id>
+    <entry xml:lang="en">
+        <title>Dynamic Mesh Cutter</title>
+        <published>2024-12-06T14:28:15+00:00</published>
+        <updated>2024-12-06T14:28:15+00:00</updated>
+        
+        <author>
+          <name>
+            
+              yzzfo
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://yzzfo.github.io/en/unity/store/dynamic-mesh-cutter/"/>
+        <id>https://yzzfo.github.io/en/unity/store/dynamic-mesh-cutter/</id>
+        
+        <content type="html" xml:base="https://yzzfo.github.io/en/unity/store/dynamic-mesh-cutter/">&lt;p&gt;&lt;br&gt;Dynamic Mesh Cutter is a high performance runtime mesh cutting algorithm, splitting meshes by plane intersection into &lt;strong&gt; multiple disjoint &lt;&#x2F;strong&gt; meshes. &lt;br&gt;&lt;br&gt;Highlights: &lt;br&gt; - Using &lt;strong&gt; multithreading &lt;&#x2F;strong&gt; to asynchronously cut meshes without blocking the main thread. &lt;br&gt;  - Separating meshes into &lt;strong&gt; multiple disjoint meshes &lt;&#x2F;strong&gt; , not just a &quot;left&quot; and &quot;right&quot; side. &lt;br&gt;  - Cutting &lt;strong&gt; skinned mesh renderers &lt;&#x2F;strong&gt; including animated meshes while respecting boneweights. &lt;br&gt;  - Optional settings to increase or decrease performance based on the desired mesh result. &lt;br&gt;  - Optimized to run on &lt;strong&gt; mobile and VR devices &lt;&#x2F;strong&gt; &lt;br&gt; &lt;br&gt; &lt;strong&gt; RAGDOLL UPDATE: &lt;&#x2F;strong&gt;Now also cutting ragdolls and separating joints, rigidbodies and colliders automatically!&lt;br&gt; &lt;br&gt; For more details on how exactly Dynamic Mesh Cutter is working, please read the &lt;a href = &quot;https:&#x2F;&#x2F;docs.google.com&#x2F;document&#x2F;d&#x2F;1hTIdBDhKTEkR1is2GAxyVnb0muZ7pQQNx61NupFaT1A&#x2F;edit?usp=sharing&quot;&gt;Manual&lt;&#x2F;a&gt;. For FAQ please visit the below discussion thread.&lt;br&gt;&lt;br&gt;&lt;a href=&quot;https:&#x2F;&#x2F;forum.unity.com&#x2F;threads&#x2F;dynamic-mesh-cutter-a-flexible-run-time-mesh-cutting-solution-discussion-thread.1249558&#x2F;&quot;&gt;Discussion Thread&lt;&#x2F;a&gt;&lt;br&gt;&lt;a href = &quot;https:&#x2F;&#x2F;youtu.be&#x2F;ZdndBDP2H9M&quot;&gt;Demonstration&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+</content>
+        
+    </entry>
+    <entry xml:lang="en">
+        <title>Mesh Effects</title>
+        <published>2024-11-29T21:19:19+00:00</published>
+        <updated>2024-11-30T13:23:02+00:00</updated>
+        
+        <author>
+          <name>
+            
+              yzzfo
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://yzzfo.github.io/en/unity/store/mesh-effects/"/>
+        <id>https://yzzfo.github.io/en/unity/store/mesh-effects/</id>
+        
+        <content type="html" xml:base="https://yzzfo.github.io/en/unity/store/mesh-effects/">&lt;p&gt;&lt;br&gt;&lt;p &gt;Supported mobile platforms, VR, URP (10x+) and HDRP (10x+) rendering&lt;&#x2F;p&gt;&lt;p &gt;(does not work with 2D sprites)&lt;&#x2F;p&gt;&lt;p &gt;&lt;strong&gt;Note&lt;&#x2F;strong&gt;: Uninstall the old version of the package before upgrading.&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;&lt;a href=&quot;http:&#x2F;&#x2F;kripto289.com&#x2F;AssetStore&#x2F;WeaponFX&#x2F;1.4&#x2F;PC.zip&quot; target=&quot;_blank&quot;&gt;PC Demo&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;&lt;p &gt;&lt;a href=&quot;http:&#x2F;&#x2F;kripto289.com&#x2F;AssetStore&#x2F;WeaponFX&#x2F;1.4&#x2F;MeshEffectsDemo.apk&quot; target=&quot;_blank&quot;&gt;Mobile Demo&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;- Works out of the box (just drag and drop)&lt;&#x2F;p&gt;&lt;p &gt;- Any color in one click&lt;&#x2F;p&gt;&lt;p &gt;- Effects scale relative to a real mesh size&lt;&#x2F;p&gt;&lt;p &gt;- Works with a &quot;mesh renderer&quot; and a &quot;skinned mesh renderer&quot;&lt;&#x2F;p&gt;&lt;p &gt;- The demo scene includes (animations&#x2F;characters&#x2F;weapons&#x2F;environment)&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;&#x2F;br&gt;&lt;p &gt;&lt;a href=&quot;https:&#x2F;&#x2F;discord.gg&#x2F;GUUZ9D96Uq&quot; target=&quot;_blank&quot;&gt;Discord channel&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;&lt;p &gt;email: kripto289@gmail.com&lt;&#x2F;p&gt;&lt;&#x2F;p&gt;
+</content>
+        
+    </entry>
+</feed>

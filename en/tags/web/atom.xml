@@ -1,12 +1,109 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
-    <title>yzzfo - Web</title>
+    <title>yzzfo | Share for Free - Web</title>
     <subtitle>Game Development Learning Resources</subtitle>
     <link rel="self" type="application/atom+xml" href="https://yzzfo.github.io/en/tags/web/atom.xml"/>
     <link rel="alternate" type="text/html" href="https://yzzfo.github.io"/>
     <generator uri="https://www.getzola.org/">Zola</generator>
-    <updated>2024-11-30T13:22:05+00:00</updated>
+    <updated>2024-12-07T21:00:17+00:00</updated>
     <id>https://yzzfo.github.io/en/tags/web/atom.xml</id>
+    <entry xml:lang="en">
+        <title>Cross-Platform Native Plugins : Essential Kit (Mobile - iOS &amp; Android)</title>
+        <published>2024-12-07T21:00:17+00:00</published>
+        <updated>2024-12-07T21:00:17+00:00</updated>
+        
+        <author>
+          <name>
+            
+              yzzfo
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://yzzfo.github.io/en/unity/other/cross-platform-native-plugins-essential-kit/"/>
+        <id>https://yzzfo.github.io/en/unity/other/cross-platform-native-plugins-essential-kit/</id>
+        
+        <content type="html" xml:base="https://yzzfo.github.io/en/unity/other/cross-platform-native-plugins-essential-kit/">&lt;p&gt;&lt;b&gt;Cross Platform Native Plugins: Essential Kit&lt;&#x2F;b&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;Cross Platform Native Plugins: Essential Kit provides a unified API for IAP, Notifications (FCM), Cloud Save (iCloud, Saved Games), Web view, Leaderboards, Rate app, Sharing, and more on mobile platforms.&lt;&#x2F;p&gt;
+&lt;p&gt;It is a true cross-platform tool for Unity that provides a unique and unified way to access native functionality on mobile platforms.&lt;&#x2F;p&gt;
+&lt;p&gt;The new &lt;strong&gt;2.0 version&lt;&#x2F;strong&gt; is a complete rewrite from scratch, communicating directly with native platforms and featuring a much more efficient workflow. Additionally, some parts of the API have been revised for extendability and ease of use based on your feedback!&lt;&#x2F;p&gt;
+&lt;p&gt;If you are upgrading from version 1.x, please &lt;a href=&quot;#&quot;&gt;follow this guide&lt;&#x2F;a&gt;.&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;strong&gt;Supported platforms:&lt;&#x2F;strong&gt; iOS (v10.0 and above), Android (API 14 and above).&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;b&gt;Important Links:&lt;&#x2F;b&gt;&lt;&#x2F;p&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;#&quot;&gt;Unity Forum Thread&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+  &lt;li&gt;&lt;a href=&quot;#&quot;&gt;Tutorials&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+  &lt;li&gt;&lt;a href=&quot;#&quot;&gt;Support&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;p&gt;&lt;b&gt;Highlights:&lt;&#x2F;b&gt;&lt;&#x2F;p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Unified API design&lt;&#x2F;li&gt;
+  &lt;li&gt;Hassle-free installation&lt;&#x2F;li&gt;
+  &lt;li&gt;No need for knowledge of native platform services&lt;&#x2F;li&gt;
+  &lt;li&gt;Simulates most feature behaviors in the Editor&lt;&#x2F;li&gt;
+  &lt;li&gt;Automatically generates Android Manifest file and permissions based on feature usage&lt;&#x2F;li&gt;
+  &lt;li&gt;Automatically adds required capabilities on iOS&lt;&#x2F;li&gt;
+  &lt;li&gt;Selective inclusion of feature files&lt;&#x2F;li&gt;
+  &lt;li&gt;Complete ASMDEF!&lt;&#x2F;li&gt;
+  &lt;li&gt;Full source code included&lt;&#x2F;li&gt;
+  &lt;li&gt;Detailed tutorials with native platform setup (video tutorials coming soon)&lt;&#x2F;li&gt;
+  &lt;li&gt;Unity Cloud Build and batch mode compatible&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;p&gt;&lt;b&gt;Feature Set:&lt;&#x2F;b&gt;&lt;&#x2F;p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Address Book&lt;&#x2F;li&gt;
+  &lt;li&gt;Billing&lt;&#x2F;li&gt;
+  &lt;li&gt;Cloud Services&lt;&#x2F;li&gt;
+  &lt;li&gt;Deep Link Services (New!)&lt;&#x2F;li&gt;
+  &lt;li&gt;Game Services&lt;&#x2F;li&gt;
+  &lt;li&gt;Mail Sharing&lt;&#x2F;li&gt;
+  &lt;li&gt;Message Sharing&lt;&#x2F;li&gt;
+  &lt;li&gt;Media Library Services&lt;&#x2F;li&gt;
+  &lt;li&gt;Native UI Popups (Alert Dialog, Date&#x2F;Time Picker (New!))&lt;&#x2F;li&gt;
+  &lt;li&gt;Network Connectivity&lt;&#x2F;li&gt;
+  &lt;li&gt;Local Notification System&lt;&#x2F;li&gt;
+  &lt;li&gt;Push Notification System&lt;&#x2F;li&gt;
+  &lt;li&gt;Rate My App (Android Rating – New!)&lt;&#x2F;li&gt;
+  &lt;li&gt;Social Sharing (Fb, Twitter, WhatsApp)&lt;&#x2F;li&gt;
+  &lt;li&gt;Share Sheet&lt;&#x2F;li&gt;
+  &lt;li&gt;WebView&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;p&gt;&lt;b&gt;Note:&lt;&#x2F;b&gt;&lt;&#x2F;p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Plugin doesn’t include Facebook SDK&lt;&#x2F;li&gt;
+  &lt;li&gt;Works with Unity Cloud Build&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;p&gt;&lt;b&gt;Related Products:&lt;&#x2F;b&gt;&lt;&#x2F;p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Cross Platform Easy Save&lt;&#x2F;li&gt;
+  &lt;li&gt;Cross Platform Replay Kit&lt;&#x2F;li&gt;
+  &lt;li&gt;Cross Platform Snapchat Kit&lt;&#x2F;li&gt;
+  &lt;li&gt;Cross Platform Story Kit (Instagram)&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;p&gt;We love to hear from you! Contact us to share your feedback and suggestions with our team.&lt;&#x2F;p&gt;
+</content>
+        
+    </entry>
+    <entry xml:lang="en">
+        <title>UniWebView 5</title>
+        <published>2024-12-07T20:33:31+00:00</published>
+        <updated>2024-12-07T20:33:31+00:00</updated>
+        
+        <author>
+          <name>
+            
+              yzzfo
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://yzzfo.github.io/en/unity/store/uniwebview-5/"/>
+        <id>https://yzzfo.github.io/en/unity/store/uniwebview-5/</id>
+        
+        <content type="html" xml:base="https://yzzfo.github.io/en/unity/store/uniwebview-5/">&lt;p&gt;A powerful web view component to display web content in your mobile game. Browsing through HTTP, running JavaScript, performing OAuth 2.0, and much more.&lt;br&gt;&lt;p &gt;UniWebView is a Unity 3D plugin for &lt;strong&gt;adding a web view component&lt;&#x2F;strong&gt; to your Unity 3D mobile games.&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;Visit our &lt;a href=&quot;https:&#x2F;&#x2F;uniwebview.com&#x2F;&quot; target=&quot;_blank&quot;&gt;official website&lt;&#x2F;a&gt; to learn more about UniWebView 5.&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;&lt;strong&gt;&lt;em&gt;OVERVIEW&lt;&#x2F;em&gt;&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;UniWebView includes a set of abstract high-level APIs in C#, which wrapped the native APIs of iOS and Android platforms. With UniWebView, you can have some behaviors like a browser into your games without knowing anything about native development. It is very useful when you need to show an announcement or notice, add a leader board for player rankings, or just display any web pages to your users.&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;UniWebView supports running on iOS 9.0 or above, and Android 5.0 (API Level 21) or above. It also contains fully functional support for Unity Editor on macOS.&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;&lt;em&gt;Unity 2020.3 or later is required.&lt;&#x2F;em&gt;&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;&lt;strong&gt;&lt;em&gt;FEATURES&lt;&#x2F;em&gt;&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;ul&gt;&lt;li &gt;Web Browsing on the Internet. Display content through HTTP&#x2F;HTTPS.&lt;&#x2F;li&gt;&lt;li &gt;Safe Browsing Mode for secure browsing. Supporting Apple Pay, Google Pay, and more.&lt;&#x2F;li&gt;&lt;li &gt;Built-in support for popular OAuth 2.0 providers. Log in to Google, Facebook, and more.&lt;&#x2F;li&gt;&lt;li &gt;Loading local HTML files.&lt;&#x2F;li&gt;&lt;li &gt;Full JavaScript Support. Running and adding JavaScript on the page.&lt;&#x2F;li&gt;&lt;li &gt;Message System based on url scheme to receive a message from web page.&lt;&#x2F;li&gt;&lt;li &gt;Setting Position and Size by either absolute values or reference Relative Unity UI element.&lt;&#x2F;li&gt;&lt;li &gt;Playing YouTube, Vimeo, or local videos.&lt;&#x2F;li&gt;&lt;li &gt;Uploading photos from the camera or gallery through an input form.&lt;&#x2F;li&gt;&lt;li &gt;Rendering web page to Texture and use in your game world.&lt;&#x2F;li&gt;&lt;li &gt;Clicking through the transparent area of the web view. Creating game UI with the web page.&lt;&#x2F;li&gt;&lt;li &gt;Check &lt;a href=&quot;https:&#x2F;&#x2F;uniwebview.com&#x2F;&quot; target=&quot;_blank&quot;&gt;our website&lt;&#x2F;a&gt; for even more.&lt;&#x2F;li&gt;&lt;&#x2F;ul&gt;&lt;p &gt;&lt;strong&gt;&lt;em&gt;DOCS, GUIDES, AND SUPPORT&lt;&#x2F;em&gt;&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;We prepared detailed documentation and guides. Please visit the &lt;a href=&quot;https:&#x2F;&#x2F;docs.uniwebview.com&#x2F;&quot; target=&quot;_blank&quot;&gt;UniWebView Documentation Site&lt;&#x2F;a&gt; to learn how to use this asset.&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;If you have any questions, take a look at the &lt;a href=&quot;https:&#x2F;&#x2F;docs.uniwebview.com&#x2F;guide&#x2F;faq.html&quot; target=&quot;_blank&quot;&gt;FAQ page&lt;&#x2F;a&gt; or even submit a ticket from our docs page!&lt;&#x2F;p&gt;&lt;&#x2F;p&gt;
+</content>
+        
+    </entry>
     <entry xml:lang="en">
         <title>OneJS</title>
         <published>2024-11-29T21:18:31+00:00</published>

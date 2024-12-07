@@ -1,12 +1,32 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
-    <title>yzzfo - Node</title>
+    <title>yzzfo | Share for Free - Node</title>
     <subtitle>Game Development Learning Resources</subtitle>
     <link rel="self" type="application/atom+xml" href="https://yzzfo.github.io/en/tags/node/atom.xml"/>
     <link rel="alternate" type="text/html" href="https://yzzfo.github.io"/>
     <generator uri="https://www.getzola.org/">Zola</generator>
-    <updated>2024-11-30T13:21:36+00:00</updated>
+    <updated>2024-12-07T20:00:28+00:00</updated>
     <id>https://yzzfo.github.io/en/tags/node/atom.xml</id>
+    <entry xml:lang="en">
+        <title>Playmaker</title>
+        <published>2024-12-07T20:00:28+00:00</published>
+        <updated>2024-12-07T20:00:28+00:00</updated>
+        
+        <author>
+          <name>
+            
+              yzzfo
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://yzzfo.github.io/en/unity/store/playmaker/"/>
+        <id>https://yzzfo.github.io/en/unity/store/playmaker/</id>
+        
+        <content type="html" xml:base="https://yzzfo.github.io/en/unity/store/playmaker/">&lt;p&gt;&lt;br&gt;The visual scripting solution used in &lt;strong&gt;Hearthstone&lt;&#x2F;strong&gt;, &lt;strong&gt;INSIDE&lt;&#x2F;strong&gt;, &lt;strong&gt;Hollow Knight&lt;&#x2F;strong&gt;, &lt;strong&gt;The First Tree&lt;&#x2F;strong&gt;, &lt;strong&gt;Observation&lt;&#x2F;strong&gt;, &lt;strong&gt;Dreamfall Chapters&lt;&#x2F;strong&gt; and more:&lt;a href=&quot;http:&#x2F;&#x2F;www.hutonggames.com&#x2F;showcase.html&quot;&gt;Project Showcase&lt;&#x2F;a&gt;&lt;br&#x2F;&gt;&lt;br&#x2F;&gt;Artists and Designers: Realize your creative vision without coding! Unlock the power of Unity.&lt;br&#x2F;&gt;&lt;br&#x2F;&gt;Programmers: Add a powerful visual state machine editor to your toolbox. Interface with scripts or extend Playmaker with Custom Actions.&lt;br&#x2F;&gt;&lt;br&#x2F;&gt;&lt;p&gt;&lt;strong&gt;THE PLAYMAKER DIFFERENCE&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;br&#x2F;&gt;&lt;p&gt;&lt;strong&gt;Easy To Understand&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;br&#x2F;&gt;&lt;p&gt;Other visual scripting tools simply expose the Unity API (written for programmers) and C# language (programming) as thousands of nodes. If you already know how to code you can probably build what you need, but it&#x27;s a huge learning curve for non-programmers!&lt;&#x2F;p&gt;&lt;br&#x2F;&gt;&lt;p&gt;PlayMaker takes a higher level approach, offering an intuitive structure with States, Actions and Events to quickly build behaviors. This actually empowers both non-programmers and programmers to create more quickly and efficiently.&lt;&#x2F;p&gt;&lt;br&#x2F;&gt;&lt;p&gt;&lt;strong&gt;Production Ready&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;br&#x2F;&gt;&lt;p&gt;PlayMaker has been used in hundreds of shipped products including Hearthstone, INSIDE, Hollow Knight, The First Tree, Dreamfall Chapters, Firewatch and more. We&#x27;ve worked with AAA studios to solo indie developers to make sure PlayMaker meets their needs on every platform.&lt;&#x2F;p&gt;&lt;br&#x2F;&gt;&lt;p&gt;&lt;strong&gt;Performance&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;br&#x2F;&gt;&lt;p&gt;Other visual scripting solutions use delegates or reflection calls for every single node in the graph. Even simple behaviors need many nodes. This quickly adds up to a heavy hit on performance!&lt;&#x2F;p&gt;&lt;br&#x2F;&gt;&lt;p&gt;PlayMaker actions are C# scripts like any other script in your project. Calling them is quick and efficient. You also need fewer actions to do the same work as dozens of nodes in other visual scripting tools.&lt;&#x2F;p&gt;&lt;br&#x2F;&gt;&lt;p&gt;&lt;strong&gt;Ecosystem&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;br&#x2F;&gt;&lt;p&gt;PlayMaker has an active user community with admins and power users online to answer your questions. The Ecosystem Browser provides easy access to a constantly growing collection of custom actions, tutorials, samples, templates etc.&lt;&#x2F;p&gt;&lt;br&#x2F;&gt;&lt;p&gt;Many third party assets have PlayMaker support, with easy to use Actions so you don&#x27;t have to figure out APIs written for programmers.&lt;&#x2F;p&gt;&lt;br&#x2F;&gt;&lt;strong&gt;Features&lt;&#x2F;strong&gt;&lt;br&#x2F;&gt;&lt;br&#x2F;&gt;:: PlayMaker Discord Channel &lt;br&#x2F;&gt;:: Build behaviors in an intuitive Graph View. &lt;br&#x2F;&gt;:: Drag-and-Drop Actions - no syntax errors!&lt;br&#x2F;&gt;:: Copy&#x2F;Paste graphs and save Templates.&lt;br&#x2F;&gt;:: Powerful runtime debugging:&lt;br&#x2F;&gt;:: Watch States, Variables, and Events.&lt;br&#x2F;&gt;:: Pause and Rewind time with Debug Flow.&lt;br&#x2F;&gt;:: Extend Playmaker with Custom Actions.&lt;br&#x2F;&gt;:: Watch tutorials on our YouTube Channel.&lt;br&#x2F;&gt;:: Join an active online community.&lt;&#x2F;p&gt;
+</content>
+        
+    </entry>
     <entry xml:lang="en">
         <title>UI Node Connect 4</title>
         <published>2024-11-29T21:18:21+00:00</published>

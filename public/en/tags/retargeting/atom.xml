@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+    <title>yzzfo - retargeting</title>
+    <subtitle>Game Development Learning Resources</subtitle>
+    <link rel="self" type="application/atom+xml" href="https://yzzfo.github.io/en/tags/retargeting/atom.xml"/>
+    <link rel="alternate" type="text/html" href="https://yzzfo.github.io"/>
+    <generator uri="https://www.getzola.org/">Zola</generator>
+    <updated>2024-11-30T13:24:44+00:00</updated>
+    <id>https://yzzfo.github.io/en/tags/retargeting/atom.xml</id>
+    <entry xml:lang="en">
+        <title>Basic Motions</title>
+        <published>2024-11-29T21:20:35+00:00</published>
+        <updated>2024-11-30T13:24:44+00:00</updated>
+        
+        <author>
+          <name>
+            
+              yzzfo
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://yzzfo.github.io/en/unity/store/basic-motions/"/>
+        <id>https://yzzfo.github.io/en/unity/store/basic-motions/</id>
+        
+        <content type="html" xml:base="https://yzzfo.github.io/en/unity/store/basic-motions/">&lt;p&gt;Humanoid 3D movement, emotion and interaction animations for retargeting to other humanoid 3D characters.&lt;br&gt;&lt;p &gt;&lt;strong&gt;NEW&lt;&#x2F;strong&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.keviniglesias.com&#x2F;basicMotions&#x2F;Viewer&#x2F;demo.html&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;⭐Online Animations Preview&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;Download the FREE version here:&lt;&#x2F;p&gt;&lt;p &gt;&lt;a href=&quot;http:&#x2F;&#x2F;assetstore.unity.com&#x2F;packages&#x2F;3d&#x2F;animations&#x2F;basic-motions-pack-154271&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;Basic Motions FREE&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;This asset includes humanoid locomotion animations, some emotions and actions for retargeting to other humanoid 3D characters.&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;Simple Character Controller with moving animations included.&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v=0o7SzYSsR-o&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;Retargeting Video Tutorial&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;&lt;strong&gt;Animations List:&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;p &gt;&lt;strong&gt;Idles&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;p &gt;- Standing idles&lt;&#x2F;p&gt;&lt;p &gt;- Crouch idle&lt;&#x2F;p&gt;&lt;p &gt;- Swim idle&lt;&#x2F;p&gt;&lt;p &gt;- Wounded idle&lt;&#x2F;p&gt;&lt;p &gt;&lt;strong&gt;Movement&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;p &gt;- Falling (midair)&lt;&#x2F;p&gt;&lt;p &gt;- Forward roll (root motion and in place, 4.5 m)&lt;&#x2F;p&gt;&lt;p &gt;- Jump (root motion and in place)&lt;&#x2F;p&gt;&lt;p &gt;- Run (8 directions, 4 m&#x2F;s, root motion and in place)&lt;&#x2F;p&gt;&lt;p &gt;- Run slide (root motion and in place, 3 m)&lt;&#x2F;p&gt;&lt;p &gt;- Turn rotations (left &#x2F; right, root motion in place)&lt;&#x2F;p&gt;&lt;p &gt;- Sprint (3 directions, 6 m&#x2F;s, root motion and in place)&lt;&#x2F;p&gt;&lt;p &gt;- Swimming (10 directions, 1 m&#x2F;s, root motion and in place)&lt;&#x2F;p&gt;&lt;p &gt;- Walk (8 directions, 2 m&#x2F;s, root motion and in place)&lt;&#x2F;p&gt;&lt;p &gt;- Crouch walk (8 directions, 2 m&#x2F;s, root motion and in place)&lt;&#x2F;p&gt;&lt;p &gt;&lt;strong&gt;Social&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;p &gt;- Angry&lt;&#x2F;p&gt;&lt;p &gt;- Cheer &#x2F; victory&lt;&#x2F;p&gt;&lt;p &gt;- Conversations (talking and questions)&lt;&#x2F;p&gt;&lt;p &gt;- Fear&lt;&#x2F;p&gt;&lt;p &gt;- Hand claps (applause)&lt;&#x2F;p&gt;&lt;p &gt;- Hand waves&lt;&#x2F;p&gt;&lt;p &gt;- Head nods (saying yes)&lt;&#x2F;p&gt;&lt;p &gt;- Head shakes (saying no)&lt;&#x2F;p&gt;&lt;p &gt;- Pain&lt;&#x2F;p&gt;&lt;p &gt;&lt;strong&gt;Misc&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;p &gt;- Looting from floor&lt;&#x2F;p&gt;&lt;p &gt;- Opening&lt;&#x2F;p&gt;&lt;p &gt;- Knockdown and stand up&lt;&#x2F;p&gt;&lt;p &gt;- Sitting (ground, low, medium and high)&lt;&#x2F;p&gt;&lt;p &gt;- Stunned&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;Each animation is available in two versions: one more masculine and the other more feminine.&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;Contact Support:&lt;&#x2F;p&gt;&lt;p &gt;&lt;strong&gt;support@keviniglesias.com&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.keviniglesias.com&#x2F;&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;www.keviniglesias.com&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;&lt;&#x2F;p&gt;
+</content>
+        
+    </entry>
+</feed>

@@ -1,12 +1,32 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh">
-    <title>yzzfo - 建模</title>
+    <title>yzzfo | Share for Free - 建模</title>
     <subtitle>游戏开发学习资源分享</subtitle>
     <link rel="self" type="application/atom+xml" href="https://yzzfo.github.io/tags/jian-mo/atom.xml"/>
     <link rel="alternate" type="text/html" href="https://yzzfo.github.io"/>
     <generator uri="https://www.getzola.org/">Zola</generator>
-    <updated>2024-12-06T14:28:15+00:00</updated>
+    <updated>2024-12-09T11:45:53+00:00</updated>
     <id>https://yzzfo.github.io/tags/jian-mo/atom.xml</id>
+    <entry xml:lang="zh">
+        <title>Mesh Baker</title>
+        <published>2024-12-09T11:45:53+00:00</published>
+        <updated>2024-12-09T11:45:53+00:00</updated>
+        
+        <author>
+          <name>
+            
+              yzzfo
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://yzzfo.github.io/unity/store/mesh-baker/"/>
+        <id>https://yzzfo.github.io/unity/store/mesh-baker/</id>
+        
+        <content type="html" xml:base="https://yzzfo.github.io/unity/store/mesh-baker/">&lt;p&gt;&lt;br&gt;提高性能！结合网格和材料以减少批量！Mesh Baker 是一个强大的工具包，具有灵活的非破坏性工作流程，用于优化道具和场景。Unity 最著名的优化工具。自 2012 年以来的五星级支持和更新。&lt;BR&gt;&lt;BR&gt;* 为道具组创建图集或纹理数组&lt;BR&gt;* 在大型复杂场景中查找、分组和组合网格&lt;BR&gt;* 修改道具预制件以使用图集材料&lt;BR&gt;* 支持 URP、HDRP、标准管道&lt;BR&gt;* 适用于内置和自定义着色器&lt;BR&gt;* 为使用色调的材料创建地图集&lt;BR&gt;* 支持多种材质的道具&lt;BR&gt;* 处理平铺纹理&lt;BR&gt;* 结合自定义并向蒙皮网格添加道具&lt;BR&gt;* 创建可定制的蒙皮网格角色&lt;BR&gt;* 将蒙皮网格与混合形状相结合&lt;BR&gt;* UV、法线、切线自动调整&lt;BR&gt;*光照贴图支持&lt;BR&gt;&lt;em&gt;混合搭配灵活的工作流程工具&lt;BR&gt;&lt;&#x2F;em&gt; 运行时 API&lt;BR&gt;&lt;BR&gt;&lt;BR&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.youtube.com&#x2F;playlist?list=PLCzm-udM-shncdtvrieqgi-hHDU1kt0d4&quot;&gt;教程&lt;&#x2F;a&gt;&lt;br&gt;&lt;br&gt;&lt;a href=&quot;https:&#x2F;&#x2F;forum.unity.com&#x2F;threads&#x2F;mesh-baker-by-digital-opus-released.159258&#x2F;&quot;&gt;论坛&lt;&#x2F;a&gt;&lt;br&gt;&lt;br&gt;&lt;a href=&quot;http:&#x2F;&#x2F;www.digitalopus.ca&#x2F;site&#x2F;mesh-baker&#x2F;&quot;&gt;网站&lt;&#x2F;a&gt;&lt;br&gt;&lt;br&gt;&lt;&#x2F;p&gt;
+</content>
+        
+    </entry>
     <entry xml:lang="zh">
         <title>Dynamic Mesh Cutter</title>
         <published>2024-12-06T14:28:15+00:00</published>

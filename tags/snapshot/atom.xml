@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh">
+    <title>yzzfo | Share for Free - Snapshot</title>
+    <subtitle>游戏开发学习资源分享</subtitle>
+    <link rel="self" type="application/atom+xml" href="https://yzzfo.github.io/tags/snapshot/atom.xml"/>
+    <link rel="alternate" type="text/html" href="https://yzzfo.github.io"/>
+    <generator uri="https://www.getzola.org/">Zola</generator>
+    <updated>2024-12-09T18:35:31+00:00</updated>
+    <id>https://yzzfo.github.io/tags/snapshot/atom.xml</id>
+    <entry xml:lang="zh">
+        <title>Animation Baking Studio (3D to 2D)</title>
+        <published>2024-12-09T18:35:31+00:00</published>
+        <updated>2024-12-09T18:35:31+00:00</updated>
+        
+        <author>
+          <name>
+            
+              yzzfo
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://yzzfo.github.io/unity/store/animation-baking-studio-3d-to-2d/"/>
+        <id>https://yzzfo.github.io/unity/store/animation-baking-studio-3d-to-2d/</id>
+        
+        <content type="html" xml:base="https://yzzfo.github.io/unity/store/animation-baking-studio-3d-to-2d/">&lt;p&gt;您可以从不同方向拍摄各种3D模型。输出文件包括精灵图集、动画剪辑、法线贴图等，这些可以用于2D或2.5D游戏。&lt;&#x2F;p&gt;
+</content>
+        
+    </entry>
+</feed>

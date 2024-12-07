@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+    <title>yzzfo - Skybox</title>
+    <subtitle>Game Development Learning Resources</subtitle>
+    <link rel="self" type="application/atom+xml" href="https://yzzfo.github.io/en/tags/skybox/atom.xml"/>
+    <link rel="alternate" type="text/html" href="https://yzzfo.github.io"/>
+    <generator uri="https://www.getzola.org/">Zola</generator>
+    <updated>2024-12-08T17:36:27+00:00</updated>
+    <id>https://yzzfo.github.io/en/tags/skybox/atom.xml</id>
+    <entry xml:lang="en">
+        <title>AllSky - 220+ Sky &#x2F; Skybox Set</title>
+        <published>2024-12-08T17:36:27+00:00</published>
+        <updated>2024-12-08T17:36:27+00:00</updated>
+        
+        <author>
+          <name>
+            
+              yzzfo
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://yzzfo.github.io/en/unity/store/allsky-220-sky-skybox-set/"/>
+        <id>https://yzzfo.github.io/en/unity/store/allsky-220-sky-skybox-set/</id>
+        
+        <content type="html" xml:base="https://yzzfo.github.io/en/unity/store/allsky-220-sky-skybox-set/">&lt;p&gt;A full palette of 220+ skyboxes.Including Day, Night, Anime, Above the Clouds, Cartoon, Fantasy, Hazy, Epic, Space, Mammatus, Sunless and Moonless categories.&lt;br&gt;&lt;p &gt;A full palette of &lt;strong&gt;220+&lt;&#x2F;strong&gt; skies for Unity!&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;- Various styles: Including Day, Night, Ghibli inspired Anime, Above the clouds,Cartoon, Fantasy, Hazy, Epic, Space, Mammatus, Sunless and Moonless!&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;- For lighting artists, environment artists and indie developers looking for a wide suite of skies to light their environments.&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;- Lighting from day to night: Twilight, sunset, multiple times of day, multiple times of night, skyglow.&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;- Many weather and cloud types: Clear, overcast, summery, stormy, autumnal, hazy, epic, foggy, cumulus.&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;- &lt;a href=&quot;https:&#x2F;&#x2F;docs.google.com&#x2F;document&#x2F;d&#x2F;1MMtkBSLw4FEoTNnUvK11DCQhRifIKsn09xmuNDkAaok&#x2F;&quot; target=&quot;_blank&quot;&gt;Online Documentation&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;- AllSky is a very large asset. It could take time to import the complete set of skyboxes!&lt;&#x2F;p&gt;&lt;p &gt;Consult the AllSky catalogue in the documentation to find skies you want to import.&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;- For Built-In and URP Render Pipelines.&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;&#x2F;p&gt;
+</content>
+        
+    </entry>
+    <entry xml:lang="en">
+        <title>Better Fog: Height Fog, Light Scattering &amp; More</title>
+        <published>2024-12-07T20:00:36+00:00</published>
+        <updated>2024-12-07T20:00:36+00:00</updated>
+        
+        <author>
+          <name>
+            
+              yzzfo
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://yzzfo.github.io/en/unity/store/better-fog-height-fog-light-scattering-more/"/>
+        <id>https://yzzfo.github.io/en/unity/store/better-fog-height-fog-light-scattering-more/</id>
+        
+        <content type="html" xml:base="https://yzzfo.github.io/en/unity/store/better-fog-height-fog-light-scattering-more/">&lt;p&gt;Add depth and feel to your game. Achieve greater realism or craft a truly unique look. Improve or completely transform your game&#x27;s appearance without concerns over transparents, water, or skyboxes.&lt;br&gt;&lt;p &gt;&lt;strong&gt;Better Fog&lt;&#x2F;strong&gt; is a post-processing effect offering a wide variety of features to craft numerous looks and styles, from realistic to stylized. This effect is not a volumetric solution, ensuring optimal performance. It also includes additional features such as a plane or sphere analytical world fog, a custom fog particle shader, and more. Crafted using Shader Graph (URP) and the Amplify Shader Editor (Built-in), Better Fog supports transparent objects without the need to modify their shaders.&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;Join &lt;a href=&quot;https:&#x2F;&#x2F;discord.gg&#x2F;K88zmyuZFD&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;Discord &lt;&#x2F;strong&gt;&lt;&#x2F;a&gt;for updates, to report issues, or just to say hello!&lt;&#x2F;p&gt;&lt;p &gt;Please check the &lt;a href=&quot;https:&#x2F;&#x2F;inabstudios.gitbook.io&#x2F;better-fog&#x2F;&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;documentation &lt;&#x2F;strong&gt;&lt;&#x2F;a&gt;before purchasing.&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;&lt;strong&gt;Features:&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;ul&gt;&lt;li &gt;&lt;strong&gt;Screen Space Light Scattering (SSMS):&lt;&#x2F;strong&gt; Use it to create a more realistic feel for the fog.&lt;&#x2F;li&gt;&lt;li &gt;&lt;strong&gt;Gradient Fog Colors:&lt;&#x2F;strong&gt; Create your own custom look or use one of the many gradients included with the asset.&lt;&#x2F;li&gt;&lt;li &gt;&lt;strong&gt;Skybox Fog Integration:&lt;&#x2F;strong&gt; Ensure consistent visuals with any skybox.&lt;&#x2F;li&gt;&lt;li &gt;&lt;strong&gt;Distance-Based Fog:&lt;&#x2F;strong&gt; Default fog with the option to use radial distance.&lt;&#x2F;li&gt;&lt;li &gt;&lt;strong&gt;Height Fog:&lt;&#x2F;strong&gt; Atmospheric height fog.&lt;&#x2F;li&gt;&lt;li &gt;&lt;strong&gt;Volume Blending:&lt;&#x2F;strong&gt; Use post-processing volumes to blend between various presets.&lt;&#x2F;li&gt;&lt;li &gt;&lt;strong&gt;Transparents &amp;amp; Particle Support:&lt;&#x2F;strong&gt; The fog works well with particles and transparent objects.&lt;&#x2F;li&gt;&lt;li &gt;&lt;strong&gt;World Fog:&lt;&#x2F;strong&gt; Customize and add fog using planes and spheres with custom shaders.&lt;&#x2F;li&gt;&lt;li &gt;&lt;strong&gt;Custom Fog with Particles:&lt;&#x2F;strong&gt; Includes procedural fog particle FX.&lt;&#x2F;li&gt;&lt;li &gt;&lt;strong&gt;Fog Energy Loss:&lt;&#x2F;strong&gt; Imitate the loss of photon energy due to fog scattering.&lt;&#x2F;li&gt;&lt;li &gt;&lt;strong&gt;Simple Integration:&lt;&#x2F;strong&gt; Easily add the effect to your project.&lt;&#x2F;li&gt;&lt;li &gt;&lt;strong&gt;Versatile Customization:&lt;&#x2F;strong&gt; Adjust each feature as needed and use keywords for better performance.&lt;&#x2F;li&gt;&lt;&#x2F;ul&gt;&lt;&#x2F;br&gt;&lt;p &gt;&lt;strong&gt;Compatibility:&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;ul&gt;&lt;li &gt;Supports URP and Built-in versions 2021.3 and above.&lt;&#x2F;li&gt;&lt;li &gt;Unity 6 support! (see limitations below)&lt;&#x2F;li&gt;&lt;li &gt;Built-in requires Shader Graph for the demo scenes to work.&lt;&#x2F;li&gt;&lt;&#x2F;ul&gt;&lt;&#x2F;br&gt;&lt;p &gt;&lt;strong&gt;Limitations:&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;ul&gt;&lt;li &gt;Only supports directional light light scattering.&lt;&#x2F;li&gt;&lt;li &gt;Non-volumetric.&lt;&#x2F;li&gt;&lt;li &gt;No MSAA support.&lt;&#x2F;li&gt;&lt;li &gt;Requires devices capable of depth rendering.&lt;&#x2F;li&gt;&lt;li &gt;No support for orthographic camera, VR, webGL, VFX graph particles blending.&lt;&#x2F;li&gt;&lt;&#x2F;ul&gt;&lt;&#x2F;p&gt;
+</content>
+        
+    </entry>
+    <entry xml:lang="en">
+        <title>Toon Fantasy Nature</title>
+        <published>2024-11-29T21:17:32+00:00</published>
+        <updated>2024-12-02T21:46:33+00:00</updated>
+        
+        <author>
+          <name>
+            
+              yzzfo
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://yzzfo.github.io/en/unity/store/toon-fantasy-nature/"/>
+        <id>https://yzzfo.github.io/en/unity/store/toon-fantasy-nature/</id>
+        
+        <content type="html" xml:base="https://yzzfo.github.io/en/unity/store/toon-fantasy-nature/">&lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;assetstore.unity.com&#x2F;publishers&#x2F;18116&quot;&gt; &lt;strong&gt;SICS Games&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt; presents:&lt;&#x2F;p&gt;A stylized collection of assets to add beautiful environments to your game.&lt;br&gt;&lt;p &gt;Any questions or suggestions?&lt;&#x2F;p&gt;&lt;p &gt;Feel free to get in touch with us on our &lt;a href=&quot;http:&#x2F;&#x2F;discord.gg&#x2F;nwQpAet&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;Discord&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;◙ &lt;strong&gt;Featuring&lt;&#x2F;strong&gt; ◙&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;• &lt;strong&gt;200&lt;&#x2F;strong&gt; prefabs ranging from small plants and rocks to large oaks and pine trees.&lt;&#x2F;p&gt;&lt;p &gt;• &lt;strong&gt;8&lt;&#x2F;strong&gt; &lt;strong&gt;Demo Scenes&lt;&#x2F;strong&gt; showcasing all assets from the package with multiple lighting presets (post-processing profiles included).&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;◙ &lt;strong&gt;Asset list &lt;&#x2F;strong&gt;◙&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;• &lt;strong&gt;Vegetation Assets &lt;&#x2F;strong&gt;•&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;&lt;strong&gt;(x137) Plants, Flowers &amp;amp; Trees&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;p &gt;Vegetation Assets include:&lt;&#x2F;p&gt;&lt;p &gt;&lt;strong&gt;(x36) Trees&lt;&#x2F;strong&gt;, such as &lt;strong&gt;Aspen Trees&lt;&#x2F;strong&gt;, &lt;strong&gt;Pine trees&lt;&#x2F;strong&gt;, &lt;strong&gt;Birch Trees&lt;&#x2F;strong&gt;, &lt;strong&gt;Oak Trees&lt;&#x2F;strong&gt;, etc.&lt;&#x2F;p&gt;&lt;p &gt;&lt;strong&gt;(x18) Fallen &amp;amp; Broken Trees&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;p &gt;&lt;strong&gt;(x38) Bushes, Ferns&lt;&#x2F;strong&gt;,&lt;strong&gt; Flowers, &lt;&#x2F;strong&gt;etc.&lt;&#x2F;p&gt;&lt;p &gt;&lt;strong&gt;(x20) Lillies, Lotus Flowers&lt;&#x2F;strong&gt;, and other water friendly plants.&lt;&#x2F;p&gt;&lt;p &gt;&lt;strong&gt;(x18) Mushrooms&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;• &lt;strong&gt;Rocks &lt;&#x2F;strong&gt;•&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;&lt;strong&gt;(x20) Rocks&lt;&#x2F;strong&gt;, ranging from small pebbles to large boulders&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;• &lt;strong&gt;Exterior Props &lt;&#x2F;strong&gt;•&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;&lt;strong&gt;(x25) Props&lt;&#x2F;strong&gt;, including &lt;strong&gt;Wooden Pavilion &amp;amp; Swing Set&lt;&#x2F;strong&gt;, &lt;strong&gt;Camp Fire &lt;&#x2F;strong&gt;(Fire Particle System included), &lt;strong&gt;Fence &amp;amp; Bridge Kit&lt;&#x2F;strong&gt;, etc.&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;• &lt;strong&gt;Background Assets &amp;amp; Decals &lt;&#x2F;strong&gt;•&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;&lt;strong&gt;(x18) Background Trees&lt;&#x2F;strong&gt;, Debris &amp;amp; &lt;strong&gt;Fallen Leaves&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;p &gt;&lt;strong&gt;(x3) Hand-painted Skyboxes&lt;&#x2F;strong&gt;: Day, Night &amp;amp; Sunset.&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;• &lt;strong&gt;Particle Systems &lt;&#x2F;strong&gt;•&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;&lt;strong&gt;(x8) Particle Systems&lt;&#x2F;strong&gt;, including &lt;strong&gt;Sun Shafts&lt;&#x2F;strong&gt;, &lt;strong&gt;Fireflies&lt;&#x2F;strong&gt;, &lt;strong&gt;Falling Leaves&lt;&#x2F;strong&gt;, etc.&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;&#x2F;br&gt;&lt;p &gt;This package fits in perfectly with other assets from the collection:&lt;&#x2F;p&gt;&lt;p &gt;&lt;a href=&quot;http:&#x2F;&#x2F;assetstore.unity.com&#x2F;lists&#x2F;toon-series-44946&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;Toon Series&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;Support and Community:&lt;&#x2F;p&gt;&lt;p &gt;&lt;a href=&quot;http:&#x2F;&#x2F;discord.gg&#x2F;nwQpAet&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;Discord&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt;&lt;strong&gt; &lt;&#x2F;strong&gt;• &lt;a href=&quot;http:&#x2F;&#x2F;forum.unity3d.com&#x2F;threads&#x2F;toon-series-growing-content-stylized-3d-art.464823&#x2F;&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;Forum&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt;&lt;strong&gt; &lt;&#x2F;strong&gt;• &lt;a href=&quot;http:&#x2F;&#x2F;twitter.com&#x2F;steve_sics&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;Twitter&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt;&lt;strong&gt; &lt;&#x2F;strong&gt;•&lt;strong&gt; &lt;&#x2F;strong&gt;&lt;a href=&quot;mailto:sics.production@gmail.com&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;Mail&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;&lt;&#x2F;p&gt;
+</content>
+        
+    </entry>
+</feed>

@@ -1,12 +1,40 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh">
-    <title>yzzfo - Menu</title>
+    <title>yzzfo | Share for Free - Menu</title>
     <subtitle>游戏开发学习资源分享</subtitle>
     <link rel="self" type="application/atom+xml" href="https://yzzfo.github.io/tags/menu/atom.xml"/>
     <link rel="alternate" type="text/html" href="https://yzzfo.github.io"/>
     <generator uri="https://www.getzola.org/">Zola</generator>
-    <updated>2024-11-30T13:23:57+00:00</updated>
+    <updated>2024-12-09T11:46:24+00:00</updated>
     <id>https://yzzfo.github.io/tags/menu/atom.xml</id>
+    <entry xml:lang="zh">
+        <title>Modern UI Pack</title>
+        <published>2024-12-09T11:46:24+00:00</published>
+        <updated>2024-12-09T11:46:24+00:00</updated>
+        
+        <author>
+          <name>
+            
+              yzzfo
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://yzzfo.github.io/unity/store/modern-ui-pack/"/>
+        <id>https://yzzfo.github.io/unity/store/modern-ui-pack/</id>
+        
+        <content type="html" xml:base="https://yzzfo.github.io/unity/store/modern-ui-pack/">&lt;p&gt;现代UI包是一个干净、简约且时尚的UI包，旨在为寻求增强和丰富功能UI元素的用户提供服务。它易于使用且完全可定制。&lt;&#x2F;p&gt;
+&lt;p&gt;轻松为您的游戏或应用程序创建流畅且可定制的UI元素！&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;strong&gt;• UI管理器&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;p&gt;您可以在几秒钟内更改整个UI的外观，而不是逐个更改对象——这一切都通过UI管理器完成！&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;strong&gt;• 编辑器工具&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;p&gt;您可以使用编辑器工具在几秒钟内调整所有内容，而不是逐个调整。几乎可以在Unity中添加或更改所有内容，无需处理代码或外部工具。&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;strong&gt;• 演示场景&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;p&gt;包括一个功能齐全的演示场景，展示MUIP组件的工作原理和外观。&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;strong&gt;• 原生UI支持&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;p&gt;现代UI包使用原生Unity UI制作，允许您继续按照习惯工作，甚至可以与第三方UGUI扩展一起使用。&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;strong&gt;• 超过18种多样的UI元素&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;p&gt;动画图标、按钮、上下文菜单、下拉菜单、水平选择器、图标、输入框、模态窗口、多选下拉菜单、通知、饼图、进度条、径向滑块、切片边框、滑块、开关、切换、工具提示、窗口管理器……&lt;&#x2F;p&gt;
+&lt;p&gt;……还有许多其他附加组件！&lt;&#x2F;p&gt;
+&lt;p&gt;如果您有任何问题、建议或反馈，请随时&lt;a href=&quot;https:&#x2F;&#x2F;www.michsky.com&#x2F;contact&#x2F;&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;联系我&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt;。&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.michsky.com&#x2F;&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;网站&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt; | &lt;a href=&quot;https:&#x2F;&#x2F;discord.gg&#x2F;VXpHyUt&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;Discord服务器&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt; | &lt;a href=&quot;https:&#x2F;&#x2F;docs.michsky.com&#x2F;docs&#x2F;modern-ui-pack&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;文档&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt; | &lt;a href=&quot;https:&#x2F;&#x2F;drive.google.com&#x2F;open?id=1uS-_Fsa37g0bXdZZqSUk6okyfxKIwdGC&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;Windows演示&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;&lt;br&gt;&lt;p&gt;请扩展 &lt;strong&gt;&#x27;技术细节&#x27;&lt;&#x2F;strong&gt; 以获取重要信息。&lt;&#x2F;p&gt;</content>
+        
+    </entry>
     <entry xml:lang="zh">
         <title>EnhancedScroller</title>
         <published>2024-11-29T21:19:57+00:00</published>

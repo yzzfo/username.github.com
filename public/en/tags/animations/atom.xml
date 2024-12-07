@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+    <title>yzzfo - Animations</title>
+    <subtitle>Game Development Learning Resources</subtitle>
+    <link rel="self" type="application/atom+xml" href="https://yzzfo.github.io/en/tags/animations/atom.xml"/>
+    <link rel="alternate" type="text/html" href="https://yzzfo.github.io"/>
+    <generator uri="https://www.getzola.org/">Zola</generator>
+    <updated>2024-12-01T18:53:31+00:00</updated>
+    <id>https://yzzfo.github.io/en/tags/animations/atom.xml</id>
+    <entry xml:lang="en">
+        <title>Combat animations - Kickboxing and Muay Thai V2</title>
+        <published>2024-12-01T18:53:31+00:00</published>
+        <updated>2024-12-01T18:53:31+00:00</updated>
+        
+        <author>
+          <name>
+            
+              yzzfo
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://yzzfo.github.io/en/unity/store/combat-animations-kickboxing-and-muay-thai-v2/"/>
+        <id>https://yzzfo.github.io/en/unity/store/combat-animations-kickboxing-and-muay-thai-v2/</id>
+        
+        <content type="html" xml:base="https://yzzfo.github.io/en/unity/store/combat-animations-kickboxing-and-muay-thai-v2/">&lt;p&gt;Collection of animations for Kickboxing and Muay Thai part 2&lt;br&gt;&lt;p &gt;A set of 31 third-person Kickboxing and Muay Thai animations&lt;&#x2F;p&gt;&lt;p &gt;Pose matched start and end frames&lt;&#x2F;p&gt;&lt;p &gt;Humanoid 3D animations, animations movements for retargeting to other humanoid 3D characters.&lt;&#x2F;p&gt;&lt;p &gt;The first part of these Muay Thai animations is &lt;a href=&quot;https:&#x2F;&#x2F;assetstore.unity.com&#x2F;packages&#x2F;slug&#x2F;202886&quot; target=&quot;_blank&quot;&gt;here&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;We invite you to visit my page. There are other works we would like you to see &lt;a href=&quot;https:&#x2F;&#x2F;assetstore.unity.com&#x2F;publishers&#x2F;56005?_ga=2.198619887.1778482432.1636715525-1776350741.1628504465&amp;_gac=1.82762212.1633960559.Cj0KCQjwwY-LBhD6ARIsACvT72OwlmosnD9LngefWGHTPOSiUU-YRL73PscMfovVseRlCecPWW9x11gaAlpZEALw_wcB&quot; target=&quot;_blank&quot;&gt;here&lt;&#x2F;a&gt;.&lt;&#x2F;p&gt;&lt;&#x2F;p&gt;
+</content>
+        
+    </entry>
+    <entry xml:lang="en">
+        <title>Martial Arts Fight Game</title>
+        <published>2024-12-01T18:53:05+00:00</published>
+        <updated>2024-12-01T18:53:05+00:00</updated>
+        
+        <author>
+          <name>
+            
+              yzzfo
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://yzzfo.github.io/en/unity/store/martial-arts-fight-game/"/>
+        <id>https://yzzfo.github.io/en/unity/store/martial-arts-fight-game/</id>
+        
+        <content type="html" xml:base="https://yzzfo.github.io/en/unity/store/martial-arts-fight-game/">&lt;p&gt;Martial Arts Fight Game is included +187 anims&lt;br&gt;&lt;p &gt;&lt;strong&gt;Update Note&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;p &gt;2.31 - some animation names have been changed for easier use &#x2F; Removed error and warning  &#x2F; added idle08 (2024&#x2F;10&#x2F;08)&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;&#x2F;br&gt;&lt;p &gt;&lt;strong&gt;Recommend&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;p &gt;RPG Character &#x2F; Main Character &#x2F; FightGame&lt;&#x2F;p&gt;&lt;p &gt;-&lt;&#x2F;p&gt;&lt;p &gt;Dynamic Boxing bundle and Muaythai attack!!&lt;&#x2F;p&gt;&lt;p &gt;It&#x27;s not Heavy boxer type. It has lightweight style moving. faster and faster.&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;&#x2F;br&gt;&lt;&#x2F;br&gt;&lt;p &gt;&lt;strong&gt;Features&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;ul&gt;&lt;li &gt;Various Animation for Side-View &amp;amp; Side-Scrolling game&lt;&#x2F;li&gt;&lt;li &gt;Dynamic Keyframe animation&lt;&#x2F;li&gt;&lt;li &gt;Humanoid version included&lt;&#x2F;li&gt;&lt;li &gt;Root motion and Inplace motion included&lt;&#x2F;li&gt;&lt;li &gt;A T-pose included&lt;&#x2F;li&gt;&lt;li &gt;FX is not included&lt;&#x2F;li&gt;&lt;&#x2F;ul&gt;&lt;&#x2F;br&gt;&lt;&#x2F;br&gt;&lt;p &gt;&lt;strong&gt;Animation List&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;ul&gt;&lt;li &gt;attack 39&lt;&#x2F;li&gt;&lt;li &gt;avoid 4&lt;&#x2F;li&gt;&lt;li &gt;buff 4&lt;&#x2F;li&gt;&lt;li &gt;combo 8&lt;&#x2F;li&gt;&lt;li &gt;dead 9&lt;&#x2F;li&gt;&lt;li &gt;defense 1&lt;&#x2F;li&gt;&lt;li &gt;down 27&lt;&#x2F;li&gt;&lt;li &gt;down rise attack 3&lt;&#x2F;li&gt;&lt;li &gt;hit 20&lt;&#x2F;li&gt;&lt;li &gt;idle 13&lt;&#x2F;li&gt;&lt;li &gt;jump 6&lt;&#x2F;li&gt;&lt;li &gt;movements 17&lt;&#x2F;li&gt;&lt;li &gt;pick 3&lt;&#x2F;li&gt;&lt;li &gt;revival 3&lt;&#x2F;li&gt;&lt;li &gt;setmotion 2&lt;&#x2F;li&gt;&lt;li &gt;sidescroll anims 14&lt;&#x2F;li&gt;&lt;li &gt;slip 2&lt;&#x2F;li&gt;&lt;li &gt;step 4&lt;&#x2F;li&gt;&lt;li &gt;turn 2&lt;&#x2F;li&gt;&lt;&#x2F;ul&gt;&lt;&#x2F;br&gt;&lt;&#x2F;br&gt;&lt;p &gt;&lt;strong&gt;Support&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;p &gt;FAQ : &lt;a href=&quot;https:&#x2F;&#x2F;www.wemakethegame.com&#x2F;&quot; target=&quot;_blank&quot;&gt;https:&#x2F;&#x2F;www.wemakethegame.com&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;&lt;p &gt;e-Mail : &lt;a href=&quot;mailto:contact@wemakethegame.com&quot; target=&quot;_blank&quot;&gt;contact@wemakethegame.com&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;&lt;p &gt;The best way to contact me is e-mail.&lt;&#x2F;p&gt;&lt;p &gt;I always appreciate your great comments and feedback.&lt;&#x2F;p&gt;&lt;&#x2F;p&gt;
+</content>
+        
+    </entry>
+    <entry xml:lang="en">
+        <title>Stylish Archer Assets Pack</title>
+        <published>2024-11-30T23:40:28+00:00</published>
+        <updated>2024-11-30T23:40:28+00:00</updated>
+        
+        <author>
+          <name>
+            
+              yzzfo
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://yzzfo.github.io/en/unity/store/stylish-archer-assets-pack/"/>
+        <id>https://yzzfo.github.io/en/unity/store/stylish-archer-assets-pack/</id>
+        
+        <content type="html" xml:base="https://yzzfo.github.io/en/unity/store/stylish-archer-assets-pack/">&lt;p&gt;&lt;br&gt;Stylish Archer Action Pack&lt;br&gt;&lt;br&gt;For stylish action, buy this pack.&lt;br&gt;&lt;br&gt;The same character and weapon modeling files as the demo video are included.&lt;br&gt;&lt;br&gt;Motion states was aligned to the animation controller.&lt;br&gt;Product information&lt;br&gt;The character league is set to humanoid configuration. Includes 5 finger bones, shoulder arms and leg twist bones.&lt;br&gt;&lt;br&gt;&lt;a href=&quot;https:&#x2F;&#x2F;docs.google.com&#x2F;spreadsheets&#x2F;d&#x2F;1UmGqUvmuQ2vJIrc6Gy-ZP0zqWtclAaP9NnnKcCrIh4w&#x2F;edit?usp=sharing&quot;&gt;[To check the Anmation List]&lt;&#x2F;a&gt;&lt;br&gt;&lt;a href=&quot;https:&#x2F;&#x2F;drive.google.com&#x2F;file&#x2F;d&#x2F;1Er6TYp2S_m0jvIdJbqHNzYMxmnWrOXbq&#x2F;view?usp=sharing&quot;&gt;[Grruzam_ArcherTest_File]&lt;&#x2F;a&gt;&lt;br&gt;The all animation contains.&lt;br&gt;&lt;br&gt;Archer Pack Total : 454&lt;br&gt;Attack : 97&lt;br&gt;Move : 38&lt;br&gt;StandUp &amp;amp; Sit : 4&lt;br&gt;Crouch Move : 11&lt;br&gt;Crouch_Walk : 16&lt;br&gt;Crouch_Walk_Aim : 16&lt;br&gt;Reload : 9&lt;br&gt;Crouch_Aim_Shoot : 2&lt;br&gt;Dodge : 8&lt;br&gt;Jogging : 20&lt;br&gt;Skills : 46&lt;br&gt;Walk_Aim : 16 + 18(ver.1.2)&lt;br&gt;Walk : 16&lt;br&gt;Equip &amp;amp; Unequip : 2&lt;br&gt;Jump &amp;amp; Double Jump : 28&lt;br&gt;Air Attack : 8&lt;br&gt;MoveTurn  : 44&lt;br&gt;Damage : 23&lt;br&gt;Die : 3&lt;br&gt;KnockDown : 29&lt;br&gt;&lt;br&gt;(This is the sum of Inplace and Root motion.)&lt;br&gt;For a detailed list, click [To check the Anmation List] above.&lt;&#x2F;p&gt;
+</content>
+        
+    </entry>
+    <entry xml:lang="en">
+        <title>Combat animations - Kickboxing and Muay Thai V1</title>
+        <published>2024-11-30T19:54:50+00:00</published>
+        <updated>2024-11-30T19:54:50+00:00</updated>
+        
+        <author>
+          <name>
+            
+              yzzfo
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://yzzfo.github.io/en/unity/store/combat-animations-kickboxing-and-muay-thai-v1/"/>
+        <id>https://yzzfo.github.io/en/unity/store/combat-animations-kickboxing-and-muay-thai-v1/</id>
+        
+        <content type="html" xml:base="https://yzzfo.github.io/en/unity/store/combat-animations-kickboxing-and-muay-thai-v1/">&lt;p&gt;Collection of animations for Kickboxing and Muay Thai&lt;br&gt;&lt;p &gt;Mirrored movements in succession - &lt;a href=&quot;https:&#x2F;&#x2F;youtu.be&#x2F;ZlOfiNEiThM&quot; target=&quot;_blank&quot;&gt;https:&#x2F;&#x2F;youtu.be&#x2F;ZlOfiNEiThM&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;&lt;p &gt;A set of 19 third-person Kickboxing and Muay Thai animations&lt;&#x2F;p&gt;&lt;p &gt;Pose matched start and end frames&lt;&#x2F;p&gt;&lt;p &gt;Humanoid 3D animations, animations movements for retargeting to other humanoid 3D characters.&lt;&#x2F;p&gt;&lt;p &gt;The second part of these Muay Thai animations is &lt;a href=&quot;https:&#x2F;&#x2F;u3d.as&#x2F;2FxD&quot; target=&quot;_blank&quot;&gt;here&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;We invite you to visit my page. There are other works we would like you to see &lt;a href=&quot;https:&#x2F;&#x2F;assetstore.unity.com&#x2F;publishers&#x2F;56005?_ga=2.198619887.1778482432.1636715525-1776350741.1628504465&amp;_gac=1.82762212.1633960559.Cj0KCQjwwY-LBhD6ARIsACvT72OwlmosnD9LngefWGHTPOSiUU-YRL73PscMfovVseRlCecPWW9x11gaAlpZEALw_wcB&quot; target=&quot;_blank&quot;&gt;here&lt;&#x2F;a&gt;.&lt;&#x2F;p&gt;&lt;&#x2F;p&gt;
+</content>
+        
+    </entry>
+    <entry xml:lang="en">
+        <title>Casual Motions Pack 2</title>
+        <published>2024-11-30T00:39:59+00:00</published>
+        <updated>2024-11-30T13:27:26+00:00</updated>
+        
+        <author>
+          <name>
+            
+              yzzfo
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://yzzfo.github.io/en/unity/store/casual-motions-pack-2/"/>
+        <id>https://yzzfo.github.io/en/unity/store/casual-motions-pack-2/</id>
+        
+        <content type="html" xml:base="https://yzzfo.github.io/en/unity/store/casual-motions-pack-2/">&lt;p&gt;&lt;br&gt;&lt;p &gt;This asset is composed of various 30 high-quality motion capture animations needed for game development.&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;Animation Clips consist of all looping.&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;The package is also humanoid-based.&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;These motions can be used in a variety of social content.&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;&#x2F;p&gt;
+</content>
+        
+    </entry>
+    <entry xml:lang="en">
+        <title>Medieval Animations Mega Pack</title>
+        <published>2024-11-29T21:21:52+00:00</published>
+        <updated>2024-11-30T13:26:31+00:00</updated>
+        
+        <author>
+          <name>
+            
+              yzzfo
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://yzzfo.github.io/en/unity/store/medieval-animations-mega-pack/"/>
+        <id>https://yzzfo.github.io/en/unity/store/medieval-animations-mega-pack/</id>
+        
+        <content type="html" xml:base="https://yzzfo.github.io/en/unity/store/medieval-animations-mega-pack/">&lt;p&gt;&lt;br&gt;&lt;br&gt;Notes&lt;br&gt;&lt;br&gt;1. This pack contains 714 quality animations from 8 animation collections, which covers what your basically need to create functional PC and NPC character for any Medieval or fantasy game type. &lt;br&gt;&lt;br&gt;2. You can use it as is or make blends between different animations in order to create more variants. &lt;br&gt;&lt;br&gt;3. You can use characters for prototype or make additional armor and weapons for them and use in you game production. &lt;br&gt;&lt;br&gt;4. Animation clips can be used with any rig type but to redirect it to custom characters must &quot;humanoid&quot; avatar used. Animation clips of Horse can be used with any rig types except &quot;humanoid&quot;. It can&#x27;t be re-targeted. Because horse isn&#x27;t humanoid creature.&lt;br&gt;&lt;br&gt;5. There is a difference between man and woman poses, which makes the difference between femininity and masculinity.&lt;br&gt;&lt;br&gt;6. Only animation with RM_ or W_RM_ prefix contains root motion data. All others must be used with this option turned off.&lt;br&gt;&lt;br&gt;7. Main Hero_Horseman object need to be parented to horse HORSEMAN_BONE can be found under horse hierarchy after Spine1 bone.&lt;br&gt;&lt;br&gt;8. You can find list of animations in description notes at YouTube preview page.&lt;br&gt;&lt;br&gt;Pack including&lt;br&gt;&lt;br&gt;1. 2 realistic ideal characters (Adam and Eva) with various weapons and low polygonal horse model.&lt;br&gt;&lt;br&gt;Eva: 8,532 polygons, 16,932 triangles, 8,689 vertexes. Rig: 75 bones. (2 additional bones for breast)&lt;br&gt;Adam: 8,591 polygons, 17,072 triangles, 8,767 vertexes. Rig: 73 bones &lt;br&gt;Weapons for each character: 4,391 polygons, 8,400 triangles, 4,744 vertexes&lt;br&gt;Horse: 1,069 polygons, 2,096 triangles, 1,157 vertexes.&lt;br&gt;&lt;br&gt;2. 693 human animation clips. 530 &quot;on place&quot; animation clips, plus 163 duplicates of run, walk, jump, crawling... animation clips included &quot;root motion&quot; data, used by Mecanim. &lt;br&gt;&lt;br&gt;3. 21 Horse animation clips. 15 &quot;on place&quot; animation clips, plus 6 duplicates of walk, jump, gallop... animation clips included &quot;root motion&quot; data, used by Mecanim.&lt;br&gt;&lt;br&gt;4. Diffuse, normals and specular 2048x248, 1024x1024, 512x512 TIF textures.&lt;br&gt;&lt;br&gt;5. Time lists included.&lt;&#x2F;p&gt;
+</content>
+        
+    </entry>
+    <entry xml:lang="en">
+        <title>Synty ANIMATION - Base Locomotion - Character Animset</title>
+        <published>2024-11-29T21:21:42+00:00</published>
+        <updated>2024-11-30T13:26:12+00:00</updated>
+        
+        <author>
+          <name>
+            
+              yzzfo
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://yzzfo.github.io/en/unity/store/synty-animation-base-locomotion-character-animset/"/>
+        <id>https://yzzfo.github.io/en/unity/store/synty-animation-base-locomotion-character-animset/</id>
+        
+        <content type="html" xml:base="https://yzzfo.github.io/en/unity/store/synty-animation-base-locomotion-character-animset/">&lt;p&gt;Synty ANIMATION is here! Compatible with Synty POLYGON and Simple characters. This pack contains 247 hand crafted animations and a demo character controller crafted with Synty&#x27;s trademark quality.&lt;br&gt;&lt;p &gt;&lt;strong&gt;Synty® Studios presents:  ANIMATION - Base Locomotion&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;p &gt;Elevate your game to new heights with the dynamic motion of Synty&#x27;s Animation - Base Locomotion.&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;◼ &lt;strong&gt;Key Features&lt;&#x2F;strong&gt; ◼&lt;&#x2F;p&gt;&lt;ul&gt;&lt;li &gt;247 Animation clips as separate files allow you to to only import the animations you need into your project&lt;&#x2F;li&gt;&lt;li &gt;Character controller example scripts&lt;&#x2F;li&gt;&lt;li &gt;Mecanim animation controllers - Masculine and Feminine&lt;&#x2F;li&gt;&lt;li &gt;Demo scene to test the animations&lt;&#x2F;li&gt;&lt;li &gt;Gallery scene with all the animations laid out&lt;&#x2F;li&gt;&lt;li &gt;Crash dummy character - fully rigged and animated&lt;&#x2F;li&gt;&lt;li &gt;All animations FBX files are included so you can use them outside of Unity&lt;&#x2F;li&gt;&lt;&#x2F;ul&gt;&lt;&#x2F;br&gt;&lt;p &gt;Bring your characters life with fluid movement and seamless transitions. Say goodbye to the hassle of sourcing animations from all over the internet and constructing your controller from scratch – our comprehensive pack equips you with everything you need to bring your characters to life in no time.&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;This powerhouse pack is brimming with essential animations for every common character motion need – from leisurely walks to adrenaline-pumping sprints, graceful jumps to heart-racing slides. With each state meticulously crafted, complete with multiple animations and smooth transitions, your characters will move with unparalleled grace.&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;But wait, there&#x27;s more! We&#x27;ve gone the extra mile by providing animations for both masculine and feminine figures, ensuring that your game&#x27;s characters exude authenticity and diversity. With the ability to seamlessly blend between the two, the possibilities for character expression and personality are limitless.&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;Dive deep into the Mecanim Animation Controllers included in this pack and unlock a treasure trove of knowledge on setting up animation states, transitions, blend trees, and parameters. Whether you&#x27;re a seasoned pro or a budding developer, these resources provide the perfect launchpad for crafting your own unique animation controller.&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;Don&#x27;t just make games – make them come alive with Synty&#x27;s Animation - Base Locomotion. Your players won&#x27;t just play; they&#x27;ll be transported into a world where every step, jump, and slide feels like magic.&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;&lt;strong&gt;Crash dummy model and animation controller demo scene included!&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;&#x2F;p&gt;
+</content>
+        
+    </entry>
+    <entry xml:lang="en">
+        <title>Dynamic Sword Animset</title>
+        <published>2024-11-29T21:21:33+00:00</published>
+        <updated>2024-11-30T13:26:00+00:00</updated>
+        
+        <author>
+          <name>
+            
+              yzzfo
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://yzzfo.github.io/en/unity/store/dynamic-sword-animset/"/>
+        <id>https://yzzfo.github.io/en/unity/store/dynamic-sword-animset/</id>
+        
+        <content type="html" xml:base="https://yzzfo.github.io/en/unity/store/dynamic-sword-animset/">&lt;p&gt;&lt;br&gt;Hello, we’d like to introduce our Dynamic Sword Animset.&lt;br&#x2F;&gt;&lt;br&#x2F;&gt;This is an animation package created based on the Unity Humanoid Mecanim animation system structure.&lt;br&#x2F;&gt;&lt;br&#x2F;&gt;Based on the basic movements of a character equipped with a sword and shield, it contains animations for a variety of different types of battle motions including attack, damage, roll, and dash. This animation package is designed to make your game more dynamic and stylish. &lt;br&#x2F;&gt;&lt;br&#x2F;&gt;This animation package contains animations for a total of 156 different motions, which are classified into Inplace and RootMotion. &lt;br&#x2F;&gt;&lt;br&#x2F;&gt;&lt;strong&gt;Blueisland Animset Viewer&lt;&#x2F;strong&gt;&lt;br&#x2F;&gt;&lt;a href=&quot;https:&#x2F;&#x2F;itunes.apple.com&#x2F;app&#x2F;blueisland-animset-viewer&#x2F;id1018645275?mt=8&quot;&gt;Apple App Store Link&lt;&#x2F;a&gt;&lt;br&#x2F;&gt;&lt;a href=&quot;https:&#x2F;&#x2F;play.google.com&#x2F;store&#x2F;apps&#x2F;details?id=com.blueisland.BiAViewer&quot;&gt;Google Play Store Link&lt;&#x2F;a&gt;&lt;br&#x2F;&gt;&lt;br&#x2F;&gt;Incorporate Dynamic Sword Animset into the game you’re working on, and make it more dynamic and stylish.&lt;&#x2F;p&gt;
+</content>
+        
+    </entry>
+    <entry xml:lang="en">
+        <title>Basic Motions</title>
+        <published>2024-11-29T21:20:35+00:00</published>
+        <updated>2024-11-30T13:24:44+00:00</updated>
+        
+        <author>
+          <name>
+            
+              yzzfo
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://yzzfo.github.io/en/unity/store/basic-motions/"/>
+        <id>https://yzzfo.github.io/en/unity/store/basic-motions/</id>
+        
+        <content type="html" xml:base="https://yzzfo.github.io/en/unity/store/basic-motions/">&lt;p&gt;Humanoid 3D movement, emotion and interaction animations for retargeting to other humanoid 3D characters.&lt;br&gt;&lt;p &gt;&lt;strong&gt;NEW&lt;&#x2F;strong&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.keviniglesias.com&#x2F;basicMotions&#x2F;Viewer&#x2F;demo.html&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;⭐Online Animations Preview&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;Download the FREE version here:&lt;&#x2F;p&gt;&lt;p &gt;&lt;a href=&quot;http:&#x2F;&#x2F;assetstore.unity.com&#x2F;packages&#x2F;3d&#x2F;animations&#x2F;basic-motions-pack-154271&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;Basic Motions FREE&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;This asset includes humanoid locomotion animations, some emotions and actions for retargeting to other humanoid 3D characters.&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;Simple Character Controller with moving animations included.&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v=0o7SzYSsR-o&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;Retargeting Video Tutorial&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;&lt;strong&gt;Animations List:&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;p &gt;&lt;strong&gt;Idles&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;p &gt;- Standing idles&lt;&#x2F;p&gt;&lt;p &gt;- Crouch idle&lt;&#x2F;p&gt;&lt;p &gt;- Swim idle&lt;&#x2F;p&gt;&lt;p &gt;- Wounded idle&lt;&#x2F;p&gt;&lt;p &gt;&lt;strong&gt;Movement&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;p &gt;- Falling (midair)&lt;&#x2F;p&gt;&lt;p &gt;- Forward roll (root motion and in place, 4.5 m)&lt;&#x2F;p&gt;&lt;p &gt;- Jump (root motion and in place)&lt;&#x2F;p&gt;&lt;p &gt;- Run (8 directions, 4 m&#x2F;s, root motion and in place)&lt;&#x2F;p&gt;&lt;p &gt;- Run slide (root motion and in place, 3 m)&lt;&#x2F;p&gt;&lt;p &gt;- Turn rotations (left &#x2F; right, root motion in place)&lt;&#x2F;p&gt;&lt;p &gt;- Sprint (3 directions, 6 m&#x2F;s, root motion and in place)&lt;&#x2F;p&gt;&lt;p &gt;- Swimming (10 directions, 1 m&#x2F;s, root motion and in place)&lt;&#x2F;p&gt;&lt;p &gt;- Walk (8 directions, 2 m&#x2F;s, root motion and in place)&lt;&#x2F;p&gt;&lt;p &gt;- Crouch walk (8 directions, 2 m&#x2F;s, root motion and in place)&lt;&#x2F;p&gt;&lt;p &gt;&lt;strong&gt;Social&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;p &gt;- Angry&lt;&#x2F;p&gt;&lt;p &gt;- Cheer &#x2F; victory&lt;&#x2F;p&gt;&lt;p &gt;- Conversations (talking and questions)&lt;&#x2F;p&gt;&lt;p &gt;- Fear&lt;&#x2F;p&gt;&lt;p &gt;- Hand claps (applause)&lt;&#x2F;p&gt;&lt;p &gt;- Hand waves&lt;&#x2F;p&gt;&lt;p &gt;- Head nods (saying yes)&lt;&#x2F;p&gt;&lt;p &gt;- Head shakes (saying no)&lt;&#x2F;p&gt;&lt;p &gt;- Pain&lt;&#x2F;p&gt;&lt;p &gt;&lt;strong&gt;Misc&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;p &gt;- Looting from floor&lt;&#x2F;p&gt;&lt;p &gt;- Opening&lt;&#x2F;p&gt;&lt;p &gt;- Knockdown and stand up&lt;&#x2F;p&gt;&lt;p &gt;- Sitting (ground, low, medium and high)&lt;&#x2F;p&gt;&lt;p &gt;- Stunned&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;Each animation is available in two versions: one more masculine and the other more feminine.&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;Contact Support:&lt;&#x2F;p&gt;&lt;p &gt;&lt;strong&gt;support@keviniglesias.com&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.keviniglesias.com&#x2F;&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;www.keviniglesias.com&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;&lt;&#x2F;p&gt;
+</content>
+        
+    </entry>
+</feed>

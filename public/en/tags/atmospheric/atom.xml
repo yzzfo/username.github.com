@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+    <title>yzzfo - atmospheric</title>
+    <subtitle>Game Development Learning Resources</subtitle>
+    <link rel="self" type="application/atom+xml" href="https://yzzfo.github.io/en/tags/atmospheric/atom.xml"/>
+    <link rel="alternate" type="text/html" href="https://yzzfo.github.io"/>
+    <generator uri="https://www.getzola.org/">Zola</generator>
+    <updated>2024-12-07T20:00:36+00:00</updated>
+    <id>https://yzzfo.github.io/en/tags/atmospheric/atom.xml</id>
+    <entry xml:lang="en">
+        <title>Better Fog: Height Fog, Light Scattering &amp; More</title>
+        <published>2024-12-07T20:00:36+00:00</published>
+        <updated>2024-12-07T20:00:36+00:00</updated>
+        
+        <author>
+          <name>
+            
+              yzzfo
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://yzzfo.github.io/en/unity/store/better-fog-height-fog-light-scattering-more/"/>
+        <id>https://yzzfo.github.io/en/unity/store/better-fog-height-fog-light-scattering-more/</id>
+        
+        <content type="html" xml:base="https://yzzfo.github.io/en/unity/store/better-fog-height-fog-light-scattering-more/">&lt;p&gt;Add depth and feel to your game. Achieve greater realism or craft a truly unique look. Improve or completely transform your game&#x27;s appearance without concerns over transparents, water, or skyboxes.&lt;br&gt;&lt;p &gt;&lt;strong&gt;Better Fog&lt;&#x2F;strong&gt; is a post-processing effect offering a wide variety of features to craft numerous looks and styles, from realistic to stylized. This effect is not a volumetric solution, ensuring optimal performance. It also includes additional features such as a plane or sphere analytical world fog, a custom fog particle shader, and more. Crafted using Shader Graph (URP) and the Amplify Shader Editor (Built-in), Better Fog supports transparent objects without the need to modify their shaders.&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;Join &lt;a href=&quot;https:&#x2F;&#x2F;discord.gg&#x2F;K88zmyuZFD&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;Discord &lt;&#x2F;strong&gt;&lt;&#x2F;a&gt;for updates, to report issues, or just to say hello!&lt;&#x2F;p&gt;&lt;p &gt;Please check the &lt;a href=&quot;https:&#x2F;&#x2F;inabstudios.gitbook.io&#x2F;better-fog&#x2F;&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;documentation &lt;&#x2F;strong&gt;&lt;&#x2F;a&gt;before purchasing.&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;&lt;strong&gt;Features:&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;ul&gt;&lt;li &gt;&lt;strong&gt;Screen Space Light Scattering (SSMS):&lt;&#x2F;strong&gt; Use it to create a more realistic feel for the fog.&lt;&#x2F;li&gt;&lt;li &gt;&lt;strong&gt;Gradient Fog Colors:&lt;&#x2F;strong&gt; Create your own custom look or use one of the many gradients included with the asset.&lt;&#x2F;li&gt;&lt;li &gt;&lt;strong&gt;Skybox Fog Integration:&lt;&#x2F;strong&gt; Ensure consistent visuals with any skybox.&lt;&#x2F;li&gt;&lt;li &gt;&lt;strong&gt;Distance-Based Fog:&lt;&#x2F;strong&gt; Default fog with the option to use radial distance.&lt;&#x2F;li&gt;&lt;li &gt;&lt;strong&gt;Height Fog:&lt;&#x2F;strong&gt; Atmospheric height fog.&lt;&#x2F;li&gt;&lt;li &gt;&lt;strong&gt;Volume Blending:&lt;&#x2F;strong&gt; Use post-processing volumes to blend between various presets.&lt;&#x2F;li&gt;&lt;li &gt;&lt;strong&gt;Transparents &amp;amp; Particle Support:&lt;&#x2F;strong&gt; The fog works well with particles and transparent objects.&lt;&#x2F;li&gt;&lt;li &gt;&lt;strong&gt;World Fog:&lt;&#x2F;strong&gt; Customize and add fog using planes and spheres with custom shaders.&lt;&#x2F;li&gt;&lt;li &gt;&lt;strong&gt;Custom Fog with Particles:&lt;&#x2F;strong&gt; Includes procedural fog particle FX.&lt;&#x2F;li&gt;&lt;li &gt;&lt;strong&gt;Fog Energy Loss:&lt;&#x2F;strong&gt; Imitate the loss of photon energy due to fog scattering.&lt;&#x2F;li&gt;&lt;li &gt;&lt;strong&gt;Simple Integration:&lt;&#x2F;strong&gt; Easily add the effect to your project.&lt;&#x2F;li&gt;&lt;li &gt;&lt;strong&gt;Versatile Customization:&lt;&#x2F;strong&gt; Adjust each feature as needed and use keywords for better performance.&lt;&#x2F;li&gt;&lt;&#x2F;ul&gt;&lt;&#x2F;br&gt;&lt;p &gt;&lt;strong&gt;Compatibility:&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;ul&gt;&lt;li &gt;Supports URP and Built-in versions 2021.3 and above.&lt;&#x2F;li&gt;&lt;li &gt;Unity 6 support! (see limitations below)&lt;&#x2F;li&gt;&lt;li &gt;Built-in requires Shader Graph for the demo scenes to work.&lt;&#x2F;li&gt;&lt;&#x2F;ul&gt;&lt;&#x2F;br&gt;&lt;p &gt;&lt;strong&gt;Limitations:&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;ul&gt;&lt;li &gt;Only supports directional light light scattering.&lt;&#x2F;li&gt;&lt;li &gt;Non-volumetric.&lt;&#x2F;li&gt;&lt;li &gt;No MSAA support.&lt;&#x2F;li&gt;&lt;li &gt;Requires devices capable of depth rendering.&lt;&#x2F;li&gt;&lt;li &gt;No support for orthographic camera, VR, webGL, VFX graph particles blending.&lt;&#x2F;li&gt;&lt;&#x2F;ul&gt;&lt;&#x2F;p&gt;
+</content>
+        
+    </entry>
+</feed>

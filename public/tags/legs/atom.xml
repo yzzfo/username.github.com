@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh">
+    <title>yzzfo - legs</title>
+    <subtitle>游戏开发学习资源分享</subtitle>
+    <link rel="self" type="application/atom+xml" href="https://yzzfo.github.io/tags/legs/atom.xml"/>
+    <link rel="alternate" type="text/html" href="https://yzzfo.github.io"/>
+    <generator uri="https://www.getzola.org/">Zola</generator>
+    <updated>2024-12-05T23:47:09+00:00</updated>
+    <id>https://yzzfo.github.io/tags/legs/atom.xml</id>
+    <entry xml:lang="zh">
+        <title>Legs Animator</title>
+        <published>2024-12-04T16:04:50+00:00</published>
+        <updated>2024-12-05T23:47:09+00:00</updated>
+        
+        <author>
+          <name>
+            
+              yzzfo
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://yzzfo.github.io/unity/store/legs-animator/"/>
+        <id>https://yzzfo.github.io/unity/store/legs-animator/</id>
+        
+        <content type="html" xml:base="https://yzzfo.github.io/unity/store/legs-animator/">&lt;p&gt;多功能腿部IK动画插件，适用于任何类型的3D角色。&lt;&#x2F;p&gt;
+&lt;p&gt;⚡ &lt;strong&gt;使用腿部动画师解决您所有的腿部动画问题！&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;strong&gt;腿部动画师&lt;&#x2F;strong&gt;是一个为具有腿部的角色提供众多功能的组件……几乎适用于所有类型的生物。&lt;&#x2F;p&gt;
+&lt;p&gt;⭐ &lt;strong&gt;功能列表：&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;ul&gt;&lt;li&gt;在不平坦地形上对齐腿部&lt;&#x2F;li&gt;&lt;li&gt;处理腿部附着点（粘合）&lt;&#x2F;li&gt;&lt;li&gt;执行复杂的附着过渡动画（静止粘合）&lt;&#x2F;li&gt;&lt;li&gt;自动原地转向旋转腿部动画（静止粘合）&lt;&#x2F;li&gt;&lt;li&gt;修复无根运动动画中的滑动脚（移动粘合）&lt;&#x2F;li&gt;&lt;li&gt;为动画提供臀部稳定性，赋予动画真实感&lt;&#x2F;li&gt;&lt;li&gt;提供API以便自定义扩展腿部动画师&lt;&#x2F;li&gt;&lt;li&gt;自动侧移和360度移动动画模块（使用单个剪辑）&lt;&#x2F;li&gt;&lt;li&gt;推力冲击API（用于着陆弯曲冲击等）&lt;&#x2F;li&gt;&lt;li&gt;额外的辅助功能以增强自动动画&lt;&#x2F;li&gt;&lt;li&gt;步伐事件处理，用于步伐声音和粒子&lt;&#x2F;li&gt;&lt;li&gt;快速设置和设置加速工具&lt;&#x2F;li&gt;&lt;li&gt;适用于任何类型的骨架 - 人形&#x2F;动物&#x2F;生物&lt;&#x2F;li&gt;&lt;li&gt;高度优化 + 紧凑的性能分析器&lt;&#x2F;li&gt;&lt;li&gt;查看&lt;a href=&quot;https:&#x2F;&#x2F;filipmoeglich.pl&#x2F;download&#x2F;Legs%20Animator%20-%20User%20Manual.pdf&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;手册&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt;以获取更多信息&lt;&#x2F;li&gt;&lt;&#x2F;ul&gt;
+&lt;p&gt;✍ 此组件&lt;strong&gt;不会将站立动画生成跑步动画！&lt;&#x2F;strong&gt;它可以改善跑步动画（腿部动画师与播放的动画同步工作），但它仅适用于已经存在的跑步动画剪辑。另一方面，腿部动画师可以程序化地动画简单的步伐&#x2F;行走动画。&lt;&#x2F;p&gt;&lt;p&gt;（实际上可以使用腿部动画师为跑步的昆虫进行动画）&lt;&#x2F;p&gt;&lt;br&gt;&lt;p &gt;&lt;a href=&quot;https:&#x2F;&#x2F;emojipedia.org&#x2F;gear&#x2F;&quot; target=&quot;_blank&quot;&gt;⚙️&lt;&#x2F;a&gt; 组件经过高度优化：1条腿的性能与Unity的角色移动控制器的移动性能相似。但如果你想使用多个像蜘蛛一样的生物：&lt;&#x2F;p&gt;&lt;p &gt;[8条腿进行计算] *次数* [蜘蛛数量] = 这可能会影响你项目的性能。&lt;&#x2F;p&gt;&lt;p &gt;(插件具有DOTS实现的潜力，因此未来可能会发布高性能提升更新)&lt;&#x2F;p&gt;
+&lt;p &gt;☄️ 使用腿部动画器内置的IK解决方案或使用其他任何IK求解器。&lt;&#x2F;p&gt;&lt;p &gt;腿部动画器计算的位置&#x2F;旋转可以被其他IK求解器或自定义脚本使用。插件提供了Unity的Mecanim脚部IK和Final IK的实现（链接在插件的自述文件中）。&lt;&#x2F;p&gt;
+&lt;p &gt;&lt;strong&gt;演示包以查看你在演示场景中找到的内容以及性能检查：&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;p &gt;&lt;a href=&quot;https:&#x2F;&#x2F;drive.google.com&#x2F;file&#x2F;d&#x2F;1GDz_0ie-jFnKmXZOxu508rms8I2UJPgk&#x2F;view?usp=sharing&quot; target=&quot;_blank&quot;&gt;Windows x64&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;&lt;p &gt;&lt;a href=&quot;https:&#x2F;&#x2F;drive.google.com&#x2F;file&#x2F;d&#x2F;1lHjFJFy-xP5m3ABVEH4KPt1-Awz4qx89&#x2F;view?usp=sharing&quot; target=&quot;_blank&quot;&gt;Android .apk&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+&lt;p &gt;&lt;strong&gt;该包适用于所有SRP！这不是与着色器相关的包。&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;p &gt;(你只需将标准演示材料转换为演示示例)&lt;&#x2F;p&gt;&lt;p &gt;内置 ✅ LWRP ✅ URP ✅ HDRP ✅ 自定义RP ✅&lt;&#x2F;p&gt;
+&lt;p &gt;演示场景包括在各种骨架（人形、四足、蜘蛛）上设置的腿部动画器。演示场景专注于展示插件的不同功能并提供角色移动的示例。&lt;&#x2F;p&gt;
+&lt;p &gt;&lt;a href=&quot;https:&#x2F;&#x2F;forum.unity.com&#x2F;threads&#x2F;released-legs-animator-multi-purpose-ik-system-for-any-kind-of-3d-character.1464737&#x2F;&quot; target=&quot;_blank&quot;&gt;社区论坛链接&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;&lt;p &gt;&lt;a href=&quot;https:&#x2F;&#x2F;filipmoeglich.pl&#x2F;download&#x2F;Legs%20Animator%20-%20User%20Manual.pdf&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;在此预览用户手册&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;&lt;p &gt;&lt;a href=&quot;http:&#x2F;&#x2F;discord.gg&#x2F;Y3WrzQp&quot; target=&quot;_blank&quot;&gt;我们的Discord支持&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;</content>
+        
+    </entry>
+</feed>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+    <title>yzzfo | Share for Free - Build</title>
+    <subtitle>Game Development Learning Resources</subtitle>
+    <link rel="self" type="application/atom+xml" href="https://yzzfo.github.io/en/tags/build/atom.xml"/>
+    <link rel="alternate" type="text/html" href="https://yzzfo.github.io"/>
+    <generator uri="https://www.getzola.org/">Zola</generator>
+    <updated>2024-12-08T17:50:14+00:00</updated>
+    <id>https://yzzfo.github.io/en/tags/build/atom.xml</id>
+    <entry xml:lang="en">
+        <title>Build Report Tool</title>
+        <published>2024-12-08T17:50:14+00:00</published>
+        <updated>2024-12-08T17:50:14+00:00</updated>
+        
+        <author>
+          <name>
+            
+              yzzfo
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://yzzfo.github.io/en/unity/store/build-report-tool/"/>
+        <id>https://yzzfo.github.io/en/unity/store/build-report-tool/</id>
+        
+        <content type="html" xml:base="https://yzzfo.github.io/en/unity/store/build-report-tool/">&lt;p&gt;&lt;br&gt;&lt;p &gt;Trying to reduce your game build to less than 50 MB? Need to see which of your assets are eating up disk space?&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;&#x2F;br&gt;&lt;p &gt;This tool provides a nice front-end for Unity&#x27;s build info. It shows the assets included when you build and how much storage space each of them take.&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;&#x2F;br&gt;&lt;p &gt;WARNING: This plugin does not detect the building of Asset Bundles or Addressables. That includes usage of plugins like VRWorld Toolkit.&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;&#x2F;br&gt;&lt;p &gt;&lt;strong&gt;Asset Usage&#x2F;Dependencies:&lt;&#x2F;strong&gt; See which asset is using which, to let you understand why an asset is being included in the build.&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;&#x2F;br&gt;&lt;p &gt;&lt;strong&gt;Unused Assets List:&lt;&#x2F;strong&gt; Maybe you have files you don&#x27;t use anymore? See what assets are &lt;strong&gt;not&lt;&#x2F;strong&gt; included in your build with the Unused Assets List!&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;&#x2F;br&gt;&lt;p &gt;&lt;strong&gt;Save to XML:&lt;&#x2F;strong&gt; Save your build reports to XML files! Store multiple build reports for reference, or perhaps send them to your teammates.&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;&#x2F;br&gt;&lt;p &gt;&lt;strong&gt;Project Settings:&lt;&#x2F;strong&gt; See what build settings were used on the project upon time of building. Useful for Continuous Integration systems when reviewing settings on automated builds.&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;&#x2F;br&gt;&lt;p &gt;&lt;strong&gt;DLL List:&lt;&#x2F;strong&gt; See exactly what Mono DLLs are getting included in your build and how much space they take.&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;&#x2F;br&gt;&lt;p &gt;Also works on Personal Edition and mobile.&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;&#x2F;br&gt;&lt;p &gt;For support or inquiries, send a tweet to &lt;a href=&quot;https:&#x2F;&#x2F;twitter.com&#x2F;AnomalusUndrdog&quot; target=&quot;_blank&quot;&gt;@AnomalusUndrdog&lt;&#x2F;a&gt;, &lt;a href=&quot;https:&#x2F;&#x2F;forum.unity.com&#x2F;members&#x2F;anomalusundrdog.8479&#x2F;&quot; target=&quot;_blank&quot;&gt;send me a private message&lt;&#x2F;a&gt; on the Unity forums, or join the discussion in our &lt;a href=&quot;https:&#x2F;&#x2F;forum.unity.com&#x2F;threads&#x2F;build-report-tool-track-files-in-your-project-that-need-slimming-down.178279&#x2F;&quot; target=&quot;_blank&quot;&gt;Unity forum thread&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;&#x2F;br&gt;&lt;&#x2F;p&gt;
+</content>
+        
+    </entry>
+</feed>

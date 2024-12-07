@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh">
+    <title>yzzfo - Flowers</title>
+    <subtitle>游戏开发学习资源分享</subtitle>
+    <link rel="self" type="application/atom+xml" href="https://yzzfo.github.io/tags/flowers/atom.xml"/>
+    <link rel="alternate" type="text/html" href="https://yzzfo.github.io"/>
+    <generator uri="https://www.getzola.org/">Zola</generator>
+    <updated>2024-12-07T11:37:24+00:00</updated>
+    <id>https://yzzfo.github.io/tags/flowers/atom.xml</id>
+    <entry xml:lang="zh">
+        <title>Pure Nature 2 : Mountains</title>
+        <published>2024-12-07T11:37:24+00:00</published>
+        <updated>2024-12-07T11:37:24+00:00</updated>
+        
+        <author>
+          <name>
+            
+              yzzfo
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://yzzfo.github.io/unity/store/pure-nature-2-mountains/"/>
+        <id>https://yzzfo.github.io/unity/store/pure-nature-2-mountains/</id>
+        
+        <content type="html" xml:base="https://yzzfo.github.io/unity/store/pure-nature-2-mountains/">&lt;p&gt;&lt;strong&gt;3D 风格化自然环境资产&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;p&gt;所有内容都包含预制件 - 准备好可以放入场景中。&lt;&#x2F;p&gt;&lt;p&gt;&lt;strong&gt;&lt;em&gt;包含 URP 版本！&lt;&#x2F;em&gt;&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;strong&gt;此包包含：&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;p&gt;&lt;strong&gt;植被&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;p&gt;- 云杉&lt;&#x2F;p&gt;&lt;p&gt;- 松树&lt;&#x2F;p&gt;&lt;p&gt;- 冷杉&lt;&#x2F;p&gt;&lt;p&gt;- 灌木&lt;&#x2F;p&gt;&lt;p&gt;- 蘑菇&lt;&#x2F;p&gt;&lt;p&gt;- 草&lt;&#x2F;p&gt;&lt;p&gt;&lt;em&gt;草、树枝、蕨类植物，各种……&lt;&#x2F;em&gt;&lt;&#x2F;p&gt;&lt;p&gt;- 花&lt;&#x2F;p&gt;&lt;p&gt;&lt;em&gt;浆果、胡萝卜、雏菊、刺槐、薰衣草、狼毒、各种……&lt;&#x2F;em&gt;&lt;&#x2F;p&gt;&lt;p&gt;- 蘑菇&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;strong&gt;岩石&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;p&gt;- 悬崖&lt;&#x2F;p&gt;&lt;p&gt;- 巨石&lt;&#x2F;p&gt;&lt;p&gt;- 岩石和卵石&lt;&#x2F;p&gt;&lt;p&gt;- 山脉&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;strong&gt;材质&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;p&gt;- 草&lt;&#x2F;p&gt;&lt;p&gt;- 沙子&lt;&#x2F;p&gt;&lt;p&gt;- 碎石&lt;&#x2F;p&gt;&lt;p&gt;- 泥土&lt;&#x2F;p&gt;&lt;p&gt;- 草&#x2F;沙&lt;&#x2F;p&gt;&lt;p&gt;- 草&#x2F;碎石&lt;&#x2F;p&gt;&lt;p&gt;- 草&#x2F;泥土&lt;&#x2F;p&gt;&lt;p&gt;- 水&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;strong&gt;还包括：&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;p&gt;包含大地形、森林、河流和峡谷的演示场景。&lt;&#x2F;p&gt;&lt;p&gt;包含所有预制件和变体的场景&lt;&#x2F;p&gt;&lt;p&gt;环境管理器用于控制风和草的渲染距离&lt;&#x2F;p&gt;&lt;p&gt;后期处理的预设&lt;&#x2F;p&gt;&lt;p&gt;所有预制件都有 LODs&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;strong&gt;自定义着色器用于：&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;p&gt;草（带风和颜色变化）&lt;&#x2F;p&gt;&lt;p&gt;树（带风和颜色变化）&lt;&#x2F;p&gt;&lt;p&gt;岩石（带苔藓&#x2F;雪层）&lt;&#x2F;p&gt;&lt;p&gt;水（带深度渐变、泡沫和折射）&lt;&#x2F;p&gt;&lt;p&gt;体积云&lt;&#x2F;p&gt;&lt;p&gt;替代物&lt;&#x2F;p&gt;
+&lt;p&gt;- - -&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;em&gt;演示场景非常大，可能不适合移动设备。&lt;&#x2F;em&gt;&lt;&#x2F;p&gt;&lt;p&gt;&lt;em&gt;建议使用合适的 &lt;&#x2F;em&gt;&lt;strong&gt;&lt;em&gt;GPU 实例化&lt;&#x2F;em&gt;&lt;&#x2F;strong&gt;&lt;em&gt; 解决方案，如 &lt;&#x2F;em&gt;&lt;a href=&quot;https:&#x2F;&#x2F;assetstore.unity.com&#x2F;packages&#x2F;tools&#x2F;terrain&#x2F;nature-renderer-2022-266664&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;&lt;em&gt;自然渲染器&lt;&#x2F;em&gt;&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt;&lt;em&gt;。&lt;&#x2F;em&gt;&lt;&#x2F;p&gt;&lt;br&gt;&lt;p &gt;&lt;strong&gt;&lt;em&gt;- &lt;&#x2F;em&gt;&lt;&#x2F;strong&gt;&lt;a href=&quot;https:&#x2F;&#x2F;assetstore.unity.com&#x2F;packages&#x2F;tools&#x2F;terrain&#x2F;biomes-and-presets-2-for-microverse-251773&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;&lt;em&gt;MicroVerse&lt;&#x2F;em&gt;&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt;&lt;em&gt; 预设&lt;&#x2F;em&gt;&lt;&#x2F;p&gt;&lt;p &gt;&lt;strong&gt;&lt;em&gt;- &lt;&#x2F;em&gt;&lt;&#x2F;strong&gt;&lt;a href=&quot;https:&#x2F;&#x2F;assetstore.unity.com&#x2F;packages&#x2F;tools&#x2F;terrain&#x2F;gaia-biomes-spawner-pack-bk-296372&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;&lt;em&gt;Gaia Spawner &lt;&#x2F;em&gt;&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt;&lt;em&gt; 预设&lt;&#x2F;em&gt;&lt;&#x2F;p&gt;
+&lt;p &gt;&lt;em&gt;可用的 &lt;&#x2F;em&gt;&lt;strong&gt;&lt;em&gt;Readme&lt;&#x2F;em&gt;&lt;&#x2F;strong&gt;&lt;em&gt; 文件提供了设置和详细信息。&lt;&#x2F;em&gt;&lt;&#x2F;p&gt;&lt;p &gt;&lt;em&gt;加入 &lt;&#x2F;em&gt;&lt;a href=&quot;https:&#x2F;&#x2F;discord.gg&#x2F;GqHvc9xQXp&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;&lt;em&gt;Discord&lt;&#x2F;em&gt;&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt;&lt;em&gt; 以获取支持或任何问题。&lt;&#x2F;em&gt;&lt;&#x2F;p&gt;</content>
+        
+    </entry>
+</feed>

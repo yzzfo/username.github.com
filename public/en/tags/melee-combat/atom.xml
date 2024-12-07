@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+    <title>yzzfo - melee combat</title>
+    <subtitle>Game Development Learning Resources</subtitle>
+    <link rel="self" type="application/atom+xml" href="https://yzzfo.github.io/en/tags/melee-combat/atom.xml"/>
+    <link rel="alternate" type="text/html" href="https://yzzfo.github.io"/>
+    <generator uri="https://www.getzola.org/">Zola</generator>
+    <updated>2024-12-01T18:53:31+00:00</updated>
+    <id>https://yzzfo.github.io/en/tags/melee-combat/atom.xml</id>
+    <entry xml:lang="en">
+        <title>Combat animations - Kickboxing and Muay Thai V2</title>
+        <published>2024-12-01T18:53:31+00:00</published>
+        <updated>2024-12-01T18:53:31+00:00</updated>
+        
+        <author>
+          <name>
+            
+              yzzfo
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://yzzfo.github.io/en/unity/store/combat-animations-kickboxing-and-muay-thai-v2/"/>
+        <id>https://yzzfo.github.io/en/unity/store/combat-animations-kickboxing-and-muay-thai-v2/</id>
+        
+        <content type="html" xml:base="https://yzzfo.github.io/en/unity/store/combat-animations-kickboxing-and-muay-thai-v2/">&lt;p&gt;Collection of animations for Kickboxing and Muay Thai part 2&lt;br&gt;&lt;p &gt;A set of 31 third-person Kickboxing and Muay Thai animations&lt;&#x2F;p&gt;&lt;p &gt;Pose matched start and end frames&lt;&#x2F;p&gt;&lt;p &gt;Humanoid 3D animations, animations movements for retargeting to other humanoid 3D characters.&lt;&#x2F;p&gt;&lt;p &gt;The first part of these Muay Thai animations is &lt;a href=&quot;https:&#x2F;&#x2F;assetstore.unity.com&#x2F;packages&#x2F;slug&#x2F;202886&quot; target=&quot;_blank&quot;&gt;here&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;We invite you to visit my page. There are other works we would like you to see &lt;a href=&quot;https:&#x2F;&#x2F;assetstore.unity.com&#x2F;publishers&#x2F;56005?_ga=2.198619887.1778482432.1636715525-1776350741.1628504465&amp;_gac=1.82762212.1633960559.Cj0KCQjwwY-LBhD6ARIsACvT72OwlmosnD9LngefWGHTPOSiUU-YRL73PscMfovVseRlCecPWW9x11gaAlpZEALw_wcB&quot; target=&quot;_blank&quot;&gt;here&lt;&#x2F;a&gt;.&lt;&#x2F;p&gt;&lt;&#x2F;p&gt;
+</content>
+        
+    </entry>
+    <entry xml:lang="en">
+        <title>Combat animations - Kickboxing and Muay Thai V1</title>
+        <published>2024-11-30T19:54:50+00:00</published>
+        <updated>2024-11-30T19:54:50+00:00</updated>
+        
+        <author>
+          <name>
+            
+              yzzfo
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://yzzfo.github.io/en/unity/store/combat-animations-kickboxing-and-muay-thai-v1/"/>
+        <id>https://yzzfo.github.io/en/unity/store/combat-animations-kickboxing-and-muay-thai-v1/</id>
+        
+        <content type="html" xml:base="https://yzzfo.github.io/en/unity/store/combat-animations-kickboxing-and-muay-thai-v1/">&lt;p&gt;Collection of animations for Kickboxing and Muay Thai&lt;br&gt;&lt;p &gt;Mirrored movements in succession - &lt;a href=&quot;https:&#x2F;&#x2F;youtu.be&#x2F;ZlOfiNEiThM&quot; target=&quot;_blank&quot;&gt;https:&#x2F;&#x2F;youtu.be&#x2F;ZlOfiNEiThM&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;&lt;p &gt;A set of 19 third-person Kickboxing and Muay Thai animations&lt;&#x2F;p&gt;&lt;p &gt;Pose matched start and end frames&lt;&#x2F;p&gt;&lt;p &gt;Humanoid 3D animations, animations movements for retargeting to other humanoid 3D characters.&lt;&#x2F;p&gt;&lt;p &gt;The second part of these Muay Thai animations is &lt;a href=&quot;https:&#x2F;&#x2F;u3d.as&#x2F;2FxD&quot; target=&quot;_blank&quot;&gt;here&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;We invite you to visit my page. There are other works we would like you to see &lt;a href=&quot;https:&#x2F;&#x2F;assetstore.unity.com&#x2F;publishers&#x2F;56005?_ga=2.198619887.1778482432.1636715525-1776350741.1628504465&amp;_gac=1.82762212.1633960559.Cj0KCQjwwY-LBhD6ARIsACvT72OwlmosnD9LngefWGHTPOSiUU-YRL73PscMfovVseRlCecPWW9x11gaAlpZEALw_wcB&quot; target=&quot;_blank&quot;&gt;here&lt;&#x2F;a&gt;.&lt;&#x2F;p&gt;&lt;&#x2F;p&gt;
+</content>
+        
+    </entry>
+</feed>

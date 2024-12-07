@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+    <title>yzzfo - motion capture</title>
+    <subtitle>Game Development Learning Resources</subtitle>
+    <link rel="self" type="application/atom+xml" href="https://yzzfo.github.io/en/tags/motion-capture/atom.xml"/>
+    <link rel="alternate" type="text/html" href="https://yzzfo.github.io"/>
+    <generator uri="https://www.getzola.org/">Zola</generator>
+    <updated>2024-11-30T13:27:26+00:00</updated>
+    <id>https://yzzfo.github.io/en/tags/motion-capture/atom.xml</id>
+    <entry xml:lang="en">
+        <title>Casual Motions Pack 2</title>
+        <published>2024-11-30T00:39:59+00:00</published>
+        <updated>2024-11-30T13:27:26+00:00</updated>
+        
+        <author>
+          <name>
+            
+              yzzfo
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://yzzfo.github.io/en/unity/store/casual-motions-pack-2/"/>
+        <id>https://yzzfo.github.io/en/unity/store/casual-motions-pack-2/</id>
+        
+        <content type="html" xml:base="https://yzzfo.github.io/en/unity/store/casual-motions-pack-2/">&lt;p&gt;&lt;br&gt;&lt;p &gt;This asset is composed of various 30 high-quality motion capture animations needed for game development.&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;Animation Clips consist of all looping.&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;The package is also humanoid-based.&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;These motions can be used in a variety of social content.&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;&#x2F;p&gt;
+</content>
+        
+    </entry>
+</feed>

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh">
+    <title>yzzfo - overlay</title>
+    <subtitle>游戏开发学习资源分享</subtitle>
+    <link rel="self" type="application/atom+xml" href="https://yzzfo.github.io/tags/overlay/atom.xml"/>
+    <link rel="alternate" type="text/html" href="https://yzzfo.github.io"/>
+    <generator uri="https://www.getzola.org/">Zola</generator>
+    <updated>2024-11-30T13:25:51+00:00</updated>
+    <id>https://yzzfo.github.io/tags/overlay/atom.xml</id>
+    <entry xml:lang="zh">
+        <title>EasyPerformanceMonitor - 2024</title>
+        <published>2024-11-29T21:21:24+00:00</published>
+        <updated>2024-11-30T13:25:51+00:00</updated>
+        
+        <author>
+          <name>
+            
+              yzzfo
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://yzzfo.github.io/unity/store/easyperformancemonitor-2024/"/>
+        <id>https://yzzfo.github.io/unity/store/easyperformancemonitor-2024/</id>
+        
+        <content type="html" xml:base="https://yzzfo.github.io/unity/store/easyperformancemonitor-2024/">&lt;p&gt;EasyPerformanceMonitor 是一款专为 Unity3d 设计的游戏内性能监控工具。它可实时监控 FPS、CPU 使用率、GPU 使用率、内存使用率等基本指标。&lt;br&gt;&lt;p &gt;📄 &lt;a href=&quot;https:&#x2F;&#x2F;docs.guardingpearsoftware.com&#x2F;manual&#x2F;EasyPerformanceMonitor&#x2F;Description.html&quot; target=&quot;_blank&quot;&gt;文档&lt;&#x2F;a&gt; 💬 &lt;a href=&quot;https:&#x2F;&#x2F;forum.unity.com&#x2F;threads&#x2F;easyperformancemonitor-cpu-gpu-memory-in-game-monitoring.1490116&#x2F;&quot; target=&quot;_blank&quot;&gt;论坛&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;EasyPerformanceMonitor 是一款专为 Unity3d 设计的游戏内性能监控工具。通过实时监控 FPS、CPU 使用率、GPU 使用率、内存使用率等基本指标，EasyPerformanceMonitor 可帮助您优化应用程序和游戏性能。&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;&lt;strong&gt;⭐&lt;&#x2F;strong&gt;主要事实&lt;strong&gt;⭐&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;✔ 游戏内监控： 游戏内覆盖，让您随时更新。&lt;&#x2F;p&gt;&lt;p &gt;✔ 使用简单： 无需复杂设置或技术知识，即插即用。&lt;&#x2F;p&gt;&lt;p &gt;✔ 兼容性： 与所有 Unity3d 支持的目标平台集成。&lt;&#x2F;p&gt;&lt;p &gt;✔ 自定义数据扩展： 通过集成自定义数据扩展您的监控功能。&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;&lt;strong&gt;⭐&lt;&#x2F;strong&gt;集成&lt;strong&gt;⭐&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;无论目标平台如何，将 EasyPerformanceMonitor 集成到任何应用程序或游戏中都非常简单。只需将 EasyPerformanceMonitor 预制件添加到初始场景中，一切就绪。我们确保集成过程简单明了，让您可以专注于核心开发。&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;&lt;strong&gt;⭐&lt;&#x2F;strong&gt;平台&lt;strong&gt;⭐&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;Unity3d 支持的所有平台。包括 Mono 和 IL2CPP。&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;&lt;strong&gt;⭐&lt;&#x2F;strong&gt;说明&lt;strong&gt;⭐&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;EasyPerformanceMonitor 包含大量手册、脚本 API 参考文档和演示，可让您直接进行监控和优化！&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;&lt;a href=&quot;https:&#x2F;&#x2F;docs.guardingpearsoftware.com&#x2F;manual&#x2F;EasyPerformanceMonitor&#x2F;Description.html&quot; target=&quot;_blank&quot;&gt;文档&lt;&#x2F;a&gt; 和 &lt;a href=&quot;https:&#x2F;&#x2F;docs.guardingpearsoftware.com&#x2F;api&#x2F;EasyPerformanceMonitor&#x2F;GUPS.EasyPerformanceMonitor.html&quot; target=&quot;_blank&quot;&gt;脚本应用程序参考&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;&lt;strong&gt;⭐&lt;&#x2F;strong&gt;联系我们&lt;strong&gt;⭐&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;电子邮件：guardingpearsoftware@gmail.com&lt;&#x2F;p&gt;&lt;p &gt;网站：guardingpearsoftware.com&lt;&#x2F;p&gt;&lt;&#x2F;p&gt;
+</content>
+        
+    </entry>
+    <entry xml:lang="zh">
+        <title>Highlight Plus - All in One Outline &amp; Selection Effects</title>
+        <published>2024-11-29T21:20:55+00:00</published>
+        <updated>2024-11-30T13:25:09+00:00</updated>
+        
+        <author>
+          <name>
+            
+              yzzfo
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://yzzfo.github.io/unity/store/highlight-plus-all-in-one-outline-selection-effects/"/>
+        <id>https://yzzfo.github.io/unity/store/highlight-plus-all-in-one-outline-selection-effects/</id>
+        
+        <content type="html" xml:base="https://yzzfo.github.io/unity/store/highlight-plus-all-in-one-outline-selection-effects/">&lt;p&gt;Highlight Plus adds outline, glow, overlay, see-through and other effects to objects and characters in your scene.&lt;br&gt;&lt;strong&gt;Highlight Plus&lt;&#x2F;strong&gt; 为场景中的所有对象都&lt;strong&gt;添加了轮廓、发光、 覆盖及其&lt;&#x2F;strong&gt;他特效。&lt;br&gt;&lt;br&gt;HP 在设计时考虑到了&lt;strong&gt;平台兼容性&lt;&#x2F;strong&gt;和&lt;strong&gt;性能&lt;&#x2F;strong&gt;。&lt;br&gt;&lt;br&gt;&lt;a href=&quot;https:&#x2F;&#x2F;kronnect.me&#x2F;unity&#x2F;highp&#x2F;demo&#x2F;&#x2F;&quot;&gt;Web 演示&lt;&#x2F;a&gt;&lt;br&gt;&lt;br&gt;&lt;strong&gt;** 视觉特征 &lt;strong&gt;&lt;&#x2F;strong&gt;&lt;br&gt;&lt;br&gt;- 轮廓颜色、α 和宽度&lt;br&gt;- 外部发光颜色、宽度、α、动画速度、抖动、多色彩&lt;br&gt;- 内部发光颜色、宽度和强度&lt;br&gt;- 覆盖颜色、α 和动画速度&lt;br&gt;- 透视特效强度、着色颜色和 α被遮挡的对象保持正确的深度。外加其他着色边界选项。&lt;br&gt;- 目标特效，带有可自定义的过渡、动画、纹理和颜色。也与蒙皮网格兼容。除了将目标突出，你现在还可以利用这一新功能处理任何数量的地点。&lt;br&gt;- 击中&#x2F;闪光特效，具有自定义的颜色、强度和淡出持续时间&lt;br&gt;&lt;br&gt;&lt;strong&gt;&lt;&#x2F;strong&gt; 其他特征 &lt;strong&gt;&lt;&#x2F;strong&gt;&lt;br&gt;&lt;br&gt;- 在编辑器中预览效果（无需进入任何模式）&lt;br&gt;- 极为灵活：可以影响单个或一组对象，或通过图层选项以自动模式运行&lt;br&gt;- 通过输入体积触发的选项&lt;br&gt;- 可排除特定的子网格&lt;br&gt;- 可精确控制自动模式的事件系统&lt;br&gt;- 淡入&#x2F;淡出&lt;br&gt;- 将设置复制到可重复使用的配置文件中&lt;br&gt;- 适用于法线、蒙皮网格及 LOD 群组&lt;br&gt;- 适用于正交和透视摄像机及多个摄像机&lt;br&gt;- 安全：不会修改对象材质、着色器或网格&lt;br&gt;- 性能：这不是完整的屏幕图像特效&lt;br&gt;- 有序透视更多详细信息，&lt;a href=&quot;https:&#x2F;&#x2F;medium.com&#x2F;@KronnectGames&#x2F;ordered-see-through-effect-with-highlight-plus-b5f190e4d7a7&quot;&gt;请查看此处&lt;&#x2F;a&gt;。&lt;br&gt;- 3 个质量等级&lt;br&gt;&lt;br&gt;&lt;strong&gt;&lt;&#x2F;strong&gt; 平台兼容性 **&lt;&#x2F;strong&gt;&lt;br&gt;&lt;br&gt;内置&#x2F;标准管线 (Unity 2018.4+)&lt;br&gt;- 与 Mac、Windows、Android、iOS、WebGL 兼容&lt;br&gt;- 兼容 VR&lt;br&gt;- 移动端速度极快&lt;br&gt;&lt;br&gt;通用渲染管线 (Unity 2019.3+)&lt;br&gt;该资源还随附一个专用于通用渲染管线的版本。&lt;br&gt;&lt;br&gt;请注意：Highlight Plus 适用于网格（3D 或 2D）。&lt;br&gt;为实现精灵高亮，&lt;a href=&quot;https:&#x2F;&#x2F;assetstore.unity.com&#x2F;packages&#x2F;tools&#x2F;particles-effects&#x2F;highlight-plus-2d-138383&quot;&gt;请使用 Highlight Plus 2D&lt;&#x2F;a&gt;。&lt;br&gt;&lt;br&gt;&lt;a href=&quot;https:&#x2F;&#x2F;assetstore.unity.com&#x2F;publishers&#x2F;15018&quot;&gt;请查看我们的其他资源。&lt;&#x2F;a&gt;&lt;br&gt;&lt;br&gt;&lt;a href=&quot;http:&#x2F;&#x2F;kronnect.me&#x2F;taptapgo&quot;&gt;支持论坛&lt;&#x2F;a&gt;&lt;br&gt;&lt;br&gt;&lt;&#x2F;p&gt;
+</content>
+        
+    </entry>
+</feed>

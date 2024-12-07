@@ -1,12 +1,82 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh">
-    <title>yzzfo - GUI</title>
+    <title>yzzfo | Share for Free - GUI</title>
     <subtitle>游戏开发学习资源分享</subtitle>
     <link rel="self" type="application/atom+xml" href="https://yzzfo.github.io/tags/gui/atom.xml"/>
     <link rel="alternate" type="text/html" href="https://yzzfo.github.io"/>
     <generator uri="https://www.getzola.org/">Zola</generator>
-    <updated>2024-12-06T14:25:47+00:00</updated>
+    <updated>2024-12-09T11:46:24+00:00</updated>
     <id>https://yzzfo.github.io/tags/gui/atom.xml</id>
+    <entry xml:lang="zh">
+        <title>Modern UI Pack</title>
+        <published>2024-12-09T11:46:24+00:00</published>
+        <updated>2024-12-09T11:46:24+00:00</updated>
+        
+        <author>
+          <name>
+            
+              yzzfo
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://yzzfo.github.io/unity/store/modern-ui-pack/"/>
+        <id>https://yzzfo.github.io/unity/store/modern-ui-pack/</id>
+        
+        <content type="html" xml:base="https://yzzfo.github.io/unity/store/modern-ui-pack/">&lt;p&gt;现代UI包是一个干净、简约且时尚的UI包，旨在为寻求增强和丰富功能UI元素的用户提供服务。它易于使用且完全可定制。&lt;&#x2F;p&gt;
+&lt;p&gt;轻松为您的游戏或应用程序创建流畅且可定制的UI元素！&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;strong&gt;• UI管理器&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;p&gt;您可以在几秒钟内更改整个UI的外观，而不是逐个更改对象——这一切都通过UI管理器完成！&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;strong&gt;• 编辑器工具&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;p&gt;您可以使用编辑器工具在几秒钟内调整所有内容，而不是逐个调整。几乎可以在Unity中添加或更改所有内容，无需处理代码或外部工具。&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;strong&gt;• 演示场景&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;p&gt;包括一个功能齐全的演示场景，展示MUIP组件的工作原理和外观。&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;strong&gt;• 原生UI支持&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;p&gt;现代UI包使用原生Unity UI制作，允许您继续按照习惯工作，甚至可以与第三方UGUI扩展一起使用。&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;strong&gt;• 超过18种多样的UI元素&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;p&gt;动画图标、按钮、上下文菜单、下拉菜单、水平选择器、图标、输入框、模态窗口、多选下拉菜单、通知、饼图、进度条、径向滑块、切片边框、滑块、开关、切换、工具提示、窗口管理器……&lt;&#x2F;p&gt;
+&lt;p&gt;……还有许多其他附加组件！&lt;&#x2F;p&gt;
+&lt;p&gt;如果您有任何问题、建议或反馈，请随时&lt;a href=&quot;https:&#x2F;&#x2F;www.michsky.com&#x2F;contact&#x2F;&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;联系我&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt;。&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.michsky.com&#x2F;&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;网站&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt; | &lt;a href=&quot;https:&#x2F;&#x2F;discord.gg&#x2F;VXpHyUt&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;Discord服务器&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt; | &lt;a href=&quot;https:&#x2F;&#x2F;docs.michsky.com&#x2F;docs&#x2F;modern-ui-pack&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;文档&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt; | &lt;a href=&quot;https:&#x2F;&#x2F;drive.google.com&#x2F;open?id=1uS-_Fsa37g0bXdZZqSUk6okyfxKIwdGC&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;Windows演示&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;&lt;br&gt;&lt;p&gt;请扩展 &lt;strong&gt;&#x27;技术细节&#x27;&lt;&#x2F;strong&gt; 以获取重要信息。&lt;&#x2F;p&gt;</content>
+        
+    </entry>
+    <entry xml:lang="zh">
+        <title>3D WebView for Android (Web Browser)</title>
+        <published>2024-12-07T20:22:27+00:00</published>
+        <updated>2024-12-07T20:22:27+00:00</updated>
+        
+        <author>
+          <name>
+            
+              yzzfo
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://yzzfo.github.io/unity/store/3d-webview-for-android-web-browser/"/>
+        <id>https://yzzfo.github.io/unity/store/3d-webview-for-android-web-browser/</id>
+        
+        <content type="html" xml:base="https://yzzfo.github.io/unity/store/3d-webview-for-android-web-browser/">&lt;p&gt;&lt;br&gt;使用&lt;strong&gt;与支持 Vuplex VR&#x2F;AR 浏览器的相同代码，即可轻松在 Android 上以 3D 形式渲染 Web 内容并与之进行&lt;&#x2F;strong&gt;&lt;a  href=&quot;https:&#x2F;&#x2F;vuplex.com&quot;&gt;&lt;&#x2F;a&gt;交互。请参阅&lt;a href=&quot;https:&#x2F;&#x2F;developer.vuplex.com&#x2F;webview&#x2F;overview&quot;&gt;开发人员网站&lt;&#x2F;a&gt;以获取完整的文档。&lt;br&gt;&lt;br&gt;&amp;amp;#x1F310 &lt;a href=&quot;https:&#x2F;&#x2F;developer.vuplex.com&#x2F;webview&#x2F;IWebView#LoadUrl&quot;&gt;从 URL&lt;&#x2F;a&gt; 或 &lt;a  href=&quot;https:&#x2F;&#x2F;developer.vuplex.com&#x2F;webview&#x2F;IWebView#LoadHtml&quot;&gt;HTML 字符串&lt;&#x2F;a&gt;加载网页&lt;br&gt;&lt;br&gt;&amp;amp;#x1F4FA 观看视频和 YouTube 视频&lt;br&gt;&lt;br&gt;⚡️ 使用 &lt;a href=&quot;https:&#x2F;&#x2F;developer.vuplex.com&#x2F;webview&#x2F;WebViewPrefab&quot;&gt;WebViewPrefab 和&lt;&#x2F;a&gt; &lt;a  href=&quot;https:&#x2F;&#x2F;developer.vuplex.com&#x2F;webview&#x2F;CanvasWebViewPrefab&quot;&gt;CanvasWebViewPrefab&lt;&#x2F;a&gt; 快速上手，它们会自动渲染为 Texture2D 并处理用户互动（单击、滚动、悬停、拖动）&lt;br&gt;&lt;br&gt;⌨️ 使用内含的&lt;a href=&quot;https:&#x2F;&#x2F;developer.vuplex.com&#x2F;webview&#x2F;Keyboard&quot;&gt;屏幕键盘&lt;&#x2F;a&gt;输入&lt;br&gt;&lt;br&gt;• &lt;a href=&quot;https:&#x2F;&#x2F;developer.vuplex.com&#x2F;webview&#x2F;IWebView&quot;&gt;统一的 API&lt;&#x2F;a&gt; C# 源代码，该 API 可流畅运行于&lt;a  href=&quot;https:&#x2F;&#x2F;assetstore.unity.com&#x2F;packages&#x2F;slug&#x2F;137030&quot;&gt;Android&lt;&#x2F;a&gt;、&lt;a  href=&quot;https:&#x2F;&#x2F;assetstore.unity.com&#x2F;packages&#x2F;slug&#x2F;137040&quot;&gt;iOS&lt;&#x2F;a&gt;、&lt;a  href=&quot;https:&#x2F;&#x2F;assetstore.unity.com&#x2F;packages&#x2F;slug&#x2F;154144&quot;&gt;Windows&lt;&#x2F;a&gt;、&lt;a  href=&quot;https:&#x2F;&#x2F;assetstore.unity.com&#x2F;packages&#x2F;slug&#x2F;154144&quot;&gt;macOS&lt;&#x2F;a&gt; 和 &lt;a  href=&quot;https:&#x2F;&#x2F;assetstore.unity.com&#x2F;packages&#x2F;slug&#x2F;166365&quot;&gt;UWP&#x2F;Hololens&lt;&#x2F;a&gt;&lt;br&gt;&lt;br&gt;• 调用&lt;a href=&quot;https:&#x2F;&#x2F;developer.vuplex.com&#x2F;webview&#x2F;IWebView#HandleKeyboardInput&quot;&gt;键盘&lt;&#x2F;a&gt;和&lt;a  href=&quot;https:&#x2F;&#x2F;developer.vuplex.com&#x2F;webview&#x2F;IWebView#Click&quot;&gt;鼠标&lt;&#x2F;a&gt;事件，以编程方式&lt;a  href=&quot;https:&#x2F;&#x2F;developer.vuplex.com&#x2F;webview&#x2F;WebViewPrefab#Resize&quot;&gt;调整大小&lt;&#x2F;a&gt;、&lt;a  href=&quot;https:&#x2F;&#x2F;developer.vuplex.com&#x2F;webview&#x2F;IWebView#ZoomIn&quot;&gt;缩放&lt;&#x2F;a&gt;、&lt;a  href=&quot;https:&#x2F;&#x2F;developer.vuplex.com&#x2F;webview&#x2F;IWebView#Scroll&quot;&gt;滚动&lt;&#x2F;a&gt;和&lt;a  href=&quot;https:&#x2F;&#x2F;developer.vuplex.com&#x2F;webview&#x2F;IWebView#GoBack&quot;&gt;后退&lt;&#x2F;a&gt;&#x2F;&lt;a  href=&quot;https:&#x2F;&#x2F;developer.vuplex.com&#x2F;webview&#x2F;IWebView#GoForward&quot;&gt;前进&lt;&#x2F;a&gt;&lt;br&gt;&lt;br&gt;• 在当前页面的上下文中&lt;a href=&quot;https:&#x2F;&#x2F;developer.vuplex.com&#x2F;webview&#x2F;IWebView#ExecuteJavaScript&quot;&gt;执行 JavaScript&lt;&#x2F;a&gt;&lt;br&gt;&lt;br&gt;• 将&lt;a href=&quot;https:&#x2F;&#x2F;support.vuplex.com&#x2F;articles&#x2F;how-to-send-messages-from-javascript-to-c-sharp&quot;&gt;消息从 JavaScript JavaScript 发送到 C# 或者反向发送&lt;&#x2F;a&gt;&lt;br&gt;&lt;br&gt;• 监听浏览器事件，例如 &lt;a href=&quot;https:&#x2F;&#x2F;developer.vuplex.com&#x2F;webview&#x2F;IWebView#TitleChanged&quot;&gt;TitleChanged&lt;&#x2F;a&gt;、&lt;a href=&quot;https:&#x2F;&#x2F;developer.vuplex.com&#x2F;webview&#x2F;IWebView#UrlChanged&quot;&gt;UrlChanged&lt;&#x2F;a&gt; 以及 &lt;a  href=&quot;https:&#x2F;&#x2F;developer.vuplex.com&#x2F;webview&#x2F;IWebView#PageLoadFailed&quot;&gt;PageLoadFailed&lt;&#x2F;a&gt;&lt;br&gt;&lt;br&gt;• 查看 PDF&lt;br&gt;&lt;br&gt;• 支持世界坐标系和画布&lt;br&gt;&lt;br&gt;• 也包括&lt;a href=&quot;https:&#x2F;&#x2F;developer.vuplex.com&#x2F;webview&#x2F;AndroidWebView&quot;&gt;额外的 Android 专用 API&lt;&#x2F;a&gt;&lt;br&gt;&lt;br&gt;• 支持&lt;a href=&quot;https:&#x2F;&#x2F;support.vuplex.com&#x2F;articles&#x2F;how-to-make-a-webview-transparent&quot;&gt;透明页面&lt;&#x2F;a&gt;&lt;br&gt;&lt;br&gt;• 支持多线程渲染、单遍立体渲染及线性色彩空间&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;strong&gt;示例&lt;&#x2F;strong&gt;&lt;br&gt;&lt;br&gt;• &lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;vuplex&#x2F;oculus-webview-example&quot;&gt;Oculus 示例&lt;&#x2F;a&gt;（Oculus Quest、Oculus Go、Gear VR）&lt;br&gt;&lt;br&gt;• &lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;vuplex&#x2F;google-vr-webview-example&quot;&gt;Google VR 示例&lt;&#x2F;a&gt;（Cardboard、Daydream）&lt;br&gt;&lt;br&gt;• &lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;vuplex&#x2F;ar-foundation-webview-example&quot;&gt;AR Foundation 示例&lt;&#x2F;a&gt;&lt;br&gt;&lt;br&gt;• 3D WebView 还包含以下演示场景：&lt;br&gt;◦ SimpleWebViewDemo&lt;br&gt;◦ CanvasWebViewDemo&lt;br&gt;◦ AdvancedWebViewDemo&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;strong&gt;重要说明&lt;&#x2F;strong&gt;&lt;br&gt;&lt;br&gt;• 您也可以单独购买 &lt;a href=&quot;https:&#x2F;&#x2F;assetstore.unity.com&#x2F;packages&#x2F;slug&#x2F;135383&quot;&gt;iOS&lt;&#x2F;a&gt; 包，也可以购买 &lt;a  href=&quot;https:&#x2F;&#x2F;assetstore.unity.com&#x2F;packages&#x2F;slug&#x2F;135383&quot;&gt;Android 和 iOS 捆绑包&lt;&#x2F;a&gt;。&lt;br&gt;&lt;br&gt;• 3D WebView 的原生 Android 插件无法在 PC 上运行，所以在编辑器内运行时默认使用模拟网页视图执行。但是，您也可以购买&lt;a href=&quot;https:&#x2F;&#x2F;assetstore.unity.com&#x2F;packages&#x2F;slug&#x2F;154144&quot;&gt;适用于 Windows 和 macOS 的 3D WebView&lt;&#x2F;a&gt;，下载并渲染网页内容。&lt;br&gt;&lt;br&gt;• 3D WebView 的原生 Android 插件作为预编译的库提供，而没有提供它们的原生源代码。&lt;br&gt;&lt;br&gt;• 支持有 OpenGL 图形的 Android 5.0+ (armv7, arm64, x86)&lt;br&gt;&lt;br&gt;• 使用&lt;a href=&quot;https:&#x2F;&#x2F;developer.android.com&#x2F;reference&#x2F;android&#x2F;webkit&#x2F;WebView&quot;&gt;系统 Web 视图&lt;&#x2F;a&gt;作为其浏览器引擎。&lt;br&gt;&lt;br&gt;• &lt;strong&gt;如果您想使用 Oculus 虚拟现实头盔&lt;&#x2F;strong&gt;并需要辅助视频或 WebGL，则建议您使用&lt;a  href=&quot;https:&#x2F;&#x2F;assetstore.unity.com&#x2F;packages&#x2F;slug&#x2F;158778&quot;&gt;带有 Gecko 引擎包的 Android 3D WebView&lt;&#x2F;a&gt;。有关这两款资源包的对比，&lt;a  href=&quot;https:&#x2F;&#x2F;developer.vuplex.com&#x2F;webview&#x2F;android-comparison&quot;&gt;请参见对比页面&lt;&#x2F;a&gt;。&lt;br&gt;&lt;br&gt;• 该软件包支持 Android ≥ 6.0 上的原生视频和 WebGL，但某些 VR 虚拟现实头盔（如 Oculus Go 和 Quest）除外。对于 Android &amp;lt; 6.0 和 Oculus 虚拟现实头盔，视频支持存在局限性，并且不支持 WebGL（常规的 HTML5 视频标签及 YouTube、Vimeo 和 Facebook 等热门网站上的视频效果较好，但某些第三方 JS 视频小部件无法正常运行）。&lt;br&gt;&lt;br&gt;• 欲使用 OES 纹理，Android 插件需使用 GLSL 着色器，这类着色器无法与通用渲染管线一起正常使用。&lt;br&gt;&lt;br&gt;• 如果您有任何疑问，&lt;strong&gt;&lt;a href=&quot;https:&#x2F;&#x2F;vuplex.com&#x2F;contact&quot;&gt;请与我联系&lt;&#x2F;a&gt;&lt;&#x2F;strong&gt;！&lt;br&gt;&lt;br&gt;&lt;&#x2F;p&gt;
+</content>
+        
+    </entry>
+    <entry xml:lang="zh">
+        <title>RapidIcon | In-Editor Icon Generator</title>
+        <published>2024-12-07T20:02:14+00:00</published>
+        <updated>2024-12-07T20:02:14+00:00</updated>
+        
+        <author>
+          <name>
+            
+              yzzfo
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://yzzfo.github.io/unity/store/rapidicon-in-editor-icon-generator/"/>
+        <id>https://yzzfo.github.io/unity/store/rapidicon-in-editor-icon-generator/</id>
+        
+        <content type="html" xml:base="https://yzzfo.github.io/unity/store/rapidicon-in-editor-icon-generator/">&lt;p&gt;一个适用于您的模型和预制件的图标生成器，能够在Unity内部工作&lt;&#x2F;p&gt;
+&lt;p&gt;RapidIcon是一个易于使用的图标生成器&#x2F;创建工具，适用于您的模型和预制件&lt;&#x2F;p&gt;
+&lt;p&gt;只需导航到项目中保存模型的文件夹，选择您希望编辑的图标，必要时进行编辑，然后导出它们&lt;&#x2F;p&gt;
+&lt;p&gt;包含的功能：&lt;&#x2F;p&gt;&lt;ul&gt;&lt;li&gt;完整的&lt;strong&gt;资源浏览器&lt;&#x2F;strong&gt;，能够&lt;strong&gt;自动检测&lt;&#x2F;strong&gt;所有&lt;strong&gt;模型&lt;&#x2F;strong&gt;和&lt;strong&gt;预制件&lt;&#x2F;strong&gt;&lt;&#x2F;li&gt;&lt;li&gt;&lt;strong&gt;批量编辑&lt;&#x2F;strong&gt;图标&lt;&#x2F;li&gt;&lt;li&gt;&lt;strong&gt;批量导出&lt;&#x2F;strong&gt;图标&lt;&#x2F;li&gt;&lt;li&gt;为每个图标创建&lt;strong&gt;多个变体&lt;&#x2F;strong&gt;&lt;&#x2F;li&gt;&lt;li&gt;修改图标中对象的&lt;strong&gt;位置、旋转和缩放&lt;&#x2F;strong&gt;&lt;&#x2F;li&gt;&lt;li&gt;修改&lt;strong&gt;子对象的可见性&lt;&#x2F;strong&gt;&lt;&#x2F;li&gt;&lt;li&gt;修改&lt;strong&gt;相机&lt;&#x2F;strong&gt;的位置和旋转&lt;&#x2F;li&gt;&lt;li&gt;修改对象的&lt;strong&gt;动画&lt;&#x2F;strong&gt;&lt;&#x2F;li&gt;&lt;li&gt;&lt;strong&gt;正交&lt;&#x2F;strong&gt;或&lt;strong&gt;透视&lt;&#x2F;strong&gt;相机投影&lt;&#x2F;li&gt;&lt;li&gt;修改&lt;strong&gt;环境光和方向光&lt;&#x2F;strong&gt;（颜色、方向和强度）&lt;&#x2F;li&gt;&lt;li&gt;将&lt;strong&gt;后处理着色器&lt;&#x2F;strong&gt;应用于图标（图像效果着色器）&lt;&#x2F;li&gt;&lt;li&gt;包含五个&lt;strong&gt;后处理着色器&lt;&#x2F;strong&gt;&lt;&#x2F;li&gt;&lt;&#x2F;ul&gt;&lt;ol&gt;&lt;li&gt;图像叠加&lt;&#x2F;li&gt;&lt;li&gt;图像底层&lt;&#x2F;li&gt;&lt;li&gt;遮罩&lt;&#x2F;li&gt;&lt;li&gt;透明度&lt;&#x2F;li&gt;&lt;li&gt;HSV&lt;&#x2F;li&gt;&lt;&#x2F;ol&gt;&lt;ul&gt;&lt;li&gt;&lt;strong&gt;支持&lt;&#x2F;strong&gt;几乎所有的&lt;strong&gt;图像效果着色器&lt;&#x2F;strong&gt;，因此可以创建自己的或从商店下载&lt;&#x2F;li&gt;&lt;li&gt;&lt;strong&gt;保存&lt;&#x2F;strong&gt;后处理&lt;strong&gt;预设&lt;&#x2F;strong&gt;以便后续加载&lt;&#x2F;li&gt;&lt;li&gt;切换&lt;strong&gt;预乘阿尔法&lt;&#x2F;strong&gt;&lt;&#x2F;li&gt;&lt;li&gt;在&lt;strong&gt;点、双线性和三线性&lt;&#x2F;strong&gt;过滤之间切换&lt;&#x2F;li&gt;&lt;li&gt;更改&lt;strong&gt;导出分辨率&lt;&#x2F;strong&gt;（最小：8x8，最大：2048x2048）&lt;&#x2F;li&gt;&lt;li&gt;导出到项目资源文件夹的图标将自动设置正确的资源&lt;strong&gt;导入设置&lt;&#x2F;strong&gt;&lt;&#x2F;li&gt;&lt;&#x2F;ul&gt;&lt;br&gt;&lt;p&gt;请阅读文档以获取完整细节&lt;&#x2F;p&gt;&lt;p&gt;如果您有任何问题，请与我联系，我将很乐意提供帮助&lt;&#x2F;p&gt;</content>
+        
+    </entry>
     <entry xml:lang="zh">
         <title>Heat - Complete Modern UI</title>
         <published>2024-12-06T14:25:47+00:00</published>

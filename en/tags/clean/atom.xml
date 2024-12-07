@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+    <title>yzzfo | Share for Free - clean</title>
+    <subtitle>Game Development Learning Resources</subtitle>
+    <link rel="self" type="application/atom+xml" href="https://yzzfo.github.io/en/tags/clean/atom.xml"/>
+    <link rel="alternate" type="text/html" href="https://yzzfo.github.io"/>
+    <generator uri="https://www.getzola.org/">Zola</generator>
+    <updated>2024-12-09T11:46:24+00:00</updated>
+    <id>https://yzzfo.github.io/en/tags/clean/atom.xml</id>
+    <entry xml:lang="en">
+        <title>Modern UI Pack</title>
+        <published>2024-12-09T11:46:24+00:00</published>
+        <updated>2024-12-09T11:46:24+00:00</updated>
+        
+        <author>
+          <name>
+            
+              yzzfo
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://yzzfo.github.io/en/unity/store/modern-ui-pack/"/>
+        <id>https://yzzfo.github.io/en/unity/store/modern-ui-pack/</id>
+        
+        <content type="html" xml:base="https://yzzfo.github.io/en/unity/store/modern-ui-pack/">&lt;p&gt;Modern UI Pack is a clean, minimalistic, and stylish UI package designed for users seeking enhanced and rich-featured UI elements. It is easy to use and fully customizable.&lt;br&gt;&lt;p &gt;Easily create sleek and customizable UI elements for your game or app!&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;&lt;strong&gt;• UI Manager&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;p &gt;Instead of changing objects one by one, you change the whole look of your UI within seconds - all using the UI Manager!&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;&lt;strong&gt;• Editor Tools&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;p &gt;Instead of tweaking things one by one, tweak them all in seconds using the editor tools. add or change almost everything within Unity, no need to deal with code or external tools.&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;&lt;strong&gt;• Demo Scene&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;p &gt;Includes a fully-featured demo scene demonstrating how MUIP components work and look.&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;&lt;strong&gt;• Native UI Support&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;p &gt;Modern UI Pack is made using the native Unity UI, allowing you to continue working as you&#x27;re used to and even use third-party UGUI extensions with it.&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;&lt;strong&gt;• Over 18 Diverse UI Elements&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;p &gt;Animated Icons, Buttons, Context Menu, Dropdown, Horizontal Selector, Icons, Input Fields, Modal Windows, Multi Selectable Dropdown, Notifications, Pie Chart, Progress Bars, Radial Slider, Sliced Borders, Sliders, Switches, Toggles, Tooltip, Window Manager...&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;...and many more additional components!&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;If you have any questions, suggestions or feedback, feel free to &lt;a href=&quot;https:&#x2F;&#x2F;www.michsky.com&#x2F;contact&#x2F;&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;contact me&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt;.&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.michsky.com&#x2F;&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;Website&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt; | &lt;a href=&quot;https:&#x2F;&#x2F;discord.gg&#x2F;VXpHyUt&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;Discord Server&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt; | &lt;a href=&quot;https:&#x2F;&#x2F;docs.michsky.com&#x2F;docs&#x2F;modern-ui-pack&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;Documentation&lt;&#x2F;strong&gt; &lt;&#x2F;a&gt;| &lt;a href=&quot;https:&#x2F;&#x2F;drive.google.com&#x2F;open?id=1uS-_Fsa37g0bXdZZqSUk6okyfxKIwdGC&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;Windows Demo&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;Please expand &lt;strong&gt;&#x27;Technical Details&#x27;&lt;&#x2F;strong&gt; for important details.&lt;&#x2F;p&gt;&lt;&#x2F;p&gt;
+</content>
+        
+    </entry>
+    <entry xml:lang="en">
+        <title>Maintainer</title>
+        <published>2024-12-08T17:50:21+00:00</published>
+        <updated>2024-12-08T17:50:21+00:00</updated>
+        
+        <author>
+          <name>
+            
+              yzzfo
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://yzzfo.github.io/en/unity/store/maintainer/"/>
+        <id>https://yzzfo.github.io/en/unity/store/maintainer/</id>
+        
+        <content type="html" xml:base="https://yzzfo.github.io/en/unity/store/maintainer/">&lt;p&gt;Keep your project in a good shape with these Maintainer features:&lt;&#x2F;br&gt;• find &amp;amp; fix project problems&lt;&#x2F;br&gt;• find &amp;amp; remove unused assets&lt;&#x2F;br&gt;• find assets references and hierarchy references&lt;br&gt;&lt;p &gt;▶ &lt;a href=&quot;https:&#x2F;&#x2F;www.youtube.com&#x2F;playlist?list=PLbTYvIYxIXSiOj-G7lydP9GdecytDJFHC&quot; target=&quot;_blank&quot;&gt;Videos&lt;&#x2F;a&gt; 📖 &lt;a href=&quot;https:&#x2F;&#x2F;codestage.net&#x2F;uas_files&#x2F;maintainer&#x2F;readme.pdf&quot; target=&quot;_blank&quot;&gt;User Manual&lt;&#x2F;a&gt; 📄 &lt;a href=&quot;https:&#x2F;&#x2F;codestage.net&#x2F;uas_files&#x2F;maintainer&#x2F;api&#x2F;&quot; target=&quot;_blank&quot;&gt;API Reference&lt;&#x2F;a&gt; 💬 &lt;a href=&quot;https:&#x2F;&#x2F;forum.unity.com&#x2F;threads&#x2F;maintainer.309241&#x2F;&quot; target=&quot;_blank&quot;&gt;Forum&lt;&#x2F;a&gt; 💌 &lt;a href=&quot;http:&#x2F;&#x2F;discord.gg&#x2F;FRK5HRzZvq&quot; target=&quot;_blank&quot;&gt;Discord&lt;&#x2F;a&gt; | &lt;a href=&quot;https:&#x2F;&#x2F;codestage.net&#x2F;contacts&quot; target=&quot;_blank&quot;&gt;Support&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;📌&lt;strong&gt; Issues Finder &lt;&#x2F;strong&gt;▶ &lt;a href=&quot;https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v=BAR2ak9OTlo&amp;list=PLbTYvIYxIXSiOj-G7lydP9GdecytDJFHC&amp;index=3&quot; target=&quot;_blank&quot;&gt;tutorial&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;Searches your project for different issues like missing scripts, missing references, duplicate components, invalid layers, and much more. Allows getting rid of some found issues with automatic fixes.&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;📌&lt;strong&gt; References Finder&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;Finds references in two scopes: project assets and hierarchy objects.&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;&lt;strong&gt;Project References &lt;&#x2F;strong&gt;▶&lt;a href=&quot;https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v=d1UtVr-MZq8&amp;list=PLbTYvIYxIXSiOj-G7lydP9GdecytDJFHC&amp;index=2&quot; target=&quot;_blank&quot;&gt; tutorial&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;&lt;p &gt;Allows finding project-wide references to any assets to quickly find out where your material or sound is used.&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;&lt;strong&gt;Hierarchy References &lt;&#x2F;strong&gt;▶ &lt;a href=&quot;https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v=CoFn6_ZwUqc&amp;list=PLbTYvIYxIXSiOj-G7lydP9GdecytDJFHC&amp;index=1&quot; target=&quot;_blank&quot;&gt;tutorial&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;&lt;p &gt;Search active scene or prefab for Game Objects and Components references to find out where those objects are used in your scene &#x2F; prefab and easily navigate through results.&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;📌&lt;strong&gt; Project Cleaner &lt;&#x2F;strong&gt;▶&lt;a href=&quot;https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v=QiznofE8xD4&amp;index=2&amp;list=PLbTYvIYxIXSj5p9qn3lcsoUc1R9KnSOIb&quot; target=&quot;_blank&quot;&gt; &lt;&#x2F;a&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v=qEIo4aQ6KzI&amp;list=PLbTYvIYxIXSiOj-G7lydP9GdecytDJFHC&amp;index=4&quot; target=&quot;_blank&quot;&gt;tutorial&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;Looks for the garbage in your project, lets you inspect it and remove unnecessary assets one-by-one or in batch mode.&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;📌&lt;strong&gt; Overall highlights&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;Easy to start:&lt;&#x2F;p&gt;&lt;ul&gt;&lt;li &gt;detailed &lt;a href=&quot;https:&#x2F;&#x2F;codestage.net&#x2F;uas_files&#x2F;maintainer&#x2F;readme.pdf&quot; target=&quot;_blank&quot;&gt;User Manual&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;&lt;li &gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.youtube.com&#x2F;playlist?list=PLbTYvIYxIXSiOj-G7lydP9GdecytDJFHC&quot; target=&quot;_blank&quot;&gt;video tutorials&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;&lt;&#x2F;ul&gt;&lt;&#x2F;br&gt;&lt;p &gt;Easy to extend:&lt;&#x2F;p&gt;&lt;ul&gt;&lt;li &gt;full &lt;a href=&quot;https:&#x2F;&#x2F;codestage.net&#x2F;uas_files&#x2F;maintainer&#x2F;api&#x2F;&quot; target=&quot;_blank&quot;&gt;API Reference&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;&lt;li &gt;extendable dependencies scanners&lt;&#x2F;li&gt;&lt;li &gt;🔥&lt;strong&gt; full C# sources included!&lt;&#x2F;strong&gt;&lt;&#x2F;li&gt;&lt;&#x2F;ul&gt;&lt;&#x2F;br&gt;&lt;p &gt;Support and updates &lt;strong&gt;since 2015 &lt;&#x2F;strong&gt;💖&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;&lt;strong&gt;Please note, this is a per-seat licensed version.&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;p &gt;&lt;strong&gt;For the large scale companies, you might find &lt;&#x2F;strong&gt;&lt;a href=&quot;https:&#x2F;&#x2F;assetstore.unity.com&#x2F;packages&#x2F;slug&#x2F;259908&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;Maintainer for Teams&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt;&lt;strong&gt; a better fit.&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;&#x2F;p&gt;
+</content>
+        
+    </entry>
+</feed>

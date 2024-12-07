@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+    <title>yzzfo - Video</title>
+    <subtitle>Game Development Learning Resources</subtitle>
+    <link rel="self" type="application/atom+xml" href="https://yzzfo.github.io/en/tags/video/atom.xml"/>
+    <link rel="alternate" type="text/html" href="https://yzzfo.github.io"/>
+    <generator uri="https://www.getzola.org/">Zola</generator>
+    <updated>2024-12-07T14:00:17+00:00</updated>
+    <id>https://yzzfo.github.io/en/tags/video/atom.xml</id>
+    <entry xml:lang="en">
+        <title>AVPro Video – Ultra Edition</title>
+        <published>2024-12-07T14:00:17+00:00</published>
+        <updated>2024-12-07T14:00:17+00:00</updated>
+        
+        <author>
+          <name>
+            
+              yzzfo
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://yzzfo.github.io/en/unity/other/avpro-video/"/>
+        <id>https://yzzfo.github.io/en/unity/other/avpro-video/</id>
+        
+        <content type="html" xml:base="https://yzzfo.github.io/en/unity/other/avpro-video/">&lt;p&gt;&lt;strong&gt;AVPro Video:&lt;&#x2F;strong&gt; Advanced video playback for Unity&lt;&#x2F;p&gt;
+&lt;h3&gt;New Features:&lt;&#x2F;h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;Android Vulkan pipeline support&lt;&#x2F;li&gt;
+  &lt;li&gt;Re-written Android OpenGLES pipeline&lt;&#x2F;li&gt;
+  &lt;li&gt;visionOS support (Ultra Edition only)&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h3&gt;General Features:&lt;&#x2F;h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;Easy to use&lt;&#x2F;li&gt;
+  &lt;li&gt;Fast and powerful video playback&lt;&#x2F;li&gt;
+  &lt;li&gt;Based on 11 years of Unity video plugin development&lt;&#x2F;li&gt;
+  &lt;li&gt;Battle-tested in professional productions&lt;&#x2F;li&gt;
+  &lt;li&gt;Native support for Windows, macOS, iOS, tvOS, visionOS, and Android&lt;&#x2F;li&gt;
+  &lt;li&gt;No huge dependent libraries (e.g., FFMPEG)&lt;&#x2F;li&gt;
+  &lt;li&gt;Unity 2018.x – 2023.x supported&lt;&#x2F;li&gt;
+  &lt;li&gt;Easy-to-use drag-and-drop components&lt;&#x2F;li&gt;
+  &lt;li&gt;Free watermarked trial version available&lt;&#x2F;li&gt;
+  &lt;li&gt;Strong documentation and developer support&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h3&gt;Playback Features:&lt;&#x2F;h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;Play local, remote, and adaptive (HLS&#x2F;DASH) videos&lt;&#x2F;li&gt;
+  &lt;li&gt;Supports VR, 360, 180, Mono, and Stereo videos&lt;&#x2F;li&gt;
+  &lt;li&gt;8K+ video decoding (on supported systems)&lt;&#x2F;li&gt;
+  &lt;li&gt;Transparent videos&lt;&#x2F;li&gt;
+  &lt;li&gt;Subtitles&lt;&#x2F;li&gt;
+  &lt;li&gt;Audio piping to Unity&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h3&gt;Workflow Features:&lt;&#x2F;h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;In-editor preview and playback&lt;&#x2F;li&gt;
+  &lt;li&gt;Asset type for easily defining video content&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h3&gt;Ultra Edition Features:&lt;&#x2F;h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;Custom HTTP headers&lt;&#x2F;li&gt;
+  &lt;li&gt;AES-128 HLS&lt;&#x2F;li&gt;
+  &lt;li&gt;Decoding to 10-Bit textures (Windows, macOS, tvOS, visionOS, and iOS only)&lt;&#x2F;li&gt;
+  &lt;li&gt;Hap codec (Windows and macOS only)&lt;&#x2F;li&gt;
+  &lt;li&gt;10-Bit NotchLC codec (Windows only)&lt;&#x2F;li&gt;
+  &lt;li&gt;Spatial 360 audio&lt;&#x2F;li&gt;
+  &lt;li&gt;Video caching (Android and iOS only)&lt;&#x2F;li&gt;
+  &lt;li&gt;visionOS platform support&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;p&gt;AVPro Video was nominated for the Asset Store Award in 2016.&lt;&#x2F;p&gt;
+&lt;h3&gt;Editions&lt;&#x2F;h3&gt;
+&lt;p&gt;We’ve made several editions of AVPro Video available so you can pick the one that’s best for your project:&lt;&#x2F;p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Core Edition&lt;&#x2F;li&gt;
+  &lt;li&gt;Core Desktop Edition&lt;&#x2F;li&gt;
+  &lt;li&gt;Core Mobile Edition&lt;&#x2F;li&gt;
+  &lt;li&gt;Ultra Edition&lt;&#x2F;li&gt;
+  &lt;li&gt;Enterprise Edition&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;p&gt;This asset contains the AVPro Video Ultra Edition, so it has full support for all platforms and Ultra Edition features. You can read this page to learn more about the features, pricing, and upgrades for the different editions.&lt;&#x2F;p&gt;
+&lt;h3&gt;Technical Details&lt;&#x2F;h3&gt;
+&lt;p&gt;This asset uses the following third-party components:&lt;&#x2F;p&gt;
+&lt;ul&gt;
+  &lt;li&gt;ExoPlayer under Apache License 2.0&lt;&#x2F;li&gt;
+  &lt;li&gt;Hap under BSD 2-Clause “Simplified” License&lt;&#x2F;li&gt;
+  &lt;li&gt;Libsamplerate under BSD 2-Clause “Simplified” License&lt;&#x2F;li&gt;
+  &lt;li&gt;GDCL-MPEG4 under GDCL Source Code License&lt;&#x2F;li&gt;
+  &lt;li&gt;Facebook Audio 360 under custom license&lt;&#x2F;li&gt;
+  &lt;li&gt;Squish under MIT License&lt;&#x2F;li&gt;
+  &lt;li&gt;Snappy under BSD-type custom license&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;p&gt;See the Third-Party Notices.txt file in the package for details.&lt;&#x2F;p&gt;
+</content>
+        
+    </entry>
+</feed>

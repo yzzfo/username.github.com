@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh">
+    <title>yzzfo - @CoverFirst#</title>
+    <subtitle>游戏开发学习资源分享</subtitle>
+    <link rel="self" type="application/atom+xml" href="https://yzzfo.github.io/tags/coverfirst/atom.xml"/>
+    <link rel="alternate" type="text/html" href="https://yzzfo.github.io"/>
+    <generator uri="https://www.getzola.org/">Zola</generator>
+    <updated>2024-11-30T13:24:44+00:00</updated>
+    <id>https://yzzfo.github.io/tags/coverfirst/atom.xml</id>
+    <entry xml:lang="zh">
+        <title>Basic Motions</title>
+        <published>2024-11-29T21:20:35+00:00</published>
+        <updated>2024-11-30T13:24:44+00:00</updated>
+        
+        <author>
+          <name>
+            
+              yzzfo
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://yzzfo.github.io/unity/store/basic-motions/"/>
+        <id>https://yzzfo.github.io/unity/store/basic-motions/</id>
+        
+        <content type="html" xml:base="https://yzzfo.github.io/unity/store/basic-motions/">&lt;p&gt;Humanoid 3D movement, emotion and interaction animations for retargeting to other humanoid 3D characters.&lt;br&gt;&lt;a href=&quot;https:&#x2F;&#x2F;assetstore.unity.com&#x2F;packages&#x2F;3d&#x2F;animations&#x2F;basic-motions-pack-154271&quot;&gt;下载免费版本&lt;&#x2F;a&gt;。&lt;br&gt;&lt;br&gt;该动画包随附在&lt;a href=&quot;https:&#x2F;&#x2F;assetstore.unity.com&#x2F;packages&#x2F;3d&#x2F;animations&#x2F;animations-pack-mega-bundle-162341&quot;&gt;动画包超级捆绑包&lt;&#x2F;a&gt;中。&lt;br&gt;&lt;br&gt;该资源包括人形角色运动动画、某些情绪和动作，用来重新适应其他人形 3D 角色。&lt;br&gt;&lt;br&gt;动画列表：&lt;br&gt;-空闲 01&lt;br&gt;- 空闲 02&lt;br&gt;- 空闲 01 过渡至空闲 02&lt;br&gt;- 空闲 02 过渡至空闲 01&lt;br&gt;- 跳跃（开始 - 半空 - 着陆）&lt;br&gt;- 跌倒&lt;br&gt;- 行走（8 个方向）&lt;br&gt;- 跑（8 个方向）&lt;br&gt;- 冲刺（5 个方向）&lt;br&gt;- 空闲时蹲下&lt;br&gt;- 蹲走（8 个方向）&lt;br&gt;- 游泳（10 个方向和空闲）&lt;br&gt;- 打开&lt;br&gt;- 洗劫地上的战利品&lt;br&gt;- 说话（聊天、询问、感叹）&lt;br&gt;- 拍手&lt;br&gt;- 挥手&lt;br&gt;- 欢呼&lt;br&gt;- 飞船旋转&lt;br&gt;- 旋转 180 度&lt;br&gt;- 地面前滚&lt;br&gt;- 跑步停下打滑&lt;br&gt;- 向左&#x2F;右扫射&lt;br&gt;&lt;br&gt;还随附双手合十的动画版本。&lt;br&gt;&lt;br&gt;联系支持：&lt;br&gt;&lt;strong&gt;support@keviniglesias.com&lt;&#x2F;strong&gt;&lt;br&gt;&lt;br&gt;&lt;strong&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.keviniglesias.com&#x2F;&quot;&gt;www.keviniglesias.com&lt;&#x2F;a&gt;&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
+</content>
+        
+    </entry>
+</feed>

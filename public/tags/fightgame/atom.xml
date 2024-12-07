@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh">
+    <title>yzzfo - fightgame</title>
+    <subtitle>游戏开发学习资源分享</subtitle>
+    <link rel="self" type="application/atom+xml" href="https://yzzfo.github.io/tags/fightgame/atom.xml"/>
+    <link rel="alternate" type="text/html" href="https://yzzfo.github.io"/>
+    <generator uri="https://www.getzola.org/">Zola</generator>
+    <updated>2024-12-01T18:53:05+00:00</updated>
+    <id>https://yzzfo.github.io/tags/fightgame/atom.xml</id>
+    <entry xml:lang="zh">
+        <title>Martial Arts Fight Game</title>
+        <published>2024-12-01T18:53:05+00:00</published>
+        <updated>2024-12-01T18:53:05+00:00</updated>
+        
+        <author>
+          <name>
+            
+              yzzfo
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://yzzfo.github.io/unity/store/martial-arts-fight-game/"/>
+        <id>https://yzzfo.github.io/unity/store/martial-arts-fight-game/</id>
+        
+        <content type="html" xml:base="https://yzzfo.github.io/unity/store/martial-arts-fight-game/">&lt;p&gt;Martial Arts Fight Game 包含 +187 动画&lt;&#x2F;p&gt;
+&lt;p &gt;&lt;strong&gt;更新说明&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;p &gt;2.31 - 一些动画名称已更改以便于使用 &#x2F; 移除错误和警告 &#x2F; 添加 idle08 (2024&#x2F;10&#x2F;08)&lt;&#x2F;p&gt;
+&lt;p &gt;&lt;strong&gt;推荐&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;p &gt;RPG角色 &#x2F; 主角 &#x2F; 格斗游戏&lt;&#x2F;p&gt;&lt;p &gt;-&lt;&#x2F;p&gt;&lt;p &gt;动态拳击包和泰拳攻击！！&lt;&#x2F;p&gt;&lt;p &gt;这不是重型拳击手类型。它具有轻量级风格的移动，越来越快。&lt;&#x2F;p&gt;
+&lt;p &gt;&lt;strong&gt;特点&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;ul&gt;&lt;li &gt;适用于侧视图和横向卷轴游戏的各种动画&lt;&#x2F;li&gt;&lt;li &gt;动态关键帧动画&lt;&#x2F;li&gt;&lt;li &gt;包含类人版本&lt;&#x2F;li&gt;&lt;li &gt;包含根运动和原地运动&lt;&#x2F;li&gt;&lt;li &gt;包含T姿势&lt;&#x2F;li&gt;&lt;li &gt;不包含特效&lt;&#x2F;li&gt;&lt;&#x2F;ul&gt;
+&lt;p &gt;&lt;strong&gt;动画列表&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;ul&gt;&lt;li &gt;攻击 39&lt;&#x2F;li&gt;&lt;li &gt;躲避 4&lt;&#x2F;li&gt;&lt;li &gt;增益 4&lt;&#x2F;li&gt;&lt;li &gt;连击 8&lt;&#x2F;li&gt;&lt;li &gt;死亡 9&lt;&#x2F;li&gt;&lt;li &gt;防御 1&lt;&#x2F;li&gt;&lt;li &gt;倒下 27&lt;&#x2F;li&gt;&lt;li &gt;倒下起身攻击 3&lt;&#x2F;li&gt;&lt;li &gt;击打 20&lt;&#x2F;li&gt;&lt;li &gt;待机 13&lt;&#x2F;li&gt;&lt;li &gt;跳跃 6&lt;&#x2F;li&gt;&lt;li &gt;移动 17&lt;&#x2F;li&gt;&lt;li &gt;捡起 3&lt;&#x2F;li&gt;&lt;li &gt;复活 3&lt;&#x2F;li&gt;&lt;li &gt;设置动作 2&lt;&#x2F;li&gt;&lt;li &gt;横向卷轴动画 14&lt;&#x2F;li&gt;&lt;li &gt;滑倒 2&lt;&#x2F;li&gt;&lt;li &gt;步伐 4&lt;&#x2F;li&gt;&lt;li &gt;转身 2&lt;&#x2F;li&gt;&lt;&#x2F;ul&gt;
+&lt;p &gt;&lt;strong&gt;支持&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;p &gt;常见问题 : &lt;a href=&quot;https:&#x2F;&#x2F;www.wemakethegame.com&#x2F;&quot; target=&quot;_blank&quot;&gt;https:&#x2F;&#x2F;www.wemakethegame.com&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;&lt;p &gt;电子邮件 : &lt;a href=&quot;mailto:contact@wemakethegame.com&quot; target=&quot;_blank&quot;&gt;contact@wemakethegame.com&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;&lt;p &gt;联系我的最佳方式是电子邮件。&lt;&#x2F;p&gt;&lt;p &gt;我始终感谢您的精彩评论和反馈。&lt;&#x2F;p&gt;</content>
+        
+    </entry>
+</feed>

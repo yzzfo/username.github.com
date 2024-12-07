@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh">
+    <title>yzzfo - replacement</title>
+    <subtitle>游戏开发学习资源分享</subtitle>
+    <link rel="self" type="application/atom+xml" href="https://yzzfo.github.io/tags/replacement/atom.xml"/>
+    <link rel="alternate" type="text/html" href="https://yzzfo.github.io"/>
+    <generator uri="https://www.getzola.org/">Zola</generator>
+    <updated>2024-11-30T13:16:34+00:00</updated>
+    <id>https://yzzfo.github.io/tags/replacement/atom.xml</id>
+    <entry xml:lang="zh">
+        <title>Editor Console Pro</title>
+        <published>2024-11-29T21:16:16+00:00</published>
+        <updated>2024-11-30T13:16:34+00:00</updated>
+        
+        <author>
+          <name>
+            
+              yzzfo
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://yzzfo.github.io/unity/store/editor-console-pro/"/>
+        <id>https://yzzfo.github.io/unity/store/editor-console-pro/</id>
+        
+        <content type="html" xml:base="https://yzzfo.github.io/unity/store/editor-console-pro/">&lt;p&gt;&lt;br&gt;Editor Console Pro 是 Unity 编辑器控制台的强大替代品。&lt;br&gt;如图所示：&lt;br&gt;2017 Unity Mobile Essentials 资源包的一部分！&lt;br&gt;&lt;a href=&quot;http:&#x2F;&#x2F;gamasutra.com&#x2F;blogs&#x2F;SebastienDubois&#x2F;20151111&#x2F;259048&#x2F;Musthave_Unity_plugins__Part_1.php&quot;&gt;必备的 Unity 插件 [Gamasutra]&lt;&#x2F;a&gt;&lt;br&gt;&lt;a href=&quot;http:&#x2F;&#x2F;gamasutra.com&#x2F;blogs&#x2F;SvyatoslavCherkasov&#x2F;20160119&#x2F;263697&#x2F;Unity_plugins_we_used_while_developing_Punch_Club.php&quot;&gt;开发拳击俱乐部时使用的 Unity 插件 [Gamasutra]&lt;&#x2F;a&gt;&lt;br&gt;&lt;br&gt;使用 Console Pro，你可以：&lt;br&gt;&lt;br&gt;- 使用搜索栏位按文本、文件名、类、游戏对象名称快速过滤所有条目。&lt;br&gt;- 使用正则表达式进行搜索和过滤。&lt;br&gt;- 用自己的颜色、图标和切换按钮创建自定义过滤器组，而不仅仅是默认的日志、警告和错误。&lt;br&gt;- 查看围绕堆栈中每个方法调用的源代码，使你可以查看并跳转到日志周围的代码。&lt;br&gt;- 通过单击代码编辑器，将其打开跳到日志堆栈中的任何方法或行，而不仅仅是通过 Debug.Log 调用。&lt;br&gt;- 在列中轻松查看日志条目的文件名、名称空间、游戏对象名称和类别。&lt;br&gt;- 忽略你不再想看到的日志。&lt;br&gt;- 忽略堆栈中的自定义 Debug.Log 类，双击永远不会把你带到错误的代码。&lt;br&gt;- 使用特殊的日志来监视没有垃圾邮件的变量，即使其内容不同，也会折叠。&lt;br&gt;- 使用远程日志记录获取独立版本或手机&#x2F;平板电脑版本的日志和堆栈追踪。&lt;br&gt;- 解析 Editor.log 或其他日志文件，就好像它们是当前日志一样&lt;br&gt;- 为整个日志行着色，以便你可以快速查看不同的日志类型。&lt;br&gt;- 使用自定义字体和颜色。&lt;br&gt;- 一键将完整的日志和堆栈追踪复制到剪贴板。&lt;br&gt;- 将整个控制台输出导出到 txt 文件，包括堆栈追踪。&lt;br&gt;- 覆盖 Unity 的状态栏点击。&lt;br&gt;&lt;br&gt;&lt;a href=&quot;http:&#x2F;&#x2F;flyingworm.com&#x2F;wp-content&#x2F;uploads&#x2F;2017&#x2F;06&#x2F;Editor-Console-Pro-Documentation.pdf&quot;&gt;文档&lt;&#x2F;a&gt;&lt;br&gt;&lt;a href=&quot;mailto:support@flyingworm.com&quot;&gt;支持&lt;&#x2F;a&gt;&lt;br&gt;*** 注意：如果你的 2017.* 有问题，请确保登录你购入资源包的帐户，以更新到最新版本！***&lt;br&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v=tqwS3lquGzk&quot;&gt;概述和教程视频&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+</content>
+        
+    </entry>
+</feed>

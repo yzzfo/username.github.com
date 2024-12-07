@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh">
+    <title>yzzfo - Motion</title>
+    <subtitle>游戏开发学习资源分享</subtitle>
+    <link rel="self" type="application/atom+xml" href="https://yzzfo.github.io/tags/motion/atom.xml"/>
+    <link rel="alternate" type="text/html" href="https://yzzfo.github.io"/>
+    <generator uri="https://www.getzola.org/">Zola</generator>
+    <updated>2024-11-30T13:27:26+00:00</updated>
+    <id>https://yzzfo.github.io/tags/motion/atom.xml</id>
+    <entry xml:lang="zh">
+        <title>Casual Motions Pack 2</title>
+        <published>2024-11-30T00:39:59+00:00</published>
+        <updated>2024-11-30T13:27:26+00:00</updated>
+        
+        <author>
+          <name>
+            
+              yzzfo
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://yzzfo.github.io/unity/store/casual-motions-pack-2/"/>
+        <id>https://yzzfo.github.io/unity/store/casual-motions-pack-2/</id>
+        
+        <content type="html" xml:base="https://yzzfo.github.io/unity/store/casual-motions-pack-2/">&lt;p&gt;该资产由30个高质量的动作捕捉动画组成，适用于游戏开发。&lt;&#x2F;p&gt;
+&lt;p&gt;动画剪辑均为循环播放。&lt;&#x2F;p&gt;
+&lt;p&gt;该包也基于类人角色。&lt;&#x2F;p&gt;
+&lt;p&gt;这些动作可以用于各种社交内容。&lt;&#x2F;p&gt;</content>
+        
+    </entry>
+    <entry xml:lang="zh">
+        <title>Synty ANIMATION - Base Locomotion - Character Animset</title>
+        <published>2024-11-29T21:21:42+00:00</published>
+        <updated>2024-11-30T13:26:12+00:00</updated>
+        
+        <author>
+          <name>
+            
+              yzzfo
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://yzzfo.github.io/unity/store/synty-animation-base-locomotion-character-animset/"/>
+        <id>https://yzzfo.github.io/unity/store/synty-animation-base-locomotion-character-animset/</id>
+        
+        <content type="html" xml:base="https://yzzfo.github.io/unity/store/synty-animation-base-locomotion-character-animset/">&lt;p&gt;Synty 动画来了！与 Synty POLYGON 和 Simple 角色兼容。此包包含 247 个手工制作的动画和一个使用 Synty 商标质量制作的演示角色控制器。&lt;&#x2F;p&gt;
+&lt;p &gt;&lt;strong&gt;Synty® Studios 提供：动画 - 基础运动&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;p &gt;通过 Synty 的动画 - 基础运动，将您的游戏提升到新的高度。&lt;&#x2F;p&gt;
+&lt;p &gt;◼ &lt;strong&gt;主要特点&lt;&#x2F;strong&gt; ◼&lt;&#x2F;p&gt;&lt;ul&gt;&lt;li &gt;247 个动画剪辑作为单独文件，允许您仅将所需的动画导入到项目中&lt;&#x2F;li&gt;&lt;li &gt;角色控制器示例脚本&lt;&#x2F;li&gt;&lt;li &gt;Mecanim 动画控制器 - 男性和女性&lt;&#x2F;li&gt;&lt;li &gt;测试动画的演示场景&lt;&#x2F;li&gt;&lt;li &gt;包含所有动画的画廊场景&lt;&#x2F;li&gt;&lt;li &gt;碰撞假人角色 - 完全绑定和动画&lt;&#x2F;li&gt;&lt;li &gt;所有动画的 FBX 文件均已包含，因此您可以在 Unity 之外使用它们&lt;&#x2F;li&gt;&lt;&#x2F;ul&gt;
+&lt;p &gt;通过流畅的运动和无缝的过渡为您的角色赋予生命。告别从互联网上到处寻找动画和从头构建控制器的麻烦 - 我们的综合包为您提供了让角色迅速复活所需的一切。&lt;&#x2F;p&gt;
+&lt;p &gt;这个强大的包充满了每个常见角色动作需求的基本动画 - 从悠闲的散步到肾上腺素激增的冲刺，从优雅的跳跃到心跳加速的滑行。每个状态都经过精心制作，配有多种动画和流畅的过渡，您的角色将以无与伦比的优雅移动。&lt;&#x2F;p&gt;
+&lt;p &gt;但等等，还有更多！我们更进一步，为男性和女性角色提供动画，确保您游戏中的角色散发出真实感和多样性。能够在两者之间无缝融合，角色表达和个性的可能性是无限的。&lt;&#x2F;p&gt;&lt;br&gt;&lt;p&gt;深入探索本包中包含的Mecanim动画控制器，解锁关于设置动画状态、过渡、混合树和参数的丰富知识宝库。无论您是经验丰富的专业人士还是初出茅庐的开发者，这些资源都为您打造独特的动画控制器提供了完美的起点。&lt;&#x2F;p&gt;
+&lt;p&gt;不仅仅是制作游戏 – 让它们通过Synty的动画 - 基础运动而栩栩如生。您的玩家不仅仅是在玩游戏；他们将被带入一个每一步、每次跳跃和滑行都如同魔法般的世界。&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;strong&gt;包含碰撞假人模型和动画控制器演示场景！&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;</content>
+        
+    </entry>
+</feed>
