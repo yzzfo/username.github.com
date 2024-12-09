@@ -5,8 +5,28 @@
     <link rel="self" type="application/atom+xml" href="https://yzzfo.github.io/en/tags/hit/atom.xml"/>
     <link rel="alternate" type="text/html" href="https://yzzfo.github.io"/>
     <generator uri="https://www.getzola.org/">Zola</generator>
-    <updated>2024-11-30T13:17:38+00:00</updated>
+    <updated>2024-12-10T01:14:00+00:00</updated>
     <id>https://yzzfo.github.io/en/tags/hit/atom.xml</id>
+    <entry xml:lang="en">
+        <title>Ultimate Outlines &amp; Highlights</title>
+        <published>2024-12-10T01:14:00+00:00</published>
+        <updated>2024-12-10T01:14:00+00:00</updated>
+        
+        <author>
+          <name>
+            
+              yzzfo
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://yzzfo.github.io/en/unity/store/ultimate-outlines-highlights/"/>
+        <id>https://yzzfo.github.io/en/unity/store/ultimate-outlines-highlights/</id>
+        
+        <content type="html" xml:base="https://yzzfo.github.io/en/unity/store/ultimate-outlines-highlights/">&lt;p&gt;Take your game to the next level with this asset. It enables you to effortlessly add effects such as outlines, glows, overlays, and fresnel effects into any game object.&lt;br&gt;&lt;p &gt;Make your in-game objects stand out, enhance gameplay, and infuse your game with an immersive feel. Select from a diverse range of options to fine-tune the appearance and make it uniquely yours.&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;Join &lt;a href=&quot;https:&#x2F;&#x2F;discord.gg&#x2F;K88zmyuZFD&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;Discord &lt;&#x2F;strong&gt;&lt;&#x2F;a&gt;for updates, to report issues, or just to say hello!&lt;&#x2F;p&gt;&lt;p &gt;Please check the &lt;a href=&quot;https:&#x2F;&#x2F;inabstudios.gitbook.io&#x2F;ultimate-outlines-and-highlights&#x2F;&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;documentation &lt;&#x2F;strong&gt;&lt;&#x2F;a&gt;before purchasing.&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;&lt;a href=&quot;https:&#x2F;&#x2F;inabstudios.gitbook.io&#x2F;ultimate-outlines-and-highlights&#x2F;&quot; target=&quot;_blank&quot;&gt;✨&lt;&#x2F;a&gt;&lt;strong&gt;Overview&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;p &gt;&lt;strong&gt;Easily add custom selection highlighting&lt;&#x2F;strong&gt; to your models, whether they are simple or complex.&lt;&#x2F;p&gt;&lt;p &gt;&lt;strong&gt;Choose from a wide range of options&lt;&#x2F;strong&gt; to tweak the appearance and make it your own.&lt;&#x2F;p&gt;&lt;p &gt;&lt;strong&gt;Make your 3D and 2D objects stand out&lt;&#x2F;strong&gt; even more with effects like outline, glow, overlay, rim, and see-through.&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;⚡&lt;strong&gt;Main Features&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;ul&gt;&lt;li &gt;Easy to use.&lt;&#x2F;li&gt;&lt;li &gt;Extremely flexible.&lt;&#x2F;li&gt;&lt;li &gt;Every feature can be customized per object and you can combine them in any way you like.&lt;&#x2F;li&gt;&lt;li &gt;There are several fill effects included and you can create your own as well.&lt;&#x2F;li&gt;&lt;li &gt;You can exclude specific submeshes.&lt;&#x2F;li&gt;&lt;li &gt;Allows you to affect an individual or group of objects.&lt;&#x2F;li&gt;&lt;li &gt;Supports sprites and cutout objects.&lt;&#x2F;li&gt;&lt;li &gt;Optimized for mobile devices.&lt;&#x2F;li&gt;&lt;li &gt;Allows you to preview the effect in the editor without entering play mode.&lt;&#x2F;li&gt;&lt;li &gt;Works with both orthographic and perspective cameras.&lt;&#x2F;li&gt;&lt;li &gt;Use it in both HDR and LDR environments.&lt;&#x2F;li&gt;&lt;li &gt;Comes with integrated C# classes and coroutines to help you create various effects without additional assets.&lt;&#x2F;li&gt;&lt;li &gt;Includes built-in trigger classes.&lt;&#x2F;li&gt;&lt;li &gt;Example code and usage is provided to make it easy to integrate into your project.&lt;&#x2F;li&gt;&lt;&#x2F;ul&gt;&lt;p &gt;&lt;strong&gt;Not supported:&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;ul&gt;&lt;li &gt;URP 2D renderer below 2021.2&lt;&#x2F;li&gt;&lt;li &gt;VR and WebGL&lt;&#x2F;li&gt;&lt;&#x2F;ul&gt;&lt;p &gt;&lt;strong&gt;Compatibility:&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;ul&gt;&lt;li &gt;Supports URP and Built-in versions 2021.3 and above.&lt;&#x2F;li&gt;&lt;li &gt;Unity 6 is &lt;strong&gt;not &lt;&#x2F;strong&gt;supported. (Unity 6 update will be out soon)&lt;&#x2F;li&gt;&lt;li &gt;Built-in requires Shader Graph for the demo scenes to work.&lt;&#x2F;li&gt;&lt;&#x2F;ul&gt;&lt;&#x2F;br&gt;&lt;&#x2F;p&gt;
+</content>
+        
+    </entry>
     <entry xml:lang="en">
         <title>Unique Projectiles Volume 1</title>
         <published>2024-11-29T21:17:03+00:00</published>

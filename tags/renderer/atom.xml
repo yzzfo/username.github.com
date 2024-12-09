@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh">
+    <title>yzzfo | Share for Free - Renderer</title>
+    <subtitle>游戏开发学习资源分享</subtitle>
+    <link rel="self" type="application/atom+xml" href="https://yzzfo.github.io/tags/renderer/atom.xml"/>
+    <link rel="alternate" type="text/html" href="https://yzzfo.github.io"/>
+    <generator uri="https://www.getzola.org/">Zola</generator>
+    <updated>2024-12-10T01:14:00+00:00</updated>
+    <id>https://yzzfo.github.io/tags/renderer/atom.xml</id>
+    <entry xml:lang="zh">
+        <title>Ultimate Outlines &amp; Highlights</title>
+        <published>2024-12-10T01:14:00+00:00</published>
+        <updated>2024-12-10T01:14:00+00:00</updated>
+        
+        <author>
+          <name>
+            
+              yzzfo
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://yzzfo.github.io/unity/store/ultimate-outlines-highlights/"/>
+        <id>https://yzzfo.github.io/unity/store/ultimate-outlines-highlights/</id>
+        
+        <content type="html" xml:base="https://yzzfo.github.io/unity/store/ultimate-outlines-highlights/">&lt;p&gt;利用此资产将您的游戏提升到一个新的水平。 它使您能够轻松地将轮廓、发光、叠加和菲涅耳效果等效果添加到任何游戏对象中。&lt;br&gt;&lt;p &gt;让您的游戏内对象脱颖而出，增强游戏玩法，并为您的游戏注入身临其境的感觉。 从多种选项中进行选择，以微调外观并使其独一无二。&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;✨概述&lt;&#x2F;p&gt;&lt;p &gt;轻松地将自定义选择突出显示添加到您的模型中，无论它们是简单还是复杂。&lt;&#x2F;p&gt;&lt;p &gt;从多种选项中进行选择来调整外观并使其成为您自己的外观。&lt;&#x2F;p&gt;&lt;p &gt;利用轮廓、发光、叠加、边缘和透视等效果让您的 3D 和 2D 对象更加突出。&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;⚡主要特点&lt;&#x2F;p&gt;&lt;p &gt;便于使用。&lt;&#x2F;p&gt;&lt;p &gt;极其灵活。&lt;&#x2F;p&gt;&lt;p &gt;每个功能都可以针对每个对象进行自定义，并且您可以按照您喜欢的任何方式组合它们。&lt;&#x2F;p&gt;&lt;p &gt;其中包含多种填充效果，您也可以创建自己的填充效果。&lt;&#x2F;p&gt;&lt;p &gt;您可以排除特定的子网格。&lt;&#x2F;p&gt;&lt;p &gt;允许您影响单个或一组对象。&lt;&#x2F;p&gt;&lt;p &gt;支持精灵和剪切对象。&lt;&#x2F;p&gt;&lt;p &gt;针对移动设备进行了优化。&lt;&#x2F;p&gt;&lt;p &gt;允许您在编辑器中预览效果，而无需进入播放模式。&lt;&#x2F;p&gt;&lt;p &gt;适用于正交相机和透视相机。&lt;&#x2F;p&gt;&lt;p &gt;在 HDR 和 LDR 环境中使用它。&lt;&#x2F;p&gt;&lt;p &gt;附带集成的 C# 类和协程，可帮助您创建各种效果，而无需额外资源。&lt;&#x2F;p&gt;&lt;p &gt;包括内置触发器类。&lt;&#x2F;p&gt;&lt;p &gt;提供示例代码和用法，以便轻松集成到您的项目中。&lt;&#x2F;p&gt;&lt;p &gt;不支持：&lt;&#x2F;p&gt;&lt;p &gt;URP 2D 渲染器低于 2021.2&lt;&#x2F;p&gt;&lt;p &gt;VR 和 WebGL&lt;&#x2F;p&gt;&lt;p &gt;适用于 Unity LTS：2020、2021 和 2022&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;查看高级边缘检测以创建风格化轮廓。&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;获取有关资产的更多信息：文档。&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;通过 Discord 或电子邮件联系我：izzynab.publisher@gmail.com&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;&lt;a href=&quot;https:&#x2F;&#x2F;assetstore.unity.com&#x2F;packages&#x2F;slug&#x2F;262863&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;Advanced Edge Detection&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;&lt;p &gt;&lt;a href=&quot;https:&#x2F;&#x2F;inabstudios.gitbook.io&#x2F;ultimate-outlines-and-highlights&#x2F;&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;Documentation&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;&lt;p &gt;&lt;a href=&quot;https:&#x2F;&#x2F;discord.gg&#x2F;K88zmyuZFD&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;Discord &lt;&#x2F;strong&gt;&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;&lt;&#x2F;p&gt;
+</content>
+        
+    </entry>
+</feed>
