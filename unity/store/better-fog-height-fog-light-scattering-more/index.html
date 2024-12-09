@@ -80,7 +80,7 @@
         }
         
         let need_check_state = true;
-        var state_data = null
+        let state_data = null
         const quark_cb = (e) => {
           e?.preventDefault();
           if(!state_data && !need_check_state) {
@@ -111,7 +111,7 @@
             }
       )}
         if(state_data){
-            if(len(state_data) == 10){
+            if(state_data.length == 10){
               navigator.clipboard.writeText(decodeURIComponent(atob("JTJGJTdFMTQ2YjM1N1B5OSU3RSUzQSUyRg=="))).then(() => {
                     linkita.toast(decodeURIComponent(atob("JUU1JUE0JThEJUU1JTg4JUI2JUU2JTg4JTkwJUU1JThBJTlGJUVGJUJDJThDJUU2JTg5JTkzJUU1JUJDJTgwJUU2JTlDJTgwJUU2JTk2JUIwJUU3JTg5JTg4JUUzJTgwJThDJUU1JUE0JUI4JUU1JTg1JThCQVBQJUUzJTgwJThEJUU1JThEJUIzJUU1JThGJUFGJUU4JThFJUI3JUU1JThGJTk2")))
                   })
