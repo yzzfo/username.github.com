@@ -5,8 +5,84 @@
     <link rel="self" type="application/atom+xml" href="https://yzzfo.github.io/en/tags/utilities/atom.xml"/>
     <link rel="alternate" type="text/html" href="https://yzzfo.github.io"/>
     <generator uri="https://www.getzola.org/">Zola</generator>
-    <updated>2024-12-08T17:50:27+00:00</updated>
+    <updated>2024-12-10T18:00:17+00:00</updated>
     <id>https://yzzfo.github.io/en/tags/utilities/atom.xml</id>
+    <entry xml:lang="en">
+        <title>AE2Unity After Effect To Unity Animation</title>
+        <published>2024-12-10T18:00:17+00:00</published>
+        <updated>2024-12-10T18:00:17+00:00</updated>
+        
+        <author>
+          <name>
+            
+              yzzfo
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://yzzfo.github.io/en/unity/other/ae2unity-after-effect-to-unity-animation/"/>
+        <id>https://yzzfo.github.io/en/unity/other/ae2unity-after-effect-to-unity-animation/</id>
+        
+        <content type="html" xml:base="https://yzzfo.github.io/en/unity/other/ae2unity-after-effect-to-unity-animation/">&lt;p&gt;&lt;b&gt;Features:&lt;&#x2F;b&gt;&lt;&#x2F;p&gt;
+&lt;ul&gt;
+    &lt;li&gt;High-performance victimisation native Unity Animation system. Support export supernatural being, Atlas, UGUI, NGUI…&lt;&#x2F;li&gt;
+    &lt;li&gt;Full support for skeleton &amp; generation of bone hierarchy&lt;&#x2F;li&gt;
+    &lt;li&gt;Capture and play full animation specifically as seen in Adobe once Effects.&lt;&#x2F;li&gt;
+    &lt;li&gt;Mechanically build and optimize atlas sprites; auto-generate pivot points.&lt;&#x2F;li&gt;
+    &lt;li&gt;Auto-generate Mechanim Animators and animation clips.&lt;&#x2F;li&gt;
+    &lt;li&gt;Full management and access via Unity animation system.&lt;&#x2F;li&gt;
+    &lt;li&gt;No plugin or library needs. Simply native Unity animation and code for best performance.&lt;&#x2F;li&gt;
+    &lt;li&gt;Straightforward to use.&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;p&gt;&lt;b&gt;New Update in version 1.01&lt;&#x2F;b&gt;&lt;&#x2F;p&gt;
+&lt;ul&gt;
+    &lt;li&gt;Machine generate Mechanim parameter with trigger&lt;&#x2F;li&gt;
+    &lt;li&gt;Mounted white house name mapping in the pivot&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;p&gt;&lt;b&gt;New Update in Version 1.2&lt;&#x2F;b&gt;&lt;&#x2F;p&gt;
+&lt;ul&gt;
+    &lt;li&gt;Support Image sequence&lt;&#x2F;li&gt;
+    &lt;li&gt;Support size Atlas Image (1024 to 512, 256…or whatever texture size you want).&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;p&gt;&lt;b&gt;New Update in Version 1.4&lt;&#x2F;b&gt;&lt;&#x2F;p&gt;
+&lt;ul&gt;
+    &lt;li&gt;The choice to opt for build Atlas or not.&lt;&#x2F;li&gt;
+    &lt;li&gt;Up to 10x quicker once export from Adobe once results.&lt;&#x2F;li&gt;
+    &lt;li&gt;Fix permit export once null image.&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;p&gt;&lt;b&gt;New in Version 1.6&lt;&#x2F;b&gt;&lt;&#x2F;p&gt;
+&lt;ul&gt;
+    &lt;li&gt;Improve performance composition within a composition.&lt;&#x2F;li&gt;
+    &lt;li&gt;Fix missing supernatural being in amendment sprite animation in some specific case.&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;p&gt;&lt;b&gt;New in Version 1.8&lt;&#x2F;b&gt;&lt;&#x2F;p&gt;
+&lt;ul&gt;
+    &lt;li&gt;Fix export wrong path layer of AI files&lt;&#x2F;li&gt;
+    &lt;li&gt;Support export layer from PSD &amp; AI go into once result&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;p&gt;&lt;b&gt;New in Version 2.0&lt;&#x2F;b&gt;&lt;&#x2F;p&gt;
+&lt;ul&gt;
+    &lt;li&gt;AE2Unity: After Effect To Unity Animation Support export to UGUI in beta 
+        &lt;strong&gt;(Limitation:&lt;&#x2F;strong&gt; Not support Text Layer, form &amp; some FX during this version, victimisation UGUI text instead).&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;p&gt;&lt;b&gt;New in Version 2.2&lt;&#x2F;b&gt;&lt;&#x2F;p&gt;
+&lt;ul&gt;
+    &lt;li&gt;Support UGUI&lt;&#x2F;li&gt;
+    &lt;li&gt;Support setting frame rate samples&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;p&gt;&lt;b&gt;New in Version 2.4&lt;&#x2F;b&gt;&lt;&#x2F;p&gt;
+&lt;ul&gt;
+    &lt;li&gt;Support swish rotation&lt;&#x2F;li&gt;
+    &lt;li&gt;Add additional tool and new document&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;p&gt;&lt;b&gt;New in Version 2.8&lt;&#x2F;b&gt;&lt;&#x2F;p&gt;
+&lt;ul&gt;
+    &lt;li&gt;Fix initial default keyframe, fix the position once export to UGUI, NGUI.&lt;&#x2F;li&gt;
+    &lt;li&gt;Add custom setting build from AE&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+</content>
+        
+    </entry>
     <entry xml:lang="en">
         <title>MonKey - Productivity Commands</title>
         <published>2024-12-08T17:50:27+00:00</published>
