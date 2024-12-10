@@ -83,6 +83,17 @@
         
         let need_decry = true;
         let state_data = null
+
+        // 传入上次点击的时间，显示需要等待的多久
+        const show_wait = (tm) =>{
+          tm = tm + (60 * 60 * 1000);
+          let d = new Date().getTime()
+          let wait = ((tm-d)/1000)
+          let tm_str = secondsToHMSString(wait)
+          linkita.toast(decodeURIComponent(atob("JUU4JUFGJUI3JUU3JUFEJTg5JUU1JUJFJTg1JTdCMCU3RCVFNSU5MCU4RSVFNSU4NiU4RCVFOCVBRiU5NQ==")).replace("{0}",tm_str))
+          document.querySelector(decodeURIComponent(atob("JTIzcXVhcmslMkRsaW5r"))).textContent = decodeURIComponent(atob("JUU4JUFGJUI3JUU3JUFEJTg5JUU1JUJFJTg1JTdCMCU3RCVFNSU5MCU4RSVFNSU4NiU4RCVFOCVBRiU5NQ==")).replace("{0}",tm_str)
+        } 
+
         const quark_cb = (e) => {
           e?.preventDefault();
           if(!state_data && !need_decry) {
@@ -92,6 +103,20 @@
           if(need_decry){
             need_decry = false;
             linkita.toast(decodeURIComponent(atob("JUU4JThFJUI3JUU1JThGJTk2JUU1JThGJUEzJUU0JUJCJUE0JUU0JUI4JUFEJUVGJUJDJThDJUU4JUFGJUI3JUU3JUE4JThEJUU1JTkwJThF")))
+            // 防止换ip
+            let lstm = localStorage.getItem(decodeURIComponent(atob("dA==")))
+            if(lstm && !isNaN(parseInt(lstm,10))) {
+              let lstmnum = parseInt(lstm,10)
+              let tartm = lstmnum + (60 * 60 * 1000);
+              let d = new Date().getTime()
+              if(d < tartm) {
+                // 模拟网络延迟
+                setTimeout(()=>{
+                  show_wait(lstmnum)
+                },500+1000*Math.random())
+                return
+              } 
+            }
             decry(decodeURIComponent(atob("VTJ4U1MxSXdjRlZhZFVacUx0V1FJS2xkaTMwQ1BHZSUyQkcyaVNSVnBRVmpCd2NsUnNVazVOVlRWeFUyNUNhV0ZXVlhwVmJFNVdaV3hHVkZaWWJGTmFlakE1"))).then(async resp=>{
               let j = await resp.json()
               if(j[decodeURIComponent(atob("bXNn"))]==decodeURIComponent(atob("b2s="))){
@@ -101,14 +126,12 @@
                   navigator.clipboard.writeText(state_data).then(() => {
                     linkita.toast(decodeURIComponent(atob("JUU1JUE0JThEJUU1JTg4JUI2JUU2JTg4JTkwJUU1JThBJTlGJUVGJUJDJThDJUU2JTg5JTkzJUU1JUJDJTgwJUU2JTlDJTgwJUU2JTk2JUIwJUU3JTg5JTg4JUUzJTgwJThDJUU1JUE0JUI4JUU1JTg1JThCQVBQJUUzJTgwJThEJUU1JThEJUIzJUU1JThGJUFGJUU4JThFJUI3JUU1JThGJTk2")))
                   })
+                  localStorage.setItem(decodeURIComponent(atob("dA==")),j[decodeURIComponent(atob("dG0="))])
                 }
               }else{
-                  let tm = j[decodeURIComponent(atob("dG0="))] + (60 * 60 * 1000);
-                  let d = new Date().getTime()
-                  let wait = ((tm-d)/1000)
-                  let tm_str = secondsToHMSString(wait)
-                  linkita.toast(decodeURIComponent(atob("JUU4JUFGJUI3JUU3JUFEJTg5JUU1JUJFJTg1JTdCMCU3RCVFNSU5MCU4RSVFNSU4NiU4RCVFOCVBRiU5NQ==")).replace("{0}",tm_str))
-                  document.querySelector(decodeURIComponent(atob("JTIzcXVhcmslMkRsaW5r"))).textContent = decodeURIComponent(atob("JUU4JUFGJUI3JUU3JUFEJTg5JUU1JUJFJTg1JTdCMCU3RCVFNSU5MCU4RSVFNSU4NiU4RCVFOCVBRiU5NQ==")).replace("{0}",tm_str)
+                  let tm = j[decodeURIComponent(atob("dG0="))];
+                  localStorage.setItem(decodeURIComponent(atob("dA==")),tm)
+                  show_wait(tm)
                 }
             }
       )}
