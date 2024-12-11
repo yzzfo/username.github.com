@@ -1,88 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh">
-    <title>yzzfo | Share for Free - Utilities</title>
+    <title>yzzfo | Share for Free - utilities</title>
     <subtitle>游戏开发学习资源分享</subtitle>
     <link rel="self" type="application/atom+xml" href="https://yzzfo.github.io/tags/utilities/atom.xml"/>
     <link rel="alternate" type="text/html" href="https://yzzfo.github.io"/>
     <generator uri="https://www.getzola.org/">Zola</generator>
-    <updated>2024-12-10T18:00:17+00:00</updated>
+    <updated>2024-12-08T17:36:34+00:00</updated>
     <id>https://yzzfo.github.io/tags/utilities/atom.xml</id>
-    <entry xml:lang="zh">
-        <title>AE2Unity After Effect To Unity Animation</title>
-        <published>2024-12-10T18:00:17+00:00</published>
-        <updated>2024-12-10T18:00:17+00:00</updated>
-        
-        <author>
-          <name>
-            
-              yzzfo
-            
-          </name>
-        </author>
-        
-        <link rel="alternate" type="text/html" href="https://yzzfo.github.io/unity/other/ae2unity-after-effect-to-unity-animation/"/>
-        <id>https://yzzfo.github.io/unity/other/ae2unity-after-effect-to-unity-animation/</id>
-        
-        <content type="html" xml:base="https://yzzfo.github.io/unity/other/ae2unity-after-effect-to-unity-animation/">&lt;p&gt;&lt;b&gt;功能特点：&lt;&#x2F;b&gt;&lt;&#x2F;p&gt;
-&lt;ul&gt;
-    &lt;li&gt;高性能，使用原生 Unity 动画系统。支持导出 Sprite、Atlas、UGUI、NGUI 等。&lt;&#x2F;li&gt;
-    &lt;li&gt;完全支持骨骼和骨骼层级生成。&lt;&#x2F;li&gt;
-    &lt;li&gt;精准捕获和播放动画，效果与 Adobe After Effects 中一致。&lt;&#x2F;li&gt;
-    &lt;li&gt;自动构建和优化图集精灵；自动生成 pivot 点。&lt;&#x2F;li&gt;
-    &lt;li&gt;自动生成 Mechanim 动画控制器和动画片段。&lt;&#x2F;li&gt;
-    &lt;li&gt;通过 Unity 动画系统实现完全管理和访问。&lt;&#x2F;li&gt;
-    &lt;li&gt;无需插件或库，仅使用原生 Unity 动画和代码以达到最佳性能。&lt;&#x2F;li&gt;
-    &lt;li&gt;易于使用。&lt;&#x2F;li&gt;
-&lt;&#x2F;ul&gt;
-&lt;p&gt;&lt;b&gt;1.01 版本更新&lt;&#x2F;b&gt;&lt;&#x2F;p&gt;
-&lt;ul&gt;
-    &lt;li&gt;自动生成 Mechanim 参数并添加触发器。&lt;&#x2F;li&gt;
-    &lt;li&gt;修复 pivot 中的空白名称映射问题。&lt;&#x2F;li&gt;
-&lt;&#x2F;ul&gt;
-&lt;p&gt;&lt;b&gt;1.2 版本更新&lt;&#x2F;b&gt;&lt;&#x2F;p&gt;
-&lt;ul&gt;
-    &lt;li&gt;支持图片序列。&lt;&#x2F;li&gt;
-    &lt;li&gt;支持自定义图集大小（1024、512、256 或任意纹理大小）。&lt;&#x2F;li&gt;
-&lt;&#x2F;ul&gt;
-&lt;p&gt;&lt;b&gt;1.4 版本更新&lt;&#x2F;b&gt;&lt;&#x2F;p&gt;
-&lt;ul&gt;
-    &lt;li&gt;增加是否构建图集的选项。&lt;&#x2F;li&gt;
-    &lt;li&gt;从 Adobe After Effects 导出时速度提升至 10 倍。&lt;&#x2F;li&gt;
-    &lt;li&gt;修复导出空白图片的问题。&lt;&#x2F;li&gt;
-&lt;&#x2F;ul&gt;
-&lt;p&gt;&lt;b&gt;1.6 版本更新&lt;&#x2F;b&gt;&lt;&#x2F;p&gt;
-&lt;ul&gt;
-    &lt;li&gt;提升复合动画性能。&lt;&#x2F;li&gt;
-    &lt;li&gt;修复某些情况下更改精灵动画时的缺失问题。&lt;&#x2F;li&gt;
-&lt;&#x2F;ul&gt;
-&lt;p&gt;&lt;b&gt;1.8 版本更新&lt;&#x2F;b&gt;&lt;&#x2F;p&gt;
-&lt;ul&gt;
-    &lt;li&gt;修复导出 AI 文件路径错误的问题。&lt;&#x2F;li&gt;
-    &lt;li&gt;支持从 PSD 和 AI 文件中导出图层。&lt;&#x2F;li&gt;
-&lt;&#x2F;ul&gt;
-&lt;p&gt;&lt;b&gt;2.0 版本更新&lt;&#x2F;b&gt;&lt;&#x2F;p&gt;
-&lt;ul&gt;
-    &lt;li&gt;AE2Unity：支持将 After Effects 动画导出为 Unity 动画，Beta 版支持导出至 UGUI 
-        &lt;strong&gt;（限制：&lt;&#x2F;strong&gt;不支持文本图层、形状图层及某些特效，在该版本中使用 UGUI 文本代替）。&lt;&#x2F;li&gt;
-&lt;&#x2F;ul&gt;
-&lt;p&gt;&lt;b&gt;2.2 版本更新&lt;&#x2F;b&gt;&lt;&#x2F;p&gt;
-&lt;ul&gt;
-    &lt;li&gt;支持 UGUI。&lt;&#x2F;li&gt;
-    &lt;li&gt;支持设置帧率采样。&lt;&#x2F;li&gt;
-&lt;&#x2F;ul&gt;
-&lt;p&gt;&lt;b&gt;2.4 版本更新&lt;&#x2F;b&gt;&lt;&#x2F;p&gt;
-&lt;ul&gt;
-    &lt;li&gt;支持平滑旋转。&lt;&#x2F;li&gt;
-    &lt;li&gt;新增工具和文档。&lt;&#x2F;li&gt;
-&lt;&#x2F;ul&gt;
-&lt;p&gt;&lt;b&gt;2.8 版本更新&lt;&#x2F;b&gt;&lt;&#x2F;p&gt;
-&lt;ul&gt;
-    &lt;li&gt;修复初始默认关键帧问题，修复导出至 UGUI 和 NGUI 时的位置信息。&lt;&#x2F;li&gt;
-    &lt;li&gt;新增自定义设置以构建来自 After Effects 的内容。&lt;&#x2F;li&gt;
-&lt;&#x2F;ul&gt;
-</content>
-        
-    </entry>
     <entry xml:lang="zh">
         <title>Advanced Culling System 2 : Revamped and Boosted Up!</title>
         <published>2024-12-08T17:36:34+00:00</published>
