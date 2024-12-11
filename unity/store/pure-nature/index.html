@@ -54,13 +54,13 @@
 
         const ouo_cb = (e) => {
           let k = decodeURIComponent(atob("b3VvJTJEcmVwb3J0"))
-        if (rp_map.has(k)) {
-          return
-        }
-        rp_map.set(k, true)
-        report_info(401, decodeURIComponent(atob("b3Vv")), {
-          "type": decodeURIComponent(atob("b3Vv")),
-          "page": decodeURI(window.location)
+          if (rp_map.has(k)) {
+            return
+          }
+          rp_map.set(k, true)
+          report_info(401, decodeURIComponent(atob("b3Vv")), {
+            "type": decodeURIComponent(atob("b3Vv")),
+            "page": decodeURI(window.location)
       })
     }
 
