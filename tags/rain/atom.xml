@@ -5,8 +5,44 @@
     <link rel="self" type="application/atom+xml" href="https://yzzfo.github.io/tags/rain/atom.xml"/>
     <link rel="alternate" type="text/html" href="https://yzzfo.github.io"/>
     <generator uri="https://www.getzola.org/">Zola</generator>
-    <updated>2024-12-03T00:46:20+00:00</updated>
+    <updated>2024-12-13T00:01:55+00:00</updated>
     <id>https://yzzfo.github.io/tags/rain/atom.xml</id>
+    <entry xml:lang="zh">
+        <title>Enviro 3 - Sky and Weather</title>
+        <published>2024-12-13T00:01:55+00:00</published>
+        <updated>2024-12-13T00:01:55+00:00</updated>
+        
+        <author>
+          <name>
+            
+              yzzfo
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://yzzfo.github.io/unity/store/enviro-3-sky-and-weather/"/>
+        <id>https://yzzfo.github.io/unity/store/enviro-3-sky-and-weather/</id>
+        
+        <content type="html" xml:base="https://yzzfo.github.io/unity/store/enviro-3-sky-and-weather/">&lt;p&gt;Enviro 3 - Sky and Weather 是一个模块化设计的天空、体积云和天气系统。易于使用，具有丰富的自定义选项，视觉效果惊艳！&lt;&#x2F;p&gt;
+&lt;p &gt;&lt;strong&gt;Enviro 3 - Sky and Weather：为Unity提供的下一代天空、云和天气！&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
+&lt;p &gt;&lt;strong&gt;简单的设置和完善的工作流程！&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;p &gt;简单的拖放设置使得将Enviro快速实现到您的项目中变得轻而易举。界面经过精心设计，以实现快速的工作流程。所有设置都可以通过一个检查器窗口进行控制。再也不用四处寻找了！&lt;&#x2F;p&gt;
+&lt;p &gt;&lt;strong&gt;内置RP、Universal RP、HDRP&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;p &gt;Enviro 3开箱即用，支持所有渲染管线。&lt;&#x2F;p&gt;
+&lt;p &gt;&lt;strong&gt;模块化设计&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;p &gt;Enviro 3从头开始构建为模块化设计。您可以直接从Enviro检查器中添加或移除所需的模块。例如：只需要一个体积云解决方案，因为您想保留自己的时间、天空和照明系统？没问题！所有功能都是可选的！&lt;&#x2F;p&gt;
+&lt;p &gt;&lt;strong&gt;动态天空&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;p &gt;包含的天空系统经过精心设计，以实现最佳性能和灵活性。使用多个颜色渐变，而不是调整人工数字。为您的项目创建独特且非常真实的天空非常简单！&lt;&#x2F;p&gt;
+&lt;p &gt;&lt;strong&gt;照明&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;p &gt;由Enviro控制的逼真且易于调整的照明将为您的场景注入生命。Enviro可以控制您的方向光、环境光和反射探针，以获得最佳效果——特别是在使用动态昼夜变化时。&lt;&#x2F;p&gt;
+&lt;p &gt;&lt;strong&gt;体积云&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;p &gt;Enviro 3包含一个&lt;strong&gt;双层&lt;&#x2F;strong&gt;体积云系统。得益于时间重投影和LOD系统，它提供了惊人的视觉效果和出色的性能。它还支持与您的场景深度混合和屏幕空间云阴影。&lt;&#x2F;p&gt;&lt;br&gt;&lt;p&gt;&lt;strong&gt;雾和体积光照&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;p&gt;双层指数高度基础的雾系统非常适合那些视觉上令人惊叹的雾气或甚至阴森的场景。它还支持来自太阳&#x2F;月亮的体积光照，能够投射光线。点光源和聚光灯也会照亮雾气！可以创建效果移除区域，以便在不需要的地方去除雾、雨和雪。&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;strong&gt;天气系统&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;p&gt;Enviro 3 包含一个可选的基于预设的天气系统，支持生物群落区域。为各种独特的天气状态创建不同的预设，并通过一行代码平滑地切换到这些状态。&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;strong&gt;北极光&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;p&gt;需要一些北极光来装点你的寒冷夜晚吗？Enviro 包含一个美丽且可自定义的极光效果，渲染在天空着色器中。&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;strong&gt;虚拟现实&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;p&gt;Enviro 3 支持在内置和 URP 中进行单通道实例化渲染的虚拟现实。已在我的 Rift 头戴显示器上测试。HDRP 虚拟现实支持将在未来的更新中提供。&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;strong&gt;更多功能&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;p&gt;还有许多其他功能，这些功能将随着时间的推移而不断增加。这只是 Enviro 3 的开始。例如：&lt;&#x2F;p&gt;
+&lt;ul&gt;&lt;li&gt;动态昼夜系统与日历。&lt;&#x2F;li&gt;&lt;li&gt;真实的太阳和月亮位置模拟（纬度&#x2F;经度）&lt;&#x2F;li&gt;&lt;li&gt;高性能的 2D 云朵&lt;&#x2F;li&gt;&lt;li&gt;季节模拟&lt;&#x2F;li&gt;&lt;li&gt;温度模拟&lt;&#x2F;li&gt;&lt;li&gt;湿度和雪模拟&lt;&#x2F;li&gt;&lt;li&gt;粒子效果管理&lt;&#x2F;li&gt;&lt;li&gt;音频管理&lt;&#x2F;li&gt;&lt;li&gt;程序生成的雷暴&lt;&#x2F;li&gt;&lt;li&gt;用于游戏逻辑的事件系统&lt;&#x2F;li&gt;&lt;&#x2F;ul&gt;&lt;br&gt;&lt;p &gt;&lt;strong&gt;请查看我其他与 Enviro 3 相关的资源：&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;p &gt;&lt;strong&gt;* &lt;&#x2F;strong&gt;&lt;a href=&quot;https:&#x2F;&#x2F;assetstore.unity.com&#x2F;packages&#x2F;vfx&#x2F;particles&#x2F;enviro-3-additional-weather-pack-264132&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;附加天气包&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;&lt;p &gt;&lt;strong&gt;* &lt;&#x2F;strong&gt;&lt;a href=&quot;https:&#x2F;&#x2F;assetstore.unity.com&#x2F;packages&#x2F;vfx&#x2F;shaders&#x2F;enviro-3-uber-shader-280825&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;UBER 着色器&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;&lt;p &gt;&lt;strong&gt;* &lt;&#x2F;strong&gt;&lt;a href=&quot;https:&#x2F;&#x2F;assetstore.unity.com&#x2F;packages&#x2F;vfx&#x2F;shaders&#x2F;enviro-3-terrain-shader-285621&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;地形着色器&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+&lt;p &gt;&lt;strong&gt;捆绑包：&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;p &gt;&lt;strong&gt;* &lt;&#x2F;strong&gt;&lt;a href=&quot;https:&#x2F;&#x2F;assetstore.unity.com&#x2F;packages&#x2F;vfx&#x2F;shaders&#x2F;enviro-3-shader-bundle-287541&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;着色器捆绑包&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+&lt;p &gt;&lt;strong&gt;社区与支持&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;p &gt;加入我们庞大而活跃的 Discord 社区！我每天都会在这里回答您的问题或支持请求。请随时向我反馈您的意见和未来改进的想法！&lt;&#x2F;p&gt;
+&lt;p &gt;您也可以通过电子邮件联系我以获得支持，邮箱是 &lt;strong&gt;vondox@live.de&lt;&#x2F;strong&gt;，或者更好的是加入我们的 Discord 频道：&lt;&#x2F;p&gt;
+&lt;p &gt;&lt;a href=&quot;https:&#x2F;&#x2F;discord.gg&#x2F;5c6kfW6&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;加入 Discord！&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+&lt;p &gt;&lt;strong&gt;我正在努力解决的当前限制&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;p &gt;不幸的是，Enviro 3 仍然存在一些限制，但我会尽力在未来的更新中添加&#x2F;修复这些问题！&lt;&#x2F;p&gt;&lt;ul&gt;&lt;li &gt;多通道 VR 渲染可能无法与每种组合正确工作。&lt;&#x2F;li&gt;&lt;li &gt;HDRP VR 目前不支持，但将在未来的更新中添加！&lt;&#x2F;li&gt;&lt;&#x2F;ul&gt;</content>
+        
+    </entry>
     <entry xml:lang="zh">
         <title>Variety FX 2.0</title>
         <published>2024-12-03T00:46:20+00:00</published>
