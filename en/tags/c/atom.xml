@@ -5,8 +5,28 @@
     <link rel="self" type="application/atom+xml" href="https://yzzfo.github.io/en/tags/c/atom.xml"/>
     <link rel="alternate" type="text/html" href="https://yzzfo.github.io"/>
     <generator uri="https://www.getzola.org/">Zola</generator>
-    <updated>2024-12-09T11:46:07+00:00</updated>
+    <updated>2024-12-14T11:48:40+00:00</updated>
     <id>https://yzzfo.github.io/en/tags/c/atom.xml</id>
+    <entry xml:lang="en">
+        <title>Roslyn C# - Runtime Compiler</title>
+        <published>2024-12-14T11:48:40+00:00</published>
+        <updated>2024-12-14T11:48:40+00:00</updated>
+        
+        <author>
+          <name>
+            
+              yzzfo
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://yzzfo.github.io/en/unity/store/roslyn-c-runtime-compiler/"/>
+        <id>https://yzzfo.github.io/en/unity/store/roslyn-c-runtime-compiler/</id>
+        
+        <content type="html" xml:base="https://yzzfo.github.io/en/unity/store/roslyn-c-runtime-compiler/">&lt;p&gt;&lt;br&gt;&lt;strong&gt;&lt;em&gt;*Requires .Net 4.x or .Net standard API compatibility level&lt;&#x2F;em&gt;&lt;&#x2F;strong&gt;&lt;br&gt;&lt;br&gt;&lt;p&gt;Roslyn C# allows runtime loading of assemblies and C# scripts using the Roslyn compiler making it easy to add modding support or in-game programming to your project. In addition, Roslyn C# also includes code security verification that allows you to specify a number of security restrictions that loaded code must adhere to including illegal namespaces and types. This makes it much safer to load 3rd party code from unknown sources.&lt;&#x2F;P&gt;&lt;br&gt;&lt;p&gt;Includes a small programming based game where the objective is to navigate a mouse out of a maze by writing code that performs the direction decision making.&lt;&#x2F;P&gt;&lt;br&gt;&lt;br&gt;&lt;p&gt;&lt;strong&gt;Features&lt;&#x2F;strong&gt;&lt;br&gt;-Compile and run C# scripts at runtime&lt;br&gt;-Leverage the latest C# language features using the Roslyn C# compiler&lt;br&gt;-Fast execution. Once compiled, external scripts will run as fast as game scripts&lt;br&gt;-Allows modding support to be added easily&lt;br&gt;-Code security validation means that unsafe code can be identified and discarded&lt;br&gt;-Code security generates a detailed report upon failure containing information about illegal types used and every usage occurrence in the external code&lt;br&gt;-Simple and easy to use API for assembly, type and instance reflection&lt;br&gt;-Support for non-concrete communication using script proxies&lt;br&gt;-Automatic type construction using correct method (AddComponent, CreateInstance, new)&lt;br&gt;-Cached member tables for quick reflection&lt;br&gt;-All scripts and example are organised into namespaces to avoid type name clashes&lt;br&gt;-Fully commented partial C# source code included&lt;br&gt;-Comprehensive .chm documentation of the API for quick and easy reference&lt;br&gt;&lt;br&gt;&lt;strong&gt;Platforms&lt;&#x2F;strong&gt;&lt;br&gt;Support for PC, Mac and Linux platforms. &lt;p&gt;Roslyn C# may work on other platforms without issue however we will only offer support for the officially supported platforms.&lt;&#x2F;p&gt;&lt;br&gt;&lt;br&gt;&lt;strong&gt;Android&lt;&#x2F;strong&gt;&lt;br&gt;Android is not officially supported however, many users have had success getting the asset to run on Android by following &lt;a href=&quot;https:&#x2F;&#x2F;forum.unity.com&#x2F;threads&#x2F;released-roslyn-c-runtime-c-compiler.651505&#x2F;page-4#post-6834782&quot;&gt;these steps&lt;&#x2F;a&gt;&lt;br&gt;&lt;br&gt;&lt;a href=&quot;https:&#x2F;&#x2F;forum.unity.com&#x2F;threads&#x2F;pending-review-roslyn-c-runtime-c-compiler.651505&#x2F;&quot;&gt;Forum&lt;&#x2F;a&gt; | &lt;a href=&quot;https:&#x2F;&#x2F;discord.gg&#x2F;sHREXjmwa2&quot;&gt;Discord&lt;&#x2F;a&gt; | &lt;a href=&quot;http:&#x2F;&#x2F;trivialinteractive.co.uk&#x2F;products&#x2F;documentation&#x2F;roslyncsharp&#x2F;UserGuide.pdf&quot;&gt;Documentation&lt;&#x2F;a&gt; | &lt;a href=&quot;http:&#x2F;&#x2F;trivialinteractive.co.uk&#x2F;support.html&quot;&gt;Support&lt;&#x2F;a&gt; | &lt;a href=&quot;http:&#x2F;&#x2F;trivialinteractive.co.uk&quot;&gt;Website&lt;&#x2F;a&gt;&lt;br&gt;&lt;br&gt;&lt;&#x2F;p&gt;
+</content>
+        
+    </entry>
     <entry xml:lang="en">
         <title>uMod 2.0</title>
         <published>2024-12-09T11:46:07+00:00</published>
