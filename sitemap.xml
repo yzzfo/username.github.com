@@ -847,6 +847,12 @@
   <loc>https://yzzfo.github.io/en/tags/combat/page/1/</loc>
 </url>
 <url>
+  <loc>https://yzzfo.github.io/en/tags/combiner/</loc>
+</url>
+<url>
+  <loc>https://yzzfo.github.io/en/tags/combiner/page/1/</loc>
+</url>
+<url>
   <loc>https://yzzfo.github.io/en/tags/command-console/</loc>
 </url>
 <url>
@@ -2411,6 +2417,12 @@
 </url>
 <url>
   <loc>https://yzzfo.github.io/en/tags/menu/page/1/</loc>
+</url>
+<url>
+  <loc>https://yzzfo.github.io/en/tags/mesh-combine/</loc>
+</url>
+<url>
+  <loc>https://yzzfo.github.io/en/tags/mesh-combine/page/1/</loc>
 </url>
 <url>
   <loc>https://yzzfo.github.io/en/tags/mesh-cutting/</loc>
@@ -4856,6 +4868,10 @@
   <lastmod>2024-11-30T13:20:28</lastmod>
 </url>
 <url>
+  <loc>https://yzzfo.github.io/en/unity/store/dynamic-mesh-combiner/</loc>
+  <lastmod>2024-12-16T01:00:58</lastmod>
+</url>
+<url>
   <loc>https://yzzfo.github.io/en/unity/store/dynamic-mesh-cutter/</loc>
   <lastmod>2024-12-06T14:28:15</lastmod>
 </url>
@@ -6057,6 +6073,12 @@
 </url>
 <url>
   <loc>https://yzzfo.github.io/tags/combat/page/1/</loc>
+</url>
+<url>
+  <loc>https://yzzfo.github.io/tags/combiner/</loc>
+</url>
+<url>
+  <loc>https://yzzfo.github.io/tags/combiner/page/1/</loc>
 </url>
 <url>
   <loc>https://yzzfo.github.io/tags/command-console/</loc>
@@ -7677,6 +7699,12 @@
 </url>
 <url>
   <loc>https://yzzfo.github.io/tags/menu/page/1/</loc>
+</url>
+<url>
+  <loc>https://yzzfo.github.io/tags/mesh-combine/</loc>
+</url>
+<url>
+  <loc>https://yzzfo.github.io/tags/mesh-combine/page/1/</loc>
 </url>
 <url>
   <loc>https://yzzfo.github.io/tags/mesh-cutting/</loc>
@@ -10150,6 +10178,10 @@
 <url>
   <loc>https://yzzfo.github.io/unity/store/dotween-pro/</loc>
   <lastmod>2024-11-30T13:20:28</lastmod>
+</url>
+<url>
+  <loc>https://yzzfo.github.io/unity/store/dynamic-mesh-combiner/</loc>
+  <lastmod>2024-12-16T01:00:58</lastmod>
 </url>
 <url>
   <loc>https://yzzfo.github.io/unity/store/dynamic-mesh-cutter/</loc>
