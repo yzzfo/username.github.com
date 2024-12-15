@@ -5,8 +5,28 @@
     <link rel="self" type="application/atom+xml" href="https://yzzfo.github.io/tags/animated/atom.xml"/>
     <link rel="alternate" type="text/html" href="https://yzzfo.github.io"/>
     <generator uri="https://www.getzola.org/">Zola</generator>
-    <updated>2024-12-06T14:25:47+00:00</updated>
+    <updated>2024-12-15T12:00:36+00:00</updated>
     <id>https://yzzfo.github.io/tags/animated/atom.xml</id>
+    <entry xml:lang="zh">
+        <title>AnimatorLOD Pro - Animator Optimizer</title>
+        <published>2024-12-15T12:00:36+00:00</published>
+        <updated>2024-12-15T12:00:36+00:00</updated>
+        
+        <author>
+          <name>
+            
+              yzzfo
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://yzzfo.github.io/unity/store/animatorlod-pro-animator-optimizer/"/>
+        <id>https://yzzfo.github.io/unity/store/animatorlod-pro-animator-optimizer/</id>
+        
+        <content type="html" xml:base="https://yzzfo.github.io/unity/store/animatorlod-pro-animator-optimizer/">&lt;p&gt;提高 Unity 动画器性能的 AnimatorLOD Pro 是一种强大的工具，设计用于优化动画播放并提高应用程序的整体效率。&lt;br&gt;&lt;p &gt;介绍 AnimatorLOD Pro，你提高 Unity 动画器性能的必备工具！&lt;&#x2F;p&gt;&lt;p &gt;同时运行多个动画器可能会显著降低速度，但是使用 AnimatorLOD Pro，你可以提高性能而不会牺牲感知质量！&lt;&#x2F;p&gt;&lt;p &gt;包含内容：&lt;&#x2F;p&gt;&lt;ul&gt;&lt;li &gt;易于集成&lt;&#x2F;li&gt;&lt;li &gt;在运行时更改动画帧率和皮肤权重&lt;&#x2F;li&gt;&lt;li &gt;皮肤处理保持多线程并可以在 GPU 上运行&lt;&#x2F;li&gt;&lt;li &gt;适用于所有动画器&lt;&#x2F;li&gt;&lt;li &gt;更新动画器时不会暂停主线程&lt;&#x2F;li&gt;&lt;li &gt;编辑器性能更佳的程序集定义支持&lt;&#x2F;li&gt;&lt;&#x2F;ul&gt;&lt;p &gt;工作原理： AnimatorLOD Pro 使用一种智能的基于距离的帧跳过和皮肤权重调整技术。这种技术可以保留靠近摄像机的动画器的完整质量，而减少远处动画器的质量。这意味着靠近你的动画将会顺畅地运行，而远处的动画将会使用较少的处理能力，从而提供你所需要的性能提升。&lt;&#x2F;p&gt;&lt;p &gt;这种技术已经被许多一流的游戏工作室所使用，现在它也为你所提供！&lt;&#x2F;p&gt;&lt;p &gt;开始使用很容易！ 将 AnimatorLODManager 组件添加到你的场景中，将 AnimatorLODObject 组件附加到你的动画对象，并观察性能的即时提高！尤其是在包含许多皮肤网格渲染器的场景中。&lt;&#x2F;p&gt;&lt;&#x2F;p&gt;
+</content>
+        
+    </entry>
     <entry xml:lang="zh">
         <title>Heat - Complete Modern UI</title>
         <published>2024-12-06T14:25:47+00:00</published>

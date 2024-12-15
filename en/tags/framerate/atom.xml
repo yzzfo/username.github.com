@@ -5,8 +5,28 @@
     <link rel="self" type="application/atom+xml" href="https://yzzfo.github.io/en/tags/framerate/atom.xml"/>
     <link rel="alternate" type="text/html" href="https://yzzfo.github.io"/>
     <generator uri="https://www.getzola.org/">Zola</generator>
-    <updated>2024-12-07T20:01:46+00:00</updated>
+    <updated>2024-12-15T12:00:36+00:00</updated>
     <id>https://yzzfo.github.io/en/tags/framerate/atom.xml</id>
+    <entry xml:lang="en">
+        <title>AnimatorLOD Pro - Animator Optimizer</title>
+        <published>2024-12-15T12:00:36+00:00</published>
+        <updated>2024-12-15T12:00:36+00:00</updated>
+        
+        <author>
+          <name>
+            
+              yzzfo
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://yzzfo.github.io/en/unity/store/animatorlod-pro-animator-optimizer/"/>
+        <id>https://yzzfo.github.io/en/unity/store/animatorlod-pro-animator-optimizer/</id>
+        
+        <content type="html" xml:base="https://yzzfo.github.io/en/unity/store/animatorlod-pro-animator-optimizer/">&lt;p&gt;Enhance Unity&#x27;s animator performance with the AnimatorLOD Pro – a powerful tool designed to optimize animation playback and boost your application&#x27;s overall efficiency.&lt;br&gt;&lt;p &gt;Supercharge your game&#x27;s performance with &lt;strong&gt;AnimatorLOD Pro&lt;&#x2F;strong&gt;, the ultimate tool for optimizing Unity&#x27;s Animator system without compromising animation quality!&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;&lt;strong&gt;What does it do?&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;p &gt;Using smart, distance-based frame skipping and skin-weight changing techniques, &lt;strong&gt;AnimatorLOD Pro&lt;&#x2F;strong&gt; ensures that animations close to the camera run smoothly while distant ones use less processing power. This results in smoother gameplay and a significant performance boost. perfect for scenes with many skinned mesh renderers!&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;&lt;strong&gt;What is included?&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;ul&gt;&lt;li &gt;Improves performance with distance-based animation framerate scaling&lt;&#x2F;li&gt;&lt;li &gt;Automatically adjusts skin weights based on distance to optimize quality&lt;&#x2F;li&gt;&lt;li &gt;Easy to integrate components with documentation and video guide&lt;&#x2F;li&gt;&lt;li &gt;Fully multithreaded skinning and Animator calculations—no impact on the main thread&lt;&#x2F;li&gt;&lt;li &gt;Scales perfectly with all framerates&lt;&#x2F;li&gt;&lt;li &gt;Seamlessly integrates with Unity&#x27;s rendering pipelines (BiRP, URP, HDRP)&lt;&#x2F;li&gt;&lt;li &gt;Supports all platforms, including AR, VR, Android, PC, WebGL, and consoles&lt;&#x2F;li&gt;&lt;&#x2F;ul&gt;&lt;&#x2F;br&gt;&lt;p &gt;This technique is already being used by many top-tier game studios, and now it&#x27;s available to you!&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;&#x2F;br&gt;&lt;p &gt;&lt;strong&gt;&lt;em&gt;Getting started is a breeze! &lt;&#x2F;em&gt;&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;p &gt;Just follow these steps:&lt;&#x2F;p&gt;&lt;ol&gt;&lt;li &gt;Add the &lt;em&gt;AnimatorLODManager &lt;&#x2F;em&gt;component to your scene.&lt;&#x2F;li&gt;&lt;li &gt;Attach the &lt;em&gt;AnimatorLODObject &lt;&#x2F;em&gt;component to your animated objects.&lt;&#x2F;li&gt;&lt;li &gt;Watch your animation performance improve instantly!&lt;&#x2F;li&gt;&lt;&#x2F;ol&gt;&lt;&#x2F;br&gt;&lt;p &gt;&lt;strong&gt;Need help? &lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;p &gt;Join our community or read the quickstart guide to get up and running!&lt;&#x2F;p&gt;&lt;p &gt;&lt;a href=&quot;https:&#x2F;&#x2F;discord.gg&#x2F;ySTKg2QTrx&quot; target=&quot;_blank&quot;&gt;Support Discord&lt;&#x2F;a&gt; | &lt;a href=&quot;https:&#x2F;&#x2F;dunktechnologies.com&#x2F;PDF&#x2F;Assets&#x2F;AnimatorLOD%20Pro%20Documentation.pdf&quot; target=&quot;_blank&quot;&gt;Quickstart Guide&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;&lt;&#x2F;p&gt;
+</content>
+        
+    </entry>
     <entry xml:lang="en">
         <title>FSR 3 - Upscaling for Unity</title>
         <published>2024-12-07T20:01:46+00:00</published>
