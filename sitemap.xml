@@ -1837,6 +1837,9 @@
   <loc>https://yzzfo.github.io/en/tags/hdrp/page/1/</loc>
 </url>
 <url>
+  <loc>https://yzzfo.github.io/en/tags/hdrp/page/2/</loc>
+</url>
+<url>
   <loc>https://yzzfo.github.io/en/tags/height-fog/</loc>
 </url>
 <url>
@@ -3544,6 +3547,12 @@
   <loc>https://yzzfo.github.io/en/tags/shader/page/1/</loc>
 </url>
 <url>
+  <loc>https://yzzfo.github.io/en/tags/shaderlab/</loc>
+</url>
+<url>
+  <loc>https://yzzfo.github.io/en/tags/shaderlab/page/1/</loc>
+</url>
+<url>
   <loc>https://yzzfo.github.io/en/tags/shaders/</loc>
 </url>
 <url>
@@ -3788,6 +3797,12 @@
 </url>
 <url>
   <loc>https://yzzfo.github.io/en/tags/spruce/page/1/</loc>
+</url>
+<url>
+  <loc>https://yzzfo.github.io/en/tags/srp/</loc>
+</url>
+<url>
+  <loc>https://yzzfo.github.io/en/tags/srp/page/1/</loc>
 </url>
 <url>
   <loc>https://yzzfo.github.io/en/tags/stack/</loc>
@@ -4444,6 +4459,12 @@
   <loc>https://yzzfo.github.io/en/tags/visual-scripting/page/2/</loc>
 </url>
 <url>
+  <loc>https://yzzfo.github.io/en/tags/visual-studio/</loc>
+</url>
+<url>
+  <loc>https://yzzfo.github.io/en/tags/visual-studio/page/1/</loc>
+</url>
+<url>
   <loc>https://yzzfo.github.io/en/tags/visual/</loc>
 </url>
 <url>
@@ -4778,6 +4799,10 @@
 <url>
   <loc>https://yzzfo.github.io/en/unity/store/amplify-shader-pack/</loc>
   <lastmod>2024-12-07T19:59:49</lastmod>
+</url>
+<url>
+  <loc>https://yzzfo.github.io/en/unity/store/animancer-pro-v8/</loc>
+  <lastmod>2024-12-16T16:18:47</lastmod>
 </url>
 <url>
   <loc>https://yzzfo.github.io/en/unity/store/animancer-pro/</loc>
@@ -5162,6 +5187,10 @@
 <url>
   <loc>https://yzzfo.github.io/en/unity/store/semantic-color-palette/</loc>
   <lastmod>2024-11-30T13:23:32</lastmod>
+</url>
+<url>
+  <loc>https://yzzfo.github.io/en/unity/store/shaderlabvs-pro/</loc>
+  <lastmod>2024-12-16T16:19:44</lastmod>
 </url>
 <url>
   <loc>https://yzzfo.github.io/en/unity/store/sky-master-ultimate-volumetric-skies-clouds-weather/</loc>
@@ -7086,6 +7115,9 @@
   <loc>https://yzzfo.github.io/tags/hdrp/page/1/</loc>
 </url>
 <url>
+  <loc>https://yzzfo.github.io/tags/hdrp/page/2/</loc>
+</url>
+<url>
   <loc>https://yzzfo.github.io/tags/height-fog/</loc>
 </url>
 <url>
@@ -8808,6 +8840,12 @@
   <loc>https://yzzfo.github.io/tags/shader/page/1/</loc>
 </url>
 <url>
+  <loc>https://yzzfo.github.io/tags/shaderlab/</loc>
+</url>
+<url>
+  <loc>https://yzzfo.github.io/tags/shaderlab/page/1/</loc>
+</url>
+<url>
   <loc>https://yzzfo.github.io/tags/shaders/</loc>
 </url>
 <url>
@@ -9067,6 +9105,12 @@
 </url>
 <url>
   <loc>https://yzzfo.github.io/tags/spruce/page/1/</loc>
+</url>
+<url>
+  <loc>https://yzzfo.github.io/tags/srp/</loc>
+</url>
+<url>
+  <loc>https://yzzfo.github.io/tags/srp/page/1/</loc>
 </url>
 <url>
   <loc>https://yzzfo.github.io/tags/stack/</loc>
@@ -9711,6 +9755,12 @@
   <loc>https://yzzfo.github.io/tags/visual-scripting/page/1/</loc>
 </url>
 <url>
+  <loc>https://yzzfo.github.io/tags/visual-studio/</loc>
+</url>
+<url>
+  <loc>https://yzzfo.github.io/tags/visual-studio/page/1/</loc>
+</url>
+<url>
   <loc>https://yzzfo.github.io/tags/visual/</loc>
 </url>
 <url>
@@ -10090,6 +10140,10 @@
 <url>
   <loc>https://yzzfo.github.io/unity/store/amplify-shader-pack/</loc>
   <lastmod>2024-12-07T19:59:49</lastmod>
+</url>
+<url>
+  <loc>https://yzzfo.github.io/unity/store/animancer-pro-v8/</loc>
+  <lastmod>2024-12-16T16:18:47</lastmod>
 </url>
 <url>
   <loc>https://yzzfo.github.io/unity/store/animancer-pro/</loc>
@@ -10474,6 +10528,10 @@
 <url>
   <loc>https://yzzfo.github.io/unity/store/semantic-color-palette/</loc>
   <lastmod>2024-11-30T13:23:32</lastmod>
+</url>
+<url>
+  <loc>https://yzzfo.github.io/unity/store/shaderlabvs-pro/</loc>
+  <lastmod>2024-12-16T16:19:44</lastmod>
 </url>
 <url>
   <loc>https://yzzfo.github.io/unity/store/sky-master-ultimate-volumetric-skies-clouds-weather/</loc>

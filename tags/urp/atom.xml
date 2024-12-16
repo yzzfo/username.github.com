@@ -5,8 +5,28 @@
     <link rel="self" type="application/atom+xml" href="https://yzzfo.github.io/tags/urp/atom.xml"/>
     <link rel="alternate" type="text/html" href="https://yzzfo.github.io"/>
     <generator uri="https://www.getzola.org/">Zola</generator>
-    <updated>2024-12-13T00:01:55+00:00</updated>
+    <updated>2024-12-16T16:19:44+00:00</updated>
     <id>https://yzzfo.github.io/tags/urp/atom.xml</id>
+    <entry xml:lang="zh">
+        <title>ShaderlabVS Pro</title>
+        <published>2024-12-16T16:19:44+00:00</published>
+        <updated>2024-12-16T16:19:44+00:00</updated>
+        
+        <author>
+          <name>
+            
+              yzzfo
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://yzzfo.github.io/unity/store/shaderlabvs-pro/"/>
+        <id>https://yzzfo.github.io/unity/store/shaderlabvs-pro/</id>
+        
+        <content type="html" xml:base="https://yzzfo.github.io/unity/store/shaderlabvs-pro/">&lt;p&gt;ShaderlabVS Pro 是一款专为 Unity Shaderlab 编程而生的 Visual Studio 插件。它支持代码高亮，代码完成，代码格式化，跳转到定义和 SRP 支持等等&lt;br&gt;&lt;p &gt;ShaderlabVS Pro 是一款专为 Unity Shaderlab编程而生的 &lt;strong&gt;Visual Studio&lt;&#x2F;strong&gt; &lt;strong&gt;插件&lt;&#x2F;strong&gt;。它是我在 2014 年开源的 &lt;a href=&quot;https:&#x2F;&#x2F;www.github.com&#x2F;wudixiaop&#x2F;ShaderlabVS&quot; target=&quot;_blank&quot;&gt;ShaderlabVS&lt;&#x2F;a&gt; 的付费版。它比 Shaderlab 拥有更多的功能和更好的性能。&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;&lt;a href=&quot;http:&#x2F;&#x2F;www.amlovey.com&#x2F;shaderlabvs&#x2F;&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;文档&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt; |  &lt;a href=&quot;http:&#x2F;&#x2F;forum.unity3d.com&#x2F;threads&#x2F;1032139&#x2F;&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;论坛&lt;&#x2F;strong&gt; &lt;&#x2F;a&gt; |  &lt;a href=&quot;mailto:support@amlovey.com&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;邮件&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;&lt;strong&gt;主要功能：&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;•  语法高亮&lt;&#x2F;p&gt;&lt;p &gt;•  悬停信息&lt;&#x2F;p&gt;&lt;p &gt;•  代码完成&lt;&#x2F;p&gt;&lt;p &gt;•  文档注释&lt;&#x2F;p&gt;&lt;p &gt;•  格式化文档和选中&lt;&#x2F;p&gt;&lt;p &gt;•  文档代码符号&lt;&#x2F;p&gt;&lt;p &gt;•  支持 SRP&lt;&#x2F;p&gt;&lt;p &gt;•  支持跳转到定义&lt;&#x2F;p&gt;&lt;p &gt;•  快速跳转&lt;&#x2F;p&gt;&lt;p &gt;•  支持代码片段&lt;&#x2F;p&gt;&lt;p &gt;•  支持黑色主题&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;&lt;strong&gt;支持 Visual Studio 版本:&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;• Visual Studio 2019&lt;&#x2F;p&gt;&lt;p &gt;• Visual Studio 2022&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;&lt;strong&gt;支持操作系统：&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;• Windows&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;&#x2F;p&gt;
+</content>
+        
+    </entry>
     <entry xml:lang="zh">
         <title>Enviro 3 - Sky and Weather</title>
         <published>2024-12-13T00:01:55+00:00</published>
