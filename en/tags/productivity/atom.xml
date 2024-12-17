@@ -5,8 +5,28 @@
     <link rel="self" type="application/atom+xml" href="https://yzzfo.github.io/en/tags/productivity/atom.xml"/>
     <link rel="alternate" type="text/html" href="https://yzzfo.github.io"/>
     <generator uri="https://www.getzola.org/">Zola</generator>
-    <updated>2024-12-17T13:43:31+00:00</updated>
+    <updated>2024-12-18T01:00:23+00:00</updated>
     <id>https://yzzfo.github.io/en/tags/productivity/atom.xml</id>
+    <entry xml:lang="en">
+        <title>Search PRO</title>
+        <published>2024-12-18T01:00:23+00:00</published>
+        <updated>2024-12-18T01:00:23+00:00</updated>
+        
+        <author>
+          <name>
+            
+              yzzfo
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://yzzfo.github.io/en/unity/store/search-pro/"/>
+        <id>https://yzzfo.github.io/en/unity/store/search-pro/</id>
+        
+        <content type="html" xml:base="https://yzzfo.github.io/en/unity/store/search-pro/">&lt;p&gt;Search PRO searches for assets, objects, scenes, components, preferences and more, directly in the inspector window, performing searches very fast and customizable.&lt;br&gt;&lt;p &gt;Introducing Search PRO, the ultimate tool for efficiently finding assets, objects, scenes, components, preferences, and more within the inspector window of your project. With lightning-fast search capabilities and customizable filters, Search PRO makes the inspector window 100% productive, saving you time and effort.&lt;br&gt;&lt;br&gt;Featuring .NET 3x and 4x compatibility, search sync, and recent modified item tracking, Search PRO ensures that you have access to all the information you need, no matter how many items are in your project. The infinite scroll list and drag-and-drop functionality make it easy to navigate through search results, and the incredible keyboard navigation allows for seamless movement through the list.&lt;br&gt;&lt;br&gt;Optimize your workflow and increase your productivity with Search PRO&#x27;s good performance and user-friendly interface. Don&#x27;t let the inspector window go to waste - make it work for you with Search PRO.&lt;&#x2F;p&gt;&lt;&#x2F;p&gt;
+</content>
+        
+    </entry>
     <entry xml:lang="en">
         <title>MonKey - Productivity Commands</title>
         <published>2024-12-08T17:50:27+00:00</published>

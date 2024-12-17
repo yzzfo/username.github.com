@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh">
+    <title>yzzfo | Share for Free - Easy to Use</title>
+    <subtitle>游戏开发学习资源分享</subtitle>
+    <link rel="self" type="application/atom+xml" href="https://yzzfo.github.io/tags/easy-to-use/atom.xml"/>
+    <link rel="alternate" type="text/html" href="https://yzzfo.github.io"/>
+    <generator uri="https://www.getzola.org/">Zola</generator>
+    <updated>2024-12-18T01:00:23+00:00</updated>
+    <id>https://yzzfo.github.io/tags/easy-to-use/atom.xml</id>
+    <entry xml:lang="zh">
+        <title>Search PRO</title>
+        <published>2024-12-18T01:00:23+00:00</published>
+        <updated>2024-12-18T01:00:23+00:00</updated>
+        
+        <author>
+          <name>
+            
+              yzzfo
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://yzzfo.github.io/unity/store/search-pro/"/>
+        <id>https://yzzfo.github.io/unity/store/search-pro/</id>
+        
+        <content type="html" xml:base="https://yzzfo.github.io/unity/store/search-pro/">&lt;p&gt;Search PRO searches for assets, objects, scenes, components, preferences and more, directly in the inspector window, performing searches very fast and customizable.&lt;br&gt;Search PRO 直接在檢查器窗口中搜索資產，對象，場景，組件，首選項等，執行搜索非常快速且可自定義。&lt;br&gt;&lt;br&gt;⭐特點⭐&lt;br&gt;&lt;br&gt;✔️檢查員100％生產!!!&lt;br&gt;✔️.NET3x 和4x就緒。&lt;br&gt;✔️搜索同步&lt;br&gt;✔️搜索過濾器&lt;br&gt;✔️最近修改過的物品。&lt;br&gt;✔️無限滾動列表。&lt;br&gt;✔️拖放項目。&lt;br&gt;✔️令人難以置信的導航。&lt;br&gt;✔️良好的表現。&lt;br&gt;&lt;br&gt;想像一下，你有一個對你的項目版本至關重要的窗口，但有時它在屏幕上佔據了一個沒用的空間，這就是檢查窗口，現在想像你可以100％高效，這是“搜索PRO”，當沒有選擇任何對象時，它利用了檢查器窗口中的空白區域。&lt;br&gt;&lt;br&gt;無論您的項目中有多少項目, Search PRO 都會找到它們并快速顯示結果！&lt;br&gt;&lt;br&gt;屏幕上顯示的對象列表是無限的，僅顯示您需要的信息，您可以通過向上或向下拖動項目來移動滾動列表（就像使用觸摸屏一樣）或向側面拖動對象（例如拖動在場景窗口中搜索三維模型的材料）。&lt;br&gt;&lt;br&gt;使用鍵盤的導航非常好，只需按下結束&#x2F;主頁鍵，使用箭頭鍵向下或向上項目，向下按屏幕或使用向下翻頁向上滾動即可輕鬆地從搜索開始到結束或翻頁鍵。&lt;&#x2F;p&gt;
+</content>
+        
+    </entry>
+</feed>
