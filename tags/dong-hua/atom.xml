@@ -5,12 +5,12 @@
     <link rel="self" type="application/atom+xml" href="https://yzzfo.github.io/tags/dong-hua/atom.xml"/>
     <link rel="alternate" type="text/html" href="https://yzzfo.github.io"/>
     <generator uri="https://www.getzola.org/">Zola</generator>
-    <updated>2024-12-16T16:18:47+00:00</updated>
+    <updated>2024-12-17T14:07:23+00:00</updated>
     <id>https://yzzfo.github.io/tags/dong-hua/atom.xml</id>
     <entry xml:lang="zh">
         <title>AnimatorLOD Pro - Animator Optimizer</title>
         <published>2024-12-15T12:00:36+00:00</published>
-        <updated>2024-12-15T12:00:36+00:00</updated>
+        <updated>2024-12-17T13:48:39+00:00</updated>
         
         <author>
           <name>
@@ -30,7 +30,7 @@
     <entry xml:lang="zh">
         <title>Leaning Animator</title>
         <published>2024-12-09T14:09:18+00:00</published>
-        <updated>2024-12-09T14:09:18+00:00</updated>
+        <updated>2024-12-17T13:45:45+00:00</updated>
         
         <author>
           <name>
@@ -43,8 +43,8 @@
         <link rel="alternate" type="text/html" href="https://yzzfo.github.io/unity/store/leaning-animator/"/>
         <id>https://yzzfo.github.io/unity/store/leaning-animator/</id>
         
-        <content type="html" xml:base="https://yzzfo.github.io/unity/store/leaning-animator/">&lt;p&gt;提升你的人形角色运动动画的真实感，使用针对整个物体、脊柱骨骼和手臂的程序倾斜算法！&lt;&#x2F;p&gt;
-&lt;p&gt;⚡ &lt;strong&gt;提升你的人形角色运动动画的真实感，使用针对整个物体、脊柱骨骼和手臂的程序倾斜算法！&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
+        <content type="html" xml:base="https://yzzfo.github.io/unity/store/leaning-animator/">&lt;p&gt;提升你的人形角色运动动画的感觉，使用针对整个物体、脊柱骨骼和手臂的程序化倾斜算法！&lt;&#x2F;p&gt;
+&lt;p&gt;⚡ &lt;strong&gt;提升你的人形角色运动动画的感觉，使用针对整个物体、脊柱骨骼和手臂的程序化倾斜算法！&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
 &lt;p&gt;☄️ 只需几次点击即可快速设置，然后根据你的需求进行调整！&lt;&#x2F;p&gt;
 &lt;p&gt;该组件专为双足&#x2F;类人角色设计，适用于&lt;&#x2F;p&gt;
 &lt;p&gt;任何动画设置，无论是类人、通用还是遗留类型。&lt;&#x2F;p&gt;
@@ -52,18 +52,18 @@
 &lt;p&gt;&lt;strong&gt;该包适用于所有SRP！这不是与着色器相关的包。&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
 &lt;p&gt;(你只需将标准演示材料转换为演示示例)&lt;&#x2F;p&gt;
 &lt;p&gt;内置 ✅ LWRP ✅ URP ✅ HDRP ✅ 自定义RP ✅&lt;&#x2F;p&gt;
-&lt;p&gt;⭐ &lt;strong&gt;主要特点&lt;&#x2F;strong&gt; ⭐&lt;&#x2F;p&gt;
+&lt;p&gt;⭐ &lt;strong&gt;主要特性&lt;&#x2F;strong&gt; ⭐&lt;&#x2F;p&gt;
 &lt;p&gt;• 快速设置&lt;&#x2F;p&gt;
 &lt;p&gt;• 良好的性能&lt;&#x2F;p&gt;
 &lt;p&gt;• 干净紧凑的检查器窗口&lt;&#x2F;p&gt;
-&lt;p&gt;• 适用于所有类型的骨架&lt;&#x2F;p&gt;
+&lt;p&gt;• 适用于所有类型的骨骼&lt;&#x2F;p&gt;
 &lt;p&gt;• 包含有用类的源代码&lt;&#x2F;p&gt;</content>
         
     </entry>
     <entry xml:lang="zh">
         <title>Motion Matching for Unity</title>
         <published>2024-12-09T11:45:59+00:00</published>
-        <updated>2024-12-09T11:45:59+00:00</updated>
+        <updated>2024-12-17T13:44:25+00:00</updated>
         
         <author>
           <name>
@@ -83,7 +83,7 @@
     <entry xml:lang="zh">
         <title>Final IK</title>
         <published>2024-12-09T11:45:46+00:00</published>
-        <updated>2024-12-09T11:45:46+00:00</updated>
+        <updated>2024-12-17T13:44:12+00:00</updated>
         
         <author>
           <name>
@@ -103,7 +103,7 @@
     <entry xml:lang="zh">
         <title>Spine Animator</title>
         <published>2024-12-05T23:26:37+00:00</published>
-        <updated>2024-12-05T23:47:37+00:00</updated>
+        <updated>2024-12-17T13:34:10+00:00</updated>
         
         <author>
           <name>
@@ -123,7 +123,7 @@
     <entry xml:lang="zh">
         <title>Legs Animator</title>
         <published>2024-12-04T16:04:50+00:00</published>
-        <updated>2024-12-05T23:47:09+00:00</updated>
+        <updated>2024-12-17T13:33:50+00:00</updated>
         
         <author>
           <name>
@@ -139,19 +139,19 @@
         <content type="html" xml:base="https://yzzfo.github.io/unity/store/legs-animator/">&lt;p&gt;多功能腿部IK动画插件，适用于任何类型的3D角色。&lt;&#x2F;p&gt;
 &lt;p&gt;⚡ &lt;strong&gt;使用腿部动画师解决您所有的腿部动画问题！&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
 &lt;p&gt;&lt;strong&gt;腿部动画师&lt;&#x2F;strong&gt;是一个为具有腿部的角色提供众多功能的组件……几乎适用于所有类型的生物。&lt;&#x2F;p&gt;
-&lt;p&gt;⭐ &lt;strong&gt;功能列表：&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;ul&gt;&lt;li&gt;在不平坦地形上对齐腿部&lt;&#x2F;li&gt;&lt;li&gt;处理腿部附着点（粘合）&lt;&#x2F;li&gt;&lt;li&gt;执行复杂的附着过渡动画（静止粘合）&lt;&#x2F;li&gt;&lt;li&gt;自动原地转向旋转腿部动画（静止粘合）&lt;&#x2F;li&gt;&lt;li&gt;修复无根运动动画中的滑动脚（移动粘合）&lt;&#x2F;li&gt;&lt;li&gt;为动画提供臀部稳定性，赋予动画真实感&lt;&#x2F;li&gt;&lt;li&gt;提供API以便自定义扩展腿部动画师&lt;&#x2F;li&gt;&lt;li&gt;自动侧移和360度移动动画模块（使用单个剪辑）&lt;&#x2F;li&gt;&lt;li&gt;推力冲击API（用于着陆弯曲冲击等）&lt;&#x2F;li&gt;&lt;li&gt;额外的辅助功能以增强自动动画&lt;&#x2F;li&gt;&lt;li&gt;步伐事件处理，用于步伐声音和粒子&lt;&#x2F;li&gt;&lt;li&gt;快速设置和设置加速工具&lt;&#x2F;li&gt;&lt;li&gt;适用于任何类型的骨架 - 人形&#x2F;动物&#x2F;生物&lt;&#x2F;li&gt;&lt;li&gt;高度优化 + 紧凑的性能分析器&lt;&#x2F;li&gt;&lt;li&gt;查看&lt;a href=&quot;https:&#x2F;&#x2F;filipmoeglich.pl&#x2F;download&#x2F;Legs%20Animator%20-%20User%20Manual.pdf&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;手册&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt;以获取更多信息&lt;&#x2F;li&gt;&lt;&#x2F;ul&gt;
-&lt;p&gt;✍ 此组件&lt;strong&gt;不会将站立动画生成跑步动画！&lt;&#x2F;strong&gt;它可以改善跑步动画（腿部动画师与播放的动画同步工作），但它仅适用于已经存在的跑步动画剪辑。另一方面，腿部动画师可以程序化地动画简单的步伐&#x2F;行走动画。&lt;&#x2F;p&gt;&lt;p&gt;（实际上可以使用腿部动画师为跑步的昆虫进行动画）&lt;&#x2F;p&gt;&lt;br&gt;&lt;p &gt;&lt;a href=&quot;https:&#x2F;&#x2F;emojipedia.org&#x2F;gear&#x2F;&quot; target=&quot;_blank&quot;&gt;⚙️&lt;&#x2F;a&gt; 组件经过高度优化：1条腿的性能与Unity的角色移动控制器的移动性能相似。但如果你想使用多个像蜘蛛一样的生物：&lt;&#x2F;p&gt;&lt;p &gt;[8条腿进行计算] *次数* [蜘蛛数量] = 这可能会影响你项目的性能。&lt;&#x2F;p&gt;&lt;p &gt;(插件具有DOTS实现的潜力，因此未来可能会发布高性能提升更新)&lt;&#x2F;p&gt;
+&lt;p&gt;⭐ &lt;strong&gt;功能列表：&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;ul&gt;&lt;li&gt;在不平坦地形上对齐腿部&lt;&#x2F;li&gt;&lt;li&gt;处理腿部附着点（粘合）&lt;&#x2F;li&gt;&lt;li&gt;执行复杂的附着过渡动画（静止粘合）&lt;&#x2F;li&gt;&lt;li&gt;自动原地转向旋转腿部动画（静止粘合）&lt;&#x2F;li&gt;&lt;li&gt;修复无根运动动画中的滑动脚（移动粘合）&lt;&#x2F;li&gt;&lt;li&gt;为动画提供臀部稳定性，赋予动画更真实的感觉&lt;&#x2F;li&gt;&lt;li&gt;提供API以便自定义扩展腿部动画师&lt;&#x2F;li&gt;&lt;li&gt;自动侧移和360度移动动画模块（使用单个剪辑）&lt;&#x2F;li&gt;&lt;li&gt;推力冲击API（用于着陆弯曲冲击等）&lt;&#x2F;li&gt;&lt;li&gt;额外的辅助功能以增强自动动画&lt;&#x2F;li&gt;&lt;li&gt;步伐事件处理，用于步伐声音和粒子效果&lt;&#x2F;li&gt;&lt;li&gt;快速设置和设置加速工具&lt;&#x2F;li&gt;&lt;li&gt;适用于任何类型的骨架 - 人形&#x2F;动物&#x2F;生物&lt;&#x2F;li&gt;&lt;li&gt;高度优化 + 紧凑的性能分析器&lt;&#x2F;li&gt;&lt;li&gt;查看 &lt;a href=&quot;https:&#x2F;&#x2F;filipmoeglich.pl&#x2F;download&#x2F;Legs%20Animator%20-%20User%20Manual.pdf&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;手册&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt;以获取更多信息&lt;&#x2F;li&gt;&lt;&#x2F;ul&gt;
+&lt;p&gt;✍ 此组件 &lt;strong&gt;不会将站立动画生成跑步动画！&lt;&#x2F;strong&gt; 它可以改善跑步动画（腿部动画师与播放的动画同步工作），但它仅适用于已经存在的跑步动画剪辑。另一方面，腿部动画师可以程序化地动画简单的步伐&#x2F;行走动画。&lt;&#x2F;p&gt;&lt;p&gt;（实际上可以使用腿部动画师对跑步的昆虫进行动画处理）&lt;&#x2F;p&gt;&lt;br&gt;&lt;p &gt;&lt;a href=&quot;https:&#x2F;&#x2F;emojipedia.org&#x2F;gear&#x2F;&quot; target=&quot;_blank&quot;&gt;⚙️&lt;&#x2F;a&gt; 组件经过高度优化：1条腿的性能相当于Unity的一个角色移动控制器的移动性能。但如果你想使用多个类似蜘蛛的生物：&lt;&#x2F;p&gt;&lt;p &gt;[8条腿进行计算] *乘以* [蜘蛛数量] = 这可能会消耗你项目的一些性能。&lt;&#x2F;p&gt;&lt;p &gt;(插件具有DOTS实现的潜力，因此未来可能会发布高性能提升更新)&lt;&#x2F;p&gt;
 &lt;p &gt;☄️ 使用腿部动画器内置的IK解决方案或使用其他任何IK求解器。&lt;&#x2F;p&gt;&lt;p &gt;腿部动画器计算的位置&#x2F;旋转可以被其他IK求解器或自定义脚本使用。插件提供了Unity的Mecanim脚部IK和Final IK的实现（链接在插件的自述文件中）。&lt;&#x2F;p&gt;
 &lt;p &gt;&lt;strong&gt;演示包以查看你在演示场景中找到的内容以及性能检查：&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;p &gt;&lt;a href=&quot;https:&#x2F;&#x2F;drive.google.com&#x2F;file&#x2F;d&#x2F;1GDz_0ie-jFnKmXZOxu508rms8I2UJPgk&#x2F;view?usp=sharing&quot; target=&quot;_blank&quot;&gt;Windows x64&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;&lt;p &gt;&lt;a href=&quot;https:&#x2F;&#x2F;drive.google.com&#x2F;file&#x2F;d&#x2F;1lHjFJFy-xP5m3ABVEH4KPt1-Awz4qx89&#x2F;view?usp=sharing&quot; target=&quot;_blank&quot;&gt;Android .apk&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
-&lt;p &gt;&lt;strong&gt;该包适用于所有SRP！这不是与着色器相关的包。&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;p &gt;(你只需将标准演示材料转换为演示示例)&lt;&#x2F;p&gt;&lt;p &gt;内置 ✅ LWRP ✅ URP ✅ HDRP ✅ 自定义RP ✅&lt;&#x2F;p&gt;
+&lt;p &gt;&lt;strong&gt;该包适用于所有SRP！这不是与着色器相关的包。&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;p &gt;(你只需要将标准演示材料转换为演示示例)&lt;&#x2F;p&gt;&lt;p &gt;内置 ✅ LWRP ✅ URP ✅ HDRP ✅ 自定义RP ✅&lt;&#x2F;p&gt;
 &lt;p &gt;演示场景包括在各种骨架（人形、四足、蜘蛛）上设置的腿部动画器。演示场景专注于展示插件的不同功能并提供角色移动的示例。&lt;&#x2F;p&gt;
-&lt;p &gt;&lt;a href=&quot;https:&#x2F;&#x2F;forum.unity.com&#x2F;threads&#x2F;released-legs-animator-multi-purpose-ik-system-for-any-kind-of-3d-character.1464737&#x2F;&quot; target=&quot;_blank&quot;&gt;社区论坛链接&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;&lt;p &gt;&lt;a href=&quot;https:&#x2F;&#x2F;filipmoeglich.pl&#x2F;download&#x2F;Legs%20Animator%20-%20User%20Manual.pdf&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;在此预览用户手册&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;&lt;p &gt;&lt;a href=&quot;http:&#x2F;&#x2F;discord.gg&#x2F;Y3WrzQp&quot; target=&quot;_blank&quot;&gt;我们的Discord支持&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;</content>
+&lt;p &gt;&lt;a href=&quot;https:&#x2F;&#x2F;forum.unity.com&#x2F;threads&#x2F;released-legs-animator-multi-purpose-ik-system-for-any-kind-of-3d-character.1464737&#x2F;&quot; target=&quot;_blank&quot;&gt;社区论坛链接&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;&lt;p &gt;&lt;a href=&quot;https:&#x2F;&#x2F;filipmoeglich.pl&#x2F;download&#x2F;Legs%20Animator%20-%20User%20Manual.pdf&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;在这里预览用户手册&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;&lt;p &gt;&lt;a href=&quot;http:&#x2F;&#x2F;discord.gg&#x2F;Y3WrzQp&quot; target=&quot;_blank&quot;&gt;我们的Discord支持&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;</content>
         
     </entry>
     <entry xml:lang="zh">
         <title>Combat animations - Kickboxing and Muay Thai V2</title>
         <published>2024-12-01T18:53:31+00:00</published>
-        <updated>2024-12-01T18:53:31+00:00</updated>
+        <updated>2024-12-17T13:31:33+00:00</updated>
         
         <author>
           <name>
@@ -165,14 +165,14 @@
         <id>https://yzzfo.github.io/unity/store/combat-animations-kickboxing-and-muay-thai-v2/</id>
         
         <content type="html" xml:base="https://yzzfo.github.io/unity/store/combat-animations-kickboxing-and-muay-thai-v2/">&lt;p&gt;Collection of animations for Kickboxing and Muay Thai part 2&lt;&#x2F;p&gt;
-&lt;p&gt;A set of 31 third-person Kickboxing and Muay Thai animations&lt;&#x2F;p&gt;&lt;p&gt;姿势匹配的起始和结束帧&lt;&#x2F;p&gt;&lt;p&gt;人形3D动画，适用于重新定向到其他人形3D角色的动画动作。&lt;&#x2F;p&gt;&lt;p&gt;这些泰拳动画的第一部分在&lt;a href=&quot;https:&#x2F;&#x2F;assetstore.unity.com&#x2F;packages&#x2F;slug&#x2F;202886&quot; target=&quot;_blank&quot;&gt;这里&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;A set of 31 third-person Kickboxing and Muay Thai animations&lt;&#x2F;p&gt;&lt;p&gt;姿势匹配的起始和结束帧&lt;&#x2F;p&gt;&lt;p&gt;类人3D动画，适用于重定向到其他类人3D角色的动画动作。&lt;&#x2F;p&gt;&lt;p&gt;这些泰拳动画的第一部分在&lt;a href=&quot;https:&#x2F;&#x2F;assetstore.unity.com&#x2F;packages&#x2F;slug&#x2F;202886&quot; target=&quot;_blank&quot;&gt;这里&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;  
 &lt;p&gt;我们邀请您访问我的页面。还有其他作品希望您能看到&lt;a href=&quot;https:&#x2F;&#x2F;assetstore.unity.com&#x2F;publishers&#x2F;56005?_ga=2.198619887.1778482432.1636715525-1776350741.1628504465&amp;_gac=1.82762212.1633960559.Cj0KCQjwwY-LBhD6ARIsACvT72OwlmosnD9LngefWGHTPOSiUU-YRL73PscMfovVseRlCecPWW9x11gaAlpZEALw_wcB&quot; target=&quot;_blank&quot;&gt;这里&lt;&#x2F;a&gt;。&lt;&#x2F;p&gt;</content>
         
     </entry>
     <entry xml:lang="zh">
         <title>Martial Arts Fight Game</title>
         <published>2024-12-01T18:53:05+00:00</published>
-        <updated>2024-12-01T18:53:05+00:00</updated>
+        <updated>2024-12-17T13:31:19+00:00</updated>
         
         <author>
           <name>
@@ -189,14 +189,14 @@
 &lt;p &gt;&lt;strong&gt;更新说明&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;p &gt;2.31 - 一些动画名称已更改以便于使用 &#x2F; 移除错误和警告 &#x2F; 添加 idle08 (2024&#x2F;10&#x2F;08)&lt;&#x2F;p&gt;
 &lt;p &gt;&lt;strong&gt;推荐&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;p &gt;RPG角色 &#x2F; 主角 &#x2F; 格斗游戏&lt;&#x2F;p&gt;&lt;p &gt;-&lt;&#x2F;p&gt;&lt;p &gt;动态拳击包和泰拳攻击！！&lt;&#x2F;p&gt;&lt;p &gt;这不是重型拳击手类型。它具有轻量级风格的移动，越来越快。&lt;&#x2F;p&gt;
 &lt;p &gt;&lt;strong&gt;特点&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;ul&gt;&lt;li &gt;适用于侧视图和横向卷轴游戏的各种动画&lt;&#x2F;li&gt;&lt;li &gt;动态关键帧动画&lt;&#x2F;li&gt;&lt;li &gt;包含类人版本&lt;&#x2F;li&gt;&lt;li &gt;包含根运动和原地运动&lt;&#x2F;li&gt;&lt;li &gt;包含T姿势&lt;&#x2F;li&gt;&lt;li &gt;不包含特效&lt;&#x2F;li&gt;&lt;&#x2F;ul&gt;
-&lt;p &gt;&lt;strong&gt;动画列表&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;ul&gt;&lt;li &gt;攻击 39&lt;&#x2F;li&gt;&lt;li &gt;躲避 4&lt;&#x2F;li&gt;&lt;li &gt;增益 4&lt;&#x2F;li&gt;&lt;li &gt;连击 8&lt;&#x2F;li&gt;&lt;li &gt;死亡 9&lt;&#x2F;li&gt;&lt;li &gt;防御 1&lt;&#x2F;li&gt;&lt;li &gt;倒下 27&lt;&#x2F;li&gt;&lt;li &gt;倒下起身攻击 3&lt;&#x2F;li&gt;&lt;li &gt;击打 20&lt;&#x2F;li&gt;&lt;li &gt;待机 13&lt;&#x2F;li&gt;&lt;li &gt;跳跃 6&lt;&#x2F;li&gt;&lt;li &gt;移动 17&lt;&#x2F;li&gt;&lt;li &gt;捡起 3&lt;&#x2F;li&gt;&lt;li &gt;复活 3&lt;&#x2F;li&gt;&lt;li &gt;设置动作 2&lt;&#x2F;li&gt;&lt;li &gt;横向卷轴动画 14&lt;&#x2F;li&gt;&lt;li &gt;滑倒 2&lt;&#x2F;li&gt;&lt;li &gt;步伐 4&lt;&#x2F;li&gt;&lt;li &gt;转身 2&lt;&#x2F;li&gt;&lt;&#x2F;ul&gt;
+&lt;p &gt;&lt;strong&gt;动画列表&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;ul&gt;&lt;li &gt;攻击 39&lt;&#x2F;li&gt;&lt;li &gt;躲避 4&lt;&#x2F;li&gt;&lt;li &gt;增益 4&lt;&#x2F;li&gt;&lt;li &gt;连击 8&lt;&#x2F;li&gt;&lt;li &gt;死亡 9&lt;&#x2F;li&gt;&lt;li &gt;防御 1&lt;&#x2F;li&gt;&lt;li &gt;倒地 27&lt;&#x2F;li&gt;&lt;li &gt;倒地起身攻击 3&lt;&#x2F;li&gt;&lt;li &gt;击中 20&lt;&#x2F;li&gt;&lt;li &gt;待机 13&lt;&#x2F;li&gt;&lt;li &gt;跳跃 6&lt;&#x2F;li&gt;&lt;li &gt;移动 17&lt;&#x2F;li&gt;&lt;li &gt;捡起 3&lt;&#x2F;li&gt;&lt;li &gt;复活 3&lt;&#x2F;li&gt;&lt;li &gt;设置动作 2&lt;&#x2F;li&gt;&lt;li &gt;横向卷轴动画 14&lt;&#x2F;li&gt;&lt;li &gt;滑倒 2&lt;&#x2F;li&gt;&lt;li &gt;步伐 4&lt;&#x2F;li&gt;&lt;li &gt;转身 2&lt;&#x2F;li&gt;&lt;&#x2F;ul&gt;
 &lt;p &gt;&lt;strong&gt;支持&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;p &gt;常见问题 : &lt;a href=&quot;https:&#x2F;&#x2F;www.wemakethegame.com&#x2F;&quot; target=&quot;_blank&quot;&gt;https:&#x2F;&#x2F;www.wemakethegame.com&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;&lt;p &gt;电子邮件 : &lt;a href=&quot;mailto:contact@wemakethegame.com&quot; target=&quot;_blank&quot;&gt;contact@wemakethegame.com&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;&lt;p &gt;联系我的最佳方式是电子邮件。&lt;&#x2F;p&gt;&lt;p &gt;我始终感谢您的精彩评论和反馈。&lt;&#x2F;p&gt;</content>
         
     </entry>
     <entry xml:lang="zh">
         <title>Stylish Archer Assets Pack</title>
         <published>2024-11-30T23:40:28+00:00</published>
-        <updated>2024-11-30T23:40:28+00:00</updated>
+        <updated>2024-12-17T13:31:08+00:00</updated>
         
         <author>
           <name>
@@ -209,10 +209,10 @@
         <link rel="alternate" type="text/html" href="https://yzzfo.github.io/unity/store/stylish-archer-assets-pack/"/>
         <id>https://yzzfo.github.io/unity/store/stylish-archer-assets-pack/</id>
         
-        <content type="html" xml:base="https://yzzfo.github.io/unity/store/stylish-archer-assets-pack/">&lt;p&gt;Stylish Archer Action Pack&lt;&#x2F;p&gt;
-&lt;p&gt;为了时尚的动作，购买此包。&lt;&#x2F;p&gt;
+        <content type="html" xml:base="https://yzzfo.github.io/unity/store/stylish-archer-assets-pack/">&lt;p&gt;时尚弓箭手动作包&lt;&#x2F;p&gt;
+&lt;p&gt;为了获得时尚的动作，购买此包。&lt;&#x2F;p&gt;
 &lt;p&gt;包含与演示视频相同的角色和武器建模文件。&lt;&#x2F;p&gt;
-&lt;p&gt;运动状态已对齐到动画控制器。
+&lt;p&gt;运动状态已与动画控制器对齐。
 产品信息
 角色联盟设置为类人配置。包括5个手指骨骼、肩部、手臂和腿部扭转骨骼。&lt;&#x2F;p&gt;
 &lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;docs.google.com&#x2F;spreadsheets&#x2F;d&#x2F;1UmGqUvmuQ2vJIrc6Gy-ZP0zqWtclAaP9NnnKcCrIh4w&#x2F;edit?usp=sharing&quot;&gt;[查看动画列表]&lt;&#x2F;a&gt;
@@ -230,7 +230,7 @@
 闪避：8
 慢跑：20
 技能：46
-行走瞄准：16 + 18（ver.1.2）
+行走瞄准：16 + 18（版本1.2）
 行走：16
 装备与卸下：2
 跳跃与双跳：28
@@ -247,7 +247,7 @@
     <entry xml:lang="zh">
         <title>Combat animations - Kickboxing and Muay Thai V1</title>
         <published>2024-11-30T19:54:50+00:00</published>
-        <updated>2024-11-30T19:54:50+00:00</updated>
+        <updated>2024-12-17T13:30:59+00:00</updated>
         
         <author>
           <name>
@@ -261,14 +261,14 @@
         <id>https://yzzfo.github.io/unity/store/combat-animations-kickboxing-and-muay-thai-v1/</id>
         
         <content type="html" xml:base="https://yzzfo.github.io/unity/store/combat-animations-kickboxing-and-muay-thai-v1/">&lt;p&gt;Collection of animations for Kickboxing and Muay Thai&lt;&#x2F;p&gt;
-&lt;p&gt;连续的镜像动作 - &lt;a href=&quot;https:&#x2F;&#x2F;youtu.be&#x2F;ZlOfiNEiThM&quot; target=&quot;_blank&quot;&gt;https:&#x2F;&#x2F;youtu.be&#x2F;ZlOfiNEiThM&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;&lt;p&gt;一组19个第三人称的踢拳和泰拳动画&lt;&#x2F;p&gt;&lt;p&gt;姿势匹配的起始和结束帧&lt;&#x2F;p&gt;&lt;p&gt;类人3D动画，动画动作可重新定向到其他类人3D角色。&lt;&#x2F;p&gt;&lt;p&gt;这些泰拳动画的第二部分在&lt;a href=&quot;https:&#x2F;&#x2F;u3d.as&#x2F;2FxD&quot; target=&quot;_blank&quot;&gt;这里&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;连续的镜像动作 - &lt;a href=&quot;https:&#x2F;&#x2F;youtu.be&#x2F;ZlOfiNEiThM&quot; target=&quot;_blank&quot;&gt;https:&#x2F;&#x2F;youtu.be&#x2F;ZlOfiNEiThM&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;&lt;p&gt;一套19个第三人称的踢拳和泰拳动画&lt;&#x2F;p&gt;&lt;p&gt;姿势匹配的起始和结束帧&lt;&#x2F;p&gt;&lt;p&gt;类人3D动画，适用于重定向到其他类人3D角色的动画动作。&lt;&#x2F;p&gt;&lt;p&gt;这些泰拳动画的第二部分在&lt;a href=&quot;https:&#x2F;&#x2F;u3d.as&#x2F;2FxD&quot; target=&quot;_blank&quot;&gt;这里&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
 &lt;p&gt;我们邀请您访问我的页面。还有其他作品希望您能看到&lt;a href=&quot;https:&#x2F;&#x2F;assetstore.unity.com&#x2F;publishers&#x2F;56005?_ga=2.198619887.1778482432.1636715525-1776350741.1628504465&amp;_gac=1.82762212.1633960559.Cj0KCQjwwY-LBhD6ARIsACvT72OwlmosnD9LngefWGHTPOSiUU-YRL73PscMfovVseRlCecPWW9x11gaAlpZEALw_wcB&quot; target=&quot;_blank&quot;&gt;这里&lt;&#x2F;a&gt;。&lt;&#x2F;p&gt;</content>
         
     </entry>
     <entry xml:lang="zh">
         <title>Casual Motions Pack 2</title>
         <published>2024-11-30T00:39:59+00:00</published>
-        <updated>2024-11-30T13:27:26+00:00</updated>
+        <updated>2024-12-17T13:30:52+00:00</updated>
         
         <author>
           <name>
@@ -282,7 +282,7 @@
         <id>https://yzzfo.github.io/unity/store/casual-motions-pack-2/</id>
         
         <content type="html" xml:base="https://yzzfo.github.io/unity/store/casual-motions-pack-2/">&lt;p&gt;该资产由30个高质量的动作捕捉动画组成，适用于游戏开发。&lt;&#x2F;p&gt;
-&lt;p&gt;动画剪辑均为循环播放。&lt;&#x2F;p&gt;
+&lt;p&gt;动画片段均为循环播放。&lt;&#x2F;p&gt;
 &lt;p&gt;该包也基于类人角色。&lt;&#x2F;p&gt;
 &lt;p&gt;这些动作可以用于各种社交内容。&lt;&#x2F;p&gt;</content>
         
@@ -290,7 +290,7 @@
     <entry xml:lang="zh">
         <title>Medieval Animations Mega Pack</title>
         <published>2024-11-29T21:21:52+00:00</published>
-        <updated>2024-11-30T13:26:31+00:00</updated>
+        <updated>2024-12-17T13:30:07+00:00</updated>
         
         <author>
           <name>
@@ -303,10 +303,10 @@
         <link rel="alternate" type="text/html" href="https://yzzfo.github.io/unity/store/medieval-animations-mega-pack/"/>
         <id>https://yzzfo.github.io/unity/store/medieval-animations-mega-pack/</id>
         
-        <content type="html" xml:base="https://yzzfo.github.io/unity/store/medieval-animations-mega-pack/">&lt;p&gt;Notes&lt;&#x2F;p&gt;
+        <content type="html" xml:base="https://yzzfo.github.io/unity/store/medieval-animations-mega-pack/">&lt;p&gt;笔记&lt;&#x2F;p&gt;
 &lt;ol&gt;
 &lt;li&gt;
-&lt;p&gt;此包包含来自8个动画集合的714个高质量动画，涵盖了创建功能性PC和NPC角色所需的基本内容，适用于任何中世纪或奇幻游戏类型。&lt;&#x2F;p&gt;
+&lt;p&gt;此包包含来自8个动画集合的714个高质量动画，涵盖了您基本上需要创建功能性PC和NPC角色所需的内容，适用于任何中世纪或奇幻类型的游戏。&lt;&#x2F;p&gt;
 &lt;&#x2F;li&gt;
 &lt;li&gt;
 &lt;p&gt;您可以直接使用这些动画，或在不同动画之间进行混合，以创建更多变体。&lt;&#x2F;p&gt;
@@ -315,35 +315,35 @@
 &lt;p&gt;您可以将角色用于原型制作，或为他们制作额外的盔甲和武器，并在您的游戏制作中使用。&lt;&#x2F;p&gt;
 &lt;&#x2F;li&gt;
 &lt;li&gt;
-&lt;p&gt;动画剪辑可以与任何类型的骨架一起使用，但要将其重定向到自定义角色，必须使用“类人”头像。马的动画剪辑可以与任何类型的骨架一起使用，但不包括“类人”类型。因为马不是类人动物，所以无法重新定向。&lt;&#x2F;p&gt;
+&lt;p&gt;动画剪辑可以与任何类型的骨架一起使用，但要将其重定向到自定义角色，必须使用“类人”头像。马的动画剪辑可以与任何类型的骨架一起使用，但不包括“类人”骨架。因为马不是类人类生物，无法进行重定向。&lt;&#x2F;p&gt;
 &lt;&#x2F;li&gt;
 &lt;li&gt;
-&lt;p&gt;男性和女性姿势之间存在差异，这使得女性气质和男性气质之间有所不同。&lt;&#x2F;p&gt;
+&lt;p&gt;男性和女性姿势之间存在差异，这使得女性特征和男性特征之间有所不同。&lt;&#x2F;p&gt;
 &lt;&#x2F;li&gt;
 &lt;li&gt;
 &lt;p&gt;只有带有RM_或W_RM_前缀的动画包含根运动数据。所有其他动画必须在关闭此选项的情况下使用。&lt;&#x2F;p&gt;
 &lt;&#x2F;li&gt;
 &lt;li&gt;
-&lt;p&gt;主英雄_骑士对象需要父级到马匹，HORSEMAN_BONE可以在马匹层级下的Spine1骨骼后找到。&lt;&#x2F;p&gt;
+&lt;p&gt;主英雄_骑士对象需要父级绑定到马匹，HORSEMAN_BONE可以在马匹层级下的Spine1骨骼后找到。&lt;&#x2F;p&gt;
 &lt;&#x2F;li&gt;
 &lt;li&gt;
-&lt;p&gt;您可以在YouTube预览页面的描述说明中找到动画列表。&lt;&#x2F;p&gt;
+&lt;p&gt;您可以在YouTube预览页面的描述笔记中找到动画列表。&lt;&#x2F;p&gt;
 &lt;&#x2F;li&gt;
 &lt;&#x2F;ol&gt;
-&lt;p&gt;Pack including&lt;&#x2F;p&gt;
+&lt;p&gt;包内容包括&lt;&#x2F;p&gt;
 &lt;ol&gt;
 &lt;li&gt;2个逼真的理想角色（亚当和夏娃），配有各种武器和低多边形马模型。&lt;&#x2F;li&gt;
 &lt;&#x2F;ol&gt;
-&lt;p&gt;夏娃：8,532个多边形，16,932个三角形，8,689个顶点。骨架：75根骨骼。（2根额外的骨骼用于胸部）
+&lt;p&gt;夏娃：8,532个多边形，16,932个三角形，8,689个顶点。骨架：75根骨骼。（额外2根骨骼用于胸部）
 亚当：8,591个多边形，17,072个三角形，8,767个顶点。骨架：73根骨骼
 每个角色的武器：4,391个多边形，8,400个三角形，4,744个顶点
 马：1,069个多边形，2,096个三角形，1,157个顶点。&lt;&#x2F;p&gt;
 &lt;ol start=&quot;2&quot;&gt;
 &lt;li&gt;
-&lt;p&gt;693个人体动画剪辑。530个“原地”动画剪辑，以及163个跑步、行走、跳跃、爬行等动画剪辑，包含“根运动”数据，由Mecanim使用。&lt;&#x2F;p&gt;
+&lt;p&gt;693个人体动画剪辑。530个“原地”动画剪辑，以及163个跑步、行走、跳跃、爬行等动画剪辑的重复，包含“根运动”数据，由Mecanim使用。&lt;&#x2F;p&gt;
 &lt;&#x2F;li&gt;
 &lt;li&gt;
-&lt;p&gt;21个马的动画剪辑。15个“原地”动画剪辑，以及6个行走、跳跃、疾驰等动画剪辑，包含“根运动”数据，由Mecanim使用。&lt;&#x2F;p&gt;
+&lt;p&gt;21个马的动画剪辑。15个“原地”动画剪辑，以及6个行走、跳跃、疾驰等动画剪辑的重复，包含“根运动”数据，由Mecanim使用。&lt;&#x2F;p&gt;
 &lt;&#x2F;li&gt;
 &lt;li&gt;
 &lt;p&gt;2048x248、1024x1024、512x512的漫反射、法线和高光TIF纹理。&lt;br&gt;5. 包含时间列表。&lt;&#x2F;p&gt;
@@ -355,7 +355,7 @@
     <entry xml:lang="zh">
         <title>Synty ANIMATION - Base Locomotion - Character Animset</title>
         <published>2024-11-29T21:21:42+00:00</published>
-        <updated>2024-11-30T13:26:12+00:00</updated>
+        <updated>2024-12-17T13:29:51+00:00</updated>
         
         <author>
           <name>
@@ -369,19 +369,19 @@
         <id>https://yzzfo.github.io/unity/store/synty-animation-base-locomotion-character-animset/</id>
         
         <content type="html" xml:base="https://yzzfo.github.io/unity/store/synty-animation-base-locomotion-character-animset/">&lt;p&gt;Synty 动画来了！与 Synty POLYGON 和 Simple 角色兼容。此包包含 247 个手工制作的动画和一个使用 Synty 商标质量制作的演示角色控制器。&lt;&#x2F;p&gt;
-&lt;p &gt;&lt;strong&gt;Synty® Studios 提供：动画 - 基础运动&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;p &gt;通过 Synty 的动画 - 基础运动，将您的游戏提升到新的高度。&lt;&#x2F;p&gt;
-&lt;p &gt;◼ &lt;strong&gt;主要特点&lt;&#x2F;strong&gt; ◼&lt;&#x2F;p&gt;&lt;ul&gt;&lt;li &gt;247 个动画剪辑作为单独文件，允许您仅将所需的动画导入到项目中&lt;&#x2F;li&gt;&lt;li &gt;角色控制器示例脚本&lt;&#x2F;li&gt;&lt;li &gt;Mecanim 动画控制器 - 男性和女性&lt;&#x2F;li&gt;&lt;li &gt;测试动画的演示场景&lt;&#x2F;li&gt;&lt;li &gt;包含所有动画的画廊场景&lt;&#x2F;li&gt;&lt;li &gt;碰撞假人角色 - 完全绑定和动画&lt;&#x2F;li&gt;&lt;li &gt;所有动画的 FBX 文件均已包含，因此您可以在 Unity 之外使用它们&lt;&#x2F;li&gt;&lt;&#x2F;ul&gt;
-&lt;p &gt;通过流畅的运动和无缝的过渡为您的角色赋予生命。告别从互联网上到处寻找动画和从头构建控制器的麻烦 - 我们的综合包为您提供了让角色迅速复活所需的一切。&lt;&#x2F;p&gt;
-&lt;p &gt;这个强大的包充满了每个常见角色动作需求的基本动画 - 从悠闲的散步到肾上腺素激增的冲刺，从优雅的跳跃到心跳加速的滑行。每个状态都经过精心制作，配有多种动画和流畅的过渡，您的角色将以无与伦比的优雅移动。&lt;&#x2F;p&gt;
-&lt;p &gt;但等等，还有更多！我们更进一步，为男性和女性角色提供动画，确保您游戏中的角色散发出真实感和多样性。能够在两者之间无缝融合，角色表达和个性的可能性是无限的。&lt;&#x2F;p&gt;&lt;br&gt;&lt;p&gt;深入探索本包中包含的Mecanim动画控制器，解锁关于设置动画状态、过渡、混合树和参数的丰富知识宝库。无论您是经验丰富的专业人士还是初出茅庐的开发者，这些资源都为您打造独特的动画控制器提供了完美的起点。&lt;&#x2F;p&gt;
-&lt;p&gt;不仅仅是制作游戏 – 让它们通过Synty的动画 - 基础运动而栩栩如生。您的玩家不仅仅是在玩游戏；他们将被带入一个每一步、每次跳跃和滑行都如同魔法般的世界。&lt;&#x2F;p&gt;
+&lt;p &gt;&lt;strong&gt;Synty® Studios 提供：动画 - 基础移动&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;p &gt;通过 Synty 的动画 - 基础移动，将您的游戏提升到新的高度。&lt;&#x2F;p&gt;
+&lt;p &gt;◼ &lt;strong&gt;主要特点&lt;&#x2F;strong&gt; ◼&lt;&#x2F;p&gt;&lt;ul&gt;&lt;li &gt;247 个动画剪辑作为单独文件，允许您仅将所需的动画导入到您的项目中&lt;&#x2F;li&gt;&lt;li &gt;角色控制器示例脚本&lt;&#x2F;li&gt;&lt;li &gt;Mecanim 动画控制器 - 男性和女性&lt;&#x2F;li&gt;&lt;li &gt;测试动画的演示场景&lt;&#x2F;li&gt;&lt;li &gt;包含所有动画的画廊场景&lt;&#x2F;li&gt;&lt;li &gt;碰撞假人角色 - 完全绑定和动画&lt;&#x2F;li&gt;&lt;li &gt;所有动画的 FBX 文件均已包含，以便您可以在 Unity 之外使用它们&lt;&#x2F;li&gt;&lt;&#x2F;ul&gt;
+&lt;p &gt;通过流畅的运动和无缝的过渡为您的角色注入生命。告别从互联网上到处寻找动画和从头构建控制器的麻烦 - 我们的综合包为您提供了让角色迅速复活所需的一切。&lt;&#x2F;p&gt;
+&lt;p &gt;这个强大的包中充满了每种常见角色动作需求的基本动画 - 从悠闲的步行到肾上腺素飙升的冲刺，从优雅的跳跃到心跳加速的滑行。每个状态都经过精心制作，配有多种动画和流畅的过渡，您的角色将以无与伦比的优雅移动。&lt;&#x2F;p&gt;
+&lt;p &gt;但等等，还有更多！我们更进一步，提供了男性和女性角色的动画，确保您游戏中的角色散发出真实感和多样性。能够在两者之间无缝切换，角色表达和个性的可能性是无限的。&lt;&#x2F;p&gt;&lt;br&gt;&lt;p&gt;深入探索本包中包含的Mecanim动画控制器，解锁关于设置动画状态、过渡、混合树和参数的丰富知识宝库。无论您是经验丰富的专业人士还是初出茅庐的开发者，这些资源都为您打造独特的动画控制器提供了完美的起点。&lt;&#x2F;p&gt;
+&lt;p&gt;不仅仅是制作游戏——让它们通过Synty的动画-基础运动而栩栩如生。您的玩家不仅仅是在玩游戏；他们将被带入一个每一步、每次跳跃和每次滑行都如同魔法般的世界。&lt;&#x2F;p&gt;
 &lt;p&gt;&lt;strong&gt;包含碰撞假人模型和动画控制器演示场景！&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;</content>
         
     </entry>
     <entry xml:lang="zh">
         <title>Dynamic Sword Animset</title>
         <published>2024-11-29T21:21:33+00:00</published>
-        <updated>2024-11-30T13:26:00+00:00</updated>
+        <updated>2024-12-17T13:29:43+00:00</updated>
         
         <author>
           <name>
@@ -394,21 +394,21 @@
         <link rel="alternate" type="text/html" href="https://yzzfo.github.io/unity/store/dynamic-sword-animset/"/>
         <id>https://yzzfo.github.io/unity/store/dynamic-sword-animset/</id>
         
-        <content type="html" xml:base="https://yzzfo.github.io/unity/store/dynamic-sword-animset/">&lt;p&gt;你好，我们想介绍我们的动态剑动画包。&lt;&#x2F;p&gt;
+        <content type="html" xml:base="https://yzzfo.github.io/unity/store/dynamic-sword-animset/">&lt;p&gt;您好，我们很高兴向您介绍我们的动态剑动画包。&lt;&#x2F;p&gt;
 &lt;p&gt;这是一个基于Unity人形Mecanim动画系统结构创建的动画包。&lt;&#x2F;p&gt;
-&lt;p&gt;该动画包基于装备剑和盾的角色的基本动作，包含多种不同类型的战斗动作动画，包括攻击、受伤、翻滚和冲刺。这个动画包旨在使你的游戏更加动态和时尚。&lt;&#x2F;p&gt;
-&lt;p&gt;该动画包包含总共156种不同的动作动画，分为原地(Inplace)和根运动(RootMotion)。&lt;&#x2F;p&gt;
-&lt;p&gt;&lt;strong&gt;Blueisland动画包查看器&lt;&#x2F;strong&gt;
+&lt;p&gt;该动画包基于装备剑和盾的角色的基本动作，包含多种不同类型的战斗动作动画，包括攻击、受伤、翻滚和冲刺。这个动画包旨在使您的游戏更加动态和时尚。&lt;&#x2F;p&gt;
+&lt;p&gt;该动画包包含总共156种不同的动作动画，这些动画被分类为原地（Inplace）和根运动（RootMotion）。&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;strong&gt;Blueisland 动画集查看器&lt;&#x2F;strong&gt;
 &lt;a href=&quot;https:&#x2F;&#x2F;itunes.apple.com&#x2F;app&#x2F;blueisland-animset-viewer&#x2F;id1018645275?mt=8&quot;&gt;苹果应用商店链接&lt;&#x2F;a&gt;
 &lt;a href=&quot;https:&#x2F;&#x2F;play.google.com&#x2F;store&#x2F;apps&#x2F;details?id=com.blueisland.BiAViewer&quot;&gt;谷歌 Play 商店链接&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
-&lt;p&gt;将动态剑动画包整合到你正在开发的游戏中，使其更加动态和时尚。&lt;&#x2F;p&gt;
+&lt;p&gt;将动态剑动画包整合到您正在开发的游戏中，使其更加动态和时尚。&lt;&#x2F;p&gt;
 </content>
         
     </entry>
     <entry xml:lang="zh">
         <title>Basic Motions</title>
         <published>2024-11-29T21:20:35+00:00</published>
-        <updated>2024-11-30T13:24:44+00:00</updated>
+        <updated>2024-12-17T13:29:06+00:00</updated>
         
         <author>
           <name>
@@ -428,7 +428,7 @@
     <entry xml:lang="zh">
         <title>Animation Designer</title>
         <published>2024-11-29T21:17:42+00:00</published>
-        <updated>2024-11-30T13:19:46+00:00</updated>
+        <updated>2024-12-17T13:25:46+00:00</updated>
         
         <author>
           <name>
@@ -441,21 +441,21 @@
         <link rel="alternate" type="text/html" href="https://yzzfo.github.io/unity/store/animation-designer/"/>
         <id>https://yzzfo.github.io/unity/store/animation-designer/</id>
         
-        <content type="html" xml:base="https://yzzfo.github.io/unity/store/animation-designer/">&lt;p&gt;创新的Unity引擎动画调整工具。升级动画剪辑，添加程序化运动并进行烘焙。调整动画剪辑姿势并将其保存在新的AnimationClip文件中。&lt;&#x2F;p&gt;
-&lt;p&gt;✍ &lt;strong&gt;购买前请注意：&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;p&gt;&lt;strong&gt;！这是编辑器工具 - 不需要播放模式&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;p&gt;&lt;strong&gt;！此工具并不是用于从零开始创建动画，而是用于升级&#x2F;调整已经动画化的剪辑&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;p&gt;&lt;strong&gt;！此工具专为类人形生物设计&lt;&#x2F;strong&gt;，但您仍然可以大大改善动物&#x2F;生物的动画（更多信息请查看教程）&lt;&#x2F;p&gt;&lt;p&gt;&lt;strong&gt;！此工具适用于所有动画类型&lt;&#x2F;strong&gt;，如：&lt;strong&gt;类人形、通用和遗留&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;p&gt;&lt;strong&gt;！此工具专为3D骨骼动画设计&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;p&gt;&lt;strong&gt;！此工具生成新的动画剪辑，&lt;&#x2F;strong&gt;这意味着没有额外的CPU&#x2F;GPU负担，您可以像使用其他动画一样使用生成的剪辑进行VR&#x2F;移动设备。&lt;&#x2F;p&gt;&lt;p&gt;&lt;strong&gt;！&lt;&#x2F;strong&gt;此工具专用于身体动画（不适用于详细的多骨骼面部动画）&lt;&#x2F;p&gt;&lt;p&gt;&lt;strong&gt;！此工具需要一些动画知识&lt;&#x2F;strong&gt;以便在您的模型上获得最佳效果&lt;&#x2F;p&gt;&lt;p&gt;！工具&lt;strong&gt;适用于所有渲染管线&lt;&#x2F;strong&gt;，只是演示场景使用了两个标准材质进行转换。&lt;&#x2F;p&gt;
+        <content type="html" xml:base="https://yzzfo.github.io/unity/store/animation-designer/">&lt;p&gt;创新的Unity引擎动画调整工具。升级动画剪辑，添加程序化运动并进行烘焙。调整动画剪辑姿势并将其保存为新的AnimationClip文件。&lt;&#x2F;p&gt;
+&lt;p&gt;✍ &lt;strong&gt;购买前请注意：&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;p&gt;&lt;strong&gt;！这是编辑器工具 - 不需要播放模式&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;p&gt;&lt;strong&gt;！此工具并非专门用于从零开始创建动画，而是用于升级&#x2F;调整已经动画化的剪辑&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;p&gt;&lt;strong&gt;！此工具专为类人形生物设计&lt;&#x2F;strong&gt;，但您仍然可以大幅改善动物&#x2F;生物的动画（更多信息请查看教程）&lt;&#x2F;p&gt;&lt;p&gt;&lt;strong&gt;！此工具适用于所有动画类型&lt;&#x2F;strong&gt;，如：&lt;strong&gt;类人形、通用和遗留&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;p&gt;&lt;strong&gt;！此工具专为3D骨骼动画设计&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;p&gt;&lt;strong&gt;！此工具生成新的动画剪辑，&lt;&#x2F;strong&gt;这意味着没有额外的CPU&#x2F;GPU负担，您可以像使用其他动画一样使用生成的剪辑进行VR&#x2F;移动设备。&lt;&#x2F;p&gt;&lt;p&gt;&lt;strong&gt;！&lt;&#x2F;strong&gt;此工具专用于身体动画（不适用于详细的多骨骼面部动画）&lt;&#x2F;p&gt;&lt;p&gt;&lt;strong&gt;！此工具需要一定的动画知识&lt;&#x2F;strong&gt;以便在您的模型上获得最佳效果&lt;&#x2F;p&gt;&lt;p&gt;！工具&lt;strong&gt;适用于所有渲染管线&lt;&#x2F;strong&gt;，仅演示场景使用了两种标准材质进行转换。&lt;&#x2F;p&gt;
 &lt;p&gt;⚡ &lt;strong&gt;创新的Unity引擎动画调整工具&lt;&#x2F;strong&gt; ⚡&lt;&#x2F;p&gt;
-&lt;p&gt;&lt;strong&gt;升级动画剪辑，添加额外的程序化运动并进行烘焙！&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;p&gt;&lt;strong&gt;调整动画剪辑姿势&lt;&#x2F;strong&gt;并将其保存在新的AnimationClip文件中。&lt;&#x2F;p&gt;&lt;p&gt;&lt;strong&gt;为某些骨骼设置额外的运动&lt;&#x2F;strong&gt;并保存新的AnimationClip&lt;strong&gt;作为动画变体使用。&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
-&lt;p&gt;☄️ &lt;strong&gt;不要玩弄关键帧或时间轴！&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;p&gt;认识&lt;strong&gt;新的动画调整工作流程！&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;p&gt;您所需要做的就是使用几个滑块和曲线窗口。&lt;&#x2F;p&gt;&lt;br&gt;&lt;p &gt;&lt;strong&gt;您不需要成为动画艺术家&lt;&#x2F;strong&gt;就可以使用这个工具。&lt;&#x2F;p&gt;&lt;p &gt;如果您是动画艺术家，&lt;strong&gt;这个工具将为您提供新的可能性！&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
-&lt;p &gt;? 也许您购买了一些很酷的角色&lt;strong&gt;但包含的动画质量太低？轻松使用动画设计师提升它们的质量！&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
-&lt;p &gt;? 您拥有很多动画片段&lt;strong&gt;但需要一个手臂稍微旋转不同的动画？&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;p &gt;&lt;strong&gt;使用动画设计师立即实现！&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
-&lt;p &gt;? &lt;strong&gt;角色的腿&#x2F;脚动画&lt;&#x2F;strong&gt;似乎不正确？&lt;&#x2F;p&gt;&lt;p &gt;&lt;strong&gt;用动画设计师轻松修复！&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;strong&gt;升级动画剪辑，添加额外的程序化运动并进行烘焙！&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;p&gt;&lt;strong&gt;调整动画剪辑姿势&lt;&#x2F;strong&gt;并将其保存为新的AnimationClip文件。&lt;&#x2F;p&gt;&lt;p&gt;&lt;strong&gt;为某些骨骼设置额外的运动&lt;&#x2F;strong&gt;并保存新的AnimationClip&lt;strong&gt;作为动画变体使用。&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;☄️ &lt;strong&gt;不再玩弄关键帧或时间轴！&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;p&gt;体验&lt;strong&gt;新的动画调整工作流程！&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;p&gt;您只需使用几个滑块和曲线窗口即可完成所有操作。&lt;&#x2F;p&gt;&lt;br&gt;&lt;p &gt;&lt;strong&gt;您不需要成为动画艺术家&lt;&#x2F;strong&gt;就可以使用这个工具。&lt;&#x2F;p&gt;&lt;p &gt;如果您是动画艺术家，&lt;strong&gt;这个工具将为您提供新的可能性！&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
+&lt;p &gt;? 也许您购买了一些很酷的角色&lt;strong&gt;，但包含的动画质量太低？使用动画设计师轻松提升它们的质量！&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
+&lt;p &gt;? 您拥有很多动画片段&lt;strong&gt;，但需要一个手臂稍微旋转不同的动画？&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;p &gt;&lt;strong&gt;使用动画设计师立即实现！&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
+&lt;p &gt;? &lt;strong&gt;角色的腿&#x2F;脚动画&lt;&#x2F;strong&gt;似乎不正确？&lt;&#x2F;p&gt;&lt;p &gt;&lt;strong&gt;使用动画设计师轻松修复！&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
 &lt;p &gt;? 您拥有原地攻击动画，但无法与跑步&#x2F;行走动画正确混合？&lt;&#x2F;p&gt;&lt;p &gt;&lt;strong&gt;将它们混合在一起，并使用动画设计师的变形功能进行调整！&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
 &lt;p &gt;&lt;a href=&quot;https:&#x2F;&#x2F;emojipedia.org&#x2F;gear&#x2F;&quot; target=&quot;_blank&quot;&gt;⚙️&lt;&#x2F;a&gt; &lt;strong&gt;保持原始动画不变！&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;p &gt;将修改后的动画保存为单独的AnimationClip文件。&lt;&#x2F;p&gt;&lt;p &gt;为多个动画片段存储设计师动画设置，保存在单个预设文件中，以便您随时返回调整动画设计！&lt;&#x2F;p&gt;
 &lt;p &gt;&lt;strong&gt;无需额外的数据&#x2F;组件！&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;p &gt;插件不会在您使用动画设计师动画的角色模型上生成任何新的组件或数据。保持您的工作区整洁，并将此插件视为Unity编辑器的核心软件元素。&lt;&#x2F;p&gt;
 &lt;p &gt;该包提供先进的IK分析算法，可以帮助您为行走&#x2F;跑步动画增加一些重量感。&lt;&#x2F;p&gt;
-&lt;p &gt;您不仅可以将动画设计师用于角色，还可以用于任何类型的动画对象。&lt;&#x2F;p&gt;&lt;br&gt;&lt;p&gt;⭐ &lt;strong&gt;精心设计的窗口以最大化专注！&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;p&gt;动画设计师的窗口经过精心设计，以避免用户在屏幕上被过多的GUI元素所淹没。&lt;&#x2F;p&gt;&lt;p&gt;您可以切换到专注模式，隐藏更多窗口，完全专注于所需的滑块和数值。&lt;&#x2F;p&gt;
-&lt;p&gt;⌛ &lt;strong&gt;为动画师节省时间！&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;p&gt;&lt;strong&gt;准备基础动画&lt;&#x2F;strong&gt;，无需完全打磨，让程序运动算法来处理。为小肢体添加一些松弛感并进行烘焙。&lt;&#x2F;p&gt;&lt;p&gt;在编辑器中调整Unity人形动画重定向错误。&lt;&#x2F;p&gt;
-&lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;emojipedia.org&#x2F;gear&#x2F;&quot; target=&quot;_blank&quot;&gt;⚙️&lt;&#x2F;a&gt; &lt;strong&gt;自定义算法已准备好！&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;p&gt;&lt;strong&gt;动画设计师版本1.2.0&lt;&#x2F;strong&gt;引入了名为“自定义模块”的新功能。&lt;&#x2F;p&gt;&lt;p&gt;它允许在设计过程中应用自定义程序动画算法。&lt;&#x2F;p&gt;&lt;p&gt;版本1.2.0提供了用于人形拳头、手指、手臂、脊柱、头部和腿部姿势的模块，以及“侧移创建器”模块（也适用于通用骨架），帮助从单个行走&#x2F;奔跑动画剪辑中创建8方向运动。&lt;&#x2F;p&gt;
+&lt;p &gt;您不仅可以将动画设计师用于角色，还可以用于任何类型的动画对象。&lt;&#x2F;p&gt;&lt;br&gt;&lt;p&gt;⭐ &lt;strong&gt;精心设计的窗口以实现最大专注！&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;p&gt;动画设计师的窗口经过精心设计，以避免用户在屏幕上被过多的GUI元素所淹没。&lt;&#x2F;p&gt;&lt;p&gt;您可以切换到专注模式，隐藏更多窗口，完全专注于所需的滑块和数值。&lt;&#x2F;p&gt;
+&lt;p&gt;⌛ &lt;strong&gt;为动画师节省时间！&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;p&gt;&lt;strong&gt;准备基础动画&lt;&#x2F;strong&gt;，无需完全打磨，让程序化运动算法来处理。为小肢体添加一些抖动效果并进行烘焙。&lt;&#x2F;p&gt;&lt;p&gt;在编辑器中调整Unity人形动画重定向错误。&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;emojipedia.org&#x2F;gear&#x2F;&quot; target=&quot;_blank&quot;&gt;⚙️&lt;&#x2F;a&gt; &lt;strong&gt;自定义算法已准备好！&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;p&gt;&lt;strong&gt;动画设计师版本1.2.0&lt;&#x2F;strong&gt;引入了名为“自定义模块”的新功能。&lt;&#x2F;p&gt;&lt;p&gt;它允许在设计过程中应用自定义程序化动画算法。&lt;&#x2F;p&gt;&lt;p&gt;版本1.2.0提供了用于人形拳头、手指、手臂、脊柱、头部和腿部姿势的模块，以及“侧移创建器”模块（也适用于通用骨架），帮助从单个行走&#x2F;奔跑动画剪辑中创建8个方向的移动。&lt;&#x2F;p&gt;
 &lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;forum.unity.com&#x2F;threads&#x2F;animation-designer-editor-tool-for-adjusting-and-upgrading-animation-clips.1227384&#x2F;&quot; target=&quot;_blank&quot;&gt;社区论坛帖子&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
 &lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;filipmoeglich.pl&#x2F;download&#x2F;Animation%20Designer%20User%20Manual.pdf&quot; target=&quot;_blank&quot;&gt;用户手册&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
 &lt;p&gt;&lt;a href=&quot;http:&#x2F;&#x2F;discord.gg&#x2F;Y3WrzQp&quot; target=&quot;_blank&quot;&gt;我们的Discord支持&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
@@ -465,7 +465,7 @@
     <entry xml:lang="zh">
         <title>Animancer Pro v8</title>
         <published>2024-11-29T21:15:57+00:00</published>
-        <updated>2024-12-16T16:18:47+00:00</updated>
+        <updated>2024-12-17T14:07:23+00:00</updated>
         
         <author>
           <name>
@@ -480,7 +480,7 @@
         
         <content type="html" xml:base="https://yzzfo.github.io/unity/store/animancer-pro-v8/">&lt;p&gt;[&lt;strong&gt;专业版&lt;&#x2F;strong&gt;] [&lt;a href=&quot;http:&#x2F;&#x2F;u3d.as&#x2F;3mv5&quot;&gt;轻量版&lt;&#x2F;a&gt;] [&lt;a href=&quot;https:&#x2F;&#x2F;kybernetik.com.au&#x2F;animancer&quot;&gt;文档&lt;&#x2F;a&gt;] [&lt;a href=&quot;https:&#x2F;&#x2F;kybernetik.com.au&#x2F;animancer&#x2F;docs&#x2F;samples&quot;&gt;示例&lt;&#x2F;a&gt;] [&lt;a href=&quot;https:&#x2F;&#x2F;kybernetik.com.au&#x2F;animancer&#x2F;docs&#x2F;help&quot;&gt;帮助与常见问题&lt;&#x2F;a&gt;]&lt;&#x2F;p&gt;
 &lt;p&gt;Animancer 支持 Unity 2022.3 或更高版本。如果您使用的是旧版本的 Unity 或者从旧版本的 Animancer 升级，请查看 &lt;a href=&quot;https:&#x2F;&#x2F;kybernetik.com.au&#x2F;animancer&#x2F;docs&#x2F;changes&#x2F;animancer-v8-0&#x2F;upgrade-guide&quot;&gt;升级指南&lt;&#x2F;a&gt;。&lt;&#x2F;p&gt;
-&lt;p&gt;&lt;strong&gt;Animancer&lt;&#x2F;strong&gt; 允许您 &lt;a href=&quot;https:&#x2F;&#x2F;kybernetik.com.au&#x2F;animancer&#x2F;docs&#x2F;manual&#x2F;playing&quot;&gt;按需播放动画&lt;&#x2F;a&gt; 并控制所有细节，而无需任何额外的设置步骤。它解决了与 Animator 控制器相关的主要 &lt;a href=&quot;https:&#x2F;&#x2F;kybernetik.com.au&#x2F;animancer&#x2F;docs&#x2F;introduction&#x2F;mecanim-vs-animancer&#x2F;why&quot;&gt;问题&lt;&#x2F;a&gt;，可以完全替代它们或与之协同工作。这使得在开发的各个阶段，从基本原型到维护和调试复杂系统，动画的处理变得更加简单。&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;strong&gt;Animancer&lt;&#x2F;strong&gt; 允许您 &lt;a href=&quot;https:&#x2F;&#x2F;kybernetik.com.au&#x2F;animancer&#x2F;docs&#x2F;manual&#x2F;playing&quot;&gt;按需播放动画&lt;&#x2F;a&gt; 并控制所有细节，而无需任何额外的设置步骤。它解决了 &lt;a href=&quot;https:&#x2F;&#x2F;kybernetik.com.au&#x2F;animancer&#x2F;docs&#x2F;introduction&#x2F;mecanim-vs-animancer&#x2F;why&quot;&gt;Animator 控制器&lt;&#x2F;a&gt; 的主要问题，可以完全替代它们或与之协同工作。这使得在开发的各个阶段，从基本原型制作到维护和调试复杂系统，动画的处理变得更加简单。&lt;&#x2F;p&gt;
 &lt;p&gt;您可以通过 &lt;a href=&quot;http:&#x2F;&#x2F;u3d.as&#x2F;3mv5&quot;&gt;Animancer Lite&lt;&#x2F;a&gt; 免费试用所有 &lt;a href=&quot;https:&#x2F;&#x2F;kybernetik.com.au&#x2F;animancer&#x2F;docs&#x2F;introduction&#x2F;features&quot;&gt;功能&lt;&#x2F;a&gt;，如果需要，可以无缝升级到 Animancer Pro。&lt;&#x2F;p&gt;
 &lt;p&gt;它提供了大量详细的 &lt;a href=&quot;https:&#x2F;&#x2F;kybernetik.com.au&#x2F;animancer&#x2F;docs&#x2F;samples&quot;&gt;示例&lt;&#x2F;a&gt; 来帮助您入门，还有一份详尽的 &lt;a href=&quot;https:&#x2F;&#x2F;kybernetik.com.au&#x2F;animancer&#x2F;docs&#x2F;manual&quot;&gt;用户手册&lt;&#x2F;a&gt; 解释所有功能，甚至还有关于 &lt;a href=&quot;https:&#x2F;&#x2F;kybernetik.com.au&#x2F;animancer&#x2F;docs&#x2F;introduction&#x2F;cs&quot;&gt;Unity 中的 C#&lt;&#x2F;a&gt; 的介绍，以防您是编程新手。&lt;a href=&quot;http:&#x2F;&#x2F;u3d.as&#x2F;2ECW&quot;&gt;平台游戏工具包&lt;&#x2F;a&gt; 演示了 Animancer 如何在更复杂的环境中使用。&lt;&#x2F;p&gt;
 &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https:&#x2F;&#x2F;kybernetik.com.au&#x2F;animancer&#x2F;docs&#x2F;introduction&#x2F;features&quot;&gt;功能&lt;&#x2F;a&gt;&lt;&#x2F;strong&gt;:&lt;br&gt;❶ &lt;a href=&quot;https:&#x2F;&#x2F;kybernetik.com.au&#x2F;animancer&#x2F;docs&#x2F;manual&#x2F;playing&quot;&gt;快速播放&lt;&#x2F;a&gt; -&amp;gt;按需播放动画，无需任何不必要的设置步骤。只需获取一个 AnimationClip 并调用 &lt;em&gt;animancer.Play(clip)&lt;&#x2F;em&gt;。
@@ -488,18 +488,18 @@
 ❸ &lt;a href=&quot;https:&#x2F;&#x2F;kybernetik.com.au&#x2F;animancer&#x2F;docs&#x2F;manual&#x2F;blending&#x2F;fading&quot;&gt;平滑过渡&lt;&#x2F;a&gt; -&amp;gt;在动画之间线性混合或使用 &lt;a href=&quot;https:&#x2F;&#x2F;kybernetik.com.au&#x2F;animancer&#x2F;docs&#x2F;manual&#x2F;blending&#x2F;fading#custom-fade&quot;&gt;自定义曲线&lt;&#x2F;a&gt; 以确保角色始终平滑移动。
 ❹ &lt;a href=&quot;https:&#x2F;&#x2F;kybernetik.com.au&#x2F;animancer&#x2F;docs&#x2F;samples&#x2F;sprites&#x2F;basics&quot;&gt;灵活结构&lt;&#x2F;a&gt; -&amp;gt;使用数组和可脚本化对象等数据结构组织动画，避免使用 &lt;em&gt;魔法字符串&lt;&#x2F;em&gt;。
 ❺ &lt;a href=&quot;https:&#x2F;&#x2F;kybernetik.com.au&#x2F;animancer&#x2F;docs&#x2F;manual&#x2F;playing&#x2F;inspector&quot;&gt;实时检查器&lt;&#x2F;a&gt; -&amp;gt;在检查器中查看动画的当前详细信息，并手动控制以进行调试和测试。
-❻ &lt;a href=&quot;https:&#x2F;&#x2F;kybernetik.com.au&#x2F;animancer&#x2F;docs&#x2F;manual&#x2F;fsm&quot;&gt;有限状态机&lt;&#x2F;a&gt; -&amp;gt;Animancer 配备了一个灵活的 FSM 系统，与动画系统完全分开。它们可以很好地协同工作，但您可以很容易地修改它或使用您喜欢的任何其他系统。
-❼ &lt;a href=&quot;https:&#x2F;&#x2F;kybernetik.com.au&#x2F;animancer&#x2F;docs&#x2F;introduction&#x2F;mecanim-vs-animancer&#x2F;performance&quot;&gt;高性能&lt;&#x2F;a&gt; -&amp;gt;Animancer 的效率可能高于其他系统，尽管在大多数情况下，差异小到不值得关注。&lt;br&gt;❽ &lt;a href=&quot;https:&#x2F;&#x2F;kybernetik.com.au&#x2F;animancer&#x2F;docs&#x2F;examples&#x2F;integration&quot;&gt;平滑集成&lt;&#x2F;a&gt; -&amp;gt;大多数为其他动画系统开发的插件应能与Animancer无缝兼容，并支持诸如&lt;a href=&quot;https:&#x2F;&#x2F;docs.unity3d.com&#x2F;Manual&#x2F;UsingHumanoidChars.html&quot;&gt;人形动画重定向&lt;&#x2F;a&gt;、&lt;a href=&quot;https:&#x2F;&#x2F;docs.unity3d.com&#x2F;Manual&#x2F;FBXImporter-Rig.html&quot;&gt;通用骨架&lt;&#x2F;a&gt;、&lt;a href=&quot;https:&#x2F;&#x2F;kybernetik.com.au&#x2F;animancer&#x2F;docs&#x2F;examples&#x2F;directional-sprites&quot;&gt;精灵动画&lt;&#x2F;a&gt;、&lt;a href=&quot;https:&#x2F;&#x2F;kybernetik.com.au&#x2F;animancer&#x2F;docs&#x2F;examples&#x2F;locomotion&#x2F;root-motion&quot;&gt;根运动&lt;&#x2F;a&gt;、&lt;a href=&quot;https:&#x2F;&#x2F;kybernetik.com.au&#x2F;animancer&#x2F;docs&#x2F;manual&#x2F;events&#x2F;animation&quot;&gt;动画事件&lt;&#x2F;a&gt;和&lt;a href=&quot;https:&#x2F;&#x2F;kybernetik.com.au&#x2F;animancer&#x2F;docs&#x2F;manual&#x2F;ik&quot;&gt;逆向运动学 (IK)&lt;&#x2F;a&gt;等功能。&lt;&#x2F;p&gt;
-&lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https:&#x2F;&#x2F;kybernetik.com.au&#x2F;animancer&#x2F;docs&#x2F;introduction&#x2F;features&quot;&gt;Animancer Pro 特性&lt;&#x2F;a&gt;&lt;&#x2F;strong&gt;: 您可以在Unity编辑器中使用&lt;a href=&quot;http:&#x2F;&#x2F;u3d.as&#x2F;3mv5&quot;&gt;Animancer Lite&lt;&#x2F;a&gt;免费试用以下功能，但要在运行时构建中使用它们或访问源代码，您需要购买Animancer Pro。&lt;&#x2F;p&gt;
+❻ &lt;a href=&quot;https:&#x2F;&#x2F;kybernetik.com.au&#x2F;animancer&#x2F;docs&#x2F;manual&#x2F;fsm&quot;&gt;有限状态机&lt;&#x2F;a&gt; -&amp;gt;Animancer 配备了一个灵活的 FSM 系统，与动画系统完全分开。它们可以很好地协同工作，但您可以非常轻松地修改它或使用您喜欢的任何其他系统。
+❼ &lt;a href=&quot;https:&#x2F;&#x2F;kybernetik.com.au&#x2F;animancer&#x2F;docs&#x2F;introduction&#x2F;mecanim-vs-animancer&#x2F;performance&quot;&gt;高性能&lt;&#x2F;a&gt; -&amp;gt;Animancer 的效率可能高于其他系统，尽管在大多数情况下，差异小到无关紧要。&lt;br&gt;❽ &lt;a href=&quot;https:&#x2F;&#x2F;kybernetik.com.au&#x2F;animancer&#x2F;docs&#x2F;examples&#x2F;integration&quot;&gt;平滑集成&lt;&#x2F;a&gt; -&amp;gt;大多数为其他动画系统开发的插件应该可以与Animancer无缝兼容，并且它支持诸如&lt;a href=&quot;https:&#x2F;&#x2F;docs.unity3d.com&#x2F;Manual&#x2F;UsingHumanoidChars.html&quot;&gt;类人动画重定向&lt;&#x2F;a&gt;、&lt;a href=&quot;https:&#x2F;&#x2F;docs.unity3d.com&#x2F;Manual&#x2F;FBXImporter-Rig.html&quot;&gt;通用骨架&lt;&#x2F;a&gt;、&lt;a href=&quot;https:&#x2F;&#x2F;kybernetik.com.au&#x2F;animancer&#x2F;docs&#x2F;examples&#x2F;directional-sprites&quot;&gt;精灵动画&lt;&#x2F;a&gt;、&lt;a href=&quot;https:&#x2F;&#x2F;kybernetik.com.au&#x2F;animancer&#x2F;docs&#x2F;examples&#x2F;locomotion&#x2F;root-motion&quot;&gt;根运动&lt;&#x2F;a&gt;、&lt;a href=&quot;https:&#x2F;&#x2F;kybernetik.com.au&#x2F;animancer&#x2F;docs&#x2F;manual&#x2F;events&#x2F;animation&quot;&gt;动画事件&lt;&#x2F;a&gt;和&lt;a href=&quot;https:&#x2F;&#x2F;kybernetik.com.au&#x2F;animancer&#x2F;docs&#x2F;manual&#x2F;ik&quot;&gt;逆向运动学 (IK)&lt;&#x2F;a&gt;等功能。&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https:&#x2F;&#x2F;kybernetik.com.au&#x2F;animancer&#x2F;docs&#x2F;introduction&#x2F;features&quot;&gt;Animancer Pro 特性&lt;&#x2F;a&gt;&lt;&#x2F;strong&gt;：您可以在Unity编辑器中使用&lt;a href=&quot;http:&#x2F;&#x2F;u3d.as&#x2F;3mv5&quot;&gt;Animancer Lite&lt;&#x2F;a&gt;免费试用以下功能，但您需要购买Animancer Pro才能在运行时构建中使用它们或访问源代码。&lt;&#x2F;p&gt;
 &lt;p&gt;❶ &lt;a href=&quot;https:&#x2F;&#x2F;kybernetik.com.au&#x2F;animancer&#x2F;api&#x2F;Animancer&#x2F;AnimancerState&quot;&gt;完全控制&lt;&#x2F;a&gt; -&amp;gt;您可以完全访问和控制运行时脚本中的所有动画细节，包括它们的速度、时间和混合权重。
 ❷ &lt;a href=&quot;https:&#x2F;&#x2F;kybernetik.com.au&#x2F;animancer&#x2F;docs&#x2F;manual&#x2F;transitions&quot;&gt;简单配置&lt;&#x2F;a&gt; -&amp;gt;在检查器中管理动画的细节，以便可以将其作为场景或预制件的一部分进行编辑。
 ❸ &lt;a href=&quot;https:&#x2F;&#x2F;kybernetik.com.au&#x2F;animancer&#x2F;docs&#x2F;manual&#x2F;events&#x2F;animancer&quot;&gt;自定义事件&lt;&#x2F;a&gt; -&amp;gt;注册&lt;a href=&quot;https:&#x2F;&#x2F;kybernetik.com.au&#x2F;animancer&#x2F;docs&#x2F;manual&#x2F;events&quot;&gt;事件&lt;&#x2F;a&gt;回调，以便在动画的特定时间触发，而无需处理Unity常规的&lt;a href=&quot;https:&#x2F;&#x2F;kybernetik.com.au&#x2F;animancer&#x2F;docs&#x2F;manual&#x2F;events&#x2F;animation&quot;&gt;动画事件&lt;&#x2F;a&gt;。&lt;br&gt;❹ &lt;a href=&quot;https:&#x2F;&#x2F;kybernetik.com.au&#x2F;animancer&#x2F;docs&#x2F;manual&#x2F;blending&#x2F;layers&quot;&gt;动画层&lt;&#x2F;a&gt; -&amp;gt;同时管理多个动画集（通常在不同的身体部位上）。层可以相互覆盖或叠加，您可以像单独的动画一样淡入淡出它们。&lt;&#x2F;p&gt;
 &lt;p&gt;❺ &lt;a href=&quot;https:&#x2F;&#x2F;kybernetik.com.au&#x2F;animancer&#x2F;docs&#x2F;manual&#x2F;animator-controllers&quot;&gt;动画控制器&lt;&#x2F;a&gt; -&amp;gt;Animancer不需要使用动画控制器，但它支持一种&lt;a href=&quot;https:&#x2F;&#x2F;kybernetik.com.au&#x2F;animancer&#x2F;docs&#x2F;samples&#x2F;animator-controllers&#x2F;character&quot;&gt;混合&lt;&#x2F;a&gt;方法，结合使用动画控制器和直接的&lt;em&gt;AnimationClip&lt;&#x2F;em&gt;引用来完成不同的任务。您甚至可以在单个角色上混合多个动画控制器。&lt;&#x2F;p&gt;
 &lt;p&gt;❻ &lt;a href=&quot;https:&#x2F;&#x2F;kybernetik.com.au&#x2F;animancer&#x2F;docs&#x2F;manual&#x2F;blending&#x2F;mixers&quot;&gt;动画混合器&lt;&#x2F;a&gt; -&amp;gt;根据任何输入参数在动画之间进行混合，类似于&lt;a href=&quot;https:&#x2F;&#x2F;docs.unity3d.com&#x2F;Manual&#x2F;class-BlendTree.html&quot;&gt;混合树&lt;&#x2F;a&gt;。例如，您可以根据玩家倾斜摇杆的程度在&lt;em&gt;待机&lt;&#x2F;em&gt;、&lt;em&gt;行走&lt;&#x2F;em&gt;和&lt;em&gt;奔跑&lt;&#x2F;em&gt;之间进行混合，以允许他们以任意速度移动。&lt;&#x2F;p&gt;
-&lt;p&gt;❼ &lt;a href=&quot;https:&#x2F;&#x2F;kybernetik.com.au&#x2F;animancer&#x2F;docs&#x2F;manual&#x2F;tools&quot;&gt;工具&lt;&#x2F;a&gt; -&amp;gt;各种用于创建和修改动画的实用程序，这些动画可以与Animancer或任何其他支持它们的动画系统一起播放。这些工具允许您批量处理精灵和基于精灵的动画，例如一次重命名多个精灵或根据它们的名称生成动画。&lt;br&gt;❽ &lt;a href=&quot;https:&#x2F;&#x2F;kybernetik.com.au&#x2F;animancer&#x2F;docs&#x2F;samples&#x2F;jobs&quot;&gt;自定义&lt;&#x2F;a&gt; -&amp;gt; 使用Unity的 &lt;a href=&quot;https:&#x2F;&#x2F;kybernetik.com.au&#x2F;animancer&#x2F;docs&#x2F;samples&#x2F;jobs&quot;&gt;动画作业&lt;&#x2F;a&gt; 系统以低级别访问动画流，并创建 &lt;a href=&quot;https:&#x2F;&#x2F;kybernetik.com.au&#x2F;animancer&#x2F;docs&#x2F;source&#x2F;creating-custom-states&quot;&gt;自定义状态&lt;&#x2F;a&gt; 类型，以实现程序化动画、自定义混合算法或任何其他你能想到的行为。&lt;br &#x2F;&gt;
-❾ &lt;a href=&quot;https:&#x2F;&#x2F;kybernetik.com.au&#x2F;animancer&#x2F;docs&#x2F;source&quot;&gt;源代码&lt;&#x2F;a&gt; -&amp;gt; Animancer的完整源代码以普通C#文件形式提供，附有详细注释，以便你可以查看其内部工作原理，追踪错误，进行任何你认为合适的修改，并避免依赖开发者来修复问题（但如果需要支持，请随时使用&lt;a href=&quot;https:&#x2F;&#x2F;kybernetik.com.au&#x2F;animancer&#x2F;docs&#x2F;help&quot;&gt;帮助和常见问题&lt;&#x2F;a&gt;页面）。包含在Animancer Pro包中的 &lt;em&gt;Animancer.Lite.dll&lt;&#x2F;em&gt; 是空的占位符，以确保从 &lt;a href=&quot;http:&#x2F;&#x2F;u3d.as&#x2F;3mv5&quot;&gt;Animancer Lite&lt;&#x2F;a&gt; 的无缝升级，因此它们不包含任何代码，也不包含在构建中。&lt;&#x2F;p&gt;
-&lt;p&gt;查看 &lt;a href=&quot;https:&#x2F;&#x2F;kybernetik.com.au&#x2F;animancer&quot;&gt;文档&lt;&#x2F;a&gt; 和 &lt;a href=&quot;https:&#x2F;&#x2F;kybernetik.com.au&#x2F;animancer&#x2F;docs&#x2F;samples&quot;&gt;示例&lt;&#x2F;a&gt; 开始使用。&lt;&#x2F;p&gt;
-&lt;p&gt;请注意，&lt;a href=&quot;https:&#x2F;&#x2F;kybernetik.com.au&#x2F;animancer&#x2F;docs&#x2F;samples&quot;&gt;示例&lt;&#x2F;a&gt; 使用了 &lt;a href=&quot;https:&#x2F;&#x2F;kybernetik.com.au&#x2F;animancer&#x2F;docs&#x2F;source&#x2F;asset-sources&quot;&gt;各种第三方艺术资产，遵循CC0许可证&lt;&#x2F;a&gt;。&lt;&#x2F;p&gt;
+&lt;p&gt;❼ &lt;a href=&quot;https:&#x2F;&#x2F;kybernetik.com.au&#x2F;animancer&#x2F;docs&#x2F;manual&#x2F;tools&quot;&gt;工具&lt;&#x2F;a&gt; -&amp;gt;各种实用工具，用于创建和修改动画，这些动画可以与Animancer或任何其他支持它们的动画系统一起播放。这些工具允许您批量处理精灵和基于精灵的动画，例如一次重命名多个精灵或根据它们的名称生成动画。&lt;br&gt;❽ &lt;a href=&quot;https:&#x2F;&#x2F;kybernetik.com.au&#x2F;animancer&#x2F;docs&#x2F;samples&#x2F;jobs&quot;&gt;自定义&lt;&#x2F;a&gt; -&amp;gt; 使用Unity的&lt;a href=&quot;https:&#x2F;&#x2F;kybernetik.com.au&#x2F;animancer&#x2F;docs&#x2F;samples&#x2F;jobs&quot;&gt;动画作业&lt;&#x2F;a&gt;系统以低级别访问动画流，并创建&lt;a href=&quot;https:&#x2F;&#x2F;kybernetik.com.au&#x2F;animancer&#x2F;docs&#x2F;source&#x2F;creating-custom-states&quot;&gt;自定义状态&lt;&#x2F;a&gt;类型，以实现程序化动画、自定义混合算法或任何其他您能想到的行为。&lt;br &#x2F;&gt;
+❾ &lt;a href=&quot;https:&#x2F;&#x2F;kybernetik.com.au&#x2F;animancer&#x2F;docs&#x2F;source&quot;&gt;源代码&lt;&#x2F;a&gt; -&amp;gt; Animancer的完整源代码以普通C#文件形式提供，附有详细注释，您可以查看其所有内部工作原理，追踪错误，进行任何您认为合适的修改，并避免依赖开发者来修复问题（但如果您需要支持，请随时使用&lt;a href=&quot;https:&#x2F;&#x2F;kybernetik.com.au&#x2F;animancer&#x2F;docs&#x2F;help&quot;&gt;帮助和常见问题&lt;&#x2F;a&gt;页面）。包含在Animancer Pro包中的&lt;em&gt;Animancer.Lite.dll&lt;&#x2F;em&gt;是空的占位符，以确保从&lt;a href=&quot;http:&#x2F;&#x2F;u3d.as&#x2F;3mv5&quot;&gt;Animancer Lite&lt;&#x2F;a&gt;的无缝升级，因此它们不包含任何代码，并且不包含在构建中。&lt;&#x2F;p&gt;
+&lt;p&gt;查看&lt;a href=&quot;https:&#x2F;&#x2F;kybernetik.com.au&#x2F;animancer&quot;&gt;文档&lt;&#x2F;a&gt;和&lt;a href=&quot;https:&#x2F;&#x2F;kybernetik.com.au&#x2F;animancer&#x2F;docs&#x2F;samples&quot;&gt;示例&lt;&#x2F;a&gt;以开始使用。&lt;&#x2F;p&gt;
+&lt;p&gt;请注意，&lt;a href=&quot;https:&#x2F;&#x2F;kybernetik.com.au&#x2F;animancer&#x2F;docs&#x2F;samples&quot;&gt;示例&lt;&#x2F;a&gt;使用&lt;a href=&quot;https:&#x2F;&#x2F;kybernetik.com.au&#x2F;animancer&#x2F;docs&#x2F;source&#x2F;asset-sources&quot;&gt;各种第三方艺术资产，遵循CC0许可证&lt;&#x2F;a&gt;。&lt;&#x2F;p&gt;
 &lt;p&gt;&lt;strong&gt;升级政策&lt;&#x2F;strong&gt;：小更新和修复将始终免费。主要更新可能会根据涉及的范围和开发工作量收取升级费用。选择不更新的用户可以继续使用他们在支持的Unity版本中购买的版本。&lt;&#x2F;p&gt;
 </content>
         

@@ -5,12 +5,12 @@
     <link rel="self" type="application/atom+xml" href="https://yzzfo.github.io/tags/movement/atom.xml"/>
     <link rel="alternate" type="text/html" href="https://yzzfo.github.io"/>
     <generator uri="https://www.getzola.org/">Zola</generator>
-    <updated>2024-12-06T15:21:04+00:00</updated>
+    <updated>2024-12-17T14:07:19+00:00</updated>
     <id>https://yzzfo.github.io/tags/movement/atom.xml</id>
     <entry xml:lang="zh">
         <title>Behavior Designer - Formations Pack</title>
         <published>2024-12-06T15:21:04+00:00</published>
-        <updated>2024-12-06T15:21:04+00:00</updated>
+        <updated>2024-12-17T13:38:11+00:00</updated>
         
         <author>
           <name>
@@ -34,7 +34,7 @@
     <entry xml:lang="zh">
         <title>Behavior Designer - Movement Pack</title>
         <published>2024-12-06T15:20:53+00:00</published>
-        <updated>2024-12-06T15:20:53+00:00</updated>
+        <updated>2024-12-17T13:38:07+00:00</updated>
         
         <author>
           <name>
@@ -54,7 +54,7 @@
     <entry xml:lang="zh">
         <title>Behavior Designer - Tactical Pack</title>
         <published>2024-12-06T15:20:32+00:00</published>
-        <updated>2024-12-06T15:20:32+00:00</updated>
+        <updated>2024-12-17T13:37:55+00:00</updated>
         
         <author>
           <name>
@@ -72,13 +72,13 @@
 &lt;p &gt;攻击在每个游戏中都是独特的。战术包使用接口，您可以实现适合您游戏的自定义攻击和伤害逻辑。此外，战术包可以使用Playmaker或第三人称控制器来处理攻击和伤害。&lt;&#x2F;p&gt;
 &lt;p &gt;每个任务都有良好的注释，并以通用和简洁的方式编写，使其非常容易集成到您自己的项目中。随着我们听到社区的新任务建议，这个包将继续增长。&lt;&#x2F;p&gt;
 &lt;p &gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.opsive.com&#x2F;assets&#x2F;behavior-designer-tactical-pack&#x2F;&quot; target=&quot;_blank&quot;&gt;网页演示&lt;&#x2F;a&gt; |  &lt;a href=&quot;https:&#x2F;&#x2F;www.opsive.com&#x2F;support&#x2F;documentation&#x2F;behavior-designer-tactical-pack&#x2F;&quot; target=&quot;_blank&quot;&gt;文档&lt;&#x2F;a&gt; | &lt;a href=&quot;http:&#x2F;&#x2F;forum.unity3d.com&#x2F;threads&#x2F;behavior-designer-tactical-pack.327353&#x2F;&quot; target=&quot;_blank&quot;&gt;Unity论坛&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
-&lt;p &gt;包含以下任务：&lt;&#x2F;p&gt;&lt;ul&gt;&lt;li &gt;攻击&lt;&#x2F;li&gt;&lt;li &gt;冲锋&lt;&#x2F;li&gt;&lt;li &gt;行进射击&lt;&#x2F;li&gt;&lt;li &gt;侧翼&lt;&#x2F;li&gt;&lt;li &gt;埋伏&lt;&#x2F;li&gt;&lt;li &gt;边打边退&lt;&#x2F;li&gt;&lt;li &gt;跳跃前进&lt;&#x2F;li&gt;&lt;li &gt;包围&lt;&#x2F;li&gt;&lt;li &gt;防御&lt;&#x2F;li&gt;&lt;li &gt;保持&lt;&#x2F;li&gt;&lt;li &gt;撤退&lt;&#x2F;li&gt;&lt;li &gt;请求增援&lt;&#x2F;li&gt;&lt;li &gt;增援响应&lt;&#x2F;li&gt;&lt;&#x2F;ul&gt;</content>
+&lt;p &gt;包含以下任务：&lt;&#x2F;p&gt;&lt;ul&gt;&lt;li &gt;攻击&lt;&#x2F;li&gt;&lt;li &gt;冲锋&lt;&#x2F;li&gt;&lt;li &gt;行进射击&lt;&#x2F;li&gt;&lt;li &gt;侧翼&lt;&#x2F;li&gt;&lt;li &gt;伏击&lt;&#x2F;li&gt;&lt;li &gt;边打边退&lt;&#x2F;li&gt;&lt;li &gt;跳跃前进&lt;&#x2F;li&gt;&lt;li &gt;包围&lt;&#x2F;li&gt;&lt;li &gt;防御&lt;&#x2F;li&gt;&lt;li &gt;保持&lt;&#x2F;li&gt;&lt;li &gt;撤退&lt;&#x2F;li&gt;&lt;li &gt;请求增援&lt;&#x2F;li&gt;&lt;li &gt;增援响应&lt;&#x2F;li&gt;&lt;&#x2F;ul&gt;</content>
         
     </entry>
     <entry xml:lang="zh">
         <title>Spine Animator</title>
         <published>2024-12-05T23:26:37+00:00</published>
-        <updated>2024-12-05T23:47:37+00:00</updated>
+        <updated>2024-12-17T13:34:10+00:00</updated>
         
         <author>
           <name>
@@ -98,7 +98,7 @@
     <entry xml:lang="zh">
         <title>A* Pathfinding Project Pro</title>
         <published>2024-11-29T21:15:47+00:00</published>
-        <updated>2024-11-30T13:15:32+00:00</updated>
+        <updated>2024-12-17T14:07:19+00:00</updated>
         
         <author>
           <name>

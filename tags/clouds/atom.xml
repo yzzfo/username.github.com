@@ -5,12 +5,12 @@
     <link rel="self" type="application/atom+xml" href="https://yzzfo.github.io/tags/clouds/atom.xml"/>
     <link rel="alternate" type="text/html" href="https://yzzfo.github.io"/>
     <generator uri="https://www.getzola.org/">Zola</generator>
-    <updated>2024-12-13T00:01:55+00:00</updated>
+    <updated>2024-12-17T13:47:15+00:00</updated>
     <id>https://yzzfo.github.io/tags/clouds/atom.xml</id>
     <entry xml:lang="zh">
         <title>Enviro 3 - Sky and Weather</title>
         <published>2024-12-13T00:01:55+00:00</published>
-        <updated>2024-12-13T00:01:55+00:00</updated>
+        <updated>2024-12-17T13:47:15+00:00</updated>
         
         <author>
           <name>
@@ -25,7 +25,7 @@
         
         <content type="html" xml:base="https://yzzfo.github.io/unity/store/enviro-3-sky-and-weather/">&lt;p&gt;Enviro 3 - Sky and Weather 是一个模块化设计的天空、体积云和天气系统。易于使用，具有丰富的自定义选项，视觉效果惊艳！&lt;&#x2F;p&gt;
 &lt;p &gt;&lt;strong&gt;Enviro 3 - Sky and Weather：为Unity提供的下一代天空、云和天气！&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
-&lt;p &gt;&lt;strong&gt;简单的设置和完善的工作流程！&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;p &gt;简单的拖放设置使得将Enviro快速实现到您的项目中变得轻而易举。界面经过精心设计，以实现快速的工作流程。所有设置都可以通过一个检查器窗口进行控制。再也不用四处寻找了！&lt;&#x2F;p&gt;
+&lt;p &gt;&lt;strong&gt;简单的设置和完善的工作流程！&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;p &gt;简单的拖放设置使得将Enviro快速实现到您的项目中变得轻而易举。界面经过精心设计，以实现快速的工作流程。所有设置都可以通过一个检查器窗口进行控制。再也不用到处寻找了！&lt;&#x2F;p&gt;
 &lt;p &gt;&lt;strong&gt;内置RP、Universal RP、HDRP&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;p &gt;Enviro 3开箱即用，支持所有渲染管线。&lt;&#x2F;p&gt;
 &lt;p &gt;&lt;strong&gt;模块化设计&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;p &gt;Enviro 3从头开始构建为模块化设计。您可以直接从Enviro检查器中添加或移除所需的模块。例如：只需要一个体积云解决方案，因为您想保留自己的时间、天空和照明系统？没问题！所有功能都是可选的！&lt;&#x2F;p&gt;
 &lt;p &gt;&lt;strong&gt;动态天空&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;p &gt;包含的天空系统经过精心设计，以实现最佳性能和灵活性。使用多个颜色渐变，而不是调整人工数字。为您的项目创建独特且非常真实的天空非常简单！&lt;&#x2F;p&gt;
@@ -40,13 +40,13 @@
 &lt;p &gt;&lt;strong&gt;社区与支持&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;p &gt;加入我们庞大而活跃的 Discord 社区！我每天都会在这里回答您的问题或支持请求。请随时向我反馈您的意见和未来改进的想法！&lt;&#x2F;p&gt;
 &lt;p &gt;您也可以通过电子邮件联系我以获得支持，邮箱是 &lt;strong&gt;vondox@live.de&lt;&#x2F;strong&gt;，或者更好的是加入我们的 Discord 频道：&lt;&#x2F;p&gt;
 &lt;p &gt;&lt;a href=&quot;https:&#x2F;&#x2F;discord.gg&#x2F;5c6kfW6&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;加入 Discord！&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
-&lt;p &gt;&lt;strong&gt;我正在努力解决的当前限制&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;p &gt;不幸的是，Enviro 3 仍然存在一些限制，但我会尽力在未来的更新中添加&#x2F;修复这些问题！&lt;&#x2F;p&gt;&lt;ul&gt;&lt;li &gt;多通道 VR 渲染可能无法与每种组合正确工作。&lt;&#x2F;li&gt;&lt;li &gt;HDRP VR 目前不支持，但将在未来的更新中添加！&lt;&#x2F;li&gt;&lt;&#x2F;ul&gt;</content>
+&lt;p &gt;&lt;strong&gt;我正在努力解决的当前限制&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;p &gt;不幸的是，Enviro 3 仍然存在一些限制，但我会尽力在未来的更新中添加&#x2F;修复这些问题！&lt;&#x2F;p&gt;&lt;ul&gt;&lt;li &gt;多通道 VR 渲染可能无法与每种组合正确工作。&lt;&#x2F;li&gt;&lt;li &gt;当前不支持 HDRP VR，但将在未来的更新中添加！&lt;&#x2F;li&gt;&lt;&#x2F;ul&gt;</content>
         
     </entry>
     <entry xml:lang="zh">
         <title>AllSky - 220+ Sky &#x2F; Skybox Set</title>
         <published>2024-12-08T17:36:27+00:00</published>
-        <updated>2024-12-08T17:36:27+00:00</updated>
+        <updated>2024-12-17T13:42:37+00:00</updated>
         
         <author>
           <name>
@@ -66,7 +66,7 @@
     <entry xml:lang="zh">
         <title>Sky Master ULTIMATE: Volumetric Skies, Clouds &amp; Weather</title>
         <published>2024-11-29T21:20:07+00:00</published>
-        <updated>2024-12-02T22:13:57+00:00</updated>
+        <updated>2024-12-17T13:28:41+00:00</updated>
         
         <author>
           <name>

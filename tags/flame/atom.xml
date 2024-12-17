@@ -5,12 +5,12 @@
     <link rel="self" type="application/atom+xml" href="https://yzzfo.github.io/tags/flame/atom.xml"/>
     <link rel="alternate" type="text/html" href="https://yzzfo.github.io"/>
     <generator uri="https://www.getzola.org/">Zola</generator>
-    <updated>2024-12-03T00:46:20+00:00</updated>
+    <updated>2024-12-17T13:32:28+00:00</updated>
     <id>https://yzzfo.github.io/tags/flame/atom.xml</id>
     <entry xml:lang="zh">
         <title>Variety FX 2.0</title>
         <published>2024-12-03T00:46:20+00:00</published>
-        <updated>2024-12-03T00:46:20+00:00</updated>
+        <updated>2024-12-17T13:32:28+00:00</updated>
         
         <author>
           <name>
@@ -24,8 +24,8 @@
         <id>https://yzzfo.github.io/unity/store/variety-fx-2-0/</id>
         
         <content type="html" xml:base="https://yzzfo.github.io/unity/store/variety-fx-2-0/">&lt;p&gt;Variety FX 是一套广泛的环境粒子特效，可以轻松为您的场景增添氛围。&lt;&#x2F;p&gt;
-&lt;p&gt;Variety FX 总共包含 &lt;strong&gt;273 种特效&lt;&#x2F;strong&gt;，分为 4 个主要类别和 24 个子类别，以便于在项目文件夹中查找。&lt;&#x2F;p&gt;
-&lt;p&gt;这些特效适用于风格化或现实主义项目，并且可以适应多种游戏类型，包括生存、恐怖、动作和冒险游戏。&lt;&#x2F;p&gt;
+&lt;p&gt;Variety FX 总共包含 &lt;strong&gt;273 种特效&lt;&#x2F;strong&gt;，分为 4 个主要类别和 24 个子类别，以便在项目文件夹中轻松查找。&lt;&#x2F;p&gt;
+&lt;p&gt;所包含的特效适用于风格化或真实感项目，并且可以适应多种游戏类型，包括生存、恐怖、动作和冒险游戏。&lt;&#x2F;p&gt;
 &lt;p&gt;大多数特效可以通过粒子系统轻松重新着色，或者已经有预制的颜色可以拖放到您的场景中。它们也可以通过更改变换值轻松缩放。&lt;&#x2F;p&gt;
 &lt;p&gt;虽然该资产专注于环境特效，但它还包括一些常见的战斗特效，如爆炸、血液和魔法。&lt;&#x2F;p&gt;
 &lt;p&gt;&lt;a href=&quot;http:&#x2F;&#x2F;bit.ly&#x2F;2cQryoI&quot; target=&quot;_blank&quot;&gt;WebGL 演示&lt;&#x2F;a&gt; • &lt;a href=&quot;http:&#x2F;&#x2F;bit.ly&#x2F;1F4wCu5&quot; target=&quot;_blank&quot;&gt;论坛&lt;&#x2F;a&gt; • &lt;a href=&quot;https:&#x2F;&#x2F;archanor.com&#x2F;support.html&quot; target=&quot;_blank&quot;&gt;支持&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;

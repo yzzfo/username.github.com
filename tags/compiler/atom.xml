@@ -5,12 +5,12 @@
     <link rel="self" type="application/atom+xml" href="https://yzzfo.github.io/tags/compiler/atom.xml"/>
     <link rel="alternate" type="text/html" href="https://yzzfo.github.io"/>
     <generator uri="https://www.getzola.org/">Zola</generator>
-    <updated>2024-12-14T11:48:40+00:00</updated>
+    <updated>2024-12-17T13:48:10+00:00</updated>
     <id>https://yzzfo.github.io/tags/compiler/atom.xml</id>
     <entry xml:lang="zh">
         <title>Roslyn C# - Runtime Compiler</title>
         <published>2024-12-14T11:48:40+00:00</published>
-        <updated>2024-12-14T11:48:40+00:00</updated>
+        <updated>2024-12-17T13:48:10+00:00</updated>
         
         <author>
           <name>
@@ -24,7 +24,7 @@
         <id>https://yzzfo.github.io/unity/store/roslyn-c-runtime-compiler/</id>
         
         <content type="html" xml:base="https://yzzfo.github.io/unity/store/roslyn-c-runtime-compiler/">&lt;p&gt;&lt;strong&gt;&lt;em&gt;*需要 .Net 4.x 或 .Net 标准 API 兼容性级别&lt;&#x2F;em&gt;&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
-&lt;p&gt;Roslyn C# 允许使用 Roslyn 编译器在运行时加载程序集和 C# 脚本，使您可以轻松地为项目添加 mod 支持或游戏内编程。此外，Roslyn C# 还包括代码安全验证，允许您指定加载代码必须遵循的一系列安全限制，包括非法命名空间和类型。这使得从未知来源加载第三方代码变得更加安全。&lt;&#x2F;p&gt;
+&lt;p&gt;Roslyn C# 允许使用 Roslyn 编译器在运行时加载程序集和 C# 脚本，使您可以轻松地为您的项目添加 mod 支持或游戏内编程。此外，Roslyn C# 还包括代码安全验证，允许您指定加载代码必须遵循的一系列安全限制，包括非法命名空间和类型。这使得从未知来源加载第三方代码变得更加安全。&lt;&#x2F;p&gt;
 &lt;p&gt;包括一个基于编程的小型游戏，目标是通过编写执行方向决策的代码，将鼠标从迷宫中导航出来。&lt;&#x2F;p&gt;
 &lt;p&gt;&lt;strong&gt;特点&lt;&#x2F;strong&gt;
 - 在运行时编译和运行 C# 脚本
@@ -32,10 +32,10 @@
 - 快速执行。一旦编译，外部脚本将与游戏脚本一样快速运行
 - 允许轻松添加 mod 支持
 - 代码安全验证意味着可以识别和丢弃不安全的代码
-- 代码安全在失败时生成详细报告，包含有关使用的非法类型和外部代码中每个使用实例的信息
+- 代码安全在失败时生成详细报告，包含有关使用的非法类型和外部代码中每次使用情况的信息
 - 提供简单易用的 API 进行程序集、类型和实例反射
 - 支持使用脚本代理进行非具体通信
-- 使用正确的方法（AddComponent、CreateInstance、new）进行自动类型构造
+- 使用正确的方法（AddComponent、CreateInstance、new）自动构造类型
 - 缓存成员表以快速反射
 - 所有脚本和示例都组织在命名空间中，以避免类型名称冲突
 - 包含完整注释的部分 C# 源代码

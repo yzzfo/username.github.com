@@ -5,12 +5,12 @@
     <link rel="self" type="application/atom+xml" href="https://yzzfo.github.io/tags/sfx/atom.xml"/>
     <link rel="alternate" type="text/html" href="https://yzzfo.github.io"/>
     <generator uri="https://www.getzola.org/">Zola</generator>
-    <updated>2024-12-06T14:26:09+00:00</updated>
+    <updated>2024-12-17T13:35:00+00:00</updated>
     <id>https://yzzfo.github.io/tags/sfx/atom.xml</id>
     <entry xml:lang="zh">
         <title>Battle Sound Library - Magic &amp; Melee - Fantasy RPG</title>
         <published>2024-12-06T14:26:09+00:00</published>
-        <updated>2024-12-06T14:26:09+00:00</updated>
+        <updated>2024-12-17T13:35:00+00:00</updated>
         
         <author>
           <name>
@@ -23,28 +23,28 @@
         <link rel="alternate" type="text/html" href="https://yzzfo.github.io/unity/store/battle-sound-library-magic-melee-fantasy-rpg/"/>
         <id>https://yzzfo.github.io/unity/store/battle-sound-library-magic-melee-fantasy-rpg/</id>
         
-        <content type="html" xml:base="https://yzzfo.github.io/unity/store/battle-sound-library-magic-melee-fantasy-rpg/">&lt;p&gt;Hundreds of sound clips, and thousands upon thousands of mixes. Create custom combined sounds with the easy to use &quot;Audio Clip Combiner&quot;, and create the perfect soundscape for your project&lt;&#x2F;p&gt;
-&lt;p &gt;--------------------------------------------------&lt;&#x2F;p&gt;&lt;p &gt;&lt;strong&gt;支持、问题、新闻与更新&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;p &gt;➡️ &lt;a href=&quot;https:&#x2F;&#x2F;discord.gg&#x2F;uf3QPF&quot; target=&quot;_blank&quot;&gt;Discord&lt;&#x2F;a&gt; | &lt;a href=&quot;https:&#x2F;&#x2F;infinitypbr.gitbook.io&#x2F;infinity-pbr&#x2F;audio-clip-combiner&quot; target=&quot;_blank&quot;&gt;教程&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;&lt;p &gt;--------------------------------------------------&lt;&#x2F;p&gt;
-&lt;p &gt;&lt;strong&gt;魔法与近战可定制音效库&lt;&#x2F;strong&gt;旨在考虑到定制和随机化。混合和匹配组件声音，您可以拥有数千种独特的声音。&lt;&#x2F;p&gt;
-&lt;p &gt;在运行时随机组合音频片段，或通过单击导出并选择您最喜欢的组合。&lt;&#x2F;p&gt;
-&lt;p &gt;&lt;strong&gt;&lt;em&gt;包括 &lt;&#x2F;em&gt;&lt;&#x2F;strong&gt;&lt;a href=&quot;https:&#x2F;&#x2F;assetstore.unity.com&#x2F;packages&#x2F;slug&#x2F;232612&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;&lt;em&gt;音频片段合成器&lt;&#x2F;em&gt;&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt;&lt;strong&gt;&lt;em&gt; 工具！&lt;&#x2F;em&gt;&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
-&lt;p &gt;&lt;strong&gt;更新&lt;&#x2F;strong&gt;: 音频片段合成器现在有一个“播放随机样本”按钮，可以在导出之前采样声音，在编辑时使用。还有一个“文件夹”上传 -- 选择一个文件夹，所有的音频片段将被添加到该层。&lt;&#x2F;p&gt;
-&lt;p &gt;或者，创建一个新的音频片段合成器对象，选择一个父文件夹，每个包含音频的子文件夹将作为新层添加。&lt;&#x2F;p&gt;
-&lt;p &gt;&amp;#128302;&lt;strong&gt;&lt;em&gt;魔法&lt;&#x2F;em&gt;&lt;&#x2F;strong&gt;&amp;#129502;&lt;&#x2F;p&gt;&lt;p &gt;空气、土壤、电、邪恶&#x2F;黑暗、火、神圣&#x2F;光、冰、毒和水魔法包括多种爆炸、击打、长短热身。&lt;&#x2F;p&gt;
-&lt;p &gt;将这些与通用增益、嗡嗡声和脉冲、法术失效和失败等结合，创造出适合您法术的大量魔法声音。&lt;&#x2F;p&gt;&lt;br&gt;&lt;p&gt;⚔️&lt;strong&gt;&lt;em&gt;近战&lt;&#x2F;em&gt;&lt;&#x2F;strong&gt;&amp;#128737;&lt;&#x2F;p&gt;&lt;p&gt;创建武器类型和伤害类型的组合：肉体、金属和木材目标。武器包括斧头、弓箭、棍棒、拳头、盾牌和剑。&lt;&#x2F;p&gt;
+        <content type="html" xml:base="https://yzzfo.github.io/unity/store/battle-sound-library-magic-melee-fantasy-rpg/">&lt;p&gt;数百个音频片段，以及成千上万的混音。使用易于使用的“音频片段合成器”创建自定义组合声音，为您的项目创造完美的音景。&lt;&#x2F;p&gt;
+&lt;p&gt;--------------------------------------------------&lt;&#x2F;p&gt;&lt;p&gt;&lt;strong&gt;支持、问题、新闻与更新&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;p&gt;➡️ &lt;a href=&quot;https:&#x2F;&#x2F;discord.gg&#x2F;uf3QPF&quot; target=&quot;_blank&quot;&gt;Discord&lt;&#x2F;a&gt; | &lt;a href=&quot;https:&#x2F;&#x2F;infinitypbr.gitbook.io&#x2F;infinity-pbr&#x2F;audio-clip-combiner&quot; target=&quot;_blank&quot;&gt;教程&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;&lt;p&gt;--------------------------------------------------&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;strong&gt;魔法与近战可定制音效库&lt;&#x2F;strong&gt;旨在考虑到定制和随机化。混合和匹配组件声音，您可以拥有成千上万的独特声音。&lt;&#x2F;p&gt;
+&lt;p&gt;在运行时随机组合片段，或通过单击导出并选择您最喜欢的组合。&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;包括&lt;&#x2F;em&gt;&lt;&#x2F;strong&gt;&lt;a href=&quot;https:&#x2F;&#x2F;assetstore.unity.com&#x2F;packages&#x2F;slug&#x2F;232612&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;&lt;em&gt;音频片段合成器&lt;&#x2F;em&gt;&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt;&lt;strong&gt;&lt;em&gt;工具！&lt;&#x2F;em&gt;&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;strong&gt;更新&lt;&#x2F;strong&gt;：音频片段合成器现在有一个“播放随机样本”按钮，可以在导出之前采样声音，在编辑时使用。还有一个“文件夹”上传功能——选择一个文件夹，所有的片段将被添加到该层。&lt;&#x2F;p&gt;
+&lt;p&gt;或者，创建一个新的音频片段合成器对象，选择一个父文件夹，每个包含音频的子文件夹将作为新层添加。&lt;&#x2F;p&gt;
+&lt;p&gt;&amp;#128302;&lt;strong&gt;&lt;em&gt;魔法&lt;&#x2F;em&gt;&lt;&#x2F;strong&gt;&amp;#129502;&lt;&#x2F;p&gt;&lt;p&gt;空气、土壤、电、邪恶&#x2F;黑暗、火、神圣&#x2F;光、冰、毒和水魔法包括多种爆炸、击打、长短热身。&lt;&#x2F;p&gt;
+&lt;p&gt;将这些与通用增益、嗡嗡声和脉冲、法术失效和失败等结合，创造出适合您法术的大量魔法声音。&lt;&#x2F;p&gt;&lt;br&gt;&lt;p&gt;⚔️&lt;strong&gt;&lt;em&gt;近战&lt;&#x2F;em&gt;&lt;&#x2F;strong&gt;&amp;#128737;&lt;&#x2F;p&gt;&lt;p&gt;创建武器类型和伤害类型的组合：肉体、金属和木材目标。武器包括斧头、弓箭、棍棒、拳头、盾牌和剑。&lt;&#x2F;p&gt;
 &lt;p&gt;每组基于多种武器、目标和冲击声音有125种组合。&lt;&#x2F;p&gt;
 &lt;p&gt;⚔️&amp;#128302; &lt;strong&gt;&lt;em&gt;魔法武器&lt;&#x2F;em&gt;&lt;&#x2F;strong&gt;&amp;#129502;&amp;#128737;&lt;&#x2F;p&gt;
 &lt;p&gt;将魔法和近战声音结合在一起，创造出更多声音，如“火焰剑”或“黑暗棍”。&lt;&#x2F;p&gt;
 &lt;p&gt;&lt;strong&gt;500+ 音频片段&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;p&gt;&lt;em&gt;数以万计的可能性&lt;&#x2F;em&gt;&lt;&#x2F;p&gt;
-&lt;p&gt;库中起始约有&lt;strong&gt;500个独立音频片段&lt;&#x2F;strong&gt;。当你开始混合搭配时，这个数量会增长到数十万。你甚至可以将其他包中的音频混合在一起，创造出其他游戏没有的独特声音。&lt;&#x2F;p&gt;
+&lt;p&gt;库中起始约有&lt;strong&gt;500个独立音频片段&lt;&#x2F;strong&gt;。当你开始混合搭配时，这个数量会增长到数以万计。你甚至可以将其他包中的音频混合在一起，创造出其他游戏没有的独特声音。&lt;&#x2F;p&gt;
 &lt;p&gt;--------------------------------------&lt;&#x2F;p&gt;&lt;p&gt;查看更多信息及我们所有的模型，请访问 &lt;a href=&quot;http:&#x2F;&#x2F;www.infinitypbr.com&#x2F;&quot; target=&quot;_blank&quot;&gt;InfinityPBR.com&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;&lt;p&gt;--------------------------------------&lt;&#x2F;p&gt;
-&lt;p&gt;&lt;strong&gt;如果您购买了此包，非常感谢！请留下评分和评论，以便其他人了解它的情况！如果您有任何问题、请求或其他事项，&lt;&#x2F;strong&gt;&lt;a href=&quot;https:&#x2F;&#x2F;forum.unity3d.com&#x2F;threads&#x2F;infinity-series-works-in-progress-mega-thread.408430&#x2F;&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;请在论坛上与我联系。&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;</content>
+&lt;p&gt;&lt;strong&gt;如果您购买了此包，非常感谢！请留下评分和评论，以便其他人了解它的相关信息！如果您有任何问题、请求或其他事项，&lt;&#x2F;strong&gt;&lt;a href=&quot;https:&#x2F;&#x2F;forum.unity3d.com&#x2F;threads&#x2F;infinity-series-works-in-progress-mega-thread.408430&#x2F;&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;请在论坛上与我联系。&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;</content>
         
     </entry>
     <entry xml:lang="zh">
         <title>UI SFX Mega Pack</title>
         <published>2024-12-06T11:03:27+00:00</published>
-        <updated>2024-12-06T11:03:27+00:00</updated>
+        <updated>2024-12-17T13:34:13+00:00</updated>
         
         <author>
           <name>
@@ -57,21 +57,21 @@
         <link rel="alternate" type="text/html" href="https://yzzfo.github.io/unity/store/ui-sfx-mega-pack/"/>
         <id>https://yzzfo.github.io/unity/store/ui-sfx-mega-pack/</id>
         
-        <content type="html" xml:base="https://yzzfo.github.io/unity/store/ui-sfx-mega-pack/">&lt;p&gt;一组为用户界面元素制作的音频剪辑。这是一款对多种类型游戏都很有用的音效包。除了用户界面元素，这些音频剪辑也可以用于其他用途！&lt;&#x2F;p&gt;
+        <content type="html" xml:base="https://yzzfo.github.io/unity/store/ui-sfx-mega-pack/">&lt;p&gt;一组为用户界面元素制作的音频剪辑。这是一款对多种类型游戏都非常有用的音效包。除了用户界面元素，这些音频剪辑也可以用于其他用途！&lt;&#x2F;p&gt;
 &lt;p&gt;这些音频剪辑大多数是分类的，但它们也可能适用于其他目的。有些剪辑适合多个类别，这就是为什么某些类别的音频剪辑数量远多于其他类别的原因。有些音频剪辑非常适合用作机器人角色的声音。只有你的创造力限制了你如何使用这个音效包。&lt;&#x2F;p&gt;
-&lt;p&gt;如果你对这个音效包有建议，比如缺少什么，请告诉我。如果我认为你的建议是一个有用的补充，我会考虑在未来的更新中添加它。&lt;&#x2F;p&gt;
+&lt;p&gt;如果你对这个音效包有任何建议，比如缺少什么，请告诉我。如果我认为你的建议是一个有用的补充，我会考虑在未来的更新中添加它。&lt;&#x2F;p&gt;
 &lt;p&gt;这个包中有&lt;strong&gt;2682个Wav&lt;&#x2F;strong&gt;音频文件。&lt;&#x2F;p&gt;
 &lt;p&gt;这个资源的免费版本可以在这里获取：&lt;a href=&quot;https:&#x2F;&#x2F;assetstore.unity.com&#x2F;packages&#x2F;audio&#x2F;sound-fx&#x2F;ui-sfx-free-pack-245925&quot; target=&quot;_blank&quot;&gt;UI SFX 免费包&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
 &lt;p&gt;&lt;strong&gt;所有类别列表：&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
 &lt;p&gt;- &lt;em&gt;按钮&lt;&#x2F;em&gt;（799个wav文件）：一些音频剪辑是同一录音的不同变体，它们经过编辑以听起来不同。这些音频剪辑适合多个类别。&lt;&#x2F;p&gt;
-&lt;p&gt;- &lt;em&gt;取消&lt;&#x2F;em&gt;（200个wav文件）：这些基于上述提到的一些音频剪辑。这些音频剪辑非常适合“取消”、“拒绝”或“关闭”按钮。&lt;&#x2F;p&gt;
+&lt;p&gt;- &lt;em&gt;取消&lt;&#x2F;em&gt;（200个wav文件）：这些音频剪辑基于上述提到的一些音频剪辑。这些音频剪辑非常适合“取消”、“拒绝”或“关闭”按钮。&lt;&#x2F;p&gt;
 &lt;p&gt;- &lt;em&gt;额外&lt;&#x2F;em&gt;（65个wav文件）：由干扰噪音制作的各种音频剪辑。&lt;&#x2F;p&gt;
 &lt;p&gt;- &lt;em&gt;高音&lt;&#x2F;em&gt;（780个wav文件）：这些音频剪辑是“按钮”类别中某些音频剪辑的高度编辑版本。这些音频剪辑非常适合多种用途，有些剪辑甚至可以用作角色&#x2F;机器人声音。&lt;&#x2F;p&gt;
 &lt;p&gt;- &lt;em&gt;好的&lt;&#x2F;em&gt;（150个wav文件）：这些音频剪辑非常适合“好的”或“接受”按钮，但它们也可以适用于其他用途。&lt;&#x2F;p&gt;&lt;br&gt;&lt;p&gt;- &lt;em&gt;购买&lt;&#x2F;em&gt;（270个wav文件）：这些音频片段包含多种变化的金属硬币声音。它们非常适合用户在您的游戏中购买物品时使用。&lt;&#x2F;p&gt;
-&lt;p&gt;- &lt;em&gt;修理&lt;&#x2F;em&gt;（200个wav文件）：这些音频片段包含多种变化的棘轮扳手声、锤子声和钻机声。它们有单独的音频片段和混合的音频片段。非常适合在您的游戏中修理物品时使用。&lt;&#x2F;p&gt;
-&lt;p&gt;- &lt;em&gt;滑块&lt;&#x2F;em&gt;（63个wav文件）：这些音频片段专为UI滑块设计，听起来像是某物在滑动或滑行。其中一些音频片段可以无缝循环。&lt;&#x2F;p&gt;
+&lt;p&gt;- &lt;em&gt;修理&lt;&#x2F;em&gt;（200个wav文件）：这些音频片段包含多种变化的棘轮扳手声、锤子声和钻机声。它们有单独的音频片段和混合音频片段。非常适合在您的游戏中修理物品时使用。&lt;&#x2F;p&gt;
+&lt;p&gt;- &lt;em&gt;滑块&lt;&#x2F;em&gt;（63个wav文件）：这些音频片段专为用户界面滑块设计，听起来像是某物在滑动或滑行。其中一些音频片段可以无缝循环播放。&lt;&#x2F;p&gt;
 &lt;p&gt;- &lt;em&gt;警告弹窗&lt;&#x2F;em&gt;（155个wav文件）：这些音频片段专为警告弹窗或游戏中消息弹窗设计。&lt;&#x2F;p&gt;
-&lt;p&gt;在这里查看文档：&lt;a href=&quot;http:&#x2F;&#x2F;skrilstudio.com&#x2F;Docs&#x2F;UI%20SFX%20Mega%20Pack%20Documentation.pdf&quot; target=&quot;_blank&quot;&gt;Documentation.pdf&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;在这里阅读文档：&lt;a href=&quot;http:&#x2F;&#x2F;skrilstudio.com&#x2F;Docs&#x2F;UI%20SFX%20Mega%20Pack%20Documentation.pdf&quot; target=&quot;_blank&quot;&gt;Documentation.pdf&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
 &lt;p&gt;如果您有建议或问题，请随时通过&lt;a href=&quot;mailto:info@skrilstudio.com&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;电子邮件&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt;、&lt;a href=&quot;https:&#x2F;&#x2F;www.facebook.com&#x2F;yugelmobile&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;Facebook&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt;与我联系，或在我的&lt;a href=&quot;http:&#x2F;&#x2F;skrilstudio.com&#x2F;contact.html&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;网站&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt;上填写联系表单。&lt;&#x2F;p&gt;</content>
         
     </entry>

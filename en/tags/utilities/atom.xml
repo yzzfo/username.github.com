@@ -5,12 +5,12 @@
     <link rel="self" type="application/atom+xml" href="https://yzzfo.github.io/en/tags/utilities/atom.xml"/>
     <link rel="alternate" type="text/html" href="https://yzzfo.github.io"/>
     <generator uri="https://www.getzola.org/">Zola</generator>
-    <updated>2024-12-16T16:19:44+00:00</updated>
+    <updated>2024-12-17T14:08:58+00:00</updated>
     <id>https://yzzfo.github.io/en/tags/utilities/atom.xml</id>
     <entry xml:lang="en">
         <title>ShaderlabVS Pro</title>
         <published>2024-12-16T16:19:44+00:00</published>
-        <updated>2024-12-16T16:19:44+00:00</updated>
+        <updated>2024-12-17T13:48:56+00:00</updated>
         
         <author>
           <name>
@@ -30,7 +30,7 @@
     <entry xml:lang="en">
         <title>Dynamic Mesh Combiner</title>
         <published>2024-12-16T01:00:58+00:00</published>
-        <updated>2024-12-16T01:00:58+00:00</updated>
+        <updated>2024-12-17T13:48:42+00:00</updated>
         
         <author>
           <name>
@@ -126,7 +126,7 @@
     <entry xml:lang="en">
         <title>MonKey - Productivity Commands</title>
         <published>2024-12-08T17:50:27+00:00</published>
-        <updated>2024-12-08T17:50:27+00:00</updated>
+        <updated>2024-12-17T13:43:31+00:00</updated>
         
         <author>
           <name>
@@ -146,7 +146,7 @@
     <entry xml:lang="en">
         <title>Maintainer</title>
         <published>2024-12-08T17:50:21+00:00</published>
-        <updated>2024-12-08T17:50:21+00:00</updated>
+        <updated>2024-12-17T13:43:27+00:00</updated>
         
         <author>
           <name>
@@ -166,7 +166,7 @@
     <entry xml:lang="en">
         <title>Build Report Tool</title>
         <published>2024-12-08T17:50:14+00:00</published>
-        <updated>2024-12-08T17:50:14+00:00</updated>
+        <updated>2024-12-17T13:43:15+00:00</updated>
         
         <author>
           <name>
@@ -186,7 +186,7 @@
     <entry xml:lang="en">
         <title>Advanced Culling System 2 : Revamped and Boosted Up!</title>
         <published>2024-12-08T17:36:34+00:00</published>
-        <updated>2024-12-08T17:36:34+00:00</updated>
+        <updated>2024-12-17T13:42:40+00:00</updated>
         
         <author>
           <name>
@@ -206,7 +206,7 @@
     <entry xml:lang="en">
         <title>RapidIcon | In-Editor Icon Generator</title>
         <published>2024-12-07T20:02:14+00:00</published>
-        <updated>2024-12-07T20:02:14+00:00</updated>
+        <updated>2024-12-17T13:41:21+00:00</updated>
         
         <author>
           <name>
@@ -226,7 +226,7 @@
     <entry xml:lang="en">
         <title>FSR 3 - Upscaling for Unity</title>
         <published>2024-12-07T20:01:46+00:00</published>
-        <updated>2024-12-07T20:01:46+00:00</updated>
+        <updated>2024-12-17T13:40:47+00:00</updated>
         
         <author>
           <name>
@@ -246,7 +246,7 @@
     <entry xml:lang="en">
         <title>DLSS - Upscaling for Unity</title>
         <published>2024-12-07T20:00:43+00:00</published>
-        <updated>2024-12-07T20:00:43+00:00</updated>
+        <updated>2024-12-17T13:39:37+00:00</updated>
         
         <author>
           <name>
@@ -266,7 +266,7 @@
     <entry xml:lang="en">
         <title>Odin Validator</title>
         <published>2024-12-06T14:27:47+00:00</published>
-        <updated>2024-12-06T14:27:47+00:00</updated>
+        <updated>2024-12-17T13:35:48+00:00</updated>
         
         <author>
           <name>
@@ -286,7 +286,7 @@
     <entry xml:lang="en">
         <title>Odin Inspector and Serializer</title>
         <published>2024-12-06T14:27:35+00:00</published>
-        <updated>2024-12-06T14:27:35+00:00</updated>
+        <updated>2024-12-17T13:35:45+00:00</updated>
         
         <author>
           <name>
@@ -306,7 +306,7 @@
     <entry xml:lang="en">
         <title>EasyPerformanceMonitor - 2024</title>
         <published>2024-11-29T21:21:24+00:00</published>
-        <updated>2024-11-30T13:25:51+00:00</updated>
+        <updated>2024-12-17T13:29:40+00:00</updated>
         
         <author>
           <name>
@@ -326,7 +326,7 @@
     <entry xml:lang="en">
         <title>vHierarchy 2</title>
         <published>2024-11-29T21:21:14+00:00</published>
-        <updated>2024-11-30T13:25:26+00:00</updated>
+        <updated>2024-12-17T13:29:24+00:00</updated>
         
         <author>
           <name>
@@ -346,7 +346,7 @@
     <entry xml:lang="en">
         <title>Easy Save - The Complete Save Game &amp; Data Serializer System</title>
         <published>2024-11-29T21:21:05+00:00</published>
-        <updated>2024-11-30T13:25:17+00:00</updated>
+        <updated>2024-12-17T13:29:20+00:00</updated>
         
         <author>
           <name>
@@ -366,7 +366,7 @@
     <entry xml:lang="en">
         <title>Support package for Hovl Studio assets</title>
         <published>2024-11-29T21:20:45+00:00</published>
-        <updated>2024-11-30T13:24:53+00:00</updated>
+        <updated>2024-12-17T13:29:09+00:00</updated>
         
         <author>
           <name>
@@ -386,7 +386,7 @@
     <entry xml:lang="en">
         <title>Semantic Color Palette</title>
         <published>2024-11-29T21:19:48+00:00</published>
-        <updated>2024-11-30T13:23:32+00:00</updated>
+        <updated>2024-12-17T13:28:19+00:00</updated>
         
         <author>
           <name>
@@ -406,7 +406,7 @@
     <entry xml:lang="en">
         <title>Rewired</title>
         <published>2024-11-29T21:18:40+00:00</published>
-        <updated>2024-11-30T13:22:18+00:00</updated>
+        <updated>2024-12-17T13:27:46+00:00</updated>
         
         <author>
           <name>
@@ -426,7 +426,7 @@
     <entry xml:lang="en">
         <title>Quantum Console</title>
         <published>2024-11-29T21:16:53+00:00</published>
-        <updated>2024-11-30T13:17:30+00:00</updated>
+        <updated>2024-12-17T14:08:58+00:00</updated>
         
         <author>
           <name>
@@ -446,7 +446,7 @@
     <entry xml:lang="en">
         <title>Editor Console Pro</title>
         <published>2024-11-29T21:16:16+00:00</published>
-        <updated>2024-11-30T13:16:34+00:00</updated>
+        <updated>2024-12-17T14:08:19+00:00</updated>
         
         <author>
           <name>

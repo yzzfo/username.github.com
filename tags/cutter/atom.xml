@@ -5,12 +5,12 @@
     <link rel="self" type="application/atom+xml" href="https://yzzfo.github.io/tags/cutter/atom.xml"/>
     <link rel="alternate" type="text/html" href="https://yzzfo.github.io"/>
     <generator uri="https://www.getzola.org/">Zola</generator>
-    <updated>2024-12-06T14:28:15+00:00</updated>
+    <updated>2024-12-17T13:36:12+00:00</updated>
     <id>https://yzzfo.github.io/tags/cutter/atom.xml</id>
     <entry xml:lang="zh">
         <title>Dynamic Mesh Cutter</title>
         <published>2024-12-06T14:28:15+00:00</published>
-        <updated>2024-12-06T14:28:15+00:00</updated>
+        <updated>2024-12-17T13:36:12+00:00</updated>
         
         <author>
           <name>
@@ -23,19 +23,19 @@
         <link rel="alternate" type="text/html" href="https://yzzfo.github.io/unity/store/dynamic-mesh-cutter/"/>
         <id>https://yzzfo.github.io/unity/store/dynamic-mesh-cutter/</id>
         
-        <content type="html" xml:base="https://yzzfo.github.io/unity/store/dynamic-mesh-cutter/">&lt;p&gt;Dynamic Mesh Cutter 是一种高性能的运行时网格切割算法，通过平面交集将网格分割成 &lt;strong&gt;多个不相交&lt;&#x2F;strong&gt; 的网格。&lt;&#x2F;p&gt;
+        <content type="html" xml:base="https://yzzfo.github.io/unity/store/dynamic-mesh-cutter/">&lt;p&gt;动态网格切割器是一种高性能的运行时网格切割算法，通过平面交集将网格分割成&lt;strong&gt;多个不相交&lt;&#x2F;strong&gt;的网格。&lt;&#x2F;p&gt;
 &lt;p&gt;亮点：&lt;&#x2F;p&gt;
 &lt;ul&gt;
-&lt;li&gt;使用 &lt;strong&gt;多线程&lt;&#x2F;strong&gt; 异步切割网格，不会阻塞主线程。&lt;&#x2F;li&gt;
-&lt;li&gt;将网格分离成 &lt;strong&gt;多个不相交的网格&lt;&#x2F;strong&gt;，而不仅仅是“左”侧和“右”侧。&lt;&#x2F;li&gt;
-&lt;li&gt;切割 &lt;strong&gt;蒙皮网格渲染器&lt;&#x2F;strong&gt;，包括动画网格，同时尊重骨骼权重。&lt;&#x2F;li&gt;
-&lt;li&gt;可选设置以根据所需的网格结果提高或降低性能。&lt;&#x2F;li&gt;
-&lt;li&gt;优化以在 &lt;strong&gt;移动设备和 VR 设备&lt;&#x2F;strong&gt; 上运行。&lt;&#x2F;li&gt;
+&lt;li&gt;使用&lt;strong&gt;多线程&lt;&#x2F;strong&gt;异步切割网格，不会阻塞主线程。&lt;&#x2F;li&gt;
+&lt;li&gt;将网格分离为&lt;strong&gt;多个不相交的网格&lt;&#x2F;strong&gt;，而不仅仅是“左侧”和“右侧”。&lt;&#x2F;li&gt;
+&lt;li&gt;切割&lt;strong&gt;蒙皮网格渲染器&lt;&#x2F;strong&gt;，包括动画网格，同时尊重骨骼权重。&lt;&#x2F;li&gt;
+&lt;li&gt;可选设置可根据所需的网格结果增加或减少性能。&lt;&#x2F;li&gt;
+&lt;li&gt;针对&lt;strong&gt;移动设备和虚拟现实设备&lt;&#x2F;strong&gt;进行了优化。&lt;&#x2F;li&gt;
 &lt;&#x2F;ul&gt;
-&lt;p&gt;&lt;strong&gt; RAGDOLL 更新：&lt;&#x2F;strong&gt;现在还可以切割布娃娃，并自动分离关节、刚体和碰撞体！&lt;&#x2F;p&gt;
-&lt;p&gt;有关 Dynamic Mesh Cutter 的具体工作原理，请阅读 &lt;a href = &quot;https:&#x2F;&#x2F;docs.google.com&#x2F;document&#x2F;d&#x2F;1hTIdBDhKTEkR1is2GAxyVnb0muZ7pQQNx61NupFaT1A&#x2F;edit?usp=sharing&quot;&gt;手册&lt;&#x2F;a&gt;。有关常见问题，请访问以下讨论线程。&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;strong&gt;物理模型更新：&lt;&#x2F;strong&gt;现在还可以切割物理模型，并自动分离关节、刚体和碰撞体！&lt;&#x2F;p&gt;
+&lt;p&gt;有关动态网格切割器具体工作原理的更多详细信息，请阅读&lt;a href=&quot;https:&#x2F;&#x2F;docs.google.com&#x2F;document&#x2F;d&#x2F;1hTIdBDhKTEkR1is2GAxyVnb0muZ7pQQNx61NupFaT1A&#x2F;edit?usp=sharing&quot;&gt;手册&lt;&#x2F;a&gt;。如需常见问题解答，请访问以下讨论线程。&lt;&#x2F;p&gt;
 &lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;forum.unity.com&#x2F;threads&#x2F;dynamic-mesh-cutter-a-flexible-run-time-mesh-cutting-solution-discussion-thread.1249558&#x2F;&quot;&gt;讨论线程&lt;&#x2F;a&gt;
-&lt;a href = &quot;https:&#x2F;&#x2F;youtu.be&#x2F;ZdndBDP2H9M&quot;&gt;演示&lt;&#x2F;a&gt;。&lt;&#x2F;p&gt;
+&lt;a href=&quot;https:&#x2F;&#x2F;youtu.be&#x2F;ZdndBDP2H9M&quot;&gt;演示&lt;&#x2F;a&gt;。&lt;&#x2F;p&gt;
 </content>
         
     </entry>

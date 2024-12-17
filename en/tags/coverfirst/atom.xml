@@ -5,12 +5,12 @@
     <link rel="self" type="application/atom+xml" href="https://yzzfo.github.io/en/tags/coverfirst/atom.xml"/>
     <link rel="alternate" type="text/html" href="https://yzzfo.github.io"/>
     <generator uri="https://www.getzola.org/">Zola</generator>
-    <updated>2024-12-09T11:45:53+00:00</updated>
+    <updated>2024-12-17T13:44:22+00:00</updated>
     <id>https://yzzfo.github.io/en/tags/coverfirst/atom.xml</id>
     <entry xml:lang="en">
         <title>Mesh Baker</title>
         <published>2024-12-09T11:45:53+00:00</published>
-        <updated>2024-12-09T11:45:53+00:00</updated>
+        <updated>2024-12-17T13:44:22+00:00</updated>
         
         <author>
           <name>
@@ -24,26 +24,6 @@
         <id>https://yzzfo.github.io/en/unity/store/mesh-baker/</id>
         
         <content type="html" xml:base="https://yzzfo.github.io/en/unity/store/mesh-baker/">&lt;p&gt;&lt;br&gt;Improve performance! Combine meshes and materials to reduce batches! &lt;br&gt;Mesh Baker is a powerful toolkit of flexible non-destructive workflows for optimizing props and scenes. &lt;br&gt;&lt;br&gt;Unity&#x27;s best known optimization tool. Five-star support and updates since 2012.&lt;br&gt;&lt;br&gt;* Create Atlases or Texture Arrays for sets of props&lt;br&gt;* Find, group, and combine meshes in large and complex scenes&lt;br&gt;* Modify prop prefabs to use atlas materials&lt;br&gt;* Supports URP, HDRP, Standard pipelines&lt;br&gt;* Works with built-in and custom shaders&lt;br&gt;* Create atlases for materials that use color tints&lt;br&gt;* Supports props with multiple materials&lt;br&gt;* Handles tiling textures&lt;br&gt;* Combine customize and add props to skinned meshes&lt;br&gt;* Create customizable skinned mesh characters&lt;br&gt;* Combine skinned meshes with blend shapes&lt;BR&gt;* UVs, Normals, Tangents automatically adjusted&lt;br&gt;* Lightmapping support&lt;br&gt;* Mix and match flexible workflow tools&lt;br&gt;* Runtime API&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.youtube.com&#x2F;playlist?list=PLCzm-udM-shncdtvrieqgi-hHDU1kt0d4&quot;&gt;Tutorials&lt;&#x2F;a&gt;&lt;br&gt;&lt;br&gt;&lt;a href=&quot;https:&#x2F;&#x2F;forum.unity.com&#x2F;threads&#x2F;mesh-baker-by-digital-opus-released.159258&#x2F;&quot;&gt;Forum&lt;&#x2F;a&gt;&lt;br&gt;&lt;br&gt;&lt;a href=&quot;http:&#x2F;&#x2F;www.digitalopus.ca&#x2F;site&#x2F;mesh-baker&#x2F;&quot;&gt;Website&lt;&#x2F;a&gt;&lt;br&gt;&lt;br&gt;&lt;&#x2F;p&gt;
-</content>
-        
-    </entry>
-    <entry xml:lang="en">
-        <title>Basic Motions</title>
-        <published>2024-11-29T21:20:35+00:00</published>
-        <updated>2024-11-30T13:24:44+00:00</updated>
-        
-        <author>
-          <name>
-            
-              yzzfo
-            
-          </name>
-        </author>
-        
-        <link rel="alternate" type="text/html" href="https://yzzfo.github.io/en/unity/store/basic-motions/"/>
-        <id>https://yzzfo.github.io/en/unity/store/basic-motions/</id>
-        
-        <content type="html" xml:base="https://yzzfo.github.io/en/unity/store/basic-motions/">&lt;p&gt;Humanoid 3D movement, emotion and interaction animations for retargeting to other humanoid 3D characters.&lt;br&gt;&lt;p &gt;&lt;strong&gt;NEW&lt;&#x2F;strong&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.keviniglesias.com&#x2F;basicMotions&#x2F;Viewer&#x2F;demo.html&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;⭐Online Animations Preview&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;Download the FREE version here:&lt;&#x2F;p&gt;&lt;p &gt;&lt;a href=&quot;http:&#x2F;&#x2F;assetstore.unity.com&#x2F;packages&#x2F;3d&#x2F;animations&#x2F;basic-motions-pack-154271&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;Basic Motions FREE&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;This asset includes humanoid locomotion animations, some emotions and actions for retargeting to other humanoid 3D characters.&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;Simple Character Controller with moving animations included.&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v=0o7SzYSsR-o&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;Retargeting Video Tutorial&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;&lt;strong&gt;Animations List:&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;p &gt;&lt;strong&gt;Idles&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;p &gt;- Standing idles&lt;&#x2F;p&gt;&lt;p &gt;- Crouch idle&lt;&#x2F;p&gt;&lt;p &gt;- Swim idle&lt;&#x2F;p&gt;&lt;p &gt;- Wounded idle&lt;&#x2F;p&gt;&lt;p &gt;&lt;strong&gt;Movement&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;p &gt;- Falling (midair)&lt;&#x2F;p&gt;&lt;p &gt;- Forward roll (root motion and in place, 4.5 m)&lt;&#x2F;p&gt;&lt;p &gt;- Jump (root motion and in place)&lt;&#x2F;p&gt;&lt;p &gt;- Run (8 directions, 4 m&#x2F;s, root motion and in place)&lt;&#x2F;p&gt;&lt;p &gt;- Run slide (root motion and in place, 3 m)&lt;&#x2F;p&gt;&lt;p &gt;- Turn rotations (left &#x2F; right, root motion in place)&lt;&#x2F;p&gt;&lt;p &gt;- Sprint (3 directions, 6 m&#x2F;s, root motion and in place)&lt;&#x2F;p&gt;&lt;p &gt;- Swimming (10 directions, 1 m&#x2F;s, root motion and in place)&lt;&#x2F;p&gt;&lt;p &gt;- Walk (8 directions, 2 m&#x2F;s, root motion and in place)&lt;&#x2F;p&gt;&lt;p &gt;- Crouch walk (8 directions, 2 m&#x2F;s, root motion and in place)&lt;&#x2F;p&gt;&lt;p &gt;&lt;strong&gt;Social&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;p &gt;- Angry&lt;&#x2F;p&gt;&lt;p &gt;- Cheer &#x2F; victory&lt;&#x2F;p&gt;&lt;p &gt;- Conversations (talking and questions)&lt;&#x2F;p&gt;&lt;p &gt;- Fear&lt;&#x2F;p&gt;&lt;p &gt;- Hand claps (applause)&lt;&#x2F;p&gt;&lt;p &gt;- Hand waves&lt;&#x2F;p&gt;&lt;p &gt;- Head nods (saying yes)&lt;&#x2F;p&gt;&lt;p &gt;- Head shakes (saying no)&lt;&#x2F;p&gt;&lt;p &gt;- Pain&lt;&#x2F;p&gt;&lt;p &gt;&lt;strong&gt;Misc&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;p &gt;- Looting from floor&lt;&#x2F;p&gt;&lt;p &gt;- Opening&lt;&#x2F;p&gt;&lt;p &gt;- Knockdown and stand up&lt;&#x2F;p&gt;&lt;p &gt;- Sitting (ground, low, medium and high)&lt;&#x2F;p&gt;&lt;p &gt;- Stunned&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;Each animation is available in two versions: one more masculine and the other more feminine.&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;Contact Support:&lt;&#x2F;p&gt;&lt;p &gt;&lt;strong&gt;support@keviniglesias.com&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.keviniglesias.com&#x2F;&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;www.keviniglesias.com&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;&lt;&#x2F;p&gt;
 </content>
         
     </entry>

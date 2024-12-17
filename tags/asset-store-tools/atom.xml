@@ -5,12 +5,12 @@
     <link rel="self" type="application/atom+xml" href="https://yzzfo.github.io/tags/asset-store-tools/atom.xml"/>
     <link rel="alternate" type="text/html" href="https://yzzfo.github.io"/>
     <generator uri="https://www.getzola.org/">Zola</generator>
-    <updated>2024-12-02T19:47:22+00:00</updated>
+    <updated>2024-12-17T13:32:15+00:00</updated>
     <id>https://yzzfo.github.io/tags/asset-store-tools/atom.xml</id>
     <entry xml:lang="zh">
         <title>Runtime Transform Handles</title>
         <published>2024-12-02T19:47:22+00:00</published>
-        <updated>2024-12-02T19:47:22+00:00</updated>
+        <updated>2024-12-17T13:32:15+00:00</updated>
         
         <author>
           <name>
@@ -23,17 +23,17 @@
         <link rel="alternate" type="text/html" href="https://yzzfo.github.io/unity/store/runtime-transform-handles/"/>
         <id>https://yzzfo.github.io/unity/store/runtime-transform-handles/</id>
         
-        <content type="html" xml:base="https://yzzfo.github.io/unity/store/runtime-transform-handles/">&lt;p&gt;Runtime Transform Handles 是用于在场景中操作 GameObjects 的运行时 3D 控件。&lt;&#x2F;p&gt;
-&lt;p &gt;&lt;strong&gt;Runtime Transform Handles&lt;&#x2F;strong&gt; 是用于在场景中操作 GameObjects 的运行时 3D 控件。通过变换组件，有三种内置变换工具用于定位、旋转和缩放对象。补充控件，如场景小工具和网格，允许更改视角和投影模式，并在场景中显示网格。其他重要组件包括选择组件、场景组件和控件组件，它们允许选择对象、导航场景以及更改变换控件的外观。&lt;&#x2F;p&gt;
+        <content type="html" xml:base="https://yzzfo.github.io/unity/store/runtime-transform-handles/">&lt;p&gt;运行时变换控制器是用于在场景中操作游戏对象的运行时3D控制工具。&lt;&#x2F;p&gt;
+&lt;p &gt;&lt;strong&gt;运行时变换控制器&lt;&#x2F;strong&gt;是用于在场景中操作游戏对象的运行时3D控制工具。通过变换组件，有三种内置变换工具用于定位、旋转和缩放对象。补充控制工具，如场景小工具和网格，允许更改视角和投影模式，并在场景中显示网格。其他重要组件包括选择组件、场景组件和控制器组件，它们允许选择对象、导航场景以及更改变换控制器的外观。&lt;&#x2F;p&gt;
 &lt;p &gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;BattlehubCode&#x2F;RTH_Docs&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;文档&lt;&#x2F;strong&gt; &lt;&#x2F;a&gt;&lt;strong&gt;|&lt;&#x2F;strong&gt; &lt;a href=&quot;https:&#x2F;&#x2F;t.me&#x2F;battlehub&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;Telegram&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
-&lt;p &gt;这是 &lt;a href=&quot;https:&#x2F;&#x2F;www.assetstore.unity3d.com&#x2F;en&#x2F;#!&#x2F;content&#x2F;64806&quot; target=&quot;_blank&quot;&gt;Runtime Editor&lt;&#x2F;a&gt; 的精简版&lt;&#x2F;p&gt;
-&lt;p &gt;&lt;strong&gt;功能：&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;p &gt;♥ 位置控件，&lt;&#x2F;p&gt;&lt;p &gt;♥ 旋转控件；&lt;&#x2F;p&gt;&lt;p &gt;♥ 缩放控件；&lt;&#x2F;p&gt;&lt;p &gt;♥ 网格；&lt;&#x2F;p&gt;&lt;p &gt;♥ 框选；&lt;&#x2F;p&gt;&lt;p &gt;♥ 选择小工具；&lt;&#x2F;p&gt;&lt;p &gt;♥ 对齐到网格 &amp;amp; 顶点捕捉；&lt;&#x2F;p&gt;&lt;p &gt;♥ 场景导航；&lt;&#x2F;p&gt;&lt;p &gt;♥ 全局 &amp;amp; 本地坐标；&lt;&#x2F;p&gt;&lt;p &gt;♥ 撤销 &amp;amp; 重做；&lt;&#x2F;p&gt;&lt;p &gt;♥ 触控支持；&lt;&#x2F;p&gt;&lt;p &gt;♥ 多摄像机支持；&lt;&#x2F;p&gt;</content>
+&lt;p &gt;这是&lt;a href=&quot;https:&#x2F;&#x2F;www.assetstore.unity3d.com&#x2F;en&#x2F;#!&#x2F;content&#x2F;64806&quot; target=&quot;_blank&quot;&gt;运行时编辑器&lt;&#x2F;a&gt;的精简版&lt;&#x2F;p&gt;
+&lt;p &gt;&lt;strong&gt;功能：&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;p &gt;♥ 位置控制器，&lt;&#x2F;p&gt;&lt;p &gt;♥ 旋转控制器；&lt;&#x2F;p&gt;&lt;p &gt;♥ 缩放控制器；&lt;&#x2F;p&gt;&lt;p &gt;♥ 网格；&lt;&#x2F;p&gt;&lt;p &gt;♥ 框选；&lt;&#x2F;p&gt;&lt;p &gt;♥ 选择小工具；&lt;&#x2F;p&gt;&lt;p &gt;♥ 对齐到网格和顶点捕捉；&lt;&#x2F;p&gt;&lt;p &gt;♥ 场景导航；&lt;&#x2F;p&gt;&lt;p &gt;♥ 全局和局部坐标；&lt;&#x2F;p&gt;&lt;p &gt;♥ 撤销和重做；&lt;&#x2F;p&gt;&lt;p &gt;♥ 触控支持；&lt;&#x2F;p&gt;&lt;p &gt;♥ 多摄像机支持；&lt;&#x2F;p&gt;</content>
         
     </entry>
     <entry xml:lang="zh">
         <title>Runtime Editor</title>
         <published>2024-11-29T21:19:38+00:00</published>
-        <updated>2024-11-30T13:23:24+00:00</updated>
+        <updated>2024-12-17T13:28:15+00:00</updated>
         
         <author>
           <name>

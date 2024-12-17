@@ -5,12 +5,12 @@
     <link rel="self" type="application/atom+xml" href="https://yzzfo.github.io/tags/collection/atom.xml"/>
     <link rel="alternate" type="text/html" href="https://yzzfo.github.io"/>
     <generator uri="https://www.getzola.org/">Zola</generator>
-    <updated>2024-12-07T19:59:49+00:00</updated>
+    <updated>2024-12-17T14:08:26+00:00</updated>
     <id>https://yzzfo.github.io/tags/collection/atom.xml</id>
     <entry xml:lang="zh">
         <title>Amplify Shader Pack</title>
         <published>2024-12-07T19:59:49+00:00</published>
-        <updated>2024-12-07T19:59:49+00:00</updated>
+        <updated>2024-12-17T13:38:56+00:00</updated>
         
         <author>
           <name>
@@ -25,17 +25,14 @@
         
         <content type="html" xml:base="https://yzzfo.github.io/unity/store/amplify-shader-pack/">&lt;p&gt;180+ Amplify Shader Editor 示例，适用于 HDRP、URP 和内置渲染器。&lt;&#x2F;p&gt;
 &lt;p &gt;&lt;strong&gt;对 &lt;&#x2F;strong&gt;&lt;a href=&quot;https:&#x2F;&#x2F;assetstore.unity.com&#x2F;packages&#x2F;tools&#x2F;visual-scripting&#x2F;amplify-shader-editor-68570&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;Amplify Shader Editor&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt;&lt;strong&gt; 用户免费。&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;p &gt;无需费用，确保使用与您的 ASE 许可证相同的账户进行结账。&lt;&#x2F;p&gt;
-&lt;p &gt;&lt;strong&gt;在 &lt;&#x2F;strong&gt;&lt;a href=&quot;https:&#x2F;&#x2F;assetstore.unity.com&#x2F;packages&#x2F;tools&#x2F;visual-scripting&#x2F;amplify-bundle-173849&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;Amplify Bundle&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt;&lt;strong&gt; 上节省 35%。&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;p &gt;&lt;a href=&quot;https:&#x2F;&#x2F;assetstore.unity.com&#x2F;packages&#x2F;tools&#x2F;visual-scripting&#x2F;amplify-shader-editor-68570&quot; target=&quot;_blank&quot;&gt;Amplify Shader Editor&lt;&#x2F;a&gt; - 获奖的基于节点的着色器编辑器&lt;&#x2F;p&gt;&lt;p &gt;&lt;a href=&quot;https:&#x2F;&#x2F;assetstore.unity.com&#x2F;packages&#x2F;tools&#x2F;utilities&#x2F;amplify-impostors-119877&quot; target=&quot;_blank&quot;&gt;Amplify Impostors&lt;&#x2F;a&gt; - 一键伪像创建器&lt;&#x2F;p&gt;&lt;p &gt;&lt;a href=&quot;https:&#x2F;&#x2F;assetstore.unity.com&#x2F;packages&#x2F;vfx&#x2F;shaders&#x2F;fullscreen-camera-effects&#x2F;amplify-lut-pack-50070&quot; target=&quot;_blank&quot;&gt;Amplify LUT Pack&lt;&#x2F;a&gt; - 200+ LUT 调色预设&lt;&#x2F;p&gt;
-&lt;p &gt;&lt;strong&gt;最新亮点&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;p &gt;&lt;strong&gt;• 根据 ASE 编辑器 v1.9.6.3 更新&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;p &gt;&lt;strong&gt;• 更新对 Unity 6000.0.14+ 的支持&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;p &gt;&lt;strong&gt;• 优化包大小&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;p &gt;• 为 URP&#x2F;HDRP 17x 添加了预览支持&lt;&#x2F;p&gt;&lt;p &gt;• 添加了新的折射 HDRP 示例&lt;&#x2F;p&gt;&lt;p &gt;• 添加了对 URP&#x2F;HDRP 16x 的支持&lt;&#x2F;p&gt;&lt;p &gt;• 添加了对 URP&#x2F;HDRP 15x 的支持&lt;&#x2F;p&gt;&lt;p &gt;• 添加了对 URP&#x2F;HDRP 14x 的支持&lt;&#x2F;p&gt;&lt;p &gt;• 修复了所有 URP&#x2F;HDRP 10x 和 12x 的示例&lt;&#x2F;p&gt;&lt;p &gt;• 使用 Amplify Shader Editor v1.9.2 构建&lt;&#x2F;p&gt;&lt;p &gt;• 改进了开始屏幕示例导入器&lt;&#x2F;p&gt;
-&lt;p &gt;&lt;strong&gt;重要提示&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;p &gt;• 将最低 Unity 支持提升至 2019.4 LTS&lt;&#x2F;p&gt;&lt;p &gt;• 将最低 URP 支持提升至 10x&lt;&#x2F;p&gt;&lt;p &gt;• 将最低 HDRP 支持提升至 10x&lt;&#x2F;p&gt;&lt;br&gt;&lt;p&gt;超过180个使用Amplify Shader Editor制作的精心挑选的着色器，随时可用且完全可编辑。从基本着色器类型、各种视觉特效（如溶解和变形），到特定的地形示例和带有支持脚本的自定义用途着色器。&lt;&#x2F;p&gt;
-&lt;p&gt;不需要编辑器即可使用，仅在编辑&#x2F;更新时需要。&lt;&#x2F;p&gt;
-&lt;p&gt;• HDRP、URP和内置渲染器&lt;&#x2F;p&gt;
-&lt;p&gt;• 完全可定制&lt;&#x2F;p&gt;
+&lt;p &gt;&lt;strong&gt;在 &lt;&#x2F;strong&gt;&lt;a href=&quot;https:&#x2F;&#x2F;assetstore.unity.com&#x2F;packages&#x2F;tools&#x2F;visual-scripting&#x2F;amplify-bundle-173849&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;Amplify Bundle&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt;&lt;strong&gt; 上节省 35%。&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;p &gt;&lt;a href=&quot;https:&#x2F;&#x2F;assetstore.unity.com&#x2F;packages&#x2F;tools&#x2F;visual-scripting&#x2F;amplify-shader-editor-68570&quot; target=&quot;_blank&quot;&gt;Amplify Shader Editor&lt;&#x2F;a&gt; - 获奖的基于节点的着色器编辑器&lt;&#x2F;p&gt;&lt;p &gt;&lt;a href=&quot;https:&#x2F;&#x2F;assetstore.unity.com&#x2F;packages&#x2F;tools&#x2F;utilities&#x2F;amplify-impostors-119877&quot; target=&quot;_blank&quot;&gt;Amplify Impostors&lt;&#x2F;a&gt; - 一键伪装创建器&lt;&#x2F;p&gt;&lt;p &gt;&lt;a href=&quot;https:&#x2F;&#x2F;assetstore.unity.com&#x2F;packages&#x2F;vfx&#x2F;shaders&#x2F;fullscreen-camera-effects&#x2F;amplify-lut-pack-50070&quot; target=&quot;_blank&quot;&gt;Amplify LUT Pack&lt;&#x2F;a&gt; - 200+ LUT 调色预设&lt;&#x2F;p&gt;
+&lt;p &gt;&lt;strong&gt;最新亮点&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;p &gt;&lt;strong&gt;• 根据 ASE 编辑器 v1.9.8 更新&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;p &gt;&lt;strong&gt;• 更新对 Unity 6 的支持&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;p &gt;&lt;strong&gt;• 优化包大小&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;p &gt;• 为 URP&#x2F;HDRP 17x 添加了预览支持&lt;&#x2F;p&gt;&lt;p &gt;• 添加了新的示例折射 HDRP&lt;&#x2F;p&gt;&lt;p &gt;• 添加了对 URP&#x2F;HDRP 16x 的支持&lt;&#x2F;p&gt;&lt;p &gt;• 添加了对 URP&#x2F;HDRP 15x 的支持&lt;&#x2F;p&gt;&lt;p &gt;• 添加了对 URP&#x2F;HDRP 14x 的支持&lt;&#x2F;p&gt;&lt;p &gt;• 修复了所有 URP&#x2F;HDRP 10x 和 12x 的示例&lt;&#x2F;p&gt;&lt;p &gt;• 使用 Amplify Shader Editor v1.9.2 构建&lt;&#x2F;p&gt;&lt;p &gt;• 改进了开始屏幕示例导入器&lt;&#x2F;p&gt;
+&lt;p &gt;&lt;strong&gt;重要信息&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;p &gt;• 将最低 Unity 支持提升至 2019.4 LTS&lt;&#x2F;p&gt;&lt;p &gt;• 将最低 URP 支持提升至 10x&lt;&#x2F;p&gt;&lt;p &gt;• 将最低 HDRP 支持提升至 10x&lt;&#x2F;p&gt;&lt;br&gt;&lt;p&gt;超过180个使用Amplify Shader Editor制作的精心挑选的着色器，随时可用且完全可编辑。从基本着色器类型、各种视觉特效（如溶解和变形），到特定的地形示例和具有支持脚本的自定义用途着色器。&lt;&#x2F;p&gt;
+&lt;p&gt;不需要编辑器即可使用，仅在需要编辑&#x2F;更新时使用&lt;&#x2F;p&gt;&lt;p&gt;• HDRP、URP和内置渲染器&lt;&#x2F;p&gt;&lt;p&gt;• 完全可定制&lt;&#x2F;p&gt;
 &lt;p&gt;请查看我们的样本目录，访问&lt;a href=&quot;http:&#x2F;&#x2F;wiki.amplify.pt&#x2F;index.php?title=Unity_Products:Amplify_Shader_Pack&quot; target=&quot;_blank&quot;&gt;官方维基&lt;&#x2F;a&gt;。这是开发您自己着色器的一个很好的起点，您可以使用我们屡获殊荣的着色器编辑器将其个性化。添加新效果、改变属性或在渲染器之间转换，您可以调整的内容没有限制。&lt;&#x2F;p&gt;
-&lt;p&gt;&lt;strong&gt;技术考虑&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
-&lt;p&gt;这些着色器是使用Unity 2019.4创建的。内置着色器将与任何Unity版本兼容。&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;strong&gt;技术考虑&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;p&gt;这些着色器是使用Unity 2019.4创建的。内置着色器将与任何Unity版本兼容。&lt;&#x2F;p&gt;
 &lt;p&gt;包括为版本10到16创建的HDRP&#x2F;URP着色器。&lt;strong&gt;您需要&lt;&#x2F;strong&gt;&lt;a href=&quot;https:&#x2F;&#x2F;assetstore.unity.com&#x2F;packages&#x2F;tools&#x2F;visual-scripting&#x2F;amplify-shader-editor-68570&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;Amplify Shader Editor&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt;&lt;strong&gt;来更新这些着色器，以使其与其他SRP版本正常工作。所包含的着色器将在未来SRP更改时根据需要进行更新。&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
-&lt;p&gt;使用&lt;strong&gt;不受支持的SRP版本的HDRP&#x2F;URP着色器而不进行更新，可能会导致渲染不正确或显示为粉色&#x2F;洋红色。&lt;&#x2F;strong&gt;这是预期的，着色器必须在编辑器中打开并保存，以便自动更新到不同的受支持SRP版本。&lt;&#x2F;p&gt;
+&lt;p&gt;使用&lt;strong&gt;HDRP&#x2F;URP着色器与不受支持的SRP版本，且未进行更新，可能会导致渲染不正确或显示为粉色&#x2F;洋红色。&lt;&#x2F;strong&gt;这是预期的，着色器必须在编辑器中打开并保存，以便自动更新到不同的受支持SRP版本。&lt;&#x2F;p&gt;
 &lt;p&gt;&lt;strong&gt;** Amplify Shader Editor单独出售 **&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
 &lt;p&gt;有关Amplify Shader Editor的更多详细信息，请查看我们的&lt;a href=&quot;https:&#x2F;&#x2F;youtu.be&#x2F;2fYcok5jUKY&quot; target=&quot;_blank&quot;&gt;概述视频&lt;&#x2F;a&gt;和&lt;a href=&quot;http:&#x2F;&#x2F;wiki.amplify.pt&#x2F;index.php?title=Unity_Products:Amplify_Shader_Editor&#x2F;Manual&quot; target=&quot;_blank&quot;&gt;手册&lt;&#x2F;a&gt;。&lt;&#x2F;p&gt;&lt;br&gt;&lt;p&gt;进行更改，使用您渴望的专业工具。我们的产品由行业专业人士开发，我们的支持团队始终超越一步，以解决客户可能遇到的任何问题。&lt;&#x2F;p&gt;
 &lt;p&gt;&lt;a href=&quot;mailto:info@amplify.pt&quot; target=&quot;_blank&quot;&gt;联系我们&lt;&#x2F;a&gt;，我们很想听听您的故事，帮助推广和展示您的作品。&lt;&#x2F;p&gt;</content>
@@ -44,7 +41,7 @@
     <entry xml:lang="zh">
         <title>Low Poly Medieval Kit</title>
         <published>2024-11-29T21:16:35+00:00</published>
-        <updated>2024-12-03T01:28:29+00:00</updated>
+        <updated>2024-12-17T14:08:26+00:00</updated>
         
         <author>
           <name>
@@ -58,26 +55,26 @@
         <id>https://yzzfo.github.io/unity/store/low-poly-medieval-kit/</id>
         
         <content type="html" xml:base="https://yzzfo.github.io/unity/store/low-poly-medieval-kit/">&lt;p&gt;Fuel your creativity with the Low Poly Medieval Kit. Designed for the seamless creation of low-poly medieval environments.&lt;&#x2F;p&gt;
-&lt;p&gt;ⓘ &lt;strong&gt;注意&lt;&#x2F;strong&gt;: &lt;em&gt;在更新到新版本之前，请确保备份您的项目，如果您使用的是旧版本。&lt;&#x2F;em&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;ⓘ &lt;strong&gt;注意&lt;&#x2F;strong&gt;: &lt;em&gt;在更新到新版本之前，请确保备份您的项目，如果您正在使用旧版本。&lt;&#x2F;em&gt;&lt;&#x2F;p&gt;
 &lt;p&gt;&lt;strong&gt;包内包含（378个独特资产）&lt;&#x2F;strong&gt;:&lt;&#x2F;p&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;建筑部件&lt;&#x2F;strong&gt;:&lt;strong&gt; &lt;&#x2F;strong&gt;城堡桥（6个）、城堡楼梯、城堡塔（4个）、城堡墙（5个）、大门墙（5个）。&lt;&#x2F;li&gt;
-&lt;li&gt;&lt;strong&gt;建筑物&lt;&#x2F;strong&gt;:&lt;strong&gt; &lt;&#x2F;strong&gt;桥、码头、房屋（9个）、矿山、锯木厂、塔（3个）、水井、风车。&lt;&#x2F;li&gt;
-&lt;li&gt;&lt;strong&gt;车辆&lt;&#x2F;strong&gt;: 大炮、木制手推车、装有麻袋的木制手推车、船、海盗船（2个）。&lt;&#x2F;li&gt;
-&lt;li&gt;&lt;strong&gt;武器&lt;&#x2F;strong&gt;: 斧头、弓、箭、弓箭袋、装有箭的弓箭袋、锤子、斧头、刀、钉锤、砍刀、镐、盾牌、矛、剑。&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;strong&gt;建筑物&lt;&#x2F;strong&gt;:&lt;strong&gt; &lt;&#x2F;strong&gt;桥、码头、房屋（9个）、矿井、锯木厂、塔（3个）、水井、风车。&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;strong&gt;交通工具&lt;&#x2F;strong&gt;: 大炮、木车、装有麻袋的木车、船、海盗船（2个）。&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;strong&gt;武器&lt;&#x2F;strong&gt;: 斧头、弓、箭、弓箭袋、装有箭的弓箭袋、锤子、斧子、刀、钉头锤、砍刀、镐、盾牌、矛、剑。&lt;&#x2F;li&gt;
 &lt;li&gt;&lt;strong&gt;工作站&lt;&#x2F;strong&gt;: 铁砧、带锤子和马蹄的铁砧、制作台（3个）、熔炉（2个）。&lt;&#x2F;li&gt;
-&lt;li&gt;&lt;strong&gt;物品&lt;&#x2F;strong&gt;: 桶（10个）、床（3个）、长椅（6个）、书（10本）、碗（3个）、桶（6个）、地毯（12个）、椅子（4个）、箱子（2个）、木箱（10个）、杯子（5个）、土坟、空桶、花盆（5个）、叉子、木头（20根）、梯子（5个）、灯笼（5个）、药水（10瓶）、勺子、石坟、桌子（5个）、衣柜（5个）、板（15块）、旗帜（10面）、地砖（10块）、卷轴（5个）、标志（6个）、围栏（18个）。&lt;&#x2F;li&gt;
-&lt;li&gt;&lt;strong&gt;植被&lt;&#x2F;strong&gt;: 树（16棵）、灌木（10个）、仙人掌（5个）、枯树（3棵）、枯树（2棵）、花（5朵）、草（5个）、草地（6个）、蘑菇（5个）、芦苇（5个）。&lt;&#x2F;li&gt;
-&lt;li&gt;&lt;strong&gt;石头&lt;&#x2F;strong&gt;: 石头（21块）。&lt;&#x2F;li&gt;
-&lt;li&gt;&lt;strong&gt;地形&lt;&#x2F;strong&gt;: 地形（5个）、大地形（5个）、小地形（5个）、土崖（3个）、草坡（5个）、道路（6条）。&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;strong&gt;物品&lt;&#x2F;strong&gt;: 桶（10个）、床（3个）、长椅（6个）、书（10本）、碗（3个）、桶（6个）、地毯（12个）、椅子（4个）、箱子（2个）、木箱（10个）、杯子（5个）、土墓、空桶、花盆（5个）、叉子、木头（20个）、梯子（5个）、灯笼（5个）、药水（10个）、勺子、石墓、桌子（5个）、衣柜（5个）、木板（15个）、旗帜（10个）、地砖（10个）、卷轴（5个）、标志（6个）、围栏（18个）。&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;strong&gt;植被&lt;&#x2F;strong&gt;: 树（16个）、灌木（10个）、仙人掌（5个）、枯灌木（3个）、枯树（2个）、花（5个）、草（5个）、草地（6个）、蘑菇（5个）、芦苇（5个）。&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;strong&gt;石头&lt;&#x2F;strong&gt;: 石头（21个）。&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;strong&gt;地形&lt;&#x2F;strong&gt;: 地形（5个）、大地形（5个）、小地形（5个）、土崖（3个）、草丘（5个）、道路（6个）。&lt;&#x2F;li&gt;
 &lt;li&gt;&lt;strong&gt;水&lt;&#x2F;strong&gt;: 水面（2个）、大水面（2个）、小水面（2个）。&lt;&#x2F;li&gt;
 &lt;&#x2F;ul&gt;
 &lt;p&gt;&lt;strong&gt;包含两个演示场景&lt;&#x2F;strong&gt;:&lt;&#x2F;p&gt;&lt;br&gt;&lt;p &gt;&lt;strong&gt;主演示场景&lt;&#x2F;strong&gt;:&lt;&#x2F;p&gt;&lt;ul&gt;&lt;li &gt;探索主演示场景，查看资产如何无缝集成到不同的环境中。&lt;&#x2F;li&gt;&lt;&#x2F;ul&gt;
 &lt;p &gt;&lt;strong&gt;展示演示场景&lt;&#x2F;strong&gt;:&lt;&#x2F;p&gt;&lt;ul&gt;&lt;li &gt;通过展示演示场景仔细观察。查看每个资产的细节和独特特征，逐一突出显示。&lt;&#x2F;li&gt;&lt;&#x2F;ul&gt;
-&lt;p &gt;&lt;strong&gt;特点&lt;&#x2F;strong&gt;:&lt;&#x2F;p&gt;&lt;ul&gt;&lt;li &gt;您可以为&lt;strong&gt;大多数资产&lt;&#x2F;strong&gt; &lt;strong&gt;自定义颜色&lt;&#x2F;strong&gt;，使您能够调整模型的外观，以匹配不同的环境和主题。&lt;&#x2F;li&gt;&lt;li &gt;&lt;strong&gt;每个模型&lt;&#x2F;strong&gt;都配备了&lt;strong&gt;预配置的碰撞体&lt;&#x2F;strong&gt;，以增强功能性。&lt;&#x2F;li&gt;&lt;li &gt;&lt;strong&gt;每个预制件的支点&lt;&#x2F;strong&gt;位于&lt;strong&gt;模型的中心底部&lt;&#x2F;strong&gt;，确保精确对齐&lt;strong&gt;。&lt;&#x2F;strong&gt;&lt;&#x2F;li&gt;&lt;li &gt;&lt;strong&gt;逼真的比例&lt;&#x2F;strong&gt;，提供真实的体验。&lt;&#x2F;li&gt;&lt;&#x2F;ul&gt;
+&lt;p &gt;&lt;strong&gt;特点&lt;&#x2F;strong&gt;:&lt;&#x2F;p&gt;&lt;ul&gt;&lt;li &gt;您可以为&lt;strong&gt;大多数资产&lt;&#x2F;strong&gt; &lt;strong&gt;自定义颜色&lt;&#x2F;strong&gt;，使您能够调整模型的外观，以匹配不同的环境和主题。&lt;&#x2F;li&gt;&lt;li &gt;&lt;strong&gt;每个模型&lt;&#x2F;strong&gt;都配备了&lt;strong&gt;预配置的碰撞体&lt;&#x2F;strong&gt;，以增强功能性。&lt;&#x2F;li&gt;&lt;li &gt;&lt;strong&gt;每个预制件的支点&lt;&#x2F;strong&gt;位于&lt;strong&gt;模型的中心底部&lt;&#x2F;strong&gt;，确保精确对齐&lt;strong&gt;.&lt;&#x2F;strong&gt;&lt;&#x2F;li&gt;&lt;li &gt;&lt;strong&gt;逼真的比例&lt;&#x2F;strong&gt;，提供真实的体验。&lt;&#x2F;li&gt;&lt;&#x2F;ul&gt;
 &lt;p &gt;所有截图均使用&lt;strong&gt;Unity 2022.3.18f1&lt;&#x2F;strong&gt;的标准渲染管线制作。&lt;&#x2F;p&gt;
 &lt;p &gt;&lt;strong&gt;兼容性&lt;&#x2F;strong&gt;:&lt;&#x2F;p&gt;&lt;ul&gt;&lt;li &gt;推荐与&lt;strong&gt;Unity 2022.3.18f1&lt;&#x2F;strong&gt;及更高版本一起使用。&lt;&#x2F;li&gt;&lt;&#x2F;ul&gt;
-&lt;p &gt;如有任何支持相关问题，您可以通过此&lt;a href=&quot;mailto:animationcraft84@gmail.com&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;支持&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt;链接与我联系。&lt;&#x2F;p&gt;
+&lt;p &gt;如有任何支持相关的问题，您可以通过此&lt;a href=&quot;mailto:animationcraft84@gmail.com&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;支持&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt;链接与我联系。&lt;&#x2F;p&gt;
 &lt;p &gt;如果您喜欢这个资产，请随时查看我的&lt;strong&gt;其他作品&lt;&#x2F;strong&gt;:&lt;&#x2F;p&gt;&lt;br&gt;&lt;ul&gt;&lt;li &gt;&lt;a href=&quot;https:&#x2F;&#x2F;assetstore.unity.com&#x2F;packages&#x2F;3d&#x2F;environments&#x2F;stylized-western-kit-288884&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;风格化西部套件&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;&lt;li &gt;&lt;a href=&quot;https:&#x2F;&#x2F;assetstore.unity.com&#x2F;packages&#x2F;3d&#x2F;environments&#x2F;stylized-vegetation-kit-pro-289472&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;风格化植被套件专业版&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;&lt;li &gt;&lt;a href=&quot;https:&#x2F;&#x2F;assetstore.unity.com&#x2F;packages&#x2F;3d&#x2F;environments&#x2F;stylized-nature-kit-pro-290138&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;风格化自然套件专业版&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;&lt;li &gt;&lt;a href=&quot;https:&#x2F;&#x2F;assetstore.unity.com&#x2F;packages&#x2F;3d&#x2F;environments&#x2F;low-poly-survival-kit-161250&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;风格化生存套件&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;&lt;li &gt;&lt;a href=&quot;https:&#x2F;&#x2F;assetstore.unity.com&#x2F;packages&#x2F;3d&#x2F;environments&#x2F;low-poly-vegetation-kit-free-version-176906&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;低多边形植被套件轻量版&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;&lt;&#x2F;ul&gt;
 &lt;p &gt;敬请关注&lt;strong&gt;即将更新&lt;&#x2F;strong&gt;。&lt;&#x2F;p&gt;&lt;p &gt;————————————————————&lt;&#x2F;p&gt;&lt;p &gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.youtube.com&#x2F;@proxygamesart&#x2F;featured&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;YouTube&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt; | &lt;a href=&quot;https:&#x2F;&#x2F;twitter.com&#x2F;proxygamesart&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;Twitter&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt; | &lt;a href=&quot;https:&#x2F;&#x2F;www.instagram.com&#x2F;proxygamesart&#x2F;&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;Instagram&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt; | &lt;a href=&quot;https:&#x2F;&#x2F;www.facebook.com&#x2F;proxygamesart&#x2F;&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;Facebook&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;&lt;p &gt;————————————————————&lt;&#x2F;p&gt;
 &lt;p &gt;ⓘ 欲了解更多信息，请查看&lt;strong&gt;&quot;&lt;&#x2F;strong&gt;&lt;em&gt;技术细节&lt;&#x2F;em&gt;&quot;部分。&lt;&#x2F;p&gt;</content>

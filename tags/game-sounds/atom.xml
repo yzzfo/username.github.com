@@ -5,12 +5,12 @@
     <link rel="self" type="application/atom+xml" href="https://yzzfo.github.io/tags/game-sounds/atom.xml"/>
     <link rel="alternate" type="text/html" href="https://yzzfo.github.io"/>
     <generator uri="https://www.getzola.org/">Zola</generator>
-    <updated>2024-12-06T14:29:06+00:00</updated>
+    <updated>2024-12-17T13:36:32+00:00</updated>
     <id>https://yzzfo.github.io/tags/game-sounds/atom.xml</id>
     <entry xml:lang="zh">
         <title>Ambient Sounds - Interactive Soundscapes</title>
         <published>2024-12-06T14:29:06+00:00</published>
-        <updated>2024-12-06T14:29:06+00:00</updated>
+        <updated>2024-12-17T13:36:32+00:00</updated>
         
         <author>
           <name>
@@ -23,42 +23,42 @@
         <link rel="alternate" type="text/html" href="https://yzzfo.github.io/unity/store/ambient-sounds-interactive-soundscapes/"/>
         <id>https://yzzfo.github.io/unity/store/ambient-sounds-interactive-soundscapes/</id>
         
-        <content type="html" xml:base="https://yzzfo.github.io/unity/store/ambient-sounds-interactive-soundscapes/">&lt;p&gt;Creates Interactive Soundscapes system for your game. Now Unity 6 compatible!&lt;&#x2F;p&gt;
-&lt;p &gt;&lt;strong&gt;最新消息&lt;&#x2F;strong&gt; ------------------------------------------------&lt;&#x2F;p&gt;&lt;ul&gt;&lt;li &gt;查看 &lt;a href=&quot;https:&#x2F;&#x2F;canopy.procedural-worlds.com&#x2F;&quot; target=&quot;_blank&quot;&gt;Canopy &lt;&#x2F;a&gt;以获取新闻、支持、教程和免费素材。&lt;&#x2F;li&gt;&lt;li &gt;特惠：以20%的折扣购买我们的&lt;strong&gt; &lt;&#x2F;strong&gt;&lt;a href=&quot;https:&#x2F;&#x2F;assetstore.unity.com&#x2F;packages&#x2F;tools&#x2F;terrain&#x2F;world-building-bundle-2021-edition-194633&quot; target=&quot;_blank&quot;&gt;世界构建捆绑包&lt;&#x2F;a&gt;！！&lt;&#x2F;li&gt;&lt;li &gt;需要帮助来开发您的游戏、模拟或元宇宙吗？ &lt;a href=&quot;https:&#x2F;&#x2F;www.procedural-worlds.com&#x2F;about&#x2F;contact-us&#x2F;&quot; target=&quot;_blank&quot;&gt;联系我们&lt;&#x2F;a&gt;。&lt;&#x2F;li&gt;&lt;&#x2F;ul&gt;&lt;p &gt;----------------------------------------------------------------&lt;&#x2F;p&gt;
-&lt;p &gt;&lt;strong&gt;欢迎来到环境声音&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
-&lt;p &gt;购买环境声音以为您的游戏创建一个互动音景系统。&lt;&#x2F;p&gt;
-&lt;p &gt;​​​​​​​环境声音是一个易于使用的声音系统，它将您的音轨和效果组织成序列，以为您的游戏创建动态音景。事件和修饰符系统允许您控制在环境音频中播放哪些声音，而无需编写一行代码。&lt;&#x2F;p&gt;
-&lt;p &gt;您可以通过监视窗口保持对游戏音频的概览，该窗口实时显示正在播放的声音及其原因的调试信息。环境声音还附带了一库专业作曲和制作的音乐及音效，帮助您快速上手。停止在场景中处理数十个单独的音频脚本，使用环境声音重新掌控！&lt;&#x2F;p&gt;
-&lt;p &gt;&lt;strong&gt;环境声音允许您：&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;br&gt;&lt;ul&gt;&lt;li&gt;将音频剪辑组织成具有组合播放设置的序列&lt;&#x2F;li&gt;&lt;li&gt;在游戏世界的某个区域内全局或局部播放序列&lt;&#x2F;li&gt;&lt;li&gt;将多条背景噪音和音乐序列配对，为游戏中的每个位置创建独特的音景&lt;&#x2F;li&gt;&lt;li&gt;在不同区域之间无缝切换音景&lt;&#x2F;li&gt;&lt;li&gt;通过需求控制使序列具有交互性&lt;&#x2F;li&gt;&lt;li&gt;动态修改序列以响应游戏中的事件&lt;&#x2F;li&gt;&lt;li&gt;在序列之间同步播放，使它们即使在持续时间不同的情况下也能同时开始和结束&lt;&#x2F;li&gt;&lt;li&gt;通过环境声音管理器窗口中的全面列表，保持对环境音频设置的控制，包括场景中的所有序列和条件。&lt;&#x2F;li&gt;&lt;&#x2F;ul&gt;
+        <content type="html" xml:base="https://yzzfo.github.io/unity/store/ambient-sounds-interactive-soundscapes/">&lt;p&gt;创建互动音景系统，为您的游戏提供支持。现在兼容Unity 6！&lt;&#x2F;p&gt;
+&lt;p &gt;&lt;strong&gt;最新消息&lt;&#x2F;strong&gt; ------------------------------------------------&lt;&#x2F;p&gt;&lt;ul&gt;&lt;li &gt;查看 &lt;a href=&quot;https:&#x2F;&#x2F;canopy.procedural-worlds.com&#x2F;&quot; target=&quot;_blank&quot;&gt;Canopy &lt;&#x2F;a&gt;以获取新闻、支持、教程和免费素材。&lt;&#x2F;li&gt;&lt;li &gt;特惠：以20%的折扣购买我们的&lt;strong&gt; &lt;&#x2F;strong&gt;&lt;a href=&quot;https:&#x2F;&#x2F;assetstore.unity.com&#x2F;packages&#x2F;tools&#x2F;terrain&#x2F;world-building-bundle-2021-edition-194633&quot; target=&quot;_blank&quot;&gt;世界构建捆绑包&lt;&#x2F;a&gt;！！&lt;&#x2F;li&gt;&lt;li &gt;需要关于您的游戏、模拟或元宇宙的帮助吗？ &lt;a href=&quot;https:&#x2F;&#x2F;www.procedural-worlds.com&#x2F;about&#x2F;contact-us&#x2F;&quot; target=&quot;_blank&quot;&gt;联系我们&lt;&#x2F;a&gt;。&lt;&#x2F;li&gt;&lt;&#x2F;ul&gt;&lt;p &gt;----------------------------------------------------------------&lt;&#x2F;p&gt;
+&lt;p &gt;&lt;strong&gt;欢迎来到环境音效&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
+&lt;p &gt;购买环境音效以创建互动音景系统，为您的游戏增添色彩。&lt;&#x2F;p&gt;
+&lt;p &gt;​​​​​​​环境音效是一个易于使用的音频系统，将您的音轨和效果组织成序列，以为您的游戏创建动态音景。事件和修饰符系统使您能够控制在环境音频中播放哪些声音，而无需编写一行代码。&lt;&#x2F;p&gt;
+&lt;p &gt;您可以通过监视窗口保持对游戏音频的概览，该窗口实时显示正在播放的声音及其原因的调试信息。环境音效还附带了一库专业作曲和制作的音乐及音效，帮助您快速上手。停止在场景中处理数十个独立的音频脚本，使用环境音效重新掌控您的音频！&lt;&#x2F;p&gt;
+&lt;p &gt;&lt;strong&gt;环境音效允许您：&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;br&gt;&lt;ul&gt;&lt;li&gt;将音频剪辑组织成具有组合播放设置的序列&lt;&#x2F;li&gt;&lt;li&gt;在游戏世界的某个区域内全局或局部播放序列&lt;&#x2F;li&gt;&lt;li&gt;将多条背景噪音和音乐序列配对，为游戏中的每个位置创建独特的音景&lt;&#x2F;li&gt;&lt;li&gt;在不同区域之间无缝切换音景&lt;&#x2F;li&gt;&lt;li&gt;通过需求控制使序列具有互动性&lt;&#x2F;li&gt;&lt;li&gt;实时修改序列以响应游戏中的事件&lt;&#x2F;li&gt;&lt;li&gt;在序列之间同步播放，使它们即使在持续时间不同的情况下也能同时开始和结束&lt;&#x2F;li&gt;&lt;li&gt;通过环境音效管理器窗口中的全面列表，保持对环境音频设置的控制，包括场景中的所有序列和条件。&lt;&#x2F;li&gt;&lt;&#x2F;ul&gt;
 &lt;p&gt;&lt;strong&gt;示例用例：&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
-&lt;ul&gt;&lt;li&gt;创建一个森林音景，根据一天中的时间和&#x2F;或天气播放不同的音乐和声音（鸟鸣、青蛙、树枝折断声、风声）；&lt;&#x2F;li&gt;&lt;li&gt;播放来自玩家周围随机位置或特定位置的声音；&lt;&#x2F;li&gt;&lt;li&gt;随着玩家攀登山峰，播放越来越强烈的风声；&lt;&#x2F;li&gt;&lt;li&gt;当玩家受到攻击时，将音乐切换为战斗主题；&lt;&#x2F;li&gt;&lt;li&gt;当玩家进入洞穴时，逐渐过渡到阴暗而情绪化的配乐；&lt;&#x2F;li&gt;&lt;li&gt;通过添加播放更多音乐&#x2F;声音的附加序列，使序列变得越来越强烈；&lt;&#x2F;li&gt;&lt;li&gt;在游戏进入时间限制结束前的最后几秒时，加快音乐播放速度；&lt;&#x2F;li&gt;&lt;li&gt;在对话音频播放时自动降低&#x2F;静音音乐播放；&lt;&#x2F;li&gt;&lt;li&gt;当玩家进入建筑物时停止音乐播放，并在他们再次离开时恢复播放；&lt;&#x2F;li&gt;&lt;li&gt;在玩家施展魔法时，播放跟随玩家移动的声音；&lt;&#x2F;li&gt;&lt;li&gt;快速在游戏的不同地方或其他项目中重用环境音频区域。&lt;&#x2F;li&gt;&lt;&#x2F;ul&gt;
-&lt;p&gt;&lt;strong&gt;支持的Unity版本&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;br&gt;&lt;p&gt;Unity 2017 及以上版本 &lt;strong&gt;包括 Unity 6！&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
+&lt;ul&gt;&lt;li&gt;创建一个森林音景，根据一天中的时间和&#x2F;或天气播放不同的音乐和声音（鸟鸣、青蛙、树枝折断声、风声）；&lt;&#x2F;li&gt;&lt;li&gt;播放来自玩家周围或特定位置的随机声音；&lt;&#x2F;li&gt;&lt;li&gt;随着玩家攀登山峰，播放越来越强烈的风声；&lt;&#x2F;li&gt;&lt;li&gt;当玩家受到攻击时，将音乐切换为战斗主题；&lt;&#x2F;li&gt;&lt;li&gt;当玩家进入洞穴时，逐渐过渡到阴暗而情绪化的配乐；&lt;&#x2F;li&gt;&lt;li&gt;通过添加更多播放音乐&#x2F;声音的附加序列，使一个序列变得越来越强烈；&lt;&#x2F;li&gt;&lt;li&gt;在游戏进入时间限制结束前的最后几秒时，加快音乐播放速度；&lt;&#x2F;li&gt;&lt;li&gt;在对话音频播放时自动降低&#x2F;静音音乐播放；&lt;&#x2F;li&gt;&lt;li&gt;当玩家进入建筑物时停止音乐播放，并在他们再次离开时恢复播放；&lt;&#x2F;li&gt;&lt;li&gt;在玩家施展魔法时，播放围绕玩家移动的声音；&lt;&#x2F;li&gt;&lt;li&gt;快速在游戏的不同地方或其他项目中重用环境音频区域。&lt;&#x2F;li&gt;&lt;&#x2F;ul&gt;
+&lt;p&gt;&lt;strong&gt;支持的Unity版本&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;br&gt;&lt;p&gt;Unity 2017及以上版本 &lt;strong&gt;包括Unity 6！&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
 &lt;p&gt;&lt;strong&gt;需要帮助或想了解更多信息？&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
 &lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;discord.gg&#x2F;TggjQNN&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;Discord&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
 &lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;canopy.procedural-worlds.com&#x2F;forums&#x2F;&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;论坛&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
 &lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;canopy.procedural-worlds.com&#x2F;library&#x2F;&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;教程&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
-&lt;p&gt;&lt;strong&gt;关于 Procedural Worlds：&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
-&lt;p&gt;在 &lt;a href=&quot;https:&#x2F;&#x2F;www.procedural-worlds.com&#x2F;&quot; target=&quot;_blank&quot;&gt;Procedural Worlds&lt;&#x2F;a&gt;，我们的使命是赋能人们创造、自动化和导航世界。我们的产品易于使用，集成良好，并且支持完善。&lt;&#x2F;p&gt;
-&lt;p&gt;我们为独立开发者、专业人士和企业提供工具，并为工作室、企业和政府交付定制项目。我们的特别之处在于我们拥有深厚的程序化技术栈和一支出色的专家团队，我们利用这一独特组合以较低的时间和成本创建应用程序、游戏、模拟、地图以及 MMO &#x2F; 元宇宙体验。查看我们的 &lt;a href=&quot;https:&#x2F;&#x2F;canopy.procedural-worlds.com&#x2F;gallery&#x2F;category&#x2F;2-hero-shots&#x2F;&quot; target=&quot;_blank&quot;&gt;画廊&lt;&#x2F;a&gt;，然后 &lt;a href=&quot;https:&#x2F;&#x2F;www.procedural-worlds.com&#x2F;about&#x2F;contact-us&#x2F;&quot; target=&quot;_blank&quot;&gt;联系我们&lt;&#x2F;a&gt;。&lt;&#x2F;p&gt;
-&lt;p&gt;我们是 Unity 合作伙伴，Intel 合作伙伴，自 2015 年首次推出 Gaia 以来一直是顶级资产商店出版商。我们在这段时间内的评价不言而喻。&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;strong&gt;关于Procedural Worlds：&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;在 &lt;a href=&quot;https:&#x2F;&#x2F;www.procedural-worlds.com&#x2F;&quot; target=&quot;_blank&quot;&gt;Procedural Worlds&lt;&#x2F;a&gt;，我们的使命是赋能人们创造、自动化和探索世界。我们的产品易于使用，集成良好，并且支持完善。&lt;&#x2F;p&gt;
+&lt;p&gt;我们为独立开发者、专业人士和企业提供工具，并为工作室、企业和政府交付定制项目。我们的特别之处在于我们拥有深厚的程序化技术栈和一支出色的专家团队，我们利用这一独特组合，以极低的时间和成本创建应用程序、游戏、模拟、地图以及MMO&#x2F;元宇宙体验。查看我们的 &lt;a href=&quot;https:&#x2F;&#x2F;canopy.procedural-worlds.com&#x2F;gallery&#x2F;category&#x2F;2-hero-shots&#x2F;&quot; target=&quot;_blank&quot;&gt;画廊&lt;&#x2F;a&gt;，然后 &lt;a href=&quot;https:&#x2F;&#x2F;www.procedural-worlds.com&#x2F;about&#x2F;contact-us&#x2F;&quot; target=&quot;_blank&quot;&gt;联系我们&lt;&#x2F;a&gt;。&lt;&#x2F;p&gt;
+&lt;p&gt;我们是Unity合作伙伴、Intel合作伙伴，自2015年首次推出Gaia以来，一直是顶级资产商店出版商。我们在这段时间内的评价不言而喻。&lt;&#x2F;p&gt;
 &lt;p&gt;&lt;strong&gt;我们的产品：&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
 &lt;p&gt;&lt;strong&gt;捆绑包&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
-&lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;assetstore.unity.com&#x2F;packages&#x2F;tools&#x2F;terrain&#x2F;world-building-bundle-2024-edition-194633&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;世界构建捆绑包 - 2024 版&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt; - 通过这个超棒的捆绑包，享受我们最受欢迎工具的额外 20% 折扣。它包括 Gaia Pro 2023 和 2021、Gena Pro、环境音效、古代山脉印章包 Pegasus 和 SECTR 完整版 2019。&lt;&#x2F;p&gt;&lt;br&gt;&lt;p &gt;&lt;strong&gt;工具&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
-&lt;p &gt;&lt;a href=&quot;https:&#x2F;&#x2F;assetstore.unity.com&#x2F;packages&#x2F;tools&#x2F;terrain&#x2F;gaia-pro-2023-terrain-scene-generator-263149&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;Gaia Pro 2023&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt; - 使用屡获殊荣的Gaia在几分钟内创建令人惊叹的游戏环境！快速生成适用于任何设备的详细地形，无需数天或数周的手动工作。&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;assetstore.unity.com&#x2F;packages&#x2F;tools&#x2F;terrain&#x2F;world-building-bundle-2024-edition-194633&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;世界构建捆绑包 - 2024版&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt; - 通过这个超棒的捆绑包，享受我们最受欢迎工具额外20%的折扣。它包括Gaia Pro 2023和2021、Gena Pro、环境音效、古代山脉印章包Pegasus和SECTR Complete 2019。&lt;&#x2F;p&gt;&lt;br&gt;&lt;p &gt;&lt;strong&gt;工具&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
+&lt;p &gt;&lt;a href=&quot;https:&#x2F;&#x2F;assetstore.unity.com&#x2F;packages&#x2F;tools&#x2F;terrain&#x2F;gaia-pro-2023-terrain-scene-generator-263149&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;Gaia Pro 2023&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt; - 使用屡获殊荣的Gaia，在几分钟内创建令人惊叹的游戏环境！快速生成适用于任何设备的详细地形，无需数天或数周的手动工作。&lt;&#x2F;p&gt;
 &lt;p &gt;&lt;a href=&quot;http:&#x2F;&#x2F;assetstore.unity.com&#x2F;packages&#x2F;tools&#x2F;terrain&#x2F;gena-pro-terrains-villages-roads-rivers-183186&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;GeNa Pro&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt; - GeNa Pro是GeNa 2的升级版。它是一次完整的重写，包含GeNa 2的所有功能，以及创建样条线、河流、道路和村庄的能力，并能够用岩石、树木、草地等填充和塑造您的地形。&lt;&#x2F;p&gt;
 &lt;p &gt;&lt;a href=&quot;https:&#x2F;&#x2F;assetstore.unity.com&#x2F;packages&#x2F;tools&#x2F;terrain&#x2F;sectr-complete-2019-144433&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;SECTR Complete 2019&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt; - 一套性能增强工具，支持开放世界流媒体和大型移动游戏，并包含最新的音频遮挡和传播技术。&lt;&#x2F;p&gt;
 &lt;p &gt;&lt;a href=&quot;https:&#x2F;&#x2F;assetstore.unity.com&#x2F;packages&#x2F;tools&#x2F;audio&#x2F;ambient-sounds-interactive-soundscapes-142132&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;环境音效&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt; - 一个创建互动音景的工具，配有专业制作的音效和音乐库。&lt;&#x2F;p&gt;
 &lt;p &gt;&lt;a href=&quot;https:&#x2F;&#x2F;assetstore.unity.com&#x2F;packages&#x2F;tools&#x2F;animation&#x2F;pegasus-65397&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;Pegasus&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt; - 一个可以沿路径驱动任何物体的系统。非常适合过场动画，甚至具有支持编队、动画和本地避让的环境AI，适用于您的NPC和动物！&lt;&#x2F;p&gt;
-&lt;p &gt;&lt;strong&gt;印章包&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;br&gt;&lt;p&gt;作为印章概念的发明者和热衷于景观创作的开发者，我们对印章有一些了解。请查看我们的&lt;a href=&quot;https:&#x2F;&#x2F;assetstore.unity.com&#x2F;lists&#x2F;stamp-packs-14568938603298&quot; target=&quot;_blank&quot;&gt;印章包&lt;&#x2F;a&gt;，其中包含与Unity、我们的工具以及任何支持印章概念的其他工具兼容的一系列景观。&lt;&#x2F;p&gt;
+&lt;p &gt;&lt;strong&gt;印章包&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;br&gt;&lt;p&gt;作为印章概念的发明者和痴迷于景观创作的开发者，我们对印章有一些了解。请查看我们的&lt;a href=&quot;https:&#x2F;&#x2F;assetstore.unity.com&#x2F;lists&#x2F;stamp-packs-14568938603298&quot; target=&quot;_blank&quot;&gt;印章包&lt;&#x2F;a&gt;，其中包含与Unity、我们的工具以及任何支持印章概念的其他工具兼容的一系列景观。&lt;&#x2F;p&gt;
 &lt;p&gt;&lt;strong&gt;游戏准备级别&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
-&lt;p&gt;如果您拥有我们的工具，并希望获得一些优化的级别来构建您的游戏或学习，请查看我们的&lt;a href=&quot;https:&#x2F;&#x2F;assetstore.unity.com&#x2F;lists&#x2F;game-ready-levels-14568938566388&quot; target=&quot;_blank&quot;&gt;游戏准备级别&lt;&#x2F;a&gt;。&lt;&#x2F;p&gt;
+&lt;p&gt;如果您拥有我们的工具，并希望获得一些优化的关卡来构建您的游戏或进行学习，请查看我们的&lt;a href=&quot;https:&#x2F;&#x2F;assetstore.unity.com&#x2F;lists&#x2F;game-ready-levels-14568938566388&quot; target=&quot;_blank&quot;&gt;游戏准备级别&lt;&#x2F;a&gt;。&lt;&#x2F;p&gt;
 &lt;p&gt;&lt;strong&gt;微生物群落&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
 &lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;assetstore.unity.com&#x2F;lists&#x2F;micro-biomes-14568938607397&quot; target=&quot;_blank&quot;&gt;微生物群落&lt;&#x2F;a&gt;是小型生物群落，旨在与Gaia Pro 2023和GeNa Pro混合搭配，以创建更有趣的环境。&lt;&#x2F;p&gt;
 &lt;p&gt;&lt;strong&gt;程序生成生成器包&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
-&lt;p&gt;我们将商店中一些最好的模块化资产进行整合，使您能够轻松地在场景中使用它们，配合Gaia Pro和GeNa Pro以及我们的&lt;a href=&quot;https:&#x2F;&#x2F;assetstore.unity.com&#x2F;lists&#x2F;procedural-spawner-packs-14568938554200&quot; target=&quot;_blank&quot;&gt;程序生成生成器包&lt;&#x2F;a&gt;。让您的艺术愿景成真，并在几分钟内程序化地创建出手动制作需要数周或数月的内容！&lt;&#x2F;p&gt;
+&lt;p&gt;我们将商店中一些最好的模块化资产整合在一起，使您能够轻松地在场景中使用它们，配合Gaia Pro和GeNa Pro以及我们的&lt;a href=&quot;https:&#x2F;&#x2F;assetstore.unity.com&#x2F;lists&#x2F;procedural-spawner-packs-14568938554200&quot; target=&quot;_blank&quot;&gt;程序生成生成器包&lt;&#x2F;a&gt;。让您的艺术愿景成真，并在几分钟内程序化地创建出手动制作需要数周或数月的内容！&lt;&#x2F;p&gt;
 &lt;p&gt;&lt;strong&gt;升级政策：&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
-&lt;p&gt;每年随着我们进一步开发产品，我们可能会收取下一次主要版本软件的升级费用，费用为全价的20-50%。我们的更新与每年的Unity发布周期同步进行，即2020、2021、2022等。&lt;&#x2F;p&gt;
-&lt;p&gt;您并不需要升级到我们产品的新版本，您的产品将继续在其目标Unity版本上正常工作，但旧版本的产品将不支持新版本的Unity。&lt;&#x2F;p&gt;
+&lt;p&gt;每年随着我们进一步开发产品，我们可能会收取下一次主要软件版本的升级费用，费用为全价的20-50%。我们的更新与每年的Unity发布周期同步，即2020、2021、2022等。&lt;&#x2F;p&gt;
+&lt;p&gt;您并不需要升级到我们产品的新版本，您的产品将继续在其目标的Unity版本上运行，但旧版本的产品将不支持新版本的Unity。&lt;&#x2F;p&gt;
 &lt;p&gt;升级费用将支持团队，以便我们能够继续支持我们的产品和您。&lt;&#x2F;p&gt;</content>
         
     </entry>

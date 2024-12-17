@@ -5,12 +5,12 @@
     <link rel="self" type="application/atom+xml" href="https://yzzfo.github.io/tags/bake/atom.xml"/>
     <link rel="alternate" type="text/html" href="https://yzzfo.github.io"/>
     <generator uri="https://www.getzola.org/">Zola</generator>
-    <updated>2024-12-16T01:00:58+00:00</updated>
+    <updated>2024-12-17T13:48:42+00:00</updated>
     <id>https://yzzfo.github.io/tags/bake/atom.xml</id>
     <entry xml:lang="zh">
         <title>Dynamic Mesh Combiner</title>
         <published>2024-12-16T01:00:58+00:00</published>
-        <updated>2024-12-16T01:00:58+00:00</updated>
+        <updated>2024-12-17T13:48:42+00:00</updated>
         
         <author>
           <name>
@@ -27,14 +27,14 @@
 &lt;p&gt;动态网格合并器将帮助优化您所有3D模型的性能，同时保持视觉质量。无论您是在开发移动游戏、PC游戏还是VR项目，动态网格合并器都是减少绘制调用和提高Unity项目性能的终极工具。&lt;&#x2F;p&gt;
 &lt;p&gt;要开始合并，只需将“MC网格合并器”组件添加到根游戏对象，并将“MC可合并”或“MC LOD可合并”添加到您想要合并的任何子渲染器。该资产将自动处理其余部分，并在对象移动时进行更新！&lt;&#x2F;p&gt;
 &lt;p&gt;如果您想尝试动态网格合并器，以查看它是否适合您的项目，我们提供了一个免费演示版本，您可以在购买前试用：&lt;a href=&quot;https:&#x2F;&#x2F;u3d.as&#x2F;35Bd&quot; target=&quot;_blank&quot;&gt;演示&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
-&lt;p&gt;与以下轮廓资产兼容良好：&lt;&#x2F;p&gt;&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;assetstore.unity.com&#x2F;packages&#x2F;vfx&#x2F;shaders&#x2F;ultimate-outlines-highlights-235063&quot; target=&quot;_blank&quot;&gt;终极轮廓与高亮&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;assetstore.unity.com&#x2F;packages&#x2F;vfx&#x2F;shaders&#x2F;fullscreen-camera-effects&#x2F;easy-performant-outline-2d-3d-urp-hdrp-and-built-in-renderer-157187&quot; target=&quot;_blank&quot;&gt;易用高效轮廓&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;assetstore.unity.com&#x2F;packages&#x2F;vfx&#x2F;shaders&#x2F;highlight-plus-all-in-one-outline-selection-effects-134149&quot; target=&quot;_blank&quot;&gt;高亮加 - 一体化轮廓与选择效果&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;&lt;&#x2F;ul&gt;
-&lt;p&gt;在使用前，请随时查阅&lt;a href=&quot;https:&#x2F;&#x2F;teogames.gitbook.io&#x2F;dynamic-mesh-combiner&#x2F;&quot; target=&quot;_blank&quot;&gt;文档&lt;&#x2F;a&gt;，或如果您有任何问题，请加入我们的&lt;a href=&quot;https:&#x2F;&#x2F;discord.gg&#x2F;DeFvujmZzQ&quot; target=&quot;_blank&quot;&gt;Discord服务器&lt;&#x2F;a&gt;！&lt;&#x2F;p&gt;</content>
+&lt;p&gt;与以下轮廓资产兼容良好：&lt;&#x2F;p&gt;&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;assetstore.unity.com&#x2F;packages&#x2F;vfx&#x2F;shaders&#x2F;ultimate-outlines-highlights-235063&quot; target=&quot;_blank&quot;&gt;终极轮廓与高亮&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;assetstore.unity.com&#x2F;packages&#x2F;vfx&#x2F;shaders&#x2F;fullscreen-camera-effects&#x2F;easy-performant-outline-2d-3d-urp-hdrp-and-built-in-renderer-157187&quot; target=&quot;_blank&quot;&gt;易于高效的轮廓&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;assetstore.unity.com&#x2F;packages&#x2F;vfx&#x2F;shaders&#x2F;highlight-plus-all-in-one-outline-selection-effects-134149&quot; target=&quot;_blank&quot;&gt;高亮加 - 一体化轮廓与选择效果&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;&lt;&#x2F;ul&gt;
+&lt;p&gt;在使用前，请随时查阅&lt;a href=&quot;https:&#x2F;&#x2F;teogames.gitbook.io&#x2F;dynamic-mesh-combiner&#x2F;&quot; target=&quot;_blank&quot;&gt;文档&lt;&#x2F;a&gt;，或加入我们的&lt;a href=&quot;https:&#x2F;&#x2F;discord.gg&#x2F;DeFvujmZzQ&quot; target=&quot;_blank&quot;&gt;Discord服务器&lt;&#x2F;a&gt;，如果您有任何问题！&lt;&#x2F;p&gt;</content>
         
     </entry>
     <entry xml:lang="zh">
         <title>Animation Baking Studio (3D to 2D)</title>
         <published>2024-12-09T18:35:31+00:00</published>
-        <updated>2024-12-09T18:35:31+00:00</updated>
+        <updated>2024-12-17T13:46:31+00:00</updated>
         
         <author>
           <name>
@@ -47,7 +47,7 @@
         <link rel="alternate" type="text/html" href="https://yzzfo.github.io/unity/store/animation-baking-studio-3d-to-2d/"/>
         <id>https://yzzfo.github.io/unity/store/animation-baking-studio-3d-to-2d/</id>
         
-        <content type="html" xml:base="https://yzzfo.github.io/unity/store/animation-baking-studio-3d-to-2d/">&lt;p&gt;您可以从不同方向拍摄各种3D模型。输出文件包括精灵图集、动画剪辑、法线贴图等，这些可以用于2D或2.5D游戏。&lt;&#x2F;p&gt;
+        <content type="html" xml:base="https://yzzfo.github.io/unity/store/animation-baking-studio-3d-to-2d/">&lt;p&gt;您可以从不同方向拍摄各种3D模型。输出文件包括精灵表、动画剪辑、法线贴图等，这些可以用于2D或2.5D游戏。&lt;&#x2F;p&gt;
 </content>
         
     </entry>

@@ -5,12 +5,12 @@
     <link rel="self" type="application/atom+xml" href="https://yzzfo.github.io/tags/runtime/atom.xml"/>
     <link rel="alternate" type="text/html" href="https://yzzfo.github.io"/>
     <generator uri="https://www.getzola.org/">Zola</generator>
-    <updated>2024-12-16T01:00:58+00:00</updated>
+    <updated>2024-12-17T13:48:42+00:00</updated>
     <id>https://yzzfo.github.io/tags/runtime/atom.xml</id>
     <entry xml:lang="zh">
         <title>Dynamic Mesh Combiner</title>
         <published>2024-12-16T01:00:58+00:00</published>
-        <updated>2024-12-16T01:00:58+00:00</updated>
+        <updated>2024-12-17T13:48:42+00:00</updated>
         
         <author>
           <name>
@@ -27,14 +27,14 @@
 &lt;p&gt;动态网格合并器将帮助优化您所有3D模型的性能，同时保持视觉质量。无论您是在开发移动游戏、PC游戏还是VR项目，动态网格合并器都是减少绘制调用和提高Unity项目性能的终极工具。&lt;&#x2F;p&gt;
 &lt;p&gt;要开始合并，只需将“MC网格合并器”组件添加到根游戏对象，并将“MC可合并”或“MC LOD可合并”添加到您想要合并的任何子渲染器。该资产将自动处理其余部分，并在对象移动时进行更新！&lt;&#x2F;p&gt;
 &lt;p&gt;如果您想尝试动态网格合并器，以查看它是否适合您的项目，我们提供了一个免费演示版本，您可以在购买前试用：&lt;a href=&quot;https:&#x2F;&#x2F;u3d.as&#x2F;35Bd&quot; target=&quot;_blank&quot;&gt;演示&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
-&lt;p&gt;与以下轮廓资产兼容良好：&lt;&#x2F;p&gt;&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;assetstore.unity.com&#x2F;packages&#x2F;vfx&#x2F;shaders&#x2F;ultimate-outlines-highlights-235063&quot; target=&quot;_blank&quot;&gt;终极轮廓与高亮&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;assetstore.unity.com&#x2F;packages&#x2F;vfx&#x2F;shaders&#x2F;fullscreen-camera-effects&#x2F;easy-performant-outline-2d-3d-urp-hdrp-and-built-in-renderer-157187&quot; target=&quot;_blank&quot;&gt;易用高效轮廓&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;assetstore.unity.com&#x2F;packages&#x2F;vfx&#x2F;shaders&#x2F;highlight-plus-all-in-one-outline-selection-effects-134149&quot; target=&quot;_blank&quot;&gt;高亮加 - 一体化轮廓与选择效果&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;&lt;&#x2F;ul&gt;
-&lt;p&gt;在使用前，请随时查阅&lt;a href=&quot;https:&#x2F;&#x2F;teogames.gitbook.io&#x2F;dynamic-mesh-combiner&#x2F;&quot; target=&quot;_blank&quot;&gt;文档&lt;&#x2F;a&gt;，或如果您有任何问题，请加入我们的&lt;a href=&quot;https:&#x2F;&#x2F;discord.gg&#x2F;DeFvujmZzQ&quot; target=&quot;_blank&quot;&gt;Discord服务器&lt;&#x2F;a&gt;！&lt;&#x2F;p&gt;</content>
+&lt;p&gt;与以下轮廓资产兼容良好：&lt;&#x2F;p&gt;&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;assetstore.unity.com&#x2F;packages&#x2F;vfx&#x2F;shaders&#x2F;ultimate-outlines-highlights-235063&quot; target=&quot;_blank&quot;&gt;终极轮廓与高亮&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;assetstore.unity.com&#x2F;packages&#x2F;vfx&#x2F;shaders&#x2F;fullscreen-camera-effects&#x2F;easy-performant-outline-2d-3d-urp-hdrp-and-built-in-renderer-157187&quot; target=&quot;_blank&quot;&gt;易于高效的轮廓&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;assetstore.unity.com&#x2F;packages&#x2F;vfx&#x2F;shaders&#x2F;highlight-plus-all-in-one-outline-selection-effects-134149&quot; target=&quot;_blank&quot;&gt;高亮加 - 一体化轮廓与选择效果&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;&lt;&#x2F;ul&gt;
+&lt;p&gt;在使用前，请随时查阅&lt;a href=&quot;https:&#x2F;&#x2F;teogames.gitbook.io&#x2F;dynamic-mesh-combiner&#x2F;&quot; target=&quot;_blank&quot;&gt;文档&lt;&#x2F;a&gt;，或加入我们的&lt;a href=&quot;https:&#x2F;&#x2F;discord.gg&#x2F;DeFvujmZzQ&quot; target=&quot;_blank&quot;&gt;Discord服务器&lt;&#x2F;a&gt;，如果您有任何问题！&lt;&#x2F;p&gt;</content>
         
     </entry>
     <entry xml:lang="zh">
         <title>Roslyn C# - Runtime Compiler</title>
         <published>2024-12-14T11:48:40+00:00</published>
-        <updated>2024-12-14T11:48:40+00:00</updated>
+        <updated>2024-12-17T13:48:10+00:00</updated>
         
         <author>
           <name>
@@ -48,7 +48,7 @@
         <id>https://yzzfo.github.io/unity/store/roslyn-c-runtime-compiler/</id>
         
         <content type="html" xml:base="https://yzzfo.github.io/unity/store/roslyn-c-runtime-compiler/">&lt;p&gt;&lt;strong&gt;&lt;em&gt;*需要 .Net 4.x 或 .Net 标准 API 兼容性级别&lt;&#x2F;em&gt;&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
-&lt;p&gt;Roslyn C# 允许使用 Roslyn 编译器在运行时加载程序集和 C# 脚本，使您可以轻松地为项目添加 mod 支持或游戏内编程。此外，Roslyn C# 还包括代码安全验证，允许您指定加载代码必须遵循的一系列安全限制，包括非法命名空间和类型。这使得从未知来源加载第三方代码变得更加安全。&lt;&#x2F;p&gt;
+&lt;p&gt;Roslyn C# 允许使用 Roslyn 编译器在运行时加载程序集和 C# 脚本，使您可以轻松地为您的项目添加 mod 支持或游戏内编程。此外，Roslyn C# 还包括代码安全验证，允许您指定加载代码必须遵循的一系列安全限制，包括非法命名空间和类型。这使得从未知来源加载第三方代码变得更加安全。&lt;&#x2F;p&gt;
 &lt;p&gt;包括一个基于编程的小型游戏，目标是通过编写执行方向决策的代码，将鼠标从迷宫中导航出来。&lt;&#x2F;p&gt;
 &lt;p&gt;&lt;strong&gt;特点&lt;&#x2F;strong&gt;
 - 在运行时编译和运行 C# 脚本
@@ -56,10 +56,10 @@
 - 快速执行。一旦编译，外部脚本将与游戏脚本一样快速运行
 - 允许轻松添加 mod 支持
 - 代码安全验证意味着可以识别和丢弃不安全的代码
-- 代码安全在失败时生成详细报告，包含有关使用的非法类型和外部代码中每个使用实例的信息
+- 代码安全在失败时生成详细报告，包含有关使用的非法类型和外部代码中每次使用情况的信息
 - 提供简单易用的 API 进行程序集、类型和实例反射
 - 支持使用脚本代理进行非具体通信
-- 使用正确的方法（AddComponent、CreateInstance、new）进行自动类型构造
+- 使用正确的方法（AddComponent、CreateInstance、new）自动构造类型
 - 缓存成员表以快速反射
 - 所有脚本和示例都组织在命名空间中，以避免类型名称冲突
 - 包含完整注释的部分 C# 源代码
@@ -74,7 +74,7 @@
     <entry xml:lang="zh">
         <title>Runtime Transform Handles</title>
         <published>2024-12-02T19:47:22+00:00</published>
-        <updated>2024-12-02T19:47:22+00:00</updated>
+        <updated>2024-12-17T13:32:15+00:00</updated>
         
         <author>
           <name>
@@ -87,17 +87,17 @@
         <link rel="alternate" type="text/html" href="https://yzzfo.github.io/unity/store/runtime-transform-handles/"/>
         <id>https://yzzfo.github.io/unity/store/runtime-transform-handles/</id>
         
-        <content type="html" xml:base="https://yzzfo.github.io/unity/store/runtime-transform-handles/">&lt;p&gt;Runtime Transform Handles 是用于在场景中操作 GameObjects 的运行时 3D 控件。&lt;&#x2F;p&gt;
-&lt;p &gt;&lt;strong&gt;Runtime Transform Handles&lt;&#x2F;strong&gt; 是用于在场景中操作 GameObjects 的运行时 3D 控件。通过变换组件，有三种内置变换工具用于定位、旋转和缩放对象。补充控件，如场景小工具和网格，允许更改视角和投影模式，并在场景中显示网格。其他重要组件包括选择组件、场景组件和控件组件，它们允许选择对象、导航场景以及更改变换控件的外观。&lt;&#x2F;p&gt;
+        <content type="html" xml:base="https://yzzfo.github.io/unity/store/runtime-transform-handles/">&lt;p&gt;运行时变换控制器是用于在场景中操作游戏对象的运行时3D控制工具。&lt;&#x2F;p&gt;
+&lt;p &gt;&lt;strong&gt;运行时变换控制器&lt;&#x2F;strong&gt;是用于在场景中操作游戏对象的运行时3D控制工具。通过变换组件，有三种内置变换工具用于定位、旋转和缩放对象。补充控制工具，如场景小工具和网格，允许更改视角和投影模式，并在场景中显示网格。其他重要组件包括选择组件、场景组件和控制器组件，它们允许选择对象、导航场景以及更改变换控制器的外观。&lt;&#x2F;p&gt;
 &lt;p &gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;BattlehubCode&#x2F;RTH_Docs&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;文档&lt;&#x2F;strong&gt; &lt;&#x2F;a&gt;&lt;strong&gt;|&lt;&#x2F;strong&gt; &lt;a href=&quot;https:&#x2F;&#x2F;t.me&#x2F;battlehub&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;Telegram&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
-&lt;p &gt;这是 &lt;a href=&quot;https:&#x2F;&#x2F;www.assetstore.unity3d.com&#x2F;en&#x2F;#!&#x2F;content&#x2F;64806&quot; target=&quot;_blank&quot;&gt;Runtime Editor&lt;&#x2F;a&gt; 的精简版&lt;&#x2F;p&gt;
-&lt;p &gt;&lt;strong&gt;功能：&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;p &gt;♥ 位置控件，&lt;&#x2F;p&gt;&lt;p &gt;♥ 旋转控件；&lt;&#x2F;p&gt;&lt;p &gt;♥ 缩放控件；&lt;&#x2F;p&gt;&lt;p &gt;♥ 网格；&lt;&#x2F;p&gt;&lt;p &gt;♥ 框选；&lt;&#x2F;p&gt;&lt;p &gt;♥ 选择小工具；&lt;&#x2F;p&gt;&lt;p &gt;♥ 对齐到网格 &amp;amp; 顶点捕捉；&lt;&#x2F;p&gt;&lt;p &gt;♥ 场景导航；&lt;&#x2F;p&gt;&lt;p &gt;♥ 全局 &amp;amp; 本地坐标；&lt;&#x2F;p&gt;&lt;p &gt;♥ 撤销 &amp;amp; 重做；&lt;&#x2F;p&gt;&lt;p &gt;♥ 触控支持；&lt;&#x2F;p&gt;&lt;p &gt;♥ 多摄像机支持；&lt;&#x2F;p&gt;</content>
+&lt;p &gt;这是&lt;a href=&quot;https:&#x2F;&#x2F;www.assetstore.unity3d.com&#x2F;en&#x2F;#!&#x2F;content&#x2F;64806&quot; target=&quot;_blank&quot;&gt;运行时编辑器&lt;&#x2F;a&gt;的精简版&lt;&#x2F;p&gt;
+&lt;p &gt;&lt;strong&gt;功能：&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;p &gt;♥ 位置控制器，&lt;&#x2F;p&gt;&lt;p &gt;♥ 旋转控制器；&lt;&#x2F;p&gt;&lt;p &gt;♥ 缩放控制器；&lt;&#x2F;p&gt;&lt;p &gt;♥ 网格；&lt;&#x2F;p&gt;&lt;p &gt;♥ 框选；&lt;&#x2F;p&gt;&lt;p &gt;♥ 选择小工具；&lt;&#x2F;p&gt;&lt;p &gt;♥ 对齐到网格和顶点捕捉；&lt;&#x2F;p&gt;&lt;p &gt;♥ 场景导航；&lt;&#x2F;p&gt;&lt;p &gt;♥ 全局和局部坐标；&lt;&#x2F;p&gt;&lt;p &gt;♥ 撤销和重做；&lt;&#x2F;p&gt;&lt;p &gt;♥ 触控支持；&lt;&#x2F;p&gt;&lt;p &gt;♥ 多摄像机支持；&lt;&#x2F;p&gt;</content>
         
     </entry>
     <entry xml:lang="zh">
         <title>Runtime Editor</title>
         <published>2024-11-29T21:19:38+00:00</published>
-        <updated>2024-11-30T13:23:24+00:00</updated>
+        <updated>2024-12-17T13:28:15+00:00</updated>
         
         <author>
           <name>

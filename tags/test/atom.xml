@@ -5,12 +5,12 @@
     <link rel="self" type="application/atom+xml" href="https://yzzfo.github.io/tags/test/atom.xml"/>
     <link rel="alternate" type="text/html" href="https://yzzfo.github.io"/>
     <generator uri="https://www.getzola.org/">Zola</generator>
-    <updated>2024-12-06T14:27:47+00:00</updated>
+    <updated>2024-12-17T13:35:48+00:00</updated>
     <id>https://yzzfo.github.io/tags/test/atom.xml</id>
     <entry xml:lang="zh">
         <title>Odin Validator</title>
         <published>2024-12-06T14:27:47+00:00</published>
-        <updated>2024-12-06T14:27:47+00:00</updated>
+        <updated>2024-12-17T13:35:48+00:00</updated>
         
         <author>
           <name>
@@ -23,22 +23,15 @@
         <link rel="alternate" type="text/html" href="https://yzzfo.github.io/unity/store/odin-validator/"/>
         <id>https://yzzfo.github.io/unity/store/odin-validator/</id>
         
-        <content type="html" xml:base="https://yzzfo.github.io/unity/store/odin-validator/">&lt;p&gt;找到并修复Unity中的错误，使用Odin Validator，这是为Unity制作的最强大验证工具。&lt;&#x2F;p&gt;
-&lt;p&gt;Odin Validator会扫描您的项目以查找问题，并帮助您在问题发生时进行修复。它只会在您需要时执行您想要的操作，并且灵活、可扩展，速度足够快，是任何项目（无论是小型、大型还是巨型）中至关重要的工具。&lt;&#x2F;p&gt;
+        <content type="html" xml:base="https://yzzfo.github.io/unity/store/odin-validator/">&lt;p&gt;找到并修复Unity中的错误，Odin Validator是有史以来最强大的Unity验证工具。&lt;&#x2F;p&gt;
+&lt;p&gt;Odin Validator会扫描您的项目以查找问题，并帮助您在问题发生时进行修复。它只会在您需要时执行您想要的操作，并且灵活、可扩展且足够快速，成为任何项目中至关重要的工具，无论是小型、大型还是巨型项目。&lt;&#x2F;p&gt;
 &lt;p&gt;&lt;strong&gt;需要 &lt;&#x2F;strong&gt;&lt;a href=&quot;https:&#x2F;&#x2F;u3d.as&#x2F;Pu7&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;Odin Inspector&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
 &lt;p&gt;&lt;strong&gt;资产商店版本适用于在过去12个月内收入或资金少于20万美元的实体或公司。企业选项可在 &lt;&#x2F;strong&gt;&lt;a href=&quot;https:&#x2F;&#x2F;unity.com&#x2F;products&#x2F;odin&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;这里&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt;&lt;strong&gt; 获取。Odin Validator受 &lt;&#x2F;strong&gt;&lt;a href=&quot;https:&#x2F;&#x2F;odininspector.com&#x2F;terms&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;odininspector.com&#x2F;terms&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt;&lt;strong&gt; 的许可协议约束，而非标准Unity资产商店EULA。&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;odininspector.com&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;OdinInspector.com&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt;：了解更多关于Odin Validator的信息&lt;&#x2F;li&gt;
-&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;learn.unity.com&#x2F;project&#x2F;getting-started-with-odin&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;Unity Learn&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt;：快速入门&lt;&#x2F;li&gt;
-&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;odininspector.com&#x2F;tutorials&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;手册&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt;：了解更多&lt;&#x2F;li&gt;
-&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;odininspector.com&#x2F;download&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;试用版&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt;：在购买前试用&lt;&#x2F;li&gt;
-&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;odininspector.com&#x2F;support&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;支持&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt;：我们随时准备提供帮助&lt;&#x2F;li&gt;
-&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;odininspector.com&#x2F;roadmap&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;路线图&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt;：接下来是什么？&lt;&#x2F;li&gt;
-&lt;&#x2F;ul&gt;&lt;br&gt;&lt;p &gt;&lt;strong&gt;亮点&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;ul&gt;&lt;li &gt;实时背景验证&lt;&#x2F;li&gt;&lt;li &gt;可扩展的问题修复和批量修复&lt;&#x2F;li&gt;&lt;li &gt;创建和切换验证配置文件&lt;&#x2F;li&gt;&lt;li &gt;极其可扩展和可定制&lt;&#x2F;li&gt;&lt;li &gt;创建包含元数据、修复、场景小部件等的丰富问题报告&lt;&#x2F;li&gt;&lt;li &gt;使用自动化钩子在播放、构建或加载时运行&lt;&#x2F;li&gt;&lt;li &gt;将验证结果导出为HTML和JSON报告&lt;&#x2F;li&gt;&lt;li &gt;高性能 - 即使在有数十万个问题的项目中也能流畅运行&lt;&#x2F;li&gt;&lt;&#x2F;ul&gt;
+&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;odininspector.com&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;OdinInspector.com&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt;：了解更多关于Odin Validator的信息&lt;&#x2F;li&gt;&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;learn.unity.com&#x2F;project&#x2F;getting-started-with-odin&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;Unity Learn&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt;：快速入门&lt;&#x2F;li&gt;&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;odininspector.com&#x2F;tutorials&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;手册&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt;：了解更多&lt;&#x2F;li&gt;&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;odininspector.com&#x2F;download&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;试用版&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt;：在购买前试用&lt;&#x2F;li&gt;&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;odininspector.com&#x2F;support&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;支持&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt;：我们随时准备提供帮助&lt;&#x2F;li&gt;&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;odininspector.com&#x2F;roadmap&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;路线图&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt;：接下来是什么？&lt;&#x2F;li&gt;&lt;&#x2F;ul&gt;&lt;br&gt;&lt;p &gt;&lt;strong&gt;亮点&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;ul&gt;&lt;li &gt;实时背景验证&lt;&#x2F;li&gt;&lt;li &gt;可扩展的问题修复和批量修复&lt;&#x2F;li&gt;&lt;li &gt;创建和切换验证配置文件&lt;&#x2F;li&gt;&lt;li &gt;极其可扩展和可定制&lt;&#x2F;li&gt;&lt;li &gt;创建包含元数据、修复、场景小部件等的丰富问题报告&lt;&#x2F;li&gt;&lt;li &gt;使用自动化钩子在播放、构建或加载时运行&lt;&#x2F;li&gt;&lt;li &gt;将验证结果导出为HTML和JSON报告&lt;&#x2F;li&gt;&lt;li &gt;高性能 - 即使在有数十万个问题的项目中也能流畅运行&lt;&#x2F;li&gt;&lt;&#x2F;ul&gt;
 &lt;p &gt;&lt;strong&gt;内置验证&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;ul&gt;&lt;li &gt;检测缺失的引用&lt;&#x2F;li&gt;&lt;li &gt;检测损坏的资源&lt;&#x2F;li&gt;&lt;li &gt;检测重复的组件&lt;&#x2F;li&gt;&lt;li &gt;检测无效的层分配&lt;&#x2F;li&gt;&lt;li &gt;检测着色器编译错误&lt;&#x2F;li&gt;&lt;li &gt;检测损坏的材质&lt;&#x2F;li&gt;&lt;li &gt;检测具有无效材质的渲染器&lt;&#x2F;li&gt;&lt;li &gt;检测无效的变换位置&lt;&#x2F;li&gt;&lt;li &gt;检测损坏的预制体连接&lt;&#x2F;li&gt;&lt;li &gt;检测不在构建设置中的场景&lt;&#x2F;li&gt;&lt;li &gt;检测使用过时的组件&lt;&#x2F;li&gt;&lt;li &gt;检测缺失的脚本&lt;&#x2F;li&gt;&lt;li &gt;检测无效的UnityEvent方法&lt;&#x2F;li&gt;&lt;&#x2F;ul&gt;
 &lt;p &gt;&lt;strong&gt;验证属性&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;ul&gt;&lt;li &gt;必需&lt;&#x2F;li&gt;&lt;li &gt;必需在&lt;&#x2F;li&gt;&lt;li &gt;仅限资源&lt;&#x2F;li&gt;&lt;li &gt;最小值&lt;&#x2F;li&gt;&lt;li &gt;最大值&lt;&#x2F;li&gt;&lt;li &gt;范围&lt;&#x2F;li&gt;&lt;li &gt;过时&lt;&#x2F;li&gt;&lt;li &gt;不允许在此修改&lt;&#x2F;li&gt;&lt;li &gt;仅限子游戏对象&lt;&#x2F;li&gt;&lt;li &gt;仅限场景对象&lt;&#x2F;li&gt;&lt;li &gt;需要组件&lt;&#x2F;li&gt;&lt;li &gt;验证输入&lt;&#x2F;li&gt;&lt;li &gt;文件路径&lt;&#x2F;li&gt;&lt;li &gt;文件夹路径&lt;&#x2F;li&gt;&lt;li &gt;最小最大滑块&lt;&#x2F;li&gt;&lt;li &gt;不验证&lt;&#x2F;li&gt;&lt;&#x2F;ul&gt;
 &lt;p &gt;了解更多关于Odin Validator的功能和优势 &lt;a href=&quot;https:&#x2F;&#x2F;odininspector.com&#x2F;odin-validator&quot; target=&quot;_blank&quot;&gt;请点击这里。&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
-&lt;p &gt;&lt;strong&gt;平台支持&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;p &gt;Odin Validator是一个仅限编辑器的插件，对构建没有任何影响。因此，所有当前和未来的目标平台都完全支持。&lt;&#x2F;p&gt;&lt;br&gt;&lt;p &gt;&lt;strong&gt;社区&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;p &gt;加入我们的 &lt;a href=&quot;https:&#x2F;&#x2F;discord.gg&#x2F;WTYJEra&quot; target=&quot;_blank&quot;&gt;Discord&lt;&#x2F;a&gt; 讨论，获取支持和解答任何问题。&lt;&#x2F;p&gt;</content>
+&lt;p &gt;&lt;strong&gt;平台支持&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;p &gt;Odin Validator是一个仅限编辑器的插件，对构建没有任何影响。因此，所有当前和未来的目标平台都得到全面支持。&lt;&#x2F;p&gt;&lt;br&gt;&lt;p &gt;&lt;strong&gt;社区&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;p &gt;加入我们的 &lt;a href=&quot;https:&#x2F;&#x2F;discord.gg&#x2F;WTYJEra&quot; target=&quot;_blank&quot;&gt;Discord&lt;&#x2F;a&gt; 讨论，获取支持和解答任何问题。&lt;&#x2F;p&gt;</content>
         
     </entry>
 </feed>

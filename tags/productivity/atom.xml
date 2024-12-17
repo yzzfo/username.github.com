@@ -5,12 +5,12 @@
     <link rel="self" type="application/atom+xml" href="https://yzzfo.github.io/tags/productivity/atom.xml"/>
     <link rel="alternate" type="text/html" href="https://yzzfo.github.io"/>
     <generator uri="https://www.getzola.org/">Zola</generator>
-    <updated>2024-12-08T17:50:27+00:00</updated>
+    <updated>2024-12-17T13:43:31+00:00</updated>
     <id>https://yzzfo.github.io/tags/productivity/atom.xml</id>
     <entry xml:lang="zh">
         <title>MonKey - Productivity Commands</title>
         <published>2024-12-08T17:50:27+00:00</published>
-        <updated>2024-12-08T17:50:27+00:00</updated>
+        <updated>2024-12-17T13:43:31+00:00</updated>
         
         <author>
           <name>
@@ -28,7 +28,7 @@
 &lt;p &gt;&lt;strong&gt;更快地搜索、选择、重命名和创建&lt;&#x2F;strong&gt;，并享受更 &lt;strong&gt;流畅&lt;&#x2F;strong&gt; 的编辑器体验，尽在丛林中最聪明的 MonKey。&lt;&#x2F;p&gt;
 &lt;p &gt;我们刚刚发布了一个新插件，名为 &lt;strong&gt;Grabbit&lt;&#x2F;strong&gt;！你可以在 &lt;a href=&quot;http:&#x2F;&#x2F;u3d.as&#x2F;28rH&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;这里查看！&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
 &lt;p &gt;如果你有问题，欢迎来 &lt;a href=&quot;https:&#x2F;&#x2F;discord.gg&#x2F;wRzsqxn&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;我们的 Discord 频道&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt;！&lt;&#x2F;p&gt;
-&lt;p &gt;受到 Zbrush、Houdini、Blender 或 Resharper 中系统的启发，MonKey 为 &lt;strong&gt;艺术家&lt;&#x2F;strong&gt;、&lt;strong&gt;设计师&lt;&#x2F;strong&gt; 和 &lt;strong&gt;程序员&lt;&#x2F;strong&gt; 提供了直接访问节省时间和高级命令的方式。&lt;&#x2F;p&gt;&lt;p &gt;MonKey 消除了重复或繁琐任务的麻烦，或是浏览冗长菜单的烦恼：输入你的命令，更快完成工作！&lt;&#x2F;p&gt;
+&lt;p &gt;受到 Zbrush、Houdini、Blender 或 Resharper 中系统的启发，MonKey 为 &lt;strong&gt;艺术家&lt;&#x2F;strong&gt;、&lt;strong&gt;设计师&lt;&#x2F;strong&gt; 和 &lt;strong&gt;程序员&lt;&#x2F;strong&gt; 提供了直接访问节省时间和高级命令的方式。&lt;&#x2F;p&gt;&lt;p &gt;MonKey 消除了重复或繁琐任务的麻烦，也不再需要浏览冗长的菜单：输入你的命令，更快完成工作！&lt;&#x2F;p&gt;
 &lt;p &gt;⭐&lt;strong&gt;有用链接&lt;&#x2F;strong&gt;⭐&lt;&#x2F;p&gt;
 &lt;p &gt;◽&lt;a href=&quot;https:&#x2F;&#x2F;sites.google.com&#x2F;view&#x2F;monkey-commander&#x2F;monkey&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;我们的网站&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
 &lt;p &gt;◽&lt;a href=&quot;https:&#x2F;&#x2F;sites.google.com&#x2F;view&#x2F;monkey-user-guide&#x2F;home&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;我们的手册&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
@@ -39,9 +39,9 @@
 &lt;p &gt;✔️ &lt;strong&gt;超级快速模糊搜索&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
 &lt;p &gt;✔️ &lt;strong&gt;热键管理器&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;br&gt;&lt;p&gt;✔️ &lt;strong&gt;强大的参数化命令&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
 &lt;p&gt;✔️ &lt;strong&gt;用于关卡设计的交互式命令&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
-&lt;p&gt;✔️ &lt;strong&gt;支持来自Unity和插件的菜单项&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;✔️ &lt;strong&gt;支持来自Unity及插件的菜单项&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
 &lt;p&gt;✔️ &lt;strong&gt;集成命令帮助与人性化命名&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
-&lt;p&gt;✔️ &lt;strong&gt;完全的撤销支持&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;✔️ &lt;strong&gt;完整的撤销支持&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
 &lt;p&gt;✔️ &lt;strong&gt;出色的性能与大型项目优化&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
 &lt;p&gt;✔️ &lt;strong&gt;命令验证&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
 &lt;p&gt;✔️ &lt;strong&gt;灵活的界面&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
@@ -90,9 +90,9 @@
 &lt;p&gt;MonKey 的命令具有完整的撤销支持（在 Unity 的限制内）。再也不用担心实验了！&lt;&#x2F;p&gt;
 &lt;p&gt;✔️ &lt;strong&gt;灵活的界面&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
 &lt;p&gt;界面的用户体验设计旨在易于扩展，并在直观与功能之间取得平衡。MonKey 的控制台可以停靠或用作弹出窗口，并包含许多设置以自定义外观和使用方式。&lt;&#x2F;p&gt;&lt;br&gt;&lt;p&gt;✔️ &lt;strong&gt;有序选择&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
-&lt;p&gt;MonKey 存储了您选择对象的顺序（Unity 不会）：通过使用我们的系统，使您的命令更具用户友好性和可靠性！&lt;&#x2F;p&gt;
+&lt;p&gt;MonKey 存储您选择对象的顺序（Unity 不会）：通过使用我们的系统，使您的命令更具用户友好性和可靠性！&lt;&#x2F;p&gt;
 &lt;p&gt;✔️ &lt;strong&gt;C# 编辑器工具：&lt;&#x2F;strong&gt;MonKey 包含高级功能和对编辑器变量的访问，例如鼠标位置、简单的撤销设置、场景射线检测、按键事件、层级搜索等。&lt;&#x2F;p&gt;
-&lt;p&gt;让您的编辑器工具创建真正闪耀起来！&lt;&#x2F;p&gt;
+&lt;p&gt;让您的编辑器工具创建真正闪耀！&lt;&#x2F;p&gt;
 &lt;p&gt;✔️ &lt;strong&gt;主动支持和命令路线图&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
 &lt;p&gt;我们致力于定期添加新命令和功能，以加速您的工作流程，让您充分体验 Unity 编辑器的潜力！&lt;&#x2F;p&gt;
 &lt;p&gt;✔️ &lt;strong&gt;一只可爱的 MonKey！&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
@@ -109,7 +109,7 @@
     <entry xml:lang="zh">
         <title>vHierarchy 2</title>
         <published>2024-11-29T21:21:14+00:00</published>
-        <updated>2024-11-30T13:25:26+00:00</updated>
+        <updated>2024-12-17T13:29:24+00:00</updated>
         
         <author>
           <name>
@@ -125,14 +125,14 @@
         <content type="html" xml:base="https://yzzfo.github.io/unity/store/vhierarchy-2/">&lt;p &gt;&lt;strong&gt;终极层级资产&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
 &lt;p &gt;通过简单的生活质量改进来组织您的层级并简化工作流程&lt;&#x2F;p&gt;
 &lt;ul&gt;&lt;li &gt;&lt;strong&gt;简约&lt;&#x2F;strong&gt; - 无杂乱，无侵入性功能&lt;&#x2F;li&gt;&lt;li &gt;&lt;strong&gt;直观&lt;&#x2F;strong&gt; - 用户体验简单且精致&lt;&#x2F;li&gt;&lt;li &gt;&lt;strong&gt;可定制&lt;&#x2F;strong&gt; - 所有功能均为可选&lt;&#x2F;li&gt;&lt;li &gt;&lt;strong&gt;优化&lt;&#x2F;strong&gt; - 无延迟或卡顿&lt;&#x2F;li&gt;&lt;&#x2F;ul&gt;
-&lt;p &gt;&lt;strong&gt;自定义图标和颜色&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;p &gt;- 突出显示场景或预制件中的对象&lt;&#x2F;p&gt;&lt;p &gt;- 创建分隔符或文件夹&lt;&#x2F;p&gt;
+&lt;p &gt;&lt;strong&gt;自定义图标和颜色&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;p &gt;- 突出场景或预制件中的对象&lt;&#x2F;p&gt;&lt;p &gt;- 创建分隔符或文件夹&lt;&#x2F;p&gt;
 &lt;p &gt;&lt;strong&gt;组件小地图&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;p &gt;- 在右侧查看列出的组件&lt;&#x2F;p&gt;&lt;p &gt;- Alt-单击组件以打开迷你编辑器&lt;&#x2F;p&gt;
 &lt;p &gt;&lt;strong&gt;可定制调色板&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;p &gt;- 添加图标&lt;&#x2F;p&gt;&lt;p &gt;- 调整颜色&lt;&#x2F;p&gt;&lt;p &gt;- 导出以便在其他项目中使用&lt;&#x2F;p&gt;
 &lt;p &gt;&lt;strong&gt;可定制外观&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;p &gt;- 层级线&lt;&#x2F;p&gt;&lt;p &gt;- 简约模式&lt;&#x2F;p&gt;&lt;p &gt;- 条纹效果&lt;&#x2F;p&gt;
 &lt;p &gt;&lt;strong&gt;激活切换&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;p &gt;- 启用或禁用对象而无需选择它们&lt;&#x2F;p&gt;
-&lt;p &gt;&lt;strong&gt;快捷键&lt;&#x2F;strong&gt;（在鼠标下的对象上工作，无需选择它）&lt;&#x2F;p&gt;&lt;p &gt;- 按 A 切换激活状态&lt;&#x2F;p&gt;&lt;p &gt;- 按 F 聚焦对象&lt;&#x2F;p&gt;&lt;p &gt;- 按 X 删除对象&lt;&#x2F;p&gt;&lt;p &gt;- 按 E 展开或折叠&lt;&#x2F;p&gt;&lt;p &gt;- 按 Shift-E 仅展开一个对象&lt;&#x2F;p&gt;&lt;p &gt;- 按 Ctrl-Shift-E 折叠所有&lt;&#x2F;p&gt;
+&lt;p &gt;&lt;strong&gt;快捷键&lt;&#x2F;strong&gt;（在鼠标下的对象上工作，无需选择它）&lt;&#x2F;p&gt;&lt;p &gt;- 按 A 切换激活状态&lt;&#x2F;p&gt;&lt;p &gt;- 按 F 聚焦对象&lt;&#x2F;p&gt;&lt;p &gt;- 按 X 删除对象&lt;&#x2F;p&gt;&lt;p &gt;- 按 E 展开或折叠&lt;&#x2F;p&gt;&lt;p &gt;- 按 Shift-E 仅展开一个对象&lt;&#x2F;p&gt;&lt;p &gt;- 按 Ctrl-Shift-E 折叠所有对象&lt;&#x2F;p&gt;
 &lt;p &gt;&lt;strong&gt;从 vHierarchy 1.0 升级的理由&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
-&lt;p &gt;在收集了半年的反馈后，我们添加了最受欢迎的功能，并进行了大量改进，以使您的体验更加顺畅：&lt;&#x2F;p&gt;&lt;br&gt;&lt;ul&gt;&lt;li &gt;&lt;strong&gt;多重选择编辑&lt;&#x2F;strong&gt; - 一次设置多个图标或颜色&lt;&#x2F;li&gt;&lt;li &gt;&lt;strong&gt;预制件中的图标&lt;&#x2F;strong&gt; - 在预制件中设置，它们将出现在场景中&lt;&#x2F;li&gt;&lt;li &gt;&lt;strong&gt;可自定义调色板&lt;&#x2F;strong&gt; - 添加自定义图标，导出以便在其他项目中使用&lt;&#x2F;li&gt;&lt;li &gt;&lt;strong&gt;可自定义外观&lt;&#x2F;strong&gt; - 按照您的喜好装饰层级&lt;&#x2F;li&gt;&lt;li &gt;&lt;strong&gt;渐变颜色&lt;&#x2F;strong&gt; - 如果需要，可以调整为平面&lt;&#x2F;li&gt;&lt;li &gt;&lt;strong&gt;激活切换&lt;&#x2F;strong&gt; - 一键启用或禁用对象&lt;&#x2F;li&gt;&lt;li &gt;&lt;strong&gt;组件自动固定&lt;&#x2F;strong&gt; - 开始拖动组件编辑器以固定它&lt;&#x2F;li&gt;&lt;li &gt;&lt;strong&gt;在场景文件中存储数据&lt;&#x2F;strong&gt; - 团队避免合并冲突的选项&lt;&#x2F;li&gt;&lt;li &gt;&lt;strong&gt;美学改进&lt;&#x2F;strong&gt; - 小调整带来大不同&lt;&#x2F;li&gt;&lt;li &gt;&lt;strong&gt;性能提升&lt;&#x2F;strong&gt;&lt;&#x2F;li&gt;&lt;&#x2F;ul&gt;</content>
+&lt;p &gt;在收集了半年的反馈后，我们添加了最受欢迎的功能，并进行了大量改进，以使您的体验更加顺畅：&lt;&#x2F;p&gt;&lt;br&gt;&lt;ul&gt;&lt;li &gt;&lt;strong&gt;多重选择编辑&lt;&#x2F;strong&gt; - 一次设置多个图标或颜色&lt;&#x2F;li&gt;&lt;li &gt;&lt;strong&gt;预制件中的图标&lt;&#x2F;strong&gt; - 在预制件中设置，它们将出现在场景中&lt;&#x2F;li&gt;&lt;li &gt;&lt;strong&gt;可自定义调色板&lt;&#x2F;strong&gt; - 添加自定义图标，导出以便在其他项目中使用&lt;&#x2F;li&gt;&lt;li &gt;&lt;strong&gt;可自定义外观&lt;&#x2F;strong&gt; - 按照您的喜好装饰层级&lt;&#x2F;li&gt;&lt;li &gt;&lt;strong&gt;渐变颜色&lt;&#x2F;strong&gt; - 如果需要，可以调整为平面颜色&lt;&#x2F;li&gt;&lt;li &gt;&lt;strong&gt;激活切换&lt;&#x2F;strong&gt; - 一键启用或禁用对象&lt;&#x2F;li&gt;&lt;li &gt;&lt;strong&gt;组件自动固定&lt;&#x2F;strong&gt; - 开始拖动组件编辑器以固定它&lt;&#x2F;li&gt;&lt;li &gt;&lt;strong&gt;在场景文件中存储数据&lt;&#x2F;strong&gt; - 为团队提供避免合并冲突的选项&lt;&#x2F;li&gt;&lt;li &gt;&lt;strong&gt;美学改进&lt;&#x2F;strong&gt; - 小调整带来大不同&lt;&#x2F;li&gt;&lt;li &gt;&lt;strong&gt;性能提升&lt;&#x2F;strong&gt;&lt;&#x2F;li&gt;&lt;&#x2F;ul&gt;</content>
         
     </entry>
 </feed>

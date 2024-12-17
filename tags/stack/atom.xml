@@ -5,12 +5,12 @@
     <link rel="self" type="application/atom+xml" href="https://yzzfo.github.io/tags/stack/atom.xml"/>
     <link rel="alternate" type="text/html" href="https://yzzfo.github.io"/>
     <generator uri="https://www.getzola.org/">Zola</generator>
-    <updated>2024-12-02T19:45:05+00:00</updated>
+    <updated>2024-12-17T14:08:19+00:00</updated>
     <id>https://yzzfo.github.io/tags/stack/atom.xml</id>
     <entry xml:lang="zh">
         <title>Flexalon: UI Layouts</title>
         <published>2024-12-02T19:45:05+00:00</published>
-        <updated>2024-12-02T19:45:05+00:00</updated>
+        <updated>2024-12-17T13:31:50+00:00</updated>
         
         <author>
           <name>
@@ -23,30 +23,30 @@
         <link rel="alternate" type="text/html" href="https://yzzfo.github.io/unity/store/flexalon-ui-layouts/"/>
         <id>https://yzzfo.github.io/unity/store/flexalon-ui-layouts/</id>
         
-        <content type="html" xml:base="https://yzzfo.github.io/unity/store/flexalon-ui-layouts/">&lt;p&gt;Create responsive UI for your game using two powerful layouts with built-in animations and interactions.&lt;&#x2F;p&gt;
-&lt;p &gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.flexalon.com&#x2F;&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;flexalon.com&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt;&lt;strong&gt; | &lt;&#x2F;strong&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.flexalon.com&#x2F;docs&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;文档 &lt;&#x2F;strong&gt;&lt;&#x2F;a&gt;&lt;strong&gt;| &lt;&#x2F;strong&gt;&lt;a href=&quot;https:&#x2F;&#x2F;discord.gg&#x2F;VM9cWJ9rjH&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;Discord&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
-&lt;p &gt;&lt;strong&gt;Flexalon UI 布局 &lt;&#x2F;strong&gt;是 uGUI 布局组的替代品，提供了更多的控制和选项来构建您的 UI。布局是 &lt;strong&gt;响应式的，&lt;&#x2F;strong&gt;能够适应屏幕大小以及布局中的文本和图像。&lt;&#x2F;p&gt;
-&lt;ul&gt;&lt;li &gt;uGUI 水平&#x2F;垂直布局组 -&amp;gt; &lt;strong&gt;Flexalon 灵活布局&lt;&#x2F;strong&gt;&lt;&#x2F;li&gt;&lt;li &gt;uGUI 网格布局组 -&amp;gt; &lt;strong&gt;Flexalon 网格布局&lt;&#x2F;strong&gt;&lt;&#x2F;li&gt;&lt;&#x2F;ul&gt;
-&lt;p &gt;查看 &lt;a href=&quot;https:&#x2F;&#x2F;assetstore.unity.com&#x2F;packages&#x2F;tools&#x2F;utilities&#x2F;flexalon-3d-layouts-230509&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;Flexalon Pro: 3D &amp;amp; UI 布局&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt;&lt;strong&gt; &lt;&#x2F;strong&gt;以获取更多布局，包括圆形、曲线、形状等。&lt;&#x2F;p&gt;
+        <content type="html" xml:base="https://yzzfo.github.io/unity/store/flexalon-ui-layouts/">&lt;p&gt;创建响应式用户界面，使用两个强大的布局，内置动画和交互功能。&lt;&#x2F;p&gt;
+&lt;p &gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.flexalon.com&#x2F;&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;flexalon.com&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt;&lt;strong&gt; | &lt;&#x2F;strong&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.flexalon.com&#x2F;docs&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;文档&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt;&lt;strong&gt; | &lt;&#x2F;strong&gt;&lt;a href=&quot;https:&#x2F;&#x2F;discord.gg&#x2F;VM9cWJ9rjH&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;Discord&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+&lt;p &gt;&lt;strong&gt;Flexalon UI 布局&lt;&#x2F;strong&gt;是uGUI布局组的替代品，提供了更多的控制和选项来构建您的用户界面。布局是&lt;strong&gt;响应式的&lt;&#x2F;strong&gt;，能够适应屏幕大小以及布局中的文本和图像。&lt;&#x2F;p&gt;
+&lt;ul&gt;&lt;li &gt;uGUI水平&#x2F;垂直布局组 -&amp;gt; &lt;strong&gt;Flexalon灵活布局&lt;&#x2F;strong&gt;&lt;&#x2F;li&gt;&lt;li &gt;uGUI网格布局组 -&amp;gt; &lt;strong&gt;Flexalon网格布局&lt;&#x2F;strong&gt;&lt;&#x2F;li&gt;&lt;&#x2F;ul&gt;
+&lt;p &gt;查看&lt;a href=&quot;https:&#x2F;&#x2F;assetstore.unity.com&#x2F;packages&#x2F;tools&#x2F;utilities&#x2F;flexalon-3d-layouts-230509&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;Flexalon Pro: 3D &amp;amp; UI 布局&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt;&lt;strong&gt; &lt;&#x2F;strong&gt;以获取更多布局，包括圆形、曲线、形状等。&lt;&#x2F;p&gt;
 &lt;p &gt;&lt;strong&gt;用超能力设计&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
-&lt;p &gt;除了布局，Flexalon 还提供强大的内置 &lt;a href=&quot;https:&#x2F;&#x2F;www.flexalon.com&#x2F;docs&#x2F;animators&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;动画器&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt;&lt;strong&gt; &lt;&#x2F;strong&gt;和 &lt;a href=&quot;https:&#x2F;&#x2F;www.flexalon.com&#x2F;docs&#x2F;interactable&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;可交互元素&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt;，使您能够创建具有平滑交互的 UI，例如重新排序列表和在布局之间拖放。&lt;&#x2F;p&gt;
-&lt;p &gt;&lt;strong&gt;不是一个新的 UI 框架&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
-&lt;p &gt;Flexalon 扩展了内置的 uGUI 框架。Flexalon 不会破坏您现有的工作流程，并且没有任何依赖关系。Flexalon 仅编辑附加了 Flexalon 布局组件的对象。&lt;&#x2F;p&gt;
+&lt;p &gt;除了布局，Flexalon还提供强大的内置&lt;a href=&quot;https:&#x2F;&#x2F;www.flexalon.com&#x2F;docs&#x2F;animators&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;动画器&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt;&lt;strong&gt; &lt;&#x2F;strong&gt;和&lt;a href=&quot;https:&#x2F;&#x2F;www.flexalon.com&#x2F;docs&#x2F;interactable&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;可交互元素&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt;，使您能够创建具有平滑交互的用户界面，例如重新排序列表和在布局之间拖放。&lt;&#x2F;p&gt;
+&lt;p &gt;&lt;strong&gt;不是一个新的用户界面框架&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
+&lt;p &gt;Flexalon扩展了内置的uGUI框架。Flexalon不会破坏您现有的工作流程，并且没有任何依赖关系。Flexalon仅编辑附加了Flexalon布局组件的对象。&lt;&#x2F;p&gt;
 &lt;p &gt;&lt;strong&gt;=== 特性 ===&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;br&gt;&lt;p &gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.flexalon.com&#x2F;docs&#x2F;flexalonObject&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;Flexalon 对象&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
-&lt;ul&gt;&lt;li &gt;&lt;strong&gt;尺寸:&lt;&#x2F;strong&gt; 精确控制对象的宽度、高度和深度。&lt;&#x2F;li&gt;&lt;li &gt;&lt;strong&gt;填充与收缩:&lt;&#x2F;strong&gt; 自动调整对象和布局以适应可用空间。&lt;&#x2F;li&gt;&lt;li &gt;&lt;strong&gt;最小&#x2F;最大:&lt;&#x2F;strong&gt; 限制对象和布局的大小。&lt;&#x2F;li&gt;&lt;li &gt;&lt;strong&gt;边距和内边距:&lt;&#x2F;strong&gt; 在对象周围和布局内部添加空白空间。&lt;&#x2F;li&gt;&lt;&#x2F;ul&gt;
+&lt;ul&gt;&lt;li &gt;&lt;strong&gt;尺寸:&lt;&#x2F;strong&gt; 精确控制对象的宽度、高度和深度。&lt;&#x2F;li&gt;&lt;li &gt;&lt;strong&gt;填充与收缩:&lt;&#x2F;strong&gt; 自动调整对象和布局的大小以适应可用空间。&lt;&#x2F;li&gt;&lt;li &gt;&lt;strong&gt;最小&#x2F;最大:&lt;&#x2F;strong&gt; 限制对象和布局的大小。&lt;&#x2F;li&gt;&lt;li &gt;&lt;strong&gt;边距和内边距:&lt;&#x2F;strong&gt; 在对象周围和布局内部添加空白空间。&lt;&#x2F;li&gt;&lt;&#x2F;ul&gt;
 &lt;p &gt;&lt;strong&gt;布局&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
 &lt;ul&gt;&lt;li &gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.flexalon.com&#x2F;flexibleLayout&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;灵活布局&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt;&lt;strong&gt;:&lt;&#x2F;strong&gt; 沿 x、y 或 z 轴线性堆叠子元素，支持可选的换行、对齐、间隙和收缩。想象一下 3D 中的 CSS Flexbox。&lt;&#x2F;li&gt;&lt;li &gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.flexalon.com&#x2F;gridLayout&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;3D 网格布局&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt;&lt;strong&gt;:&lt;&#x2F;strong&gt; 将对象排列在均匀间隔的行、列和层中，使用矩形或六边形单元格。&lt;&#x2F;li&gt;&lt;li &gt;查看 &lt;a href=&quot;https:&#x2F;&#x2F;assetstore.unity.com&#x2F;packages&#x2F;tools&#x2F;utilities&#x2F;flexalon-3d-layouts-230509&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;Flexalon Pro: 3D &amp;amp; UI 布局&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt;&lt;strong&gt; &lt;&#x2F;strong&gt;以获取更多布局，包括圆形、曲线、形状等。&lt;&#x2F;li&gt;&lt;&#x2F;ul&gt;
 &lt;p &gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.flexalon.com&#x2F;docs&#x2F;animators&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;动画器&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
-&lt;ul&gt;&lt;li &gt;&lt;strong&gt;曲线动画器:&lt;&#x2F;strong&gt; 使用可调节的动画曲线在布局位置之间为对象添加动画。&lt;&#x2F;li&gt;&lt;li &gt;&lt;strong&gt;Lerp 动画器:&lt;&#x2F;strong&gt; 使用线性插值在布局位置之间为对象添加动画。&lt;&#x2F;li&gt;&lt;&#x2F;ul&gt;
+&lt;ul&gt;&lt;li &gt;&lt;strong&gt;曲线动画器:&lt;&#x2F;strong&gt; 使用可调节的动画曲线在布局位置之间为对象添加动画效果。&lt;&#x2F;li&gt;&lt;li &gt;&lt;strong&gt;Lerp 动画器:&lt;&#x2F;strong&gt; 使用线性插值在布局位置之间为对象添加动画效果。&lt;&#x2F;li&gt;&lt;&#x2F;ul&gt;
 &lt;p &gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.flexalon.com&#x2F;docs&#x2F;interactable&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;点击和拖动&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
 &lt;ul&gt;&lt;li &gt;&lt;strong&gt;Flexalon 可交互:&lt;&#x2F;strong&gt; 添加点击和拖动交互，允许用户在布局中添加、移除和重新排列对象。&lt;&#x2F;li&gt;&lt;&#x2F;ul&gt;&lt;br&gt;&lt;p &gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.flexalon.com&#x2F;docs&#x2F;cloner&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;数据绑定&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
-&lt;ul&gt;&lt;li &gt;&lt;strong&gt;克隆器:&lt;&#x2F;strong&gt; 基于数据源自动生成对象&lt;&#x2F;li&gt;&lt;li &gt;&lt;strong&gt;数据绑定:&lt;&#x2F;strong&gt; 实现接口以从数据模型更新UI。&lt;&#x2F;li&gt;&lt;&#x2F;ul&gt;</content>
+&lt;ul&gt;&lt;li &gt;&lt;strong&gt;克隆器:&lt;&#x2F;strong&gt; 基于数据源自动生成对象&lt;&#x2F;li&gt;&lt;li &gt;&lt;strong&gt;数据绑定:&lt;&#x2F;strong&gt; 实现接口以从数据模型更新用户界面。&lt;&#x2F;li&gt;&lt;&#x2F;ul&gt;</content>
         
     </entry>
     <entry xml:lang="zh">
         <title>Editor Console Pro</title>
         <published>2024-11-29T21:16:16+00:00</published>
-        <updated>2024-11-30T13:16:34+00:00</updated>
+        <updated>2024-12-17T14:08:19+00:00</updated>
         
         <author>
           <name>

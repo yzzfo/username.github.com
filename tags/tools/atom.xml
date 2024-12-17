@@ -5,12 +5,12 @@
     <link rel="self" type="application/atom+xml" href="https://yzzfo.github.io/tags/tools/atom.xml"/>
     <link rel="alternate" type="text/html" href="https://yzzfo.github.io"/>
     <generator uri="https://www.getzola.org/">Zola</generator>
-    <updated>2024-12-08T17:36:34+00:00</updated>
+    <updated>2024-12-17T13:42:40+00:00</updated>
     <id>https://yzzfo.github.io/tags/tools/atom.xml</id>
     <entry xml:lang="zh">
         <title>Advanced Culling System 2 : Revamped and Boosted Up!</title>
         <published>2024-12-08T17:36:34+00:00</published>
-        <updated>2024-12-08T17:36:34+00:00</updated>
+        <updated>2024-12-17T13:42:40+00:00</updated>
         
         <author>
           <name>
@@ -23,12 +23,12 @@
         <link rel="alternate" type="text/html" href="https://yzzfo.github.io/unity/store/advanced-culling-system-2-revamped-and-boosted-up/"/>
         <id>https://yzzfo.github.io/unity/store/advanced-culling-system-2-revamped-and-boosted-up/</id>
         
-        <content type="html" xml:base="https://yzzfo.github.io/unity/store/advanced-culling-system-2-revamped-and-boosted-up/">&lt;p&gt;高级剔除系统 (ACS)：提升您的 Unity 项目性能&lt;&#x2F;p&gt;
+        <content type="html" xml:base="https://yzzfo.github.io/unity/store/advanced-culling-system-2-revamped-and-boosted-up/">&lt;p&gt;高级剔除系统 (ACS)：提升您的 Unity 项目的性能&lt;&#x2F;p&gt;
 &lt;p&gt;发现新发布的工具 &lt;a href=&quot;http:&#x2F;&#x2F;u3d.as&#x2F;357x&quot; target=&quot;_blank&quot;&gt;MeshFusion Pro!&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
 &lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;forum.unity.com&#x2F;threads&#x2F;released-advanced-culling-system-2-revamped-and-boosted-up.1479780&#x2F;&quot; target=&quot;_blank&quot;&gt;Unity 论坛&lt;&#x2F;a&gt; | &lt;a href=&quot;https:&#x2F;&#x2F;discord.gg&#x2F;6EYUn9QhXF&quot; target=&quot;_blank&quot;&gt;Discord 服务器&lt;&#x2F;a&gt; | &lt;a href=&quot;https:&#x2F;&#x2F;drive.google.com&#x2F;file&#x2F;d&#x2F;1D3qEYNO2K10isrhV78bpkQCyfMw2I0rG&#x2F;view?usp=sharing&quot; target=&quot;_blank&quot;&gt;文档&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
-&lt;p&gt;&lt;strong&gt;高级剔除系统 (ACS)：提升您的 Unity 项目性能&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;strong&gt;高级剔除系统 (ACS)：提升您的 Unity 项目的性能&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
 &lt;p&gt;通过 ACS 提升您项目的效率，这是一种&lt;strong&gt;独特的优化解决方案&lt;&#x2F;strong&gt;，专为 Unity 设计。高级剔除系统是一个多功能工具，包含两个强大的模块：&lt;strong&gt;静态剔除 (StaticCulling) 和动态剔除 (DynamicCulling)&lt;&#x2F;strong&gt;。这些工具使您能够为您的项目实施&lt;strong&gt;最有效的&lt;&#x2F;strong&gt;优化策略。&lt;&#x2F;p&gt;
-&lt;p&gt;&lt;strong&gt;主要特点：&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;ul&gt;&lt;li&gt;兼容所有渲染管线&lt;&#x2F;li&gt;&lt;li&gt;支持所有支持作业的 платформы&lt;&#x2F;li&gt;&lt;li&gt;支持多摄像机&lt;&#x2F;li&gt;&lt;li&gt;支持 LOD（细节层次）&lt;&#x2F;li&gt;&lt;li&gt;易于使用&lt;&#x2F;li&gt;&lt;li&gt;包含教程&lt;&#x2F;li&gt;&lt;li&gt;真正用户友好的界面&lt;&#x2F;li&gt;&lt;li&gt;由 Burst 和作业系统驱动&lt;&#x2F;li&gt;&lt;li&gt;仅需几次点击即可优化&lt;&#x2F;li&gt;&lt;&#x2F;ul&gt;
+&lt;p&gt;&lt;strong&gt;主要特点：&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;ul&gt;&lt;li&gt;兼容所有渲染管线&lt;&#x2F;li&gt;&lt;li&gt;支持所有支持作业的 платформ&lt;&#x2F;li&gt;&lt;li&gt;支持多摄像机&lt;&#x2F;li&gt;&lt;li&gt;支持 LOD（细节层次）&lt;&#x2F;li&gt;&lt;li&gt;易于使用&lt;&#x2F;li&gt;&lt;li&gt;包含教程&lt;&#x2F;li&gt;&lt;li&gt;真正用户友好的界面&lt;&#x2F;li&gt;&lt;li&gt;由 Burst 和 Jobs 系统驱动&lt;&#x2F;li&gt;&lt;li&gt;仅需几次点击即可优化&lt;&#x2F;li&gt;&lt;&#x2F;ul&gt;
 &lt;p&gt;&lt;strong&gt;静态剔除模块&lt;&#x2F;strong&gt;允许&lt;strong&gt;预处理对象的可见性&lt;&#x2F;strong&gt;，然后在运行时简单地打开和关闭它们。这种方法提供了&lt;strong&gt;深度自定义选项&lt;&#x2F;strong&gt;，并在运行时产生更少的负载。&lt;&#x2F;p&gt;
 &lt;p&gt;&lt;strong&gt;优势：&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;ul&gt;&lt;li&gt;剔除网格、LOD 组、光源和自定义对象&lt;&#x2F;li&gt;&lt;li&gt;支持透明度&lt;&#x2F;li&gt;&lt;li&gt;创建自定义剔除目标并剔除任何类型的对象&lt;&#x2F;li&gt;&lt;li&gt;非常适合小型到中型场景&lt;&#x2F;li&gt;&lt;&#x2F;ul&gt;&lt;br&gt;&lt;p &gt;&lt;strong&gt;动态剔除&lt;&#x2F;strong&gt;是一个简化&lt;strong&gt;静态和动态对象&lt;&#x2F;strong&gt;优化的模块，无需&lt;strong&gt;预处理&lt;&#x2F;strong&gt;。&lt;&#x2F;p&gt;
 &lt;p &gt;&lt;strong&gt;优点：&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;ul&gt;&lt;li &gt;支持静态和动态对象&lt;&#x2F;li&gt;&lt;li &gt;剔除网格、LOD组和自定义对象&lt;&#x2F;li&gt;&lt;li &gt;针对实例化对象进行了优化&lt;&#x2F;li&gt;&lt;li &gt;无需预处理&lt;&#x2F;li&gt;&lt;li &gt;能够处理大型和复杂场景&lt;&#x2F;li&gt;&lt;&#x2F;ul&gt;
@@ -38,7 +38,7 @@
     <entry xml:lang="zh">
         <title>OpenCV for Unity</title>
         <published>2024-12-08T12:43:11+00:00</published>
-        <updated>2024-12-08T12:43:11+00:00</updated>
+        <updated>2024-12-17T13:42:33+00:00</updated>
         
         <author>
           <name>

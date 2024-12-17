@@ -5,12 +5,12 @@
     <link rel="self" type="application/atom+xml" href="https://yzzfo.github.io/tags/magic/atom.xml"/>
     <link rel="alternate" type="text/html" href="https://yzzfo.github.io"/>
     <generator uri="https://www.getzola.org/">Zola</generator>
-    <updated>2024-12-08T17:42:29+00:00</updated>
+    <updated>2024-12-17T14:09:02+00:00</updated>
     <id>https://yzzfo.github.io/tags/magic/atom.xml</id>
     <entry xml:lang="zh">
         <title>RPG VFX Bundle</title>
         <published>2024-12-08T17:42:29+00:00</published>
-        <updated>2024-12-08T17:42:29+00:00</updated>
+        <updated>2024-12-17T13:43:12+00:00</updated>
         
         <author>
           <name>
@@ -30,7 +30,7 @@
     <entry xml:lang="zh">
         <title>Pure Nature 2 : Mountains</title>
         <published>2024-12-07T11:37:24+00:00</published>
-        <updated>2024-12-07T11:37:24+00:00</updated>
+        <updated>2024-12-17T13:38:39+00:00</updated>
         
         <author>
           <name>
@@ -43,21 +43,21 @@
         <link rel="alternate" type="text/html" href="https://yzzfo.github.io/unity/store/pure-nature-2-mountains/"/>
         <id>https://yzzfo.github.io/unity/store/pure-nature-2-mountains/</id>
         
-        <content type="html" xml:base="https://yzzfo.github.io/unity/store/pure-nature-2-mountains/">&lt;p&gt;&lt;strong&gt;3D 风格化自然环境资产&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;p&gt;所有内容都包含预制件 - 准备好可以放入场景中。&lt;&#x2F;p&gt;&lt;p&gt;&lt;strong&gt;&lt;em&gt;包含 URP 版本！&lt;&#x2F;em&gt;&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
-&lt;p&gt;&lt;strong&gt;此包包含：&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;p&gt;&lt;strong&gt;植被&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;p&gt;- 云杉&lt;&#x2F;p&gt;&lt;p&gt;- 松树&lt;&#x2F;p&gt;&lt;p&gt;- 冷杉&lt;&#x2F;p&gt;&lt;p&gt;- 灌木&lt;&#x2F;p&gt;&lt;p&gt;- 蘑菇&lt;&#x2F;p&gt;&lt;p&gt;- 草&lt;&#x2F;p&gt;&lt;p&gt;&lt;em&gt;草、树枝、蕨类植物，各种……&lt;&#x2F;em&gt;&lt;&#x2F;p&gt;&lt;p&gt;- 花&lt;&#x2F;p&gt;&lt;p&gt;&lt;em&gt;浆果、胡萝卜、雏菊、刺槐、薰衣草、狼毒、各种……&lt;&#x2F;em&gt;&lt;&#x2F;p&gt;&lt;p&gt;- 蘑菇&lt;&#x2F;p&gt;
-&lt;p&gt;&lt;strong&gt;岩石&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;p&gt;- 悬崖&lt;&#x2F;p&gt;&lt;p&gt;- 巨石&lt;&#x2F;p&gt;&lt;p&gt;- 岩石和卵石&lt;&#x2F;p&gt;&lt;p&gt;- 山脉&lt;&#x2F;p&gt;
-&lt;p&gt;&lt;strong&gt;材质&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;p&gt;- 草&lt;&#x2F;p&gt;&lt;p&gt;- 沙子&lt;&#x2F;p&gt;&lt;p&gt;- 碎石&lt;&#x2F;p&gt;&lt;p&gt;- 泥土&lt;&#x2F;p&gt;&lt;p&gt;- 草&#x2F;沙&lt;&#x2F;p&gt;&lt;p&gt;- 草&#x2F;碎石&lt;&#x2F;p&gt;&lt;p&gt;- 草&#x2F;泥土&lt;&#x2F;p&gt;&lt;p&gt;- 水&lt;&#x2F;p&gt;
-&lt;p&gt;&lt;strong&gt;还包括：&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;p&gt;包含大地形、森林、河流和峡谷的演示场景。&lt;&#x2F;p&gt;&lt;p&gt;包含所有预制件和变体的场景&lt;&#x2F;p&gt;&lt;p&gt;环境管理器用于控制风和草的渲染距离&lt;&#x2F;p&gt;&lt;p&gt;后期处理的预设&lt;&#x2F;p&gt;&lt;p&gt;所有预制件都有 LODs&lt;&#x2F;p&gt;
-&lt;p&gt;&lt;strong&gt;自定义着色器用于：&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;p&gt;草（带风和颜色变化）&lt;&#x2F;p&gt;&lt;p&gt;树（带风和颜色变化）&lt;&#x2F;p&gt;&lt;p&gt;岩石（带苔藓&#x2F;雪层）&lt;&#x2F;p&gt;&lt;p&gt;水（带深度渐变、泡沫和折射）&lt;&#x2F;p&gt;&lt;p&gt;体积云&lt;&#x2F;p&gt;&lt;p&gt;替代物&lt;&#x2F;p&gt;
-&lt;p&gt;- - -&lt;&#x2F;p&gt;
-&lt;p&gt;&lt;em&gt;演示场景非常大，可能不适合移动设备。&lt;&#x2F;em&gt;&lt;&#x2F;p&gt;&lt;p&gt;&lt;em&gt;建议使用合适的 &lt;&#x2F;em&gt;&lt;strong&gt;&lt;em&gt;GPU 实例化&lt;&#x2F;em&gt;&lt;&#x2F;strong&gt;&lt;em&gt; 解决方案，如 &lt;&#x2F;em&gt;&lt;a href=&quot;https:&#x2F;&#x2F;assetstore.unity.com&#x2F;packages&#x2F;tools&#x2F;terrain&#x2F;nature-renderer-2022-266664&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;&lt;em&gt;自然渲染器&lt;&#x2F;em&gt;&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt;&lt;em&gt;。&lt;&#x2F;em&gt;&lt;&#x2F;p&gt;&lt;br&gt;&lt;p &gt;&lt;strong&gt;&lt;em&gt;- &lt;&#x2F;em&gt;&lt;&#x2F;strong&gt;&lt;a href=&quot;https:&#x2F;&#x2F;assetstore.unity.com&#x2F;packages&#x2F;tools&#x2F;terrain&#x2F;biomes-and-presets-2-for-microverse-251773&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;&lt;em&gt;MicroVerse&lt;&#x2F;em&gt;&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt;&lt;em&gt; 预设&lt;&#x2F;em&gt;&lt;&#x2F;p&gt;&lt;p &gt;&lt;strong&gt;&lt;em&gt;- &lt;&#x2F;em&gt;&lt;&#x2F;strong&gt;&lt;a href=&quot;https:&#x2F;&#x2F;assetstore.unity.com&#x2F;packages&#x2F;tools&#x2F;terrain&#x2F;gaia-biomes-spawner-pack-bk-296372&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;&lt;em&gt;Gaia Spawner &lt;&#x2F;em&gt;&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt;&lt;em&gt; 预设&lt;&#x2F;em&gt;&lt;&#x2F;p&gt;
-&lt;p &gt;&lt;em&gt;可用的 &lt;&#x2F;em&gt;&lt;strong&gt;&lt;em&gt;Readme&lt;&#x2F;em&gt;&lt;&#x2F;strong&gt;&lt;em&gt; 文件提供了设置和详细信息。&lt;&#x2F;em&gt;&lt;&#x2F;p&gt;&lt;p &gt;&lt;em&gt;加入 &lt;&#x2F;em&gt;&lt;a href=&quot;https:&#x2F;&#x2F;discord.gg&#x2F;GqHvc9xQXp&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;&lt;em&gt;Discord&lt;&#x2F;em&gt;&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt;&lt;em&gt; 以获取支持或任何问题。&lt;&#x2F;em&gt;&lt;&#x2F;p&gt;</content>
+        <content type="html" xml:base="https://yzzfo.github.io/unity/store/pure-nature-2-mountains/">&lt;p &gt;&lt;strong&gt;3D 风格化自然环境资产&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;p &gt;所有内容都包含预制件 - 准备好可以放入场景中。&lt;&#x2F;p&gt;&lt;p &gt;&lt;strong&gt;&lt;em&gt;包含 URP 版本！&lt;&#x2F;em&gt;&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
+&lt;p &gt;&lt;strong&gt;此包包含：&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;p &gt;&lt;strong&gt;植被&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;p &gt;- 云杉&lt;&#x2F;p&gt;&lt;p &gt;- 松树&lt;&#x2F;p&gt;&lt;p &gt;- 冷杉&lt;&#x2F;p&gt;&lt;p &gt;- 灌木&lt;&#x2F;p&gt;&lt;p &gt;- 蘑菇&lt;&#x2F;p&gt;&lt;p &gt;- 草&lt;&#x2F;p&gt;&lt;p &gt;&lt;em&gt;草、树枝、蕨类植物，各种……&lt;&#x2F;em&gt;&lt;&#x2F;p&gt;&lt;p &gt;- 花&lt;&#x2F;p&gt;&lt;p &gt;&lt;em&gt;浆果、胡萝卜、雏菊、刺槐、薰衣草、狼毒、各种……&lt;&#x2F;em&gt;&lt;&#x2F;p&gt;&lt;p &gt;- 蘑菇&lt;&#x2F;p&gt;
+&lt;p &gt;&lt;strong&gt;岩石&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;p &gt;- 悬崖&lt;&#x2F;p&gt;&lt;p &gt;- 巨石&lt;&#x2F;p&gt;&lt;p &gt;- 岩石和卵石&lt;&#x2F;p&gt;&lt;p &gt;- 山脉&lt;&#x2F;p&gt;
+&lt;p &gt;&lt;strong&gt;材质&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;p &gt;- 草&lt;&#x2F;p&gt;&lt;p &gt;- 沙子&lt;&#x2F;p&gt;&lt;p &gt;- 碎石&lt;&#x2F;p&gt;&lt;p &gt;- 泥土&lt;&#x2F;p&gt;&lt;p &gt;- 草&#x2F;沙&lt;&#x2F;p&gt;&lt;p &gt;- 草&#x2F;碎石&lt;&#x2F;p&gt;&lt;p &gt;- 草&#x2F;泥土&lt;&#x2F;p&gt;&lt;p &gt;- 水&lt;&#x2F;p&gt;
+&lt;p &gt;&lt;strong&gt;还包括：&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;p &gt;包含大地形、森林、河流和峡谷的演示场景。&lt;&#x2F;p&gt;&lt;p &gt;包含所有预制件和变体的场景&lt;&#x2F;p&gt;&lt;p &gt;环境管理器用于控制风和草的渲染距离&lt;&#x2F;p&gt;&lt;p &gt;后期处理的预设&lt;&#x2F;p&gt;&lt;p &gt;所有预制件都有 LODs&lt;&#x2F;p&gt;
+&lt;p &gt;&lt;strong&gt;自定义着色器用于：&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;p &gt;草（带风和颜色变化）&lt;&#x2F;p&gt;&lt;p &gt;树木（带风和颜色变化）&lt;&#x2F;p&gt;&lt;p &gt;岩石（带苔藓&#x2F;雪层）&lt;&#x2F;p&gt;&lt;p &gt;水（带深度渐变、泡沫和折射）&lt;&#x2F;p&gt;&lt;p &gt;体积云&lt;&#x2F;p&gt;&lt;p &gt;替代物&lt;&#x2F;p&gt;
+&lt;p &gt;- - -&lt;&#x2F;p&gt;
+&lt;p &gt;&lt;em&gt;演示场景非常大，可能不适合移动设备。&lt;&#x2F;em&gt;&lt;&#x2F;p&gt;&lt;p &gt;&lt;em&gt;建议使用合适的 &lt;&#x2F;em&gt;&lt;strong&gt;&lt;em&gt;GPU 实例化&lt;&#x2F;em&gt;&lt;&#x2F;strong&gt;&lt;em&gt; 解决方案，如 &lt;&#x2F;em&gt;&lt;a href=&quot;https:&#x2F;&#x2F;assetstore.unity.com&#x2F;packages&#x2F;tools&#x2F;terrain&#x2F;nature-renderer-2022-266664&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;&lt;em&gt;自然渲染器&lt;&#x2F;em&gt;&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt;&lt;em&gt;。&lt;&#x2F;em&gt;&lt;&#x2F;p&gt;&lt;br&gt;&lt;p &gt;&lt;strong&gt;&lt;em&gt;- &lt;&#x2F;em&gt;&lt;&#x2F;strong&gt;&lt;a href=&quot;https:&#x2F;&#x2F;assetstore.unity.com&#x2F;packages&#x2F;tools&#x2F;terrain&#x2F;biomes-and-presets-2-for-microverse-251773&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;&lt;em&gt;MicroVerse&lt;&#x2F;em&gt;&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt;&lt;em&gt; 预设&lt;&#x2F;em&gt;&lt;&#x2F;p&gt;&lt;p &gt;&lt;strong&gt;&lt;em&gt;- &lt;&#x2F;em&gt;&lt;&#x2F;strong&gt;&lt;a href=&quot;https:&#x2F;&#x2F;assetstore.unity.com&#x2F;packages&#x2F;tools&#x2F;terrain&#x2F;gaia-biomes-spawner-pack-bk-296372&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;&lt;em&gt;Gaia Spawner &lt;&#x2F;em&gt;&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt;&lt;em&gt; 预设&lt;&#x2F;em&gt;&lt;&#x2F;p&gt;
+&lt;p &gt;&lt;em&gt;可用的 &lt;&#x2F;em&gt;&lt;strong&gt;&lt;em&gt;Readme&lt;&#x2F;em&gt;&lt;&#x2F;strong&gt;&lt;em&gt; 文件包含设置和详细信息。&lt;&#x2F;em&gt;&lt;&#x2F;p&gt;&lt;p &gt;&lt;em&gt;加入 &lt;&#x2F;em&gt;&lt;a href=&quot;https:&#x2F;&#x2F;discord.gg&#x2F;GqHvc9xQXp&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;&lt;em&gt;Discord&lt;&#x2F;em&gt;&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt;&lt;em&gt; 以获取支持或任何问题。&lt;&#x2F;em&gt;&lt;&#x2F;p&gt;</content>
         
     </entry>
     <entry xml:lang="zh">
         <title>HEROIC FANTASY CREATURES FULL PACK Volume 2</title>
         <published>2024-12-06T14:28:42+00:00</published>
-        <updated>2024-12-06T14:28:42+00:00</updated>
+        <updated>2024-12-17T13:36:25+00:00</updated>
         
         <author>
           <name>
@@ -77,7 +77,7 @@
     <entry xml:lang="zh">
         <title>HEROIC FANTASY CREATURES FULL PACK Volume 1</title>
         <published>2024-12-06T14:28:30+00:00</published>
-        <updated>2024-12-06T14:28:30+00:00</updated>
+        <updated>2024-12-17T13:36:22+00:00</updated>
         
         <author>
           <name>
@@ -97,7 +97,7 @@
     <entry xml:lang="zh">
         <title>Battle Sound Library - Magic &amp; Melee - Fantasy RPG</title>
         <published>2024-12-06T14:26:09+00:00</published>
-        <updated>2024-12-06T14:26:09+00:00</updated>
+        <updated>2024-12-17T13:35:00+00:00</updated>
         
         <author>
           <name>
@@ -110,28 +110,28 @@
         <link rel="alternate" type="text/html" href="https://yzzfo.github.io/unity/store/battle-sound-library-magic-melee-fantasy-rpg/"/>
         <id>https://yzzfo.github.io/unity/store/battle-sound-library-magic-melee-fantasy-rpg/</id>
         
-        <content type="html" xml:base="https://yzzfo.github.io/unity/store/battle-sound-library-magic-melee-fantasy-rpg/">&lt;p&gt;Hundreds of sound clips, and thousands upon thousands of mixes. Create custom combined sounds with the easy to use &quot;Audio Clip Combiner&quot;, and create the perfect soundscape for your project&lt;&#x2F;p&gt;
-&lt;p &gt;--------------------------------------------------&lt;&#x2F;p&gt;&lt;p &gt;&lt;strong&gt;支持、问题、新闻与更新&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;p &gt;➡️ &lt;a href=&quot;https:&#x2F;&#x2F;discord.gg&#x2F;uf3QPF&quot; target=&quot;_blank&quot;&gt;Discord&lt;&#x2F;a&gt; | &lt;a href=&quot;https:&#x2F;&#x2F;infinitypbr.gitbook.io&#x2F;infinity-pbr&#x2F;audio-clip-combiner&quot; target=&quot;_blank&quot;&gt;教程&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;&lt;p &gt;--------------------------------------------------&lt;&#x2F;p&gt;
-&lt;p &gt;&lt;strong&gt;魔法与近战可定制音效库&lt;&#x2F;strong&gt;旨在考虑到定制和随机化。混合和匹配组件声音，您可以拥有数千种独特的声音。&lt;&#x2F;p&gt;
-&lt;p &gt;在运行时随机组合音频片段，或通过单击导出并选择您最喜欢的组合。&lt;&#x2F;p&gt;
-&lt;p &gt;&lt;strong&gt;&lt;em&gt;包括 &lt;&#x2F;em&gt;&lt;&#x2F;strong&gt;&lt;a href=&quot;https:&#x2F;&#x2F;assetstore.unity.com&#x2F;packages&#x2F;slug&#x2F;232612&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;&lt;em&gt;音频片段合成器&lt;&#x2F;em&gt;&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt;&lt;strong&gt;&lt;em&gt; 工具！&lt;&#x2F;em&gt;&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
-&lt;p &gt;&lt;strong&gt;更新&lt;&#x2F;strong&gt;: 音频片段合成器现在有一个“播放随机样本”按钮，可以在导出之前采样声音，在编辑时使用。还有一个“文件夹”上传 -- 选择一个文件夹，所有的音频片段将被添加到该层。&lt;&#x2F;p&gt;
-&lt;p &gt;或者，创建一个新的音频片段合成器对象，选择一个父文件夹，每个包含音频的子文件夹将作为新层添加。&lt;&#x2F;p&gt;
-&lt;p &gt;&amp;#128302;&lt;strong&gt;&lt;em&gt;魔法&lt;&#x2F;em&gt;&lt;&#x2F;strong&gt;&amp;#129502;&lt;&#x2F;p&gt;&lt;p &gt;空气、土壤、电、邪恶&#x2F;黑暗、火、神圣&#x2F;光、冰、毒和水魔法包括多种爆炸、击打、长短热身。&lt;&#x2F;p&gt;
-&lt;p &gt;将这些与通用增益、嗡嗡声和脉冲、法术失效和失败等结合，创造出适合您法术的大量魔法声音。&lt;&#x2F;p&gt;&lt;br&gt;&lt;p&gt;⚔️&lt;strong&gt;&lt;em&gt;近战&lt;&#x2F;em&gt;&lt;&#x2F;strong&gt;&amp;#128737;&lt;&#x2F;p&gt;&lt;p&gt;创建武器类型和伤害类型的组合：肉体、金属和木材目标。武器包括斧头、弓箭、棍棒、拳头、盾牌和剑。&lt;&#x2F;p&gt;
+        <content type="html" xml:base="https://yzzfo.github.io/unity/store/battle-sound-library-magic-melee-fantasy-rpg/">&lt;p&gt;数百个音频片段，以及成千上万的混音。使用易于使用的“音频片段合成器”创建自定义组合声音，为您的项目创造完美的音景。&lt;&#x2F;p&gt;
+&lt;p&gt;--------------------------------------------------&lt;&#x2F;p&gt;&lt;p&gt;&lt;strong&gt;支持、问题、新闻与更新&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;p&gt;➡️ &lt;a href=&quot;https:&#x2F;&#x2F;discord.gg&#x2F;uf3QPF&quot; target=&quot;_blank&quot;&gt;Discord&lt;&#x2F;a&gt; | &lt;a href=&quot;https:&#x2F;&#x2F;infinitypbr.gitbook.io&#x2F;infinity-pbr&#x2F;audio-clip-combiner&quot; target=&quot;_blank&quot;&gt;教程&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;&lt;p&gt;--------------------------------------------------&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;strong&gt;魔法与近战可定制音效库&lt;&#x2F;strong&gt;旨在考虑到定制和随机化。混合和匹配组件声音，您可以拥有成千上万的独特声音。&lt;&#x2F;p&gt;
+&lt;p&gt;在运行时随机组合片段，或通过单击导出并选择您最喜欢的组合。&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;包括&lt;&#x2F;em&gt;&lt;&#x2F;strong&gt;&lt;a href=&quot;https:&#x2F;&#x2F;assetstore.unity.com&#x2F;packages&#x2F;slug&#x2F;232612&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;&lt;em&gt;音频片段合成器&lt;&#x2F;em&gt;&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt;&lt;strong&gt;&lt;em&gt;工具！&lt;&#x2F;em&gt;&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;strong&gt;更新&lt;&#x2F;strong&gt;：音频片段合成器现在有一个“播放随机样本”按钮，可以在导出之前采样声音，在编辑时使用。还有一个“文件夹”上传功能——选择一个文件夹，所有的片段将被添加到该层。&lt;&#x2F;p&gt;
+&lt;p&gt;或者，创建一个新的音频片段合成器对象，选择一个父文件夹，每个包含音频的子文件夹将作为新层添加。&lt;&#x2F;p&gt;
+&lt;p&gt;&amp;#128302;&lt;strong&gt;&lt;em&gt;魔法&lt;&#x2F;em&gt;&lt;&#x2F;strong&gt;&amp;#129502;&lt;&#x2F;p&gt;&lt;p&gt;空气、土壤、电、邪恶&#x2F;黑暗、火、神圣&#x2F;光、冰、毒和水魔法包括多种爆炸、击打、长短热身。&lt;&#x2F;p&gt;
+&lt;p&gt;将这些与通用增益、嗡嗡声和脉冲、法术失效和失败等结合，创造出适合您法术的大量魔法声音。&lt;&#x2F;p&gt;&lt;br&gt;&lt;p&gt;⚔️&lt;strong&gt;&lt;em&gt;近战&lt;&#x2F;em&gt;&lt;&#x2F;strong&gt;&amp;#128737;&lt;&#x2F;p&gt;&lt;p&gt;创建武器类型和伤害类型的组合：肉体、金属和木材目标。武器包括斧头、弓箭、棍棒、拳头、盾牌和剑。&lt;&#x2F;p&gt;
 &lt;p&gt;每组基于多种武器、目标和冲击声音有125种组合。&lt;&#x2F;p&gt;
 &lt;p&gt;⚔️&amp;#128302; &lt;strong&gt;&lt;em&gt;魔法武器&lt;&#x2F;em&gt;&lt;&#x2F;strong&gt;&amp;#129502;&amp;#128737;&lt;&#x2F;p&gt;
 &lt;p&gt;将魔法和近战声音结合在一起，创造出更多声音，如“火焰剑”或“黑暗棍”。&lt;&#x2F;p&gt;
 &lt;p&gt;&lt;strong&gt;500+ 音频片段&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;p&gt;&lt;em&gt;数以万计的可能性&lt;&#x2F;em&gt;&lt;&#x2F;p&gt;
-&lt;p&gt;库中起始约有&lt;strong&gt;500个独立音频片段&lt;&#x2F;strong&gt;。当你开始混合搭配时，这个数量会增长到数十万。你甚至可以将其他包中的音频混合在一起，创造出其他游戏没有的独特声音。&lt;&#x2F;p&gt;
+&lt;p&gt;库中起始约有&lt;strong&gt;500个独立音频片段&lt;&#x2F;strong&gt;。当你开始混合搭配时，这个数量会增长到数以万计。你甚至可以将其他包中的音频混合在一起，创造出其他游戏没有的独特声音。&lt;&#x2F;p&gt;
 &lt;p&gt;--------------------------------------&lt;&#x2F;p&gt;&lt;p&gt;查看更多信息及我们所有的模型，请访问 &lt;a href=&quot;http:&#x2F;&#x2F;www.infinitypbr.com&#x2F;&quot; target=&quot;_blank&quot;&gt;InfinityPBR.com&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;&lt;p&gt;--------------------------------------&lt;&#x2F;p&gt;
-&lt;p&gt;&lt;strong&gt;如果您购买了此包，非常感谢！请留下评分和评论，以便其他人了解它的情况！如果您有任何问题、请求或其他事项，&lt;&#x2F;strong&gt;&lt;a href=&quot;https:&#x2F;&#x2F;forum.unity3d.com&#x2F;threads&#x2F;infinity-series-works-in-progress-mega-thread.408430&#x2F;&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;请在论坛上与我联系。&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;</content>
+&lt;p&gt;&lt;strong&gt;如果您购买了此包，非常感谢！请留下评分和评论，以便其他人了解它的相关信息！如果您有任何问题、请求或其他事项，&lt;&#x2F;strong&gt;&lt;a href=&quot;https:&#x2F;&#x2F;forum.unity3d.com&#x2F;threads&#x2F;infinity-series-works-in-progress-mega-thread.408430&#x2F;&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;请在论坛上与我联系。&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;</content>
         
     </entry>
     <entry xml:lang="zh">
         <title>Variety FX 2.0</title>
         <published>2024-12-03T00:46:20+00:00</published>
-        <updated>2024-12-03T00:46:20+00:00</updated>
+        <updated>2024-12-17T13:32:28+00:00</updated>
         
         <author>
           <name>
@@ -145,8 +145,8 @@
         <id>https://yzzfo.github.io/unity/store/variety-fx-2-0/</id>
         
         <content type="html" xml:base="https://yzzfo.github.io/unity/store/variety-fx-2-0/">&lt;p&gt;Variety FX 是一套广泛的环境粒子特效，可以轻松为您的场景增添氛围。&lt;&#x2F;p&gt;
-&lt;p&gt;Variety FX 总共包含 &lt;strong&gt;273 种特效&lt;&#x2F;strong&gt;，分为 4 个主要类别和 24 个子类别，以便于在项目文件夹中查找。&lt;&#x2F;p&gt;
-&lt;p&gt;这些特效适用于风格化或现实主义项目，并且可以适应多种游戏类型，包括生存、恐怖、动作和冒险游戏。&lt;&#x2F;p&gt;
+&lt;p&gt;Variety FX 总共包含 &lt;strong&gt;273 种特效&lt;&#x2F;strong&gt;，分为 4 个主要类别和 24 个子类别，以便在项目文件夹中轻松查找。&lt;&#x2F;p&gt;
+&lt;p&gt;所包含的特效适用于风格化或真实感项目，并且可以适应多种游戏类型，包括生存、恐怖、动作和冒险游戏。&lt;&#x2F;p&gt;
 &lt;p&gt;大多数特效可以通过粒子系统轻松重新着色，或者已经有预制的颜色可以拖放到您的场景中。它们也可以通过更改变换值轻松缩放。&lt;&#x2F;p&gt;
 &lt;p&gt;虽然该资产专注于环境特效，但它还包括一些常见的战斗特效，如爆炸、血液和魔法。&lt;&#x2F;p&gt;
 &lt;p&gt;&lt;a href=&quot;http:&#x2F;&#x2F;bit.ly&#x2F;2cQryoI&quot; target=&quot;_blank&quot;&gt;WebGL 演示&lt;&#x2F;a&gt; • &lt;a href=&quot;http:&#x2F;&#x2F;bit.ly&#x2F;1F4wCu5&quot; target=&quot;_blank&quot;&gt;论坛&lt;&#x2F;a&gt; • &lt;a href=&quot;https:&#x2F;&#x2F;archanor.com&#x2F;support.html&quot; target=&quot;_blank&quot;&gt;支持&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
@@ -160,7 +160,7 @@
     <entry xml:lang="zh">
         <title>Pure Nature</title>
         <published>2024-11-29T21:22:21+00:00</published>
-        <updated>2024-12-02T21:58:29+00:00</updated>
+        <updated>2024-12-17T13:30:32+00:00</updated>
         
         <author>
           <name>
@@ -173,26 +173,26 @@
         <link rel="alternate" type="text/html" href="https://yzzfo.github.io/unity/store/pure-nature/"/>
         <id>https://yzzfo.github.io/unity/store/pure-nature/</id>
         
-        <content type="html" xml:base="https://yzzfo.github.io/unity/store/pure-nature/">&lt;p &gt;&lt;strong&gt;3D 风格化自然环境资产&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;p &gt;所有内容都带有预制件 - 准备好可以放入场景中。&lt;&#x2F;p&gt;&lt;p &gt;&lt;strong&gt;&lt;em&gt;包含 URP 版本！&lt;&#x2F;em&gt;&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
+        <content type="html" xml:base="https://yzzfo.github.io/unity/store/pure-nature/">&lt;p &gt;&lt;strong&gt;3D 风格化自然环境资产&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;p &gt;所有内容都包含预制件 - 准备好可以放入场景中。&lt;&#x2F;p&gt;&lt;p &gt;&lt;strong&gt;&lt;em&gt;包含 URP 版本！&lt;&#x2F;em&gt;&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
 &lt;p &gt;&lt;strong&gt;此包包含：&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
-&lt;p &gt;&lt;strong&gt;植被&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;p &gt;- 白桦树&lt;&#x2F;p&gt;&lt;p &gt;- 橡树&lt;&#x2F;p&gt;&lt;p &gt;- 松树&lt;&#x2F;p&gt;&lt;p &gt;- 雪松&lt;&#x2F;p&gt;&lt;p &gt;- 死树&lt;&#x2F;p&gt;&lt;p &gt;- 灌木&lt;&#x2F;p&gt;&lt;p &gt;- 蘑菇&lt;&#x2F;p&gt;&lt;p &gt;- 常春藤&lt;&#x2F;p&gt;&lt;p &gt;- 花和草&lt;&#x2F;p&gt;
+&lt;p &gt;&lt;strong&gt;植被&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;p &gt;- 白桦树&lt;&#x2F;p&gt;&lt;p &gt;- 橡树&lt;&#x2F;p&gt;&lt;p &gt;- 松树&lt;&#x2F;p&gt;&lt;p &gt;- 雪松&lt;&#x2F;p&gt;&lt;p &gt;- 死树&lt;&#x2F;p&gt;&lt;p &gt;- 灌木丛&lt;&#x2F;p&gt;&lt;p &gt;- 蘑菇&lt;&#x2F;p&gt;&lt;p &gt;- 常春藤&lt;&#x2F;p&gt;&lt;p &gt;- 花朵和草&lt;&#x2F;p&gt;
 &lt;p &gt;&lt;strong&gt;岩石&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;p &gt;- 悬崖&lt;&#x2F;p&gt;&lt;p &gt;- 巨石&lt;&#x2F;p&gt;&lt;p &gt;- 岩石&lt;&#x2F;p&gt;&lt;p &gt;- 模块化岩石&lt;&#x2F;p&gt;
 &lt;p &gt;&lt;strong&gt;道具&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;p &gt;- 废墟&lt;&#x2F;p&gt;&lt;p &gt;- 瀑布&lt;&#x2F;p&gt;
 &lt;p &gt;&lt;strong&gt;材质&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;p &gt;- 草&lt;&#x2F;p&gt;&lt;p &gt;- 草&#x2F;沙&lt;&#x2F;p&gt;&lt;p &gt;- 草&#x2F;泥&lt;&#x2F;p&gt;&lt;p &gt;- 沙&lt;&#x2F;p&gt;&lt;p &gt;- 沙滩&lt;&#x2F;p&gt;&lt;p &gt;- 沙砾&lt;&#x2F;p&gt;&lt;p &gt;- 泥&lt;&#x2F;p&gt;&lt;p &gt;- 雪&lt;&#x2F;p&gt;
 &lt;p &gt;&lt;strong&gt;还包括：&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
-&lt;p &gt;演示场景&lt;&#x2F;p&gt;&lt;p &gt;包含所有预制件和变体的场景&lt;&#x2F;p&gt;&lt;p &gt;空场景，地形准备好可以绘制和填充&lt;&#x2F;p&gt;
+&lt;p &gt;演示场景&lt;&#x2F;p&gt;&lt;p &gt;包含所有预制件和变体的场景&lt;&#x2F;p&gt;&lt;p &gt;空场景，地形准备好可以进行绘制和填充&lt;&#x2F;p&gt;
 &lt;p &gt;环境管理器，用于控制风和草的渲染距离&lt;&#x2F;p&gt;
-&lt;p &gt;白天、夜晚、日落、多云、暴风雨等的预设...&lt;&#x2F;p&gt;&lt;p &gt;后处理堆栈的预设&lt;&#x2F;p&gt;
+&lt;p &gt;白天、夜晚、日落、多云、暴风雨等的预设...&lt;&#x2F;p&gt;&lt;p &gt;后期处理堆栈的预设&lt;&#x2F;p&gt;
 &lt;p &gt;大多数预制件都有 LOD&lt;&#x2F;p&gt;
 &lt;p &gt;&lt;strong&gt;自定义着色器用于：&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;p &gt;带有风和颜色变化的草&lt;&#x2F;p&gt;&lt;p &gt;带有风和颜色变化的树&lt;&#x2F;p&gt;&lt;p &gt;带有苔藓&#x2F;雪层的岩石&lt;&#x2F;p&gt;&lt;p &gt;带有深度渐变、泡沫和折射的水&lt;&#x2F;p&gt;&lt;p &gt;体积云&lt;&#x2F;p&gt;&lt;p &gt;广告牌&lt;&#x2F;p&gt;
 &lt;p &gt;- - -&lt;&#x2F;p&gt;
-&lt;p &gt;&lt;em&gt;演示场景很大，可能不适合移动设备。&lt;&#x2F;em&gt;&lt;&#x2F;p&gt;&lt;p &gt;&lt;em&gt;推荐使用像 &lt;&#x2F;em&gt;&lt;strong&gt;&lt;em&gt;GPU 实例化&lt;&#x2F;em&gt;&lt;&#x2F;strong&gt;&lt;em&gt; 的合适解决方案，例如 &lt;&#x2F;em&gt;&lt;a href=&quot;http:&#x2F;&#x2F;assetstore.unity.com&#x2F;packages&#x2F;tools&#x2F;utilities&#x2F;the-vegetation-engine-159647&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;&lt;em&gt;Vegetation Engine&lt;&#x2F;em&gt;&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt;&lt;em&gt;。&lt;&#x2F;em&gt;&lt;&#x2F;p&gt;&lt;br&gt;&lt;p &gt;&lt;em&gt;可用的 &lt;&#x2F;em&gt;&lt;strong&gt;&lt;em&gt;Readme&lt;&#x2F;em&gt;&lt;&#x2F;strong&gt;&lt;em&gt; 文件包含设置和详细信息。&lt;&#x2F;em&gt;&lt;&#x2F;p&gt;&lt;p &gt;&lt;em&gt;加入 &lt;&#x2F;em&gt;&lt;a href=&quot;https:&#x2F;&#x2F;discord.gg&#x2F;GqHvc9xQXp&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;&lt;em&gt;Discord&lt;&#x2F;em&gt;&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt;&lt;em&gt; 以获取支持或任何问题。&lt;&#x2F;em&gt;&lt;&#x2F;p&gt;</content>
+&lt;p &gt;&lt;em&gt;演示场景非常大，可能不适合移动设备。&lt;&#x2F;em&gt;&lt;&#x2F;p&gt;&lt;p &gt;&lt;em&gt;建议使用合适的 &lt;&#x2F;em&gt;&lt;strong&gt;&lt;em&gt;GPU 实例化&lt;&#x2F;em&gt;&lt;&#x2F;strong&gt;&lt;em&gt; 解决方案，如 &lt;&#x2F;em&gt;&lt;a href=&quot;http:&#x2F;&#x2F;assetstore.unity.com&#x2F;packages&#x2F;tools&#x2F;utilities&#x2F;the-vegetation-engine-159647&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;&lt;em&gt;Vegetation Engine&lt;&#x2F;em&gt;&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt;&lt;em&gt;。&lt;&#x2F;em&gt;&lt;&#x2F;p&gt;&lt;br&gt;&lt;p &gt;&lt;em&gt;可用的 &lt;&#x2F;em&gt;&lt;strong&gt;&lt;em&gt;Readme&lt;&#x2F;em&gt;&lt;&#x2F;strong&gt;&lt;em&gt; 文件包含设置和详细信息。&lt;&#x2F;em&gt;&lt;&#x2F;p&gt;&lt;p &gt;&lt;em&gt;加入 &lt;&#x2F;em&gt;&lt;a href=&quot;https:&#x2F;&#x2F;discord.gg&#x2F;GqHvc9xQXp&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;&lt;em&gt;Discord&lt;&#x2F;em&gt;&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt;&lt;em&gt; 以获取支持或任何问题。&lt;&#x2F;em&gt;&lt;&#x2F;p&gt;</content>
         
     </entry>
     <entry xml:lang="zh">
         <title>Character Auras</title>
         <published>2024-11-29T21:20:26+00:00</published>
-        <updated>2024-11-30T13:24:28+00:00</updated>
+        <updated>2024-12-17T13:28:56+00:00</updated>
         
         <author>
           <name>
@@ -206,15 +206,15 @@
         <id>https://yzzfo.github.io/unity/store/character-auras/</id>
         
         <content type="html" xml:base="https://yzzfo.github.io/unity/store/character-auras/">&lt;p&gt;15个惊人的角色光环效果！&lt;&#x2F;p&gt;
-&lt;p&gt;该包包含&lt;strong&gt;15&lt;&#x2F;strong&gt;个惊人的光环效果：&lt;&#x2F;p&gt;&lt;ul&gt;&lt;li&gt;水光环&lt;&#x2F;li&gt;&lt;li&gt;白色光环&lt;&#x2F;li&gt;&lt;li&gt;肥皂光环&lt;&#x2F;li&gt;&lt;li&gt;烟雾光环&lt;&#x2F;li&gt;&lt;li&gt;睡眠光环&lt;&#x2F;li&gt;&lt;li&gt;闪耀光环&lt;&#x2F;li&gt;&lt;li&gt;流星光环&lt;&#x2F;li&gt;&lt;li&gt;闪电光环&lt;&#x2F;li&gt;&lt;li&gt;治疗光环&lt;&#x2F;li&gt;&lt;li&gt;金色光环&lt;&#x2F;li&gt;&lt;li&gt;冰冻光环&lt;&#x2F;li&gt;&lt;li&gt;火焰光环&lt;&#x2F;li&gt;&lt;li&gt;黑暗光环&lt;&#x2F;li&gt;&lt;li&gt;血液光环&lt;&#x2F;li&gt;&lt;li&gt;酸性光环&lt;&#x2F;li&gt;&lt;&#x2F;ul&gt;&lt;p&gt;所有预制件都已准备好用于游戏，只需将它们拖放到您的游戏中即可！&lt;&#x2F;p&gt;
-&lt;p&gt;默认支持内置渲染。&lt;strong&gt;HDRP和URP可以使用&lt;&#x2F;strong&gt;&lt;a href=&quot;https:&#x2F;&#x2F;assetstore.unity.com&#x2F;packages&#x2F;tools&#x2F;utilities&#x2F;support-package-for-hovl-studio-assets-157764&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;这个&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt;&lt;strong&gt;适用于Unity 2021或更低版本的免费包。&lt;&#x2F;strong&gt;在购买我的资产之一后，它将变为免费。&lt;&#x2F;p&gt;&lt;p&gt;&lt;strong&gt;URP&#x2F;HDRP是Unity 2022或Unity 6+的默认设置&lt;&#x2F;strong&gt;。需要Shader Graph，它与此资产一起安装。可以更改为内置渲染。&lt;&#x2F;p&gt;&lt;p&gt;&lt;strong&gt;支持所有平台！&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
-&lt;p&gt;&lt;strong&gt;这些不是网格效果！所有效果只是简单的循环粒子系统！&lt;&#x2F;strong&gt;宣传媒体（视频、图片）使用了来自Volume组件的后处理“辉光”。&lt;&#x2F;p&gt;&lt;p&gt;如果您有任何问题或疑问，请与我联系。联系方式在个人资料页面上。&lt;&#x2F;p&gt;</content>
+&lt;p&gt;该包包含&lt;strong&gt;15&lt;&#x2F;strong&gt;个惊人的光环效果：&lt;&#x2F;p&gt;&lt;ul&gt;&lt;li&gt;水光环&lt;&#x2F;li&gt;&lt;li&gt;白色光环&lt;&#x2F;li&gt;&lt;li&gt;肥皂光环&lt;&#x2F;li&gt;&lt;li&gt;烟雾光环&lt;&#x2F;li&gt;&lt;li&gt;睡眠光环&lt;&#x2F;li&gt;&lt;li&gt;闪耀光环&lt;&#x2F;li&gt;&lt;li&gt;流星光环&lt;&#x2F;li&gt;&lt;li&gt;闪电光环&lt;&#x2F;li&gt;&lt;li&gt;治疗光环&lt;&#x2F;li&gt;&lt;li&gt;金色光环&lt;&#x2F;li&gt;&lt;li&gt;冰冻光环&lt;&#x2F;li&gt;&lt;li&gt;火焰光环&lt;&#x2F;li&gt;&lt;li&gt;黑暗光环&lt;&#x2F;li&gt;&lt;li&gt;血液光环&lt;&#x2F;li&gt;&lt;li&gt;酸性光环&lt;&#x2F;li&gt;&lt;&#x2F;ul&gt;&lt;p&gt;所有预制件均为游戏准备就绪，只需将它们拖放到您的游戏中即可！&lt;&#x2F;p&gt;
+&lt;p&gt;默认支持内置渲染。&lt;strong&gt;HDRP和URP通过&lt;&#x2F;strong&gt;&lt;a href=&quot;https:&#x2F;&#x2F;assetstore.unity.com&#x2F;packages&#x2F;tools&#x2F;utilities&#x2F;support-package-for-hovl-studio-assets-157764&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;这个&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt;&lt;strong&gt;免费的Unity 2021或更低版本的包进行支持。&lt;&#x2F;strong&gt;在购买我的资产之一后，它将变为免费。&lt;&#x2F;p&gt;&lt;p&gt;&lt;strong&gt;URP&#x2F;HDRP是Unity 2022或Unity 6+的默认设置&lt;&#x2F;strong&gt;。需要Shader Graph，该组件与此资产一起安装。可以更改为内置渲染。&lt;&#x2F;p&gt;&lt;p&gt;&lt;strong&gt;支持所有平台！&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;strong&gt;这些不是网格效果！所有效果只是简单的循环粒子系统！&lt;&#x2F;strong&gt;宣传媒体（视频、图片）使用来自Volume组件的后期处理“辉光”。&lt;&#x2F;p&gt;&lt;p&gt;如果您有任何问题或疑问，请与我联系。联系方式在个人资料页面上。&lt;&#x2F;p&gt;</content>
         
     </entry>
     <entry xml:lang="zh">
         <title>Mesh Effects</title>
         <published>2024-11-29T21:19:19+00:00</published>
-        <updated>2024-11-30T13:23:02+00:00</updated>
+        <updated>2024-12-17T13:28:09+00:00</updated>
         
         <author>
           <name>
@@ -234,7 +234,7 @@
     <entry xml:lang="zh">
         <title>Unique Projectiles Volume 1</title>
         <published>2024-11-29T21:17:03+00:00</published>
-        <updated>2024-11-30T13:17:38+00:00</updated>
+        <updated>2024-12-17T14:09:02+00:00</updated>
         
         <author>
           <name>

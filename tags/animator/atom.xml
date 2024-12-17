@@ -5,12 +5,12 @@
     <link rel="self" type="application/atom+xml" href="https://yzzfo.github.io/tags/animator/atom.xml"/>
     <link rel="alternate" type="text/html" href="https://yzzfo.github.io"/>
     <generator uri="https://www.getzola.org/">Zola</generator>
-    <updated>2024-12-15T12:00:36+00:00</updated>
+    <updated>2024-12-17T13:48:39+00:00</updated>
     <id>https://yzzfo.github.io/tags/animator/atom.xml</id>
     <entry xml:lang="zh">
         <title>AnimatorLOD Pro - Animator Optimizer</title>
         <published>2024-12-15T12:00:36+00:00</published>
-        <updated>2024-12-15T12:00:36+00:00</updated>
+        <updated>2024-12-17T13:48:39+00:00</updated>
         
         <author>
           <name>
@@ -30,7 +30,7 @@
     <entry xml:lang="zh">
         <title>Motion Matching for Unity</title>
         <published>2024-12-09T11:45:59+00:00</published>
-        <updated>2024-12-09T11:45:59+00:00</updated>
+        <updated>2024-12-17T13:44:25+00:00</updated>
         
         <author>
           <name>
@@ -50,7 +50,7 @@
     <entry xml:lang="zh">
         <title>Animation Designer</title>
         <published>2024-11-29T21:17:42+00:00</published>
-        <updated>2024-11-30T13:19:46+00:00</updated>
+        <updated>2024-12-17T13:25:46+00:00</updated>
         
         <author>
           <name>
@@ -63,21 +63,21 @@
         <link rel="alternate" type="text/html" href="https://yzzfo.github.io/unity/store/animation-designer/"/>
         <id>https://yzzfo.github.io/unity/store/animation-designer/</id>
         
-        <content type="html" xml:base="https://yzzfo.github.io/unity/store/animation-designer/">&lt;p&gt;创新的Unity引擎动画调整工具。升级动画剪辑，添加程序化运动并进行烘焙。调整动画剪辑姿势并将其保存在新的AnimationClip文件中。&lt;&#x2F;p&gt;
-&lt;p&gt;✍ &lt;strong&gt;购买前请注意：&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;p&gt;&lt;strong&gt;！这是编辑器工具 - 不需要播放模式&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;p&gt;&lt;strong&gt;！此工具并不是用于从零开始创建动画，而是用于升级&#x2F;调整已经动画化的剪辑&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;p&gt;&lt;strong&gt;！此工具专为类人形生物设计&lt;&#x2F;strong&gt;，但您仍然可以大大改善动物&#x2F;生物的动画（更多信息请查看教程）&lt;&#x2F;p&gt;&lt;p&gt;&lt;strong&gt;！此工具适用于所有动画类型&lt;&#x2F;strong&gt;，如：&lt;strong&gt;类人形、通用和遗留&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;p&gt;&lt;strong&gt;！此工具专为3D骨骼动画设计&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;p&gt;&lt;strong&gt;！此工具生成新的动画剪辑，&lt;&#x2F;strong&gt;这意味着没有额外的CPU&#x2F;GPU负担，您可以像使用其他动画一样使用生成的剪辑进行VR&#x2F;移动设备。&lt;&#x2F;p&gt;&lt;p&gt;&lt;strong&gt;！&lt;&#x2F;strong&gt;此工具专用于身体动画（不适用于详细的多骨骼面部动画）&lt;&#x2F;p&gt;&lt;p&gt;&lt;strong&gt;！此工具需要一些动画知识&lt;&#x2F;strong&gt;以便在您的模型上获得最佳效果&lt;&#x2F;p&gt;&lt;p&gt;！工具&lt;strong&gt;适用于所有渲染管线&lt;&#x2F;strong&gt;，只是演示场景使用了两个标准材质进行转换。&lt;&#x2F;p&gt;
+        <content type="html" xml:base="https://yzzfo.github.io/unity/store/animation-designer/">&lt;p&gt;创新的Unity引擎动画调整工具。升级动画剪辑，添加程序化运动并进行烘焙。调整动画剪辑姿势并将其保存为新的AnimationClip文件。&lt;&#x2F;p&gt;
+&lt;p&gt;✍ &lt;strong&gt;购买前请注意：&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;p&gt;&lt;strong&gt;！这是编辑器工具 - 不需要播放模式&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;p&gt;&lt;strong&gt;！此工具并非专门用于从零开始创建动画，而是用于升级&#x2F;调整已经动画化的剪辑&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;p&gt;&lt;strong&gt;！此工具专为类人形生物设计&lt;&#x2F;strong&gt;，但您仍然可以大幅改善动物&#x2F;生物的动画（更多信息请查看教程）&lt;&#x2F;p&gt;&lt;p&gt;&lt;strong&gt;！此工具适用于所有动画类型&lt;&#x2F;strong&gt;，如：&lt;strong&gt;类人形、通用和遗留&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;p&gt;&lt;strong&gt;！此工具专为3D骨骼动画设计&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;p&gt;&lt;strong&gt;！此工具生成新的动画剪辑，&lt;&#x2F;strong&gt;这意味着没有额外的CPU&#x2F;GPU负担，您可以像使用其他动画一样使用生成的剪辑进行VR&#x2F;移动设备。&lt;&#x2F;p&gt;&lt;p&gt;&lt;strong&gt;！&lt;&#x2F;strong&gt;此工具专用于身体动画（不适用于详细的多骨骼面部动画）&lt;&#x2F;p&gt;&lt;p&gt;&lt;strong&gt;！此工具需要一定的动画知识&lt;&#x2F;strong&gt;以便在您的模型上获得最佳效果&lt;&#x2F;p&gt;&lt;p&gt;！工具&lt;strong&gt;适用于所有渲染管线&lt;&#x2F;strong&gt;，仅演示场景使用了两种标准材质进行转换。&lt;&#x2F;p&gt;
 &lt;p&gt;⚡ &lt;strong&gt;创新的Unity引擎动画调整工具&lt;&#x2F;strong&gt; ⚡&lt;&#x2F;p&gt;
-&lt;p&gt;&lt;strong&gt;升级动画剪辑，添加额外的程序化运动并进行烘焙！&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;p&gt;&lt;strong&gt;调整动画剪辑姿势&lt;&#x2F;strong&gt;并将其保存在新的AnimationClip文件中。&lt;&#x2F;p&gt;&lt;p&gt;&lt;strong&gt;为某些骨骼设置额外的运动&lt;&#x2F;strong&gt;并保存新的AnimationClip&lt;strong&gt;作为动画变体使用。&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
-&lt;p&gt;☄️ &lt;strong&gt;不要玩弄关键帧或时间轴！&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;p&gt;认识&lt;strong&gt;新的动画调整工作流程！&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;p&gt;您所需要做的就是使用几个滑块和曲线窗口。&lt;&#x2F;p&gt;&lt;br&gt;&lt;p &gt;&lt;strong&gt;您不需要成为动画艺术家&lt;&#x2F;strong&gt;就可以使用这个工具。&lt;&#x2F;p&gt;&lt;p &gt;如果您是动画艺术家，&lt;strong&gt;这个工具将为您提供新的可能性！&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
-&lt;p &gt;? 也许您购买了一些很酷的角色&lt;strong&gt;但包含的动画质量太低？轻松使用动画设计师提升它们的质量！&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
-&lt;p &gt;? 您拥有很多动画片段&lt;strong&gt;但需要一个手臂稍微旋转不同的动画？&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;p &gt;&lt;strong&gt;使用动画设计师立即实现！&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
-&lt;p &gt;? &lt;strong&gt;角色的腿&#x2F;脚动画&lt;&#x2F;strong&gt;似乎不正确？&lt;&#x2F;p&gt;&lt;p &gt;&lt;strong&gt;用动画设计师轻松修复！&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;strong&gt;升级动画剪辑，添加额外的程序化运动并进行烘焙！&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;p&gt;&lt;strong&gt;调整动画剪辑姿势&lt;&#x2F;strong&gt;并将其保存为新的AnimationClip文件。&lt;&#x2F;p&gt;&lt;p&gt;&lt;strong&gt;为某些骨骼设置额外的运动&lt;&#x2F;strong&gt;并保存新的AnimationClip&lt;strong&gt;作为动画变体使用。&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;☄️ &lt;strong&gt;不再玩弄关键帧或时间轴！&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;p&gt;体验&lt;strong&gt;新的动画调整工作流程！&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;p&gt;您只需使用几个滑块和曲线窗口即可完成所有操作。&lt;&#x2F;p&gt;&lt;br&gt;&lt;p &gt;&lt;strong&gt;您不需要成为动画艺术家&lt;&#x2F;strong&gt;就可以使用这个工具。&lt;&#x2F;p&gt;&lt;p &gt;如果您是动画艺术家，&lt;strong&gt;这个工具将为您提供新的可能性！&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
+&lt;p &gt;? 也许您购买了一些很酷的角色&lt;strong&gt;，但包含的动画质量太低？使用动画设计师轻松提升它们的质量！&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
+&lt;p &gt;? 您拥有很多动画片段&lt;strong&gt;，但需要一个手臂稍微旋转不同的动画？&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;p &gt;&lt;strong&gt;使用动画设计师立即实现！&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
+&lt;p &gt;? &lt;strong&gt;角色的腿&#x2F;脚动画&lt;&#x2F;strong&gt;似乎不正确？&lt;&#x2F;p&gt;&lt;p &gt;&lt;strong&gt;使用动画设计师轻松修复！&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
 &lt;p &gt;? 您拥有原地攻击动画，但无法与跑步&#x2F;行走动画正确混合？&lt;&#x2F;p&gt;&lt;p &gt;&lt;strong&gt;将它们混合在一起，并使用动画设计师的变形功能进行调整！&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
 &lt;p &gt;&lt;a href=&quot;https:&#x2F;&#x2F;emojipedia.org&#x2F;gear&#x2F;&quot; target=&quot;_blank&quot;&gt;⚙️&lt;&#x2F;a&gt; &lt;strong&gt;保持原始动画不变！&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;p &gt;将修改后的动画保存为单独的AnimationClip文件。&lt;&#x2F;p&gt;&lt;p &gt;为多个动画片段存储设计师动画设置，保存在单个预设文件中，以便您随时返回调整动画设计！&lt;&#x2F;p&gt;
 &lt;p &gt;&lt;strong&gt;无需额外的数据&#x2F;组件！&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;p &gt;插件不会在您使用动画设计师动画的角色模型上生成任何新的组件或数据。保持您的工作区整洁，并将此插件视为Unity编辑器的核心软件元素。&lt;&#x2F;p&gt;
 &lt;p &gt;该包提供先进的IK分析算法，可以帮助您为行走&#x2F;跑步动画增加一些重量感。&lt;&#x2F;p&gt;
-&lt;p &gt;您不仅可以将动画设计师用于角色，还可以用于任何类型的动画对象。&lt;&#x2F;p&gt;&lt;br&gt;&lt;p&gt;⭐ &lt;strong&gt;精心设计的窗口以最大化专注！&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;p&gt;动画设计师的窗口经过精心设计，以避免用户在屏幕上被过多的GUI元素所淹没。&lt;&#x2F;p&gt;&lt;p&gt;您可以切换到专注模式，隐藏更多窗口，完全专注于所需的滑块和数值。&lt;&#x2F;p&gt;
-&lt;p&gt;⌛ &lt;strong&gt;为动画师节省时间！&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;p&gt;&lt;strong&gt;准备基础动画&lt;&#x2F;strong&gt;，无需完全打磨，让程序运动算法来处理。为小肢体添加一些松弛感并进行烘焙。&lt;&#x2F;p&gt;&lt;p&gt;在编辑器中调整Unity人形动画重定向错误。&lt;&#x2F;p&gt;
-&lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;emojipedia.org&#x2F;gear&#x2F;&quot; target=&quot;_blank&quot;&gt;⚙️&lt;&#x2F;a&gt; &lt;strong&gt;自定义算法已准备好！&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;p&gt;&lt;strong&gt;动画设计师版本1.2.0&lt;&#x2F;strong&gt;引入了名为“自定义模块”的新功能。&lt;&#x2F;p&gt;&lt;p&gt;它允许在设计过程中应用自定义程序动画算法。&lt;&#x2F;p&gt;&lt;p&gt;版本1.2.0提供了用于人形拳头、手指、手臂、脊柱、头部和腿部姿势的模块，以及“侧移创建器”模块（也适用于通用骨架），帮助从单个行走&#x2F;奔跑动画剪辑中创建8方向运动。&lt;&#x2F;p&gt;
+&lt;p &gt;您不仅可以将动画设计师用于角色，还可以用于任何类型的动画对象。&lt;&#x2F;p&gt;&lt;br&gt;&lt;p&gt;⭐ &lt;strong&gt;精心设计的窗口以实现最大专注！&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;p&gt;动画设计师的窗口经过精心设计，以避免用户在屏幕上被过多的GUI元素所淹没。&lt;&#x2F;p&gt;&lt;p&gt;您可以切换到专注模式，隐藏更多窗口，完全专注于所需的滑块和数值。&lt;&#x2F;p&gt;
+&lt;p&gt;⌛ &lt;strong&gt;为动画师节省时间！&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;p&gt;&lt;strong&gt;准备基础动画&lt;&#x2F;strong&gt;，无需完全打磨，让程序化运动算法来处理。为小肢体添加一些抖动效果并进行烘焙。&lt;&#x2F;p&gt;&lt;p&gt;在编辑器中调整Unity人形动画重定向错误。&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;emojipedia.org&#x2F;gear&#x2F;&quot; target=&quot;_blank&quot;&gt;⚙️&lt;&#x2F;a&gt; &lt;strong&gt;自定义算法已准备好！&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;p&gt;&lt;strong&gt;动画设计师版本1.2.0&lt;&#x2F;strong&gt;引入了名为“自定义模块”的新功能。&lt;&#x2F;p&gt;&lt;p&gt;它允许在设计过程中应用自定义程序化动画算法。&lt;&#x2F;p&gt;&lt;p&gt;版本1.2.0提供了用于人形拳头、手指、手臂、脊柱、头部和腿部姿势的模块，以及“侧移创建器”模块（也适用于通用骨架），帮助从单个行走&#x2F;奔跑动画剪辑中创建8个方向的移动。&lt;&#x2F;p&gt;
 &lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;forum.unity.com&#x2F;threads&#x2F;animation-designer-editor-tool-for-adjusting-and-upgrading-animation-clips.1227384&#x2F;&quot; target=&quot;_blank&quot;&gt;社区论坛帖子&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
 &lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;filipmoeglich.pl&#x2F;download&#x2F;Animation%20Designer%20User%20Manual.pdf&quot; target=&quot;_blank&quot;&gt;用户手册&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
 &lt;p&gt;&lt;a href=&quot;http:&#x2F;&#x2F;discord.gg&#x2F;Y3WrzQp&quot; target=&quot;_blank&quot;&gt;我们的Discord支持&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;

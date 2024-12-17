@@ -5,12 +5,12 @@
     <link rel="self" type="application/atom+xml" href="https://yzzfo.github.io/tags/support-package/atom.xml"/>
     <link rel="alternate" type="text/html" href="https://yzzfo.github.io"/>
     <generator uri="https://www.getzola.org/">Zola</generator>
-    <updated>2024-11-30T13:24:53+00:00</updated>
+    <updated>2024-12-17T13:29:09+00:00</updated>
     <id>https://yzzfo.github.io/tags/support-package/atom.xml</id>
     <entry xml:lang="zh">
         <title>Support package for Hovl Studio assets</title>
         <published>2024-11-29T21:20:45+00:00</published>
-        <updated>2024-11-30T13:24:53+00:00</updated>
+        <updated>2024-12-17T13:29:09+00:00</updated>
         
         <author>
           <name>
@@ -28,7 +28,7 @@
 &lt;p&gt;编辑器将所有材料中仅与标准渲染管线兼容的着色器替换为自定义管线。&lt;&#x2F;p&gt;
 &lt;p&gt;&lt;strong&gt;编辑器仅适用于来自&lt;&#x2F;strong&gt;&lt;a href=&quot;https:&#x2F;&#x2F;assetstore.unity.com&#x2F;publishers&#x2F;28391&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;Hovl Studio&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt;&lt;strong&gt;的资产！&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
 &lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;youtu.be&#x2F;b9IEqs1gqcw&quot; target=&quot;_blank&quot;&gt;使用教程&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
-&lt;p&gt;该资产还包括适用于URP（LWRP）和HDRP 2019.2+的免费扭曲着色器以及许多实用的着色器。&lt;&#x2F;p&gt;</content>
+&lt;p&gt;该资产还包括适用于URP（LWRP）和HDRP 2019.2+的免费失真着色器以及许多实用的着色器。&lt;&#x2F;p&gt;</content>
         
     </entry>
 </feed>
