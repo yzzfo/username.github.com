@@ -5,8 +5,35 @@
     <link rel="self" type="application/atom+xml" href="https://yzzfo.github.io/tags/tool/atom.xml"/>
     <link rel="alternate" type="text/html" href="https://yzzfo.github.io"/>
     <generator uri="https://www.getzola.org/">Zola</generator>
-    <updated>2024-12-17T14:08:13+00:00</updated>
+    <updated>2024-12-19T01:00:31+00:00</updated>
     <id>https://yzzfo.github.io/tags/tool/atom.xml</id>
+    <entry xml:lang="zh">
+        <title>Grid Placement System</title>
+        <published>2024-12-19T01:00:31+00:00</published>
+        <updated>2024-12-19T01:00:31+00:00</updated>
+        
+        <author>
+          <name>
+            
+              yzzfo
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://yzzfo.github.io/unity/store/grid-placement-system/"/>
+        <id>https://yzzfo.github.io/unity/store/grid-placement-system/</id>
+        
+        <content type="html" xml:base="https://yzzfo.github.io/unity/store/grid-placement-system/">&lt;p&gt;Grid Placement System 允许玩家在运行时轻松地将物品放置到网格上。非常适合城市建设者、塔防游戏以及所有需要玩家放置物品的其他类型游戏。&lt;&#x2F;p&gt;
+&lt;p &gt;&lt;strong&gt;Grid Placement System&lt;&#x2F;strong&gt; 旨在极具可定制性，并以易用性为核心。&lt;&#x2F;p&gt;
+&lt;p &gt;&lt;strong&gt;无需&lt;&#x2F;strong&gt; &lt;strong&gt;对象配置。&lt;&#x2F;strong&gt; 将一个对象传递给网格，它就能正常工作！当网格管理器接收到一个要放置到网格中的对象时，它会处理所有计算，以确定该对象占用多少个网格单元。&lt;&#x2F;p&gt;
+&lt;p &gt;&lt;strong&gt;自定义网格的所有方面&lt;&#x2F;strong&gt;。设置包括宽度和高度、单元数量、网格单元的可视化、已占用单元的可视化、对象在其单元内的对齐方式、放置物品时的视觉反馈等更多内容！&lt;&#x2F;p&gt;
+&lt;p &gt;&lt;strong&gt;不喜欢方形网格单元？&lt;&#x2F;strong&gt; 您可以更改精灵以显示您喜欢的任何形状，比如圆形、三角形或点？&lt;&#x2F;p&gt;
+&lt;p &gt;&lt;strong&gt;易于使用。&lt;&#x2F;strong&gt; 网格设置提供了&lt;strong&gt;一个&lt;&#x2F;strong&gt;地方来定制与网格相关的所有内容。&lt;&#x2F;p&gt;
+&lt;p &gt;&lt;strong&gt;自定义编辑器工具。&lt;&#x2F;strong&gt; 在不进入游戏模式的情况下，实时可视化您对网格设置所做的修改。&lt;&#x2F;p&gt;
+&lt;p &gt;&lt;strong&gt;适合多种类型的游戏&lt;&#x2F;strong&gt;。示例包括：塔防、城市建设、模拟以及任何需要玩家将物品放置到网格上的游戏。&lt;&#x2F;p&gt;
+&lt;p &gt;展示图像使用了来自第三方低多边形资产包的3D模型。这些模型不包含在此包中。&lt;&#x2F;p&gt;</content>
+        
+    </entry>
     <entry xml:lang="zh">
         <title>Final IK</title>
         <published>2024-12-09T11:45:46+00:00</published>

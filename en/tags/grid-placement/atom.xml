@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+    <title>yzzfo | Share for Free - Grid Placement</title>
+    <subtitle>Game Development Learning Resources</subtitle>
+    <link rel="self" type="application/atom+xml" href="https://yzzfo.github.io/en/tags/grid-placement/atom.xml"/>
+    <link rel="alternate" type="text/html" href="https://yzzfo.github.io"/>
+    <generator uri="https://www.getzola.org/">Zola</generator>
+    <updated>2024-12-19T01:00:31+00:00</updated>
+    <id>https://yzzfo.github.io/en/tags/grid-placement/atom.xml</id>
+    <entry xml:lang="en">
+        <title>Grid Placement System</title>
+        <published>2024-12-19T01:00:31+00:00</published>
+        <updated>2024-12-19T01:00:31+00:00</updated>
+        
+        <author>
+          <name>
+            
+              yzzfo
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://yzzfo.github.io/en/unity/store/grid-placement-system/"/>
+        <id>https://yzzfo.github.io/en/unity/store/grid-placement-system/</id>
+        
+        <content type="html" xml:base="https://yzzfo.github.io/en/unity/store/grid-placement-system/">&lt;p&gt;Grid Placement System allows players to easily place items onto a grid at runtime. Perfect for city builders, tower defense and all sorts of other genres where players need to place items.&lt;br&gt;&lt;p &gt;&lt;strong&gt;Grid Placement System&lt;&#x2F;strong&gt; is designed to be extremely customizable and with ease of use at its core.&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;&lt;strong&gt;No&lt;&#x2F;strong&gt; &lt;strong&gt;object configuration needed.&lt;&#x2F;strong&gt; Pass an object to the grid and it just works! When the grid manager is passed an object to be placed into the grid it handles all of the calculations to determine how many grid cells it takes up.&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;&lt;strong&gt;Customize all aspects of the grid&lt;&#x2F;strong&gt;. Settings include width and height, amount of cells, visualization of grid cells, visualization of occupied cells, the object&#x27;s alignment within its cell(s), the visual feedback when placing an item and more!&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;&lt;strong&gt;Don&#x27;t like square grid cells?&lt;&#x2F;strong&gt; You can change the sprite to show any shape you like, a circle, a triangle, a dot?&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;&lt;strong&gt;Easy to use.&lt;&#x2F;strong&gt; The grid settings provide &lt;strong&gt;one &lt;&#x2F;strong&gt;place to customize everything to do with the grid.&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;&lt;strong&gt;Custom editor tools. &lt;&#x2F;strong&gt;Visualize the modifications you make to the grid settings in real-time without entering play mode.&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;&lt;strong&gt;Suitable for a wide range of genres&lt;&#x2F;strong&gt;. Examples include: tower defense, city builders, simulation, and anything where the player is required to place an item onto a grid.&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;The showcase images use 3D models from a 3rd party low poly asset pack. These models are not included in this package.&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;&#x2F;p&gt;
+</content>
+        
+    </entry>
+</feed>
