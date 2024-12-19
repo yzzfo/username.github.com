@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh">
+    <title>yzzfo | Share for Free - follow</title>
+    <subtitle>游戏开发学习资源分享</subtitle>
+    <link rel="self" type="application/atom+xml" href="https://yzzfo.github.io/tags/follow/atom.xml"/>
+    <link rel="alternate" type="text/html" href="https://yzzfo.github.io"/>
+    <generator uri="https://www.getzola.org/">Zola</generator>
+    <updated>2024-12-20T01:00:11+00:00</updated>
+    <id>https://yzzfo.github.io/tags/follow/atom.xml</id>
+    <entry xml:lang="zh">
+        <title>Mega Shapes</title>
+        <published>2024-12-20T01:00:11+00:00</published>
+        <updated>2024-12-20T01:00:11+00:00</updated>
+        
+        <author>
+          <name>
+            
+              yzzfo
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://yzzfo.github.io/unity/store/mega-shapes/"/>
+        <id>https://yzzfo.github.io/unity/store/mega-shapes/</id>
+        
+        <content type="html" xml:base="https://yzzfo.github.io/unity/store/mega-shapes/">&lt;p&gt;MegaShapes is the most advanced Spline system on the Asset Store, allowing you to Loft complex objects with layer based options as well as supporting the import of Splines from Max, Maya and Blender&lt;br&gt;我们都看到美丽的滚动背景游戏 - 现在你也可以拥有它们！制作赛车游戏？没有问题与巨型形状。绘制道路样条，绘制横截面，然后放样道路。想要更多的细节？然后放置一个屏障，它会自动适应路面。将障碍物滑入或滑出，缩小它们，扭曲它们 - 您的想象力是唯一的限制！使用强大的导轨克隆功能，沿着您的路径重复和定位对象集合，如围栏，电源线，树木等等！您甚至可以将您的鸽舍与地形或其下的任何网格贴合，现在您可以将鸽舍直接雕刻到地形上，从阁楼创作到游戏地形的完美融合。&lt;br&gt; &lt;br&gt; MegaShapes还为您提供了一个散射系统，可以将您选择的任何物体散射到您的道路上，并使它们自动适应现有网格的表面。其他包含的系统是一个完整的贝塞尔花键创建系统，并将这些花键转换为网格，动态软管，履带车辆系统，基础绳索和链条系统以及路径跟踪。&lt;br&gt; &lt;br&gt;MegaShapes功能&amp;lt;&#x2F; strong&amp;gt; &lt;br&gt;  - 提前贝塞尔样条&lt;br&gt;  -  Max，Maya和Blender &lt;br&gt;自定义样条出口商  - 动画样条支持者&lt;br&gt;  - 在Unity &lt;br&gt;内动画样条  -  KML和SVG进口商  - 基于高级层Lofter &lt;br&gt;  -  12个不同的Loft图层类型&lt;br&gt;  - 让你的鸽舍在地形上  - 或有地形自动适合您的阁楼&lt;br&gt;  - 顶点颜色支持阁楼轻松纹理混合等  - 实时更新到阁楼&lt;br&gt;  - 在运行时更改样条，并且您的鸽舍将更改&lt;br&gt;  - 完整的API，用于在运行时创建和编辑样条曲线  - 每个阁楼&lt;br&gt;允许多个横截面  - 全多材质支持&lt;br&gt;  - 沿样条线分散对象  - 基于规则的阁楼层&lt;br&gt;  - 阁楼系统，轻松移动阁楼&lt;br&gt;  - 样条网格选项，填充，管，色带等  - 动态软管&lt;br&gt;  - 履带车辆  - 全对象样条以下选项&lt;br&gt;  - 将刚体连接到splines &lt;br&gt;  - 基于物理的绳索和链  - 运行时绘制样条和示例&lt;br&gt; 点击&lt;strong&gt;新功能&amp;lt;&#x2F; strong&amp;gt;&lt;br&gt; &lt;strong&gt; Unity 2017兼容&amp;lt;&#x2F; strong&amp;gt;&lt;br&gt;多材质图层&lt;br&gt;雕刻你的鸽舍到地形KML进口商搜索结果&lt;br&gt;a href=&quot;https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v=GIC_JzUk7vg&quot;&amp;gt;Runtime Editing&lt;&#x2F;a&gt;&lt;br&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v=rFyMVBYdqMA&quot;&gt;Build Race tracks&lt;&#x2F;a&gt;&lt;br&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v=zstCMK_6E7M&quot;&gt;Match Terrains to Lofts&lt;&#x2F;a&gt;&lt;br&gt;&lt;a href=&quot;http:&#x2F;&#x2F;www.west-racing.com&#x2F;mf&quot;&gt;More Information and docs&lt;&#x2F;a&gt;&lt;br&gt;&lt;a href=&quot;http:&#x2F;&#x2F;www.west-racing.com&#x2F;megamoo&#x2F;index.html&quot;&gt;Webplayer Demo&lt;&#x2F;a&gt;&lt;br&gt;&lt;a href=&quot;http:&#x2F;&#x2F;www.youtube.com&#x2F;playlist?list=PL6E3DFE75D40659ED&amp;feature=view_all&quot;&gt;Video guides&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+</content>
+        
+    </entry>
+</feed>
