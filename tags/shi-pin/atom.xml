@@ -5,8 +5,28 @@
     <link rel="self" type="application/atom+xml" href="https://yzzfo.github.io/tags/shi-pin/atom.xml"/>
     <link rel="alternate" type="text/html" href="https://yzzfo.github.io"/>
     <generator uri="https://www.getzola.org/">Zola</generator>
-    <updated>2024-12-07T14:00:17+00:00</updated>
+    <updated>2024-12-22T01:00:11+00:00</updated>
     <id>https://yzzfo.github.io/tags/shi-pin/atom.xml</id>
+    <entry xml:lang="zh">
+        <title>Video Capture Pro</title>
+        <published>2024-12-22T01:00:11+00:00</published>
+        <updated>2024-12-22T01:00:11+00:00</updated>
+        
+        <author>
+          <name>
+            
+              yzzfo
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://yzzfo.github.io/unity/store/video-capture-pro/"/>
+        <id>https://yzzfo.github.io/unity/store/video-capture-pro/</id>
+        
+        <content type="html" xml:base="https://yzzfo.github.io/unity/store/video-capture-pro/">&lt;p&gt;&lt;br&gt;&lt;A href=&quot;https:&#x2F;&#x2F;evereal.com&#x2F;products&#x2F;video-capture-pro-unity-plugin&#x2F;&quot;&gt;主页&lt;&#x2F;A&gt; | &lt;A href=&quot;https:&#x2F;&#x2F;evereal.com&#x2F;docs&#x2F;video-capture-pro-unity-plugin&#x2F;&quot;&gt;文档&lt;&#x2F;A&gt; | &lt;A href=&quot;https:&#x2F;&#x2F;evereal.com&#x2F;contact&quot;&gt;联系开发员&lt;&#x2F;A&gt;&lt;BR&gt;&lt;BR&gt;&lt;STRONG&gt;&lt;A href=&quot;https:&#x2F;&#x2F;evereal.com&#x2F;products&#x2F;video-capture-pro-unity-plugin&#x2F;&quot;&gt;&lt;em&gt;在购买前使用试用版&lt;&#x2F;em&gt;&lt;&#x2F;A&gt;&lt;&#x2F;STRONG&gt;&lt;BR&gt;&lt;BR&gt;&lt;STRONG&gt;视频捕&lt;&#x2F;STRONG&gt;捉是一款插件，让身为 Unity 开发者的你从 Unity 应用程序中捕捉视频和音频。非常适合为基于 Unity 的游戏或应用录制视频预告片、演示和应用内素材。而且它还快捷、灵活、易于使用。视频被录制之后，你来决定如何将它处理。给用户完整的分享权限，或仅允许应用程序中播放，又或两者之间的任何权限。&lt;BR&gt;&lt;BR&gt;&lt;STRONG&gt;功能：&lt;&#x2F;STRONG&gt;&lt;BR&gt;- 非常容易使用&lt;BR&gt;- 从任何摄像头捕捉视频&lt;BR&gt;- 用光标从屏幕捕捉视频&lt;BR&gt;- 从渲染纹理中捕捉视频&lt;BR&gt;- 在场景内捕捉音频&lt;BR&gt;- 从麦克风中捕捉音频&lt;BR&gt;- 多个编码支持（H.264、H.265、FFV1、VP8、VP9）&lt;BR&gt;- 多个摄像头同时捕捉&lt;BR&gt;- 实时直播到远程流媒体服务（Youtube、Facebook 等等）&lt;BR&gt;- 高达 8K 视频捕捉&lt;BR&gt;- 高达 16K 截图或序列图像捕捉&lt;BR&gt;- 立体声视频捕捉（左右、上下）&lt;BR&gt;- 360 视频捕捉（等距状、立面贴图）&lt;BR&gt;- 360 立体声视频捕捉（左右、上下）&lt;BR&gt;- 支持实时和离线捕捉&lt;BR&gt;- 支持线性和 Gamma 颜色空间&lt;BR&gt;&lt;BR&gt;&lt;STRONG&gt;支持的平台：&lt;&#x2F;STRONG&gt;&lt;BR&gt;- Windows（32 位或 64 位）&lt;BR&gt;- macOS（64 位）&lt;BR&gt;&lt;BR&gt;&lt;STRONG&gt;常见问题：&lt;&#x2F;STRONG&gt;&lt;BR&gt;&lt;STRONG&gt;问：视频捕捉插件需要哪个 Unity 版本？&lt;&#x2F;STRONG&gt;&lt;BR&gt;&lt;STRONG&gt;答：&lt;&#x2F;STRONG&gt;我们推荐 Unity 5.6 或更高版本。&lt;BR&gt;&lt;BR&gt;&lt;STRONG&gt;问：我能使用多个摄像头同时捕捉吗？&lt;&#x2F;STRONG&gt;&lt;BR&gt;&lt;STRONG&gt;答：&lt;&#x2F;STRONG&gt;是的，但你所用的摄像头越多，设备花费的资源就越大。此外，360 视频录制目前尚未支持多摄像头录制。&lt;BR&gt;&lt;BR&gt;&lt;STRONG&gt;问：什么是离线渲染设置？&lt;&#x2F;STRONG&gt;&lt;BR&gt;&lt;STRONG&gt;答：&lt;&#x2F;STRONG&gt;假如你启用了离线渲染设置，则捕捉会话只会一直移到下一个帧，直到当前帧记录成功。它在捕捉 8K 视频或消耗很大的视频捕捉时，对你创建流畅的视频有用。&lt;BR&gt;&lt;BR&gt;&lt;STRONG&gt;问：我的设备支持高性能 GPU 编码吗？&lt;&#x2F;STRONG&gt;&lt;BR&gt;&lt;STRONG&gt;答：&lt;&#x2F;STRONG&gt;GPU 编码仅在 Windows 使用，而且需要一张独立显卡。&lt;BR&gt;• 带有 Kepler、Maxwell 和 Pascall 生成 GPU 的 NVIDIA Quadro、Tesla、GRID 或 GeForce 产品。NVidia Windows 显示驱动程序：375.95 或更高版本。&lt;BR&gt;• AMD GPU 支持以下驱动程序： AMD Radeon Software Crimson 17.1.1 或更高版本。&lt;BR&gt;• Windows 7 SP1 或更高版本。&lt;BR&gt;&lt;BR&gt;&lt;STRONG&gt;问：录制视频的分辨率极限是多大？&lt;&#x2F;STRONG&gt;&lt;BR&gt;&lt;STRONG&gt;答：&lt;&#x2F;STRONG&gt;支持的视频分辨率会根据编码类型而不同：&lt;BR&gt;• AMD GPU 编码：最高 4K（4096 x 2048）&lt;BR&gt;• NVidia GPU 编码：最高 4K（4096 x 4096）&lt;BR&gt;• 软件编码：最高 8K（7680 x 4320）&lt;BR&gt;&lt;BR&gt;&lt;STRONG&gt;问：为什么我无法在 MacOS 上生成视频？&lt;&#x2F;STRONG&gt;&lt;BR&gt;&lt;STRONG&gt;答：&lt;&#x2F;STRONG&gt;如果你无法在 MacOS 上生成视频，这可能是由于程序没有允许运行 FFmpeg 的权限。如果想要修复，请在 VideoCapture 编辑器菜单中点击授予 MacOS Build 权限项。&lt;BR&gt;&lt;BR&gt;&lt;STRONG&gt;问：我正在使用 MacOS 和 Unity 2017，为什么我无法导入资源？&lt;&#x2F;STRONG&gt;&lt;BR&gt;&lt;STRONG&gt;答：&lt;&#x2F;STRONG&gt;Video Capture Pro 资源包含样本 wav 音频文件。 MacOS 版本 Unity 2017 有一个导入 wav 文件的错误，除去这些 wav 音频文件你就可以成功导入资源。&lt;BR&gt;&lt;BR&gt;&lt;STRONG&gt;问：如何用视频捕捉来记录游戏 UI ？&lt;&#x2F;STRONG&gt;&lt;BR&gt;&lt;STRONG&gt;答：&lt;&#x2F;STRONG&gt;请将捕捉源更改到为 SCREEN，你也可以试用演示 “Demo_02_FromScreen” 来记录游戏 UI。&lt;BR&gt;&lt;BR&gt;&lt;STRONG&gt;问：我正在使用 Windows，为什么在启用 GPU 编码后程序自动退出？&lt;&#x2F;STRONG&gt;&lt;BR&gt;&lt;STRONG&gt;答：&lt;&#x2F;STRONG&gt;在用 GPU 捕捉时可能会出现意外，请确保你正在使用的是 Direct3D11 Windows Graphic API 。&lt;BR&gt;&lt;BR&gt;如果你想分享任何反馈或意见，请随时通过电子邮件与我们联系或留下评论。我们将尽快作出答复。&lt;BR&gt;&lt;BR&gt;&lt;STRONG&gt; Support: &lt;&#x2F;STRONG&gt; &lt;A href=&quot;mailto:dev@evereal.com&quot;&gt;dev@evereal.com&lt;&#x2F;A&gt;&lt;&#x2F;p&gt;
+</content>
+        
+    </entry>
     <entry xml:lang="zh">
         <title>AVPro Video – Ultra Edition</title>
         <published>2024-12-07T14:00:17+00:00</published>
