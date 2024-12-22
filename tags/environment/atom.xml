@@ -5,8 +5,34 @@
     <link rel="self" type="application/atom+xml" href="https://yzzfo.github.io/tags/environment/atom.xml"/>
     <link rel="alternate" type="text/html" href="https://yzzfo.github.io"/>
     <generator uri="https://www.getzola.org/">Zola</generator>
-    <updated>2024-12-17T14:10:15+00:00</updated>
+    <updated>2024-12-22T15:04:36+00:00</updated>
     <id>https://yzzfo.github.io/tags/environment/atom.xml</id>
+    <entry xml:lang="zh">
+        <title>Infinite Lands: Node-Based World Creator</title>
+        <published>2024-12-22T15:04:36+00:00</published>
+        <updated>2024-12-22T15:04:36+00:00</updated>
+        
+        <author>
+          <name>
+            
+              yzzfo
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://yzzfo.github.io/unity/store/infinite-lands-node-based-world-creator/"/>
+        <id>https://yzzfo.github.io/unity/store/infinite-lands-node-based-world-creator/</id>
+        
+        <content type="html" xml:base="https://yzzfo.github.io/unity/store/infinite-lands-node-based-world-creator/">&lt;p&gt;易于使用、优化、可定制且直观的基于节点的程序化世界生成包。旨在将世界生成简化为几次点击，同时保持对千种选项的完全控制。&lt;&#x2F;p&gt;
+&lt;p&gt;该包将提供构建优化程序化世界所需的工具。它利用作业和Burst编译器生成世界生成所需的不同网格，使用简单的节点编辑器，同时提供一个优化的植被放置器，利用GPU实例化保持轻量级。&lt;&#x2F;p&gt;
+&lt;p&gt;它完全可根据个人需求进行定制，同时保持极其简单和直观。一个一体化的包。提供的文档包含所有所需信息，如有其他问题，请随时加入我们的&lt;a href=&quot;https:&#x2F;&#x2F;discord.gg&#x2F;Q87ZcUvPwz&quot; target=&quot;_blank&quot;&gt;Discord服务器&lt;&#x2F;a&gt;寻求帮助。&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;ensapra.com&#x2F;packages&#x2F;infinite_lands&quot; target=&quot;_blank&quot;&gt;文档&lt;&#x2F;a&gt; | &lt;a href=&quot;https:&#x2F;&#x2F;discord.com&#x2F;invite&#x2F;Q87ZcUvPwz&quot; target=&quot;_blank&quot;&gt;直接支持&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;简单易用的地形。放置一个单块可视化器以查看一个块，或放置一个无限块可视化器以实现无限四叉树生成。&lt;&#x2F;p&gt;&lt;br&gt;&lt;p &gt;&lt;strong&gt;在此包中您将找到：&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;ul&gt;&lt;li &gt;&lt;strong&gt;节点编辑器&lt;&#x2F;strong&gt;&lt;&#x2F;li&gt;&lt;ul&gt;&lt;li &gt;&lt;strong&gt;实时&lt;&#x2F;strong&gt;编辑&lt;&#x2F;li&gt;&lt;li &gt;多种节点&lt;&#x2F;li&gt;&lt;li &gt;逐步可视化&lt;&#x2F;li&gt;&lt;li &gt;生物群落支持&lt;&#x2F;li&gt;&lt;li &gt;导出为图像&lt;&#x2F;li&gt;&lt;&#x2F;ul&gt;&lt;li &gt;通过&lt;strong&gt;作业&lt;&#x2F;strong&gt;和&lt;strong&gt;Burst编译器&lt;&#x2F;strong&gt;优化的网格生成&lt;&#x2F;li&gt;&lt;ul&gt;&lt;li &gt;四叉树和网格状无限地形生成&lt;&#x2F;li&gt;&lt;li &gt;自动LOD创建&lt;&#x2F;li&gt;&lt;li &gt;使用简化网格的选项&lt;&#x2F;li&gt;&lt;li &gt;具有&lt;strong&gt;随机采样、三平面映射&lt;&#x2F;strong&gt;和距离重采样的程序性地形着色器。&lt;&#x2F;li&gt;&lt;&#x2F;ul&gt;&lt;li &gt;集成&lt;strong&gt;植被系统&lt;&#x2F;strong&gt;&lt;&#x2F;li&gt;&lt;ul&gt;&lt;li &gt;&lt;strong&gt;GPU实例化&lt;&#x2F;strong&gt;资产&lt;&#x2F;li&gt;&lt;li &gt;植被交互&lt;&#x2F;li&gt;&lt;li &gt;与地形的颜色和法线混合&lt;&#x2F;li&gt;&lt;li &gt;动态碰撞体支持&lt;&#x2F;li&gt;&lt;li &gt;基本风系统&lt;&#x2F;li&gt;&lt;li &gt;替代物支持&lt;&#x2F;li&gt;&lt;&#x2F;ul&gt;&lt;li &gt;浮点原点&lt;&#x2F;li&gt;&lt;li &gt;遮挡、视锥剔除和更多优化技术&lt;&#x2F;li&gt;&lt;li &gt;内置、URP和HDRP的多个样本&lt;&#x2F;li&gt;&lt;li &gt;直观的工作流程&lt;&#x2F;li&gt;&lt;li &gt;还有更多更新即将到来...&lt;&#x2F;li&gt;&lt;&#x2F;ul&gt;
+&lt;p &gt;&lt;strong&gt;为什么选择无限土地？&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;p &gt;由一个喜欢快速迭代的人制作，因此它经过优化和简化，适合日常使用。这是一个全包，您购买这个后将不再需要购买其他资产。没有额外模块，所有未来更新都将免费提供在这个包中。&lt;&#x2F;p&gt;
+&lt;p &gt;&lt;strong&gt;依赖项&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;p &gt;要使用此资产，您需要：&lt;&#x2F;p&gt;&lt;p &gt;- com.unity.burst: &quot;1.8.11&quot;,&lt;&#x2F;p&gt;&lt;p &gt;- com.unity.collections: &quot;1.4.0&quot;,&lt;&#x2F;p&gt;&lt;p &gt;- com.unity.render-pipelines.core:&quot;12.1.15&quot;,&lt;&#x2F;p&gt;&lt;p &gt;- com.unity.searcher: &quot;4.9.2&quot;,&lt;&#x2F;p&gt;&lt;p &gt;- com.unity.shadergraph: &quot;12.1.15&quot;&lt;&#x2F;p&gt;
+&lt;p &gt;此资产使用了NaughtyAttributes的一个版本，遵循MIT许可证。有关更多详细信息，请参见NaughtyAttributes&#x2F;LICENSE.txt&lt;&#x2F;p&gt;</content>
+        
+    </entry>
     <entry xml:lang="zh">
         <title>AllSky - 220+ Sky &#x2F; Skybox Set</title>
         <published>2024-12-08T17:36:27+00:00</published>

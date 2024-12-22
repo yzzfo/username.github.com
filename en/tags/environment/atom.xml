@@ -5,8 +5,28 @@
     <link rel="self" type="application/atom+xml" href="https://yzzfo.github.io/en/tags/environment/atom.xml"/>
     <link rel="alternate" type="text/html" href="https://yzzfo.github.io"/>
     <generator uri="https://www.getzola.org/">Zola</generator>
-    <updated>2024-12-17T14:10:15+00:00</updated>
+    <updated>2024-12-22T15:04:36+00:00</updated>
     <id>https://yzzfo.github.io/en/tags/environment/atom.xml</id>
+    <entry xml:lang="en">
+        <title>Infinite Lands: Node-Based World Creator</title>
+        <published>2024-12-22T15:04:36+00:00</published>
+        <updated>2024-12-22T15:04:36+00:00</updated>
+        
+        <author>
+          <name>
+            
+              yzzfo
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://yzzfo.github.io/en/unity/store/infinite-lands-node-based-world-creator/"/>
+        <id>https://yzzfo.github.io/en/unity/store/infinite-lands-node-based-world-creator/</id>
+        
+        <content type="html" xml:base="https://yzzfo.github.io/en/unity/store/infinite-lands-node-based-world-creator/">&lt;p&gt;Easy, optimized, customizable, and intuitive Node Based Procedural World generation package. To simplify the generation of worlds down to a couple of clicks while having full control with a thousand.&lt;br&gt;&lt;p &gt;This package will provide the tools necessary to build an optimized procedural world. It makes use of Jobs and the Burst Compiler to generate the different meshes needed for the generation of the world, making use of a simple Node Editor while also providing an optimized Vegetation Placer that uses GPU instancing to stay light-weight.&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;It is fully customizable to one needs while staying extremely simple and intuitive. An all-in-one package. The provided documentation has all the information needed, and otherwise, feel free to join our &lt;a href=&quot;https:&#x2F;&#x2F;discord.gg&#x2F;Q87ZcUvPwz&quot; target=&quot;_blank&quot;&gt;discord server&lt;&#x2F;a&gt; to ask for help.&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;&lt;a href=&quot;https:&#x2F;&#x2F;ensapra.com&#x2F;packages&#x2F;infinite_lands&quot; target=&quot;_blank&quot;&gt;Documentation&lt;&#x2F;a&gt; | &lt;a href=&quot;https:&#x2F;&#x2F;discord.com&#x2F;invite&#x2F;Q87ZcUvPwz&quot; target=&quot;_blank&quot;&gt;Direct Support&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;Simple and easy-to-use terrain. Drop a Single Chunk Visualizer to see one chunk, or drop a Infinite Chunk Visualizer to have an Infinite quadtree generation.&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;&lt;strong&gt;In this package you will find:&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;ul&gt;&lt;li &gt;&lt;strong&gt;Node Editor&lt;&#x2F;strong&gt;&lt;&#x2F;li&gt;&lt;ul&gt;&lt;li &gt;&lt;strong&gt;Live &lt;&#x2F;strong&gt;editing&lt;&#x2F;li&gt;&lt;li &gt;Variety of nodes&lt;&#x2F;li&gt;&lt;li &gt;Step by Step visualization&lt;&#x2F;li&gt;&lt;li &gt;Biomes support&lt;&#x2F;li&gt;&lt;li &gt;Export to Images&lt;&#x2F;li&gt;&lt;&#x2F;ul&gt;&lt;li &gt;Optimized mesh generation through &lt;strong&gt;Jobs &lt;&#x2F;strong&gt;and &lt;strong&gt;Burst Compiler&lt;&#x2F;strong&gt;&lt;&#x2F;li&gt;&lt;ul&gt;&lt;li &gt;Quadtree and Grid-like infinite terrain generation&lt;&#x2F;li&gt;&lt;li &gt;Automatic LOD creation&lt;&#x2F;li&gt;&lt;li &gt;Option to use Decimated Meshes&lt;&#x2F;li&gt;&lt;li &gt;Procedural terrain shader with &lt;strong&gt;Stochastic Sampling, Triplanar Mapping&lt;&#x2F;strong&gt;, and distance resampling.&lt;&#x2F;li&gt;&lt;&#x2F;ul&gt;&lt;li &gt;Integrated &lt;strong&gt;Vegetation System&lt;&#x2F;strong&gt;&lt;&#x2F;li&gt;&lt;ul&gt;&lt;li &gt;&lt;strong&gt;GPU Instanced&lt;&#x2F;strong&gt; assets&lt;&#x2F;li&gt;&lt;li &gt;Vegetation interaction&lt;&#x2F;li&gt;&lt;li &gt;Color and Normal blending with terrain&lt;&#x2F;li&gt;&lt;li &gt;Dynamic Colliders support&lt;&#x2F;li&gt;&lt;li &gt;Basic Wind System&lt;&#x2F;li&gt;&lt;li &gt;Impostor support&lt;&#x2F;li&gt;&lt;&#x2F;ul&gt;&lt;li &gt;Floating Point Origin&lt;&#x2F;li&gt;&lt;li &gt;Occlusion, Frustum culling and more optimization techniques&lt;&#x2F;li&gt;&lt;li &gt;Multiple Samples for Built-in, URP and HDRP&lt;&#x2F;li&gt;&lt;li &gt;Intuitive workflow&lt;&#x2F;li&gt;&lt;li &gt;And more updates coming...&lt;&#x2F;li&gt;&lt;&#x2F;ul&gt;&lt;&#x2F;br&gt;&lt;p &gt;&lt;strong&gt;Why Infinite Lands?&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;p &gt;Made by someone who likes to iterate quickly and therefore it&#x27;s optimized and simplified for daily use. It&#x27;s an all-in-package, you buy this and you will never need to buy another asset. There are no extra modules, all future updates will come for free in this one package.&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;&lt;strong&gt;Dependancies&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;p &gt;To use this asset, you will need:&lt;&#x2F;p&gt;&lt;p &gt;- com.unity.burst: &quot;1.8.11&quot;,&lt;&#x2F;p&gt;&lt;p &gt;- com.unity.collections: &quot;1.4.0&quot;,&lt;&#x2F;p&gt;&lt;p &gt;- com.unity.render-pipelines.core:&quot;12.1.15&quot;,&lt;&#x2F;p&gt;&lt;p &gt;- com.unity.searcher: &quot;4.9.2&quot;,&lt;&#x2F;p&gt;&lt;p &gt;- com.unity.shadergraph: &quot;12.1.15&quot;&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;This asset makes use of a version of NaughtyAttributes under the MIT license. See NaughtyAttributes&#x2F;LICENSE.txt for more details&lt;&#x2F;p&gt;&lt;&#x2F;p&gt;
+</content>
+        
+    </entry>
     <entry xml:lang="en">
         <title>AllSky - 220+ Sky &#x2F; Skybox Set</title>
         <published>2024-12-08T17:36:27+00:00</published>
