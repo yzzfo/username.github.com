@@ -5,8 +5,44 @@
     <link rel="self" type="application/atom+xml" href="https://yzzfo.github.io/tags/water/atom.xml"/>
     <link rel="alternate" type="text/html" href="https://yzzfo.github.io"/>
     <generator uri="https://www.getzola.org/">Zola</generator>
-    <updated>2024-12-25T01:00:31+00:00</updated>
+    <updated>2024-12-26T01:01:26+00:00</updated>
     <id>https://yzzfo.github.io/tags/water/atom.xml</id>
+    <entry xml:lang="zh">
+        <title>Stylized Water Toon Shader - Mobile Ready</title>
+        <published>2024-12-26T01:01:26+00:00</published>
+        <updated>2024-12-26T01:01:26+00:00</updated>
+        
+        <author>
+          <name>
+            
+              yzzfo
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://yzzfo.github.io/unity/store/stylized-water-toon-shader-mobile-ready/"/>
+        <id>https://yzzfo.github.io/unity/store/stylized-water-toon-shader-mobile-ready/</id>
+        
+        <content type="html" xml:base="https://yzzfo.github.io/unity/store/stylized-water-toon-shader-mobile-ready/">&lt;p&gt;&lt;strong&gt;&lt;em&gt; -- 风格化水体卡通着色器 --&lt;&#x2F;em&gt;&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;strong&gt;这个着色器是一个完全可定制的水材质，随时可以使用。它是一个优化的移动友好型着色器，专为设计师、艺术家和开发者设计，旨在提供一个简单但强大的水材质，而无需处理编码。&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;在包中有一个示例场景，包含一些环境资产，帮助您理解它是如何工作的。它非常简单，您可以找到一份文档，其中描述了每个参数。&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https:&#x2F;&#x2F;blasph.tech&#x2F;index.html&quot;&gt;[WebGL 测试]&lt;&#x2F;a&gt;&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https:&#x2F;&#x2F;drive.google.com&#x2F;open?id=12pX7aK2mR-ixWnFL5yDDWHfVAdPx8vsO&quot;&gt;[文档]&lt;&#x2F;a&gt;&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;em&gt; -- 主要特性 --&lt;&#x2F;em&gt;&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;strong&gt;水&lt;&#x2F;strong&gt;&lt;p&gt;&lt;&#x2F;p&gt;您可以设置一个 alpha 纹理，它的 alpha 通道，给它上色，并随时间改变它的 UV 位置。&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;strong&gt;波浪&lt;&#x2F;strong&gt;&lt;p&gt;&lt;&#x2F;p&gt;您可以改变平面顶点位置，以模拟波动的水面效果。&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;strong&gt;渐变&lt;&#x2F;strong&gt;&lt;p&gt;&lt;&#x2F;p&gt;您可以设置一个渐变纹理，以创建深色水体效果，并随时间改变它的 UV 位置。&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;strong&gt;泡沫&lt;&#x2F;strong&gt;&lt;p&gt;&lt;&#x2F;p&gt;当水与其他物体相交时，这个着色器会创建一个波动的泡沫效果，可以完全自定义。&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;strong&gt;阴影&lt;&#x2F;strong&gt;&lt;p&gt;&lt;&#x2F;p&gt;当水与其他物体相交时，这个着色器会创建一个阴影，使得该物体可以在水下可见。&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;strong&gt;黑暗&lt;&#x2F;strong&gt;&lt;p&gt;&lt;&#x2F;p&gt;基于相机位置，您可以创建一个渐变的暗&#x2F;亮颜色，越往远处走，水就越黑暗。&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;em&gt; -- 兼容性 --&lt;&#x2F;em&gt;&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;strong&gt;渲染管线&lt;&#x2F;strong&gt;&lt;p&gt;&lt;&#x2F;p&gt;这个着色器支持 Unity 默认渲染管线和 LWRP，但不支持 HD 渲染管线。&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;strong&gt;Unity 版本&lt;&#x2F;strong&gt;&lt;p&gt;&lt;&#x2F;p&gt;此包支持的最低 Unity 版本为 2019.2.0，但该着色器也支持旧版本（从 2018.4.38 开始）。我将添加对更旧版本的支持。&lt;br&gt;&lt;strong&gt;移动设备&lt;&#x2F;strong&gt;&lt;p&gt;&lt;&#x2F;p&gt;最低硬件要求是兼容OPENGL ES 3.0的移动设备。2012年后发布的所有设备均受支持。&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;strong&gt;光照&lt;&#x2F;strong&gt;&lt;p&gt;&lt;&#x2F;p&gt;该着色器不对外部光源（如点光源或聚光灯）做出反应，因为它经过优化以适用于移动设备。&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;strong&gt;内容&lt;&#x2F;strong&gt;&lt;p&gt;&lt;&#x2F;p&gt;该包提供了您开始使用着色器所需的一切。一个示例场景，包括棕榈树、岩石、岛屿、草地和使用此着色器制作的水材质。两个现成的材质示例和9种纹理：4种用于透明度，2种用于渐变，3种用于泡沫。&lt;&#x2F;p&gt;
+</content>
+        
+    </entry>
     <entry xml:lang="zh">
         <title>Low Poly Water - Poseidon</title>
         <published>2024-12-25T01:00:31+00:00</published>

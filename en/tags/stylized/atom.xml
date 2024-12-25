@@ -5,8 +5,28 @@
     <link rel="self" type="application/atom+xml" href="https://yzzfo.github.io/en/tags/stylized/atom.xml"/>
     <link rel="alternate" type="text/html" href="https://yzzfo.github.io"/>
     <generator uri="https://www.getzola.org/">Zola</generator>
-    <updated>2024-12-23T01:00:30+00:00</updated>
+    <updated>2024-12-26T01:01:26+00:00</updated>
     <id>https://yzzfo.github.io/en/tags/stylized/atom.xml</id>
+    <entry xml:lang="en">
+        <title>Stylized Water Toon Shader - Mobile Ready</title>
+        <published>2024-12-26T01:01:26+00:00</published>
+        <updated>2024-12-26T01:01:26+00:00</updated>
+        
+        <author>
+          <name>
+            
+              yzzfo
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://yzzfo.github.io/en/unity/store/stylized-water-toon-shader-mobile-ready/"/>
+        <id>https://yzzfo.github.io/en/unity/store/stylized-water-toon-shader-mobile-ready/</id>
+        
+        <content type="html" xml:base="https://yzzfo.github.io/en/unity/store/stylized-water-toon-shader-mobile-ready/">&lt;p&gt;&lt;br&gt;&lt;strong&gt;&lt;em&gt; -- Stylized Water Toon Shader --&lt;&#x2F;em&gt;&lt;&#x2F;strong&gt;&lt;&#x2F;br&gt;&lt;&#x2F;br&gt;&lt;strong&gt;This shader is a ready to use water material totally customizable. It’s a optimized mobile friendly shader thought for designer, artists and devs that want a simple but powerful water material without have to handle with coding.&lt;&#x2F;strong&gt;&lt;&#x2F;br&gt;&lt;&#x2F;br&gt;In the package there is an example scene with some environment assets to help you understand how does it works. It’s pretty simple and you can find a documentation where every parameter is described.&lt;&#x2F;br&gt;&lt;&#x2F;br&gt;&lt;strong&gt;&lt;a href=&quot;https:&#x2F;&#x2F;blasph.tech&#x2F;index.html&quot;&gt;[WebGL Test]&lt;&#x2F;a&gt;&lt;&#x2F;strong&gt;&lt;&#x2F;br&gt;&lt;&#x2F;br&gt;&lt;strong&gt;&lt;a href=&quot;https:&#x2F;&#x2F;drive.google.com&#x2F;open?id=12pX7aK2mR-ixWnFL5yDDWHfVAdPx8vsO&quot;&gt;[Documentation]&lt;&#x2F;a&gt;&lt;&#x2F;strong&gt;&lt;&#x2F;br&gt;&lt;&#x2F;br&gt;&lt;strong&gt;&lt;em&gt; -- Main Features --&lt;&#x2F;em&gt;&lt;&#x2F;strong&gt;&lt;&#x2F;br&gt;&lt;&#x2F;br&gt;&lt;strong&gt;Water&lt;&#x2F;strong&gt;&lt;p&gt;&lt;&#x2F;p&gt;You can set an alpha texture, it’s alpha channel, color it and change it’s UV position over time&lt;&#x2F;br&gt;&lt;&#x2F;br&gt;&lt;strong&gt;Wave&lt;&#x2F;strong&gt;&lt;p&gt;&lt;&#x2F;p&gt;You can change the plane vertex position to simulate a waving water effect&lt;&#x2F;br&gt;&lt;&#x2F;br&gt;&lt;strong&gt;Gradient&lt;&#x2F;strong&gt;&lt;p&gt;&lt;&#x2F;p&gt;You can set a gradient texture to create a dark deep water effect and change it’s UV position over time&lt;&#x2F;br&gt;&lt;&#x2F;br&gt;&lt;strong&gt;Foam&lt;&#x2F;strong&gt;&lt;p&gt;&lt;&#x2F;p&gt;When water intersects with other object this shader create a waving foam effect that can be totally customized.&lt;&#x2F;br&gt;&lt;&#x2F;br&gt;&lt;strong&gt;Shadow&lt;&#x2F;strong&gt;&lt;p&gt;&lt;&#x2F;p&gt;When water intersects with other object this shader create a shadow so that object can be seen underwater&lt;&#x2F;br&gt;&lt;&#x2F;br&gt;&lt;strong&gt;Darkness&lt;&#x2F;strong&gt;&lt;p&gt;&lt;&#x2F;p&gt;Based on camera position you can create a gradient dark&#x2F;light color, the more you go further the darker water become&lt;&#x2F;br&gt;&lt;&#x2F;br&gt;&lt;strong&gt;&lt;em&gt; -- Compatibility --&lt;&#x2F;em&gt;&lt;&#x2F;strong&gt;&lt;&#x2F;br&gt;&lt;&#x2F;br&gt;&lt;strong&gt;Rendering Pipeline&lt;&#x2F;strong&gt;&lt;p&gt;&lt;&#x2F;p&gt;This shader support the unity default rendering pipeline and the LWRP but doesn’t support HD rendering pipeline.&lt;&#x2F;br&gt;&lt;&#x2F;br&gt;&lt;strong&gt;Unity version&lt;&#x2F;strong&gt;&lt;p&gt;&lt;&#x2F;p&gt;The minimum supported unity version for this package is 2019.2.0 but the shader is supported also with older versions (from 2018.4.38). I will add support for older version&lt;&#x2F;br&gt;&lt;&#x2F;br&gt;&lt;strong&gt;Mobile&lt;&#x2F;strong&gt;&lt;p&gt;&lt;&#x2F;p&gt;The minimum hardware requirement is a mobile compatible with OPENGL ES 3.0. Every devices release after 2012 are supported.&lt;&#x2F;br&gt;&lt;&#x2F;br&gt;&lt;strong&gt;Lighting&lt;&#x2F;strong&gt;&lt;p&gt;&lt;&#x2F;p&gt;The shader doesn’t react to external light, like point light or spot light because It’s optimized to work with mobile&lt;&#x2F;br&gt;&lt;&#x2F;br&gt;&lt;strong&gt;Contents&lt;&#x2F;strong&gt;&lt;p&gt;&lt;&#x2F;p&gt;The package provide you everything you need to start working with the shaderAn example scene with palm tree, rocks, island, grass and a water material made with this shader. Two material example ready to use and 9 texture: 4 for alpha, 2 for gradient and 3 for foam&lt;&#x2F;br&gt;&lt;&#x2F;br&gt;&lt;&#x2F;p&gt;
+</content>
+        
+    </entry>
     <entry xml:lang="en">
         <title>Stylized Water 2</title>
         <published>2024-12-23T01:00:30+00:00</published>
