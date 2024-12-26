@@ -361,6 +361,12 @@
   <loc>https://yzzfo.github.io/en/tags/asset-database/page/1/</loc>
 </url>
 <url>
+  <loc>https://yzzfo.github.io/en/tags/asset-management/</loc>
+</url>
+<url>
+  <loc>https://yzzfo.github.io/en/tags/asset-management/page/1/</loc>
+</url>
+<url>
   <loc>https://yzzfo.github.io/en/tags/asset-store-tools/</loc>
 </url>
 <url>
@@ -2650,6 +2656,9 @@
   <loc>https://yzzfo.github.io/en/tags/modeling/page/1/</loc>
 </url>
 <url>
+  <loc>https://yzzfo.github.io/en/tags/modeling/page/2/</loc>
+</url>
+<url>
   <loc>https://yzzfo.github.io/en/tags/modern/</loc>
 </url>
 <url>
@@ -3199,6 +3208,12 @@
   <loc>https://yzzfo.github.io/en/tags/post-processing/page/1/</loc>
 </url>
 <url>
+  <loc>https://yzzfo.github.io/en/tags/prefab-workflow/</loc>
+</url>
+<url>
+  <loc>https://yzzfo.github.io/en/tags/prefab-workflow/page/1/</loc>
+</url>
+<url>
   <loc>https://yzzfo.github.io/en/tags/preview/</loc>
 </url>
 <url>
@@ -3581,6 +3596,18 @@
 </url>
 <url>
   <loc>https://yzzfo.github.io/en/tags/runtime-level-editor/page/1/</loc>
+</url>
+<url>
+  <loc>https://yzzfo.github.io/en/tags/runtime-prefabs/</loc>
+</url>
+<url>
+  <loc>https://yzzfo.github.io/en/tags/runtime-prefabs/page/1/</loc>
+</url>
+<url>
+  <loc>https://yzzfo.github.io/en/tags/runtime-save-load/</loc>
+</url>
+<url>
+  <loc>https://yzzfo.github.io/en/tags/runtime-save-load/page/1/</loc>
 </url>
 <url>
   <loc>https://yzzfo.github.io/en/tags/runtime-scripting/</loc>
@@ -5520,6 +5547,10 @@
   <lastmod>2024-12-17T13:43:12</lastmod>
 </url>
 <url>
+  <loc>https://yzzfo.github.io/en/unity/store/runtime-asset-database/</loc>
+  <lastmod>2024-12-27T01:01:02</lastmod>
+</url>
+<url>
   <loc>https://yzzfo.github.io/en/unity/store/runtime-editor/</loc>
   <lastmod>2024-12-17T13:28:15</lastmod>
 </url>
@@ -5989,6 +6020,12 @@
 </url>
 <url>
   <loc>https://yzzfo.github.io/tags/asset-database/page/1/</loc>
+</url>
+<url>
+  <loc>https://yzzfo.github.io/tags/asset-management/</loc>
+</url>
+<url>
+  <loc>https://yzzfo.github.io/tags/asset-management/page/1/</loc>
 </url>
 <url>
   <loc>https://yzzfo.github.io/tags/asset-store-tools/</loc>
@@ -7878,6 +7915,9 @@
   <loc>https://yzzfo.github.io/tags/jian-mo/page/1/</loc>
 </url>
 <url>
+  <loc>https://yzzfo.github.io/tags/jian-mo/page/2/</loc>
+</url>
+<url>
   <loc>https://yzzfo.github.io/tags/jing-ling-guan-li/</loc>
 </url>
 <url>
@@ -8859,6 +8899,12 @@
   <loc>https://yzzfo.github.io/tags/post-processing/page/1/</loc>
 </url>
 <url>
+  <loc>https://yzzfo.github.io/tags/prefab-workflow/</loc>
+</url>
+<url>
+  <loc>https://yzzfo.github.io/tags/prefab-workflow/page/1/</loc>
+</url>
+<url>
   <loc>https://yzzfo.github.io/tags/preview/</loc>
 </url>
 <url>
@@ -9241,6 +9287,18 @@
 </url>
 <url>
   <loc>https://yzzfo.github.io/tags/runtime-level-editor/page/1/</loc>
+</url>
+<url>
+  <loc>https://yzzfo.github.io/tags/runtime-prefabs/</loc>
+</url>
+<url>
+  <loc>https://yzzfo.github.io/tags/runtime-prefabs/page/1/</loc>
+</url>
+<url>
+  <loc>https://yzzfo.github.io/tags/runtime-save-load/</loc>
+</url>
+<url>
+  <loc>https://yzzfo.github.io/tags/runtime-save-load/page/1/</loc>
 </url>
 <url>
   <loc>https://yzzfo.github.io/tags/runtime-scripting/</loc>
@@ -11229,6 +11287,10 @@
 <url>
   <loc>https://yzzfo.github.io/unity/store/rpg-vfx-bundle/</loc>
   <lastmod>2024-12-17T13:43:12</lastmod>
+</url>
+<url>
+  <loc>https://yzzfo.github.io/unity/store/runtime-asset-database/</loc>
+  <lastmod>2024-12-27T01:01:02</lastmod>
 </url>
 <url>
   <loc>https://yzzfo.github.io/unity/store/runtime-editor/</loc>

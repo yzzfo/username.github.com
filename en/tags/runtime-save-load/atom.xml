@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+    <title>yzzfo | Share for Free - runtime save load</title>
+    <subtitle>Game Development Learning Resources</subtitle>
+    <link rel="self" type="application/atom+xml" href="https://yzzfo.github.io/en/tags/runtime-save-load/atom.xml"/>
+    <link rel="alternate" type="text/html" href="https://yzzfo.github.io"/>
+    <generator uri="https://www.getzola.org/">Zola</generator>
+    <updated>2024-12-27T01:01:02+00:00</updated>
+    <id>https://yzzfo.github.io/en/tags/runtime-save-load/atom.xml</id>
+    <entry xml:lang="en">
+        <title>Runtime Asset Database</title>
+        <published>2024-12-27T01:01:02+00:00</published>
+        <updated>2024-12-27T01:01:02+00:00</updated>
+        
+        <author>
+          <name>
+            
+              yzzfo
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://yzzfo.github.io/en/unity/store/runtime-asset-database/"/>
+        <id>https://yzzfo.github.io/en/unity/store/runtime-asset-database/</id>
+        
+        <content type="html" xml:base="https://yzzfo.github.io/en/unity/store/runtime-asset-database/">&lt;p&gt;Runtime Asset Database simplifies runtime save&#x2F;load implementation in Unity, replicating Unity Editor&#x27;s prefab concepts for runtime asset management.&lt;br&gt;&lt;p &gt;&lt;strong&gt;Runtime Asset Database&lt;&#x2F;strong&gt; is a library designed to simplify the implementation of a runtime save and load subsystem in your Unity application. This library replicates and extends the familiar concepts of prefabs, prefab variants, and assets found within the Unity Editor, making it easier than ever to manage and manipulate game assets at runtime and implement workflows similar to those of the Unity Editor dynamically during runtime.&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;Unity developers often rely on the convenience and flexibility of the Editor&#x27;s asset management system when designing their games. However, when it comes to implementing a save and load system at runtime, this process can become more complex. The Runtime Asset Database bridges this gap by bringing the essential asset management functionalities you&#x27;re accustomed to into the runtime environment.&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;&lt;strong&gt;Features:&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;p &gt;♥ Runtime Asset Management API.&lt;&#x2F;p&gt;&lt;p &gt;♥ Built on Unity Editor Prefab Concepts.&lt;&#x2F;p&gt;&lt;p &gt;♥ Asset and Asset Variant Support.&lt;&#x2F;p&gt;&lt;p &gt;♥ Extensibility with new types and components.&lt;&#x2F;p&gt;&lt;p &gt;♥ Pluggable External Asset Importers.&lt;&#x2F;p&gt;&lt;p &gt;♥ Addressables Support.&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;Battlehub0x&#x2F;RuntimeAssetDatabase&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;Docs&lt;&#x2F;strong&gt; &lt;&#x2F;a&gt;&lt;strong&gt;| &lt;&#x2F;strong&gt;&lt;a href=&quot;https:&#x2F;&#x2F;t.me&#x2F;battlehub&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;Telegram&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt;&lt;strong&gt; | &lt;&#x2F;strong&gt;&lt;a href=&quot;https:&#x2F;&#x2F;assetstore.unity.com&#x2F;packages&#x2F;tools&#x2F;modeling&#x2F;runtime-editor-64806&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;Runtime Editor&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;&#x2F;p&gt;
+</content>
+        
+    </entry>
+</feed>
