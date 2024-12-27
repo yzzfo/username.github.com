@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+    <title>yzzfo | Share for Free - WaterCausticsEffect</title>
+    <subtitle>Game Development Learning Resources</subtitle>
+    <link rel="self" type="application/atom+xml" href="https://yzzfo.github.io/en/tags/watercausticseffect/atom.xml"/>
+    <link rel="alternate" type="text/html" href="https://yzzfo.github.io"/>
+    <generator uri="https://www.getzola.org/">Zola</generator>
+    <updated>2024-12-28T01:01:24+00:00</updated>
+    <id>https://yzzfo.github.io/en/tags/watercausticseffect/atom.xml</id>
+    <entry xml:lang="en">
+        <title>Water Caustics Effect for URP v2</title>
+        <published>2024-12-28T01:01:24+00:00</published>
+        <updated>2024-12-28T01:01:24+00:00</updated>
+        
+        <author>
+          <name>
+            
+              yzzfo
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://yzzfo.github.io/en/unity/store/water-caustics-effect-for-urp-v2/"/>
+        <id>https://yzzfo.github.io/en/unity/store/water-caustics-effect-for-urp-v2/</id>
+        
+        <content type="html" xml:base="https://yzzfo.github.io/en/unity/store/water-caustics-effect-for-urp-v2/">&lt;p&gt;&lt;br&gt;‥∴∵ &lt;em&gt;Thanks 500+ downloads&lt;&#x2F;em&gt; ∵∴‥&lt;br&gt;This asset easily adds the beautiful caustics essential for realistic water representation. &lt;br&gt;&lt;br&gt;&lt;a href=&quot;https:&#x2F;&#x2F;hacoapp.com&#x2F;asset&#x2F;wce&#x2F;v2&#x2F;ManualPDF.pdf&quot;&gt;➡ Manual PDF&lt;&#x2F;a&gt;&lt;br&gt;This asset contains two modules:&lt;br&gt;a Texture Generator and an Effect.&lt;br&gt;&lt;br&gt;&lt;br&gt;■ &lt;strong&gt;1. Water Caustics Tex Generator [ URP &#x2F; HDRP &#x2F; Built-inRP ]&lt;&#x2F;strong&gt;&lt;br&gt;•Generates rich, realistic caustics animated textures at runtime by simulating waves and light refraction with Compute Shader.&lt;br&gt;•Possible to create not only realistic but also cartoon-like expressions.&lt;br&gt;•This generator works with all rendering pipelines.&lt;br&gt;•All parameters modifiable via script.&lt;br&gt;•[Features] 4 Wave Layers, 3 Drawing Styles, Chromatic Aberration, Blur, Directional Blur, RGB Color Shift, Gamma, Brightness Adjustment, etc.&lt;br&gt;&lt;br&gt;&lt;br&gt;■ &lt;strong&gt;2. Water Caustics Effect [ URP(3D) only ]&lt;&#x2F;strong&gt;&lt;br&gt;•Apply caustics effects using the camera&#x27;s depth and normal textures.&lt;br&gt;•VR supported.&lt;br&gt;•Forward、Forward+ and Deferred rendering supported.&lt;br&gt;•All parameters modifiable via script.&lt;br&gt;•It is also possible to apply individually by embedding Custom Function in shaders. Materials that are not rendered in depth textures, such as transparent textures, can be applied with this method. (Shader Graph, HLSL, and Amplify Shader Editor supported.)&lt;br&gt;•[Features] Range specification by Rectangle&#x2F;Image&#x2F;Stencil mask, Attenuation by Depth and Distance, Random Texture Tiling, Texture Rotation, RGB Color Shift, Transparency Effect, Draw Timing Adjustment, etc.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;strong&gt;[ Unity 2020.3 LTS or higher supported ]&lt;&#x2F;strong&gt;&lt;br&gt;&lt;strong&gt;[ PC &#x2F; MAC &#x2F; iOS &#x2F; Android &#x2F; Switch &#x2F; Quest2 tested]&lt;&#x2F;strong&gt;&lt;br&gt;&lt;strong&gt;[ DX11,12 &#x2F; Metal &#x2F; Vulkan &#x2F; OpenGL &#x2F; GLES3.1 supported ]&lt;&#x2F;strong&gt;&lt;br&gt;&lt;em&gt;※ Tested with Unity 2020.3.20, 2021.3.33, 2022.3.22, 6000.0.28&lt;&#x2F;em&gt;&lt;br&gt;&lt;em&gt;※ WebGL is not supported because it does not support Compute Shader.&lt;&#x2F;em&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;※ All code is included.&lt;br&gt;※ The specification of URP is still in flux. Therefore, please be aware that it may not work in the future when the URP version is upgraded.&lt;br&gt;※ If you encounter problems, please first check the &lt;a href=&quot;https:&#x2F;&#x2F;hacoapp.com&#x2F;asset&#x2F;wce&#x2F;v2&#x2F;ManualPDF.pdf#ManualPDF.indd:Troubleshooting:178&quot;&gt;Troubleshooting&lt;&#x2F;a&gt; of Manual PDF, and if not resolved, please let me know in &lt;a href=&quot;https:&#x2F;&#x2F;hacoapp.com&#x2F;asset&#x2F;wce&#x2F;v2&#x2F;ManualPDF.pdf#ManualPDF.indd:Contact:224&quot;&gt;this way&lt;&#x2F;a&gt;. I will support you as soon as possible.&lt;br&gt;&lt;br&gt; mail: &lt;strong&gt;support_asset@hacoapp.com&lt;&#x2F;strong&gt;&lt;br&gt;twitter: &lt;a href=&quot;https:&#x2F;&#x2F;twitter.com&#x2F;m_hakozaki&quot;&gt;@m_hakozaki&lt;&#x2F;a&gt;&lt;br&gt;&lt;&#x2F;p&gt;
+</content>
+        
+    </entry>
+</feed>

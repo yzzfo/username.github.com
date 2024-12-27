@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh">
+    <title>yzzfo | Share for Free - sea</title>
+    <subtitle>游戏开发学习资源分享</subtitle>
+    <link rel="self" type="application/atom+xml" href="https://yzzfo.github.io/tags/sea/atom.xml"/>
+    <link rel="alternate" type="text/html" href="https://yzzfo.github.io"/>
+    <generator uri="https://www.getzola.org/">Zola</generator>
+    <updated>2024-12-28T01:01:24+00:00</updated>
+    <id>https://yzzfo.github.io/tags/sea/atom.xml</id>
+    <entry xml:lang="zh">
+        <title>Water Caustics Effect for URP v2</title>
+        <published>2024-12-28T01:01:24+00:00</published>
+        <updated>2024-12-28T01:01:24+00:00</updated>
+        
+        <author>
+          <name>
+            
+              yzzfo
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://yzzfo.github.io/unity/store/water-caustics-effect-for-urp-v2/"/>
+        <id>https://yzzfo.github.io/unity/store/water-caustics-effect-for-urp-v2/</id>
+        
+        <content type="html" xml:base="https://yzzfo.github.io/unity/store/water-caustics-effect-for-urp-v2/">&lt;p&gt;‥∴∵ &lt;em&gt;感谢500+次下载&lt;&#x2F;em&gt; ∵∴‥&lt;br &#x2F;&gt;
+此资源轻松添加了实现真实水面表现所必需的美丽光斑效果。&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;hacoapp.com&#x2F;asset&#x2F;wce&#x2F;v2&#x2F;ManualPDF.pdf&quot;&gt;➡ 手册 PDF&lt;&#x2F;a&gt;&lt;br &#x2F;&gt;
+此资源包含两个模块：&lt;br &#x2F;&gt;
+一个纹理生成器和一个效果。&lt;&#x2F;p&gt;
+&lt;p&gt;■ &lt;strong&gt;1. 水面光斑纹理生成器 [ URP &#x2F; HDRP &#x2F; Built-inRP ]&lt;&#x2F;strong&gt;&lt;br &#x2F;&gt;
+•通过计算着色器模拟波浪和光的折射，在运行时生成丰富、真实的动态光斑纹理。&lt;br &#x2F;&gt;
+•不仅可以创建真实的效果，还可以生成卡通风格的表现。&lt;br &#x2F;&gt;
+•该生成器适用于所有渲染管线。&lt;br &#x2F;&gt;
+•所有参数均可通过脚本修改。&lt;br &#x2F;&gt;
+•[功能] 4个波浪层，3种绘制风格，色差，模糊，方向模糊，RGB颜色偏移，伽马，亮度调整等。&lt;&#x2F;p&gt;
+&lt;p&gt;■ &lt;strong&gt;2. 水面光斑效果 [ 仅支持 URP(3D) ]&lt;&#x2F;strong&gt;&lt;br &#x2F;&gt;
+•使用相机的深度和法线纹理应用光斑效果。&lt;br &#x2F;&gt;
+•支持虚拟现实（VR）。&lt;br &#x2F;&gt;
+•支持前向、前向+和延迟渲染。&lt;br &#x2F;&gt;
+•所有参数均可通过脚本修改。&lt;br &#x2F;&gt;
+•也可以通过在着色器中嵌入自定义函数单独应用。未在深度纹理中渲染的材质，例如透明纹理，可以通过此方法应用。（支持Shader Graph、HLSL和Amplify Shader Editor。）&lt;br &#x2F;&gt;
+•[功能] 通过矩形&#x2F;图像&#x2F;模板遮罩指定范围，按深度和距离衰减，随机纹理平铺，纹理旋转，RGB颜色偏移，透明效果，绘制时机调整等。&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;strong&gt;[ 支持 Unity 2020.3 LTS 或更高版本 ]&lt;&#x2F;strong&gt;&lt;br &#x2F;&gt;
+&lt;strong&gt;[ 已测试 PC &#x2F; MAC &#x2F; iOS &#x2F; Android &#x2F; Switch &#x2F; Quest2 ]&lt;&#x2F;strong&gt;&lt;br &#x2F;&gt;
+&lt;strong&gt;[ 支持 DX11,12 &#x2F; Metal &#x2F; Vulkan &#x2F; OpenGL &#x2F; GLES3.1 ]&lt;&#x2F;strong&gt;&lt;br &#x2F;&gt;
+&lt;em&gt;※ 在 Unity 2020.3.20, 2021.3.33, 2022.3.22, 6000.0.28 中测试&lt;&#x2F;em&gt;&lt;br &#x2F;&gt;
+&lt;em&gt;※ 不支持 WebGL，因为它不支持计算着色器。&lt;&#x2F;em&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;※ 所有代码均已包含。&lt;br&gt;※ URP的规范仍在不断变化。因此，请注意在URP版本升级后，它可能无法正常工作。&lt;br &#x2F;&gt;
+※ 如果您遇到问题，请首先检查&lt;a href=&quot;https:&#x2F;&#x2F;hacoapp.com&#x2F;asset&#x2F;wce&#x2F;v2&#x2F;ManualPDF.pdf#ManualPDF.indd:Troubleshooting:178&quot;&gt;手册PDF中的故障排除&lt;&#x2F;a&gt;，如果未能解决，请通过&lt;a href=&quot;https:&#x2F;&#x2F;hacoapp.com&#x2F;asset&#x2F;wce&#x2F;v2&#x2F;ManualPDF.pdf#ManualPDF.indd:Contact:224&quot;&gt;这种方式&lt;&#x2F;a&gt;告诉我。我会尽快支持您。&lt;&#x2F;p&gt;
+&lt;p&gt;邮件: &lt;strong&gt;support_asset@hacoapp.com&lt;&#x2F;strong&gt;&lt;br &#x2F;&gt;
+推特: &lt;a href=&quot;https:&#x2F;&#x2F;twitter.com&#x2F;m_hakozaki&quot;&gt;@m_hakozaki&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+</content>
+        
+    </entry>
+</feed>
