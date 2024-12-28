@@ -946,6 +946,12 @@
   <loc>https://yzzfo.github.io/en/tags/complete/page/1/</loc>
 </url>
 <url>
+  <loc>https://yzzfo.github.io/en/tags/compute/</loc>
+</url>
+<url>
+  <loc>https://yzzfo.github.io/en/tags/compute/page/1/</loc>
+</url>
+<url>
   <loc>https://yzzfo.github.io/en/tags/computer-vision/</loc>
 </url>
 <url>
@@ -2182,6 +2188,12 @@
   <loc>https://yzzfo.github.io/en/tags/installs-in-packages/page/1/</loc>
 </url>
 <url>
+  <loc>https://yzzfo.github.io/en/tags/instancing/</loc>
+</url>
+<url>
+  <loc>https://yzzfo.github.io/en/tags/instancing/page/1/</loc>
+</url>
+<url>
   <loc>https://yzzfo.github.io/en/tags/integration/</loc>
 </url>
 <url>
@@ -2897,6 +2909,12 @@
 </url>
 <url>
   <loc>https://yzzfo.github.io/en/tags/oauth/page/1/</loc>
+</url>
+<url>
+  <loc>https://yzzfo.github.io/en/tags/occlusion/</loc>
+</url>
+<url>
+  <loc>https://yzzfo.github.io/en/tags/occlusion/page/1/</loc>
 </url>
 <url>
   <loc>https://yzzfo.github.io/en/tags/ocean/</loc>
@@ -4366,6 +4384,9 @@
   <loc>https://yzzfo.github.io/en/tags/terrain/page/1/</loc>
 </url>
 <url>
+  <loc>https://yzzfo.github.io/en/tags/terrain/page/2/</loc>
+</url>
+<url>
   <loc>https://yzzfo.github.io/en/tags/test/</loc>
 </url>
 <url>
@@ -4867,6 +4888,9 @@
   <loc>https://yzzfo.github.io/en/tags/vr/page/1/</loc>
 </url>
 <url>
+  <loc>https://yzzfo.github.io/en/tags/vr/page/2/</loc>
+</url>
+<url>
   <loc>https://yzzfo.github.io/en/tags/wake/</loc>
 </url>
 <url>
@@ -5339,6 +5363,10 @@
 <url>
   <loc>https://yzzfo.github.io/en/unity/store/fsr-3-upscaling-for-unity/</loc>
   <lastmod>2024-12-17T13:40:47</lastmod>
+</url>
+<url>
+  <loc>https://yzzfo.github.io/en/unity/store/gpu-instancer-pro/</loc>
+  <lastmod>2024-12-29T01:00:52</lastmod>
 </url>
 <url>
   <loc>https://yzzfo.github.io/en/unity/store/grid-placement-system/</loc>
@@ -6638,6 +6666,12 @@
   <loc>https://yzzfo.github.io/tags/complete/page/1/</loc>
 </url>
 <url>
+  <loc>https://yzzfo.github.io/tags/compute/</loc>
+</url>
+<url>
+  <loc>https://yzzfo.github.io/tags/compute/page/1/</loc>
+</url>
+<url>
   <loc>https://yzzfo.github.io/tags/computer-vision/</loc>
 </url>
 <url>
@@ -7898,6 +7932,12 @@
   <loc>https://yzzfo.github.io/tags/installs-in-packages/page/1/</loc>
 </url>
 <url>
+  <loc>https://yzzfo.github.io/tags/instancing/</loc>
+</url>
+<url>
+  <loc>https://yzzfo.github.io/tags/instancing/page/1/</loc>
+</url>
+<url>
   <loc>https://yzzfo.github.io/tags/interaction/</loc>
 </url>
 <url>
@@ -8631,6 +8671,12 @@
 </url>
 <url>
   <loc>https://yzzfo.github.io/tags/oauth/page/1/</loc>
+</url>
+<url>
+  <loc>https://yzzfo.github.io/tags/occlusion/</loc>
+</url>
+<url>
+  <loc>https://yzzfo.github.io/tags/occlusion/page/1/</loc>
 </url>
 <url>
   <loc>https://yzzfo.github.io/tags/ocean/</loc>
@@ -10595,6 +10641,9 @@
   <loc>https://yzzfo.github.io/tags/vr/page/1/</loc>
 </url>
 <url>
+  <loc>https://yzzfo.github.io/tags/vr/page/2/</loc>
+</url>
+<url>
   <loc>https://yzzfo.github.io/tags/wake/</loc>
 </url>
 <url>
@@ -11115,6 +11164,10 @@
 <url>
   <loc>https://yzzfo.github.io/unity/store/fsr-3-upscaling-for-unity/</loc>
   <lastmod>2024-12-17T13:40:47</lastmod>
+</url>
+<url>
+  <loc>https://yzzfo.github.io/unity/store/gpu-instancer-pro/</loc>
+  <lastmod>2024-12-29T01:00:52</lastmod>
 </url>
 <url>
   <loc>https://yzzfo.github.io/unity/store/grid-placement-system/</loc>

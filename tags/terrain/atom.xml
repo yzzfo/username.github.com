@@ -5,8 +5,35 @@
     <link rel="self" type="application/atom+xml" href="https://yzzfo.github.io/tags/terrain/atom.xml"/>
     <link rel="alternate" type="text/html" href="https://yzzfo.github.io"/>
     <generator uri="https://www.getzola.org/">Zola</generator>
-    <updated>2024-12-20T01:00:11+00:00</updated>
+    <updated>2024-12-29T01:00:52+00:00</updated>
     <id>https://yzzfo.github.io/tags/terrain/atom.xml</id>
+    <entry xml:lang="zh">
+        <title>GPU Instancer Pro</title>
+        <published>2024-12-29T01:00:52+00:00</published>
+        <updated>2024-12-29T01:00:52+00:00</updated>
+        
+        <author>
+          <name>
+            
+              yzzfo
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://yzzfo.github.io/unity/store/gpu-instancer-pro/"/>
+        <id>https://yzzfo.github.io/unity/store/gpu-instancer-pro/</id>
+        
+        <content type="html" xml:base="https://yzzfo.github.io/unity/store/gpu-instancer-pro/">&lt;p&gt;使用GPU实例化和计算着色器，GPU Instancer Pro帮助用户高效管理和渲染大量对象，通过减少绘制调用和提高性能来实现。&lt;&#x2F;p&gt;
+&lt;p &gt;&lt;a href=&quot;https:&#x2F;&#x2F;wiki.gurbu.com&#x2F;index.php?title=GPU_Instancer_Pro:Support&quot; target=&quot;_blank&quot;&gt;支持 &lt;&#x2F;a&gt;| &lt;a href=&quot;https:&#x2F;&#x2F;discussions.unity.com&#x2F;t&#x2F;gpu-instancer-pro&#x2F;1488733&quot; target=&quot;_blank&quot;&gt;讨论 &lt;&#x2F;a&gt;| &lt;a href=&quot;https:&#x2F;&#x2F;wiki.gurbu.com&#x2F;index.php?title=GPU_Instancer_Pro:GettingStarted&quot; target=&quot;_blank&quot;&gt;文档 &lt;&#x2F;a&gt;| &lt;a href=&quot;https:&#x2F;&#x2F;wiki.gurbu.com&#x2F;index.php?title=GPU_Instancer_Pro:FAQ&quot; target=&quot;_blank&quot;&gt;常见问题解答&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+&lt;p &gt;GPU Instancer Pro允许开发者轻松集成和管理大量对象，如树木、草地、岩石和其他预制件，且对性能的影响最小。它提供用户友好的工具，使用间接GPU实例化，而无需掌握计算着色器和GPU基础设施。支持Unity地形细节、树木和预制件，它提供优化剔除、调整LOD设置和自定义渲染参数的高级功能。为了获得最佳性能，GPU Instancer Pro使用Unity的&lt;a href=&quot;https:&#x2F;&#x2F;docs.unity3d.com&#x2F;ScriptReference&#x2F;Graphics.RenderMeshIndirect.html&quot; target=&quot;_blank&quot;&gt;RenderMeshIndirect&lt;&#x2F;a&gt;方法和&lt;a href=&quot;https:&#x2F;&#x2F;docs.unity3d.com&#x2F;Manual&#x2F;class-ComputeShader.html&quot; target=&quot;_blank&quot;&gt;计算着色器&lt;&#x2F;a&gt;进行间接GPU实例化。&lt;&#x2F;p&gt;
+&lt;p &gt;GPU Instancer Pro包括几个模块，旨在提高渲染效率并简化工作流程：&lt;&#x2F;p&gt;
+&lt;p &gt;&lt;strong&gt;核心模块&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;p &gt;该基础模块包括渲染、剔除、LOD管理、广告牌创建和调试工具等基本功能。尽管它没有管理器类，开发者可以通过&lt;a href=&quot;https:&#x2F;&#x2F;wiki.gurbu.com&#x2F;index.php?title=GPU_Instancer_Pro:APIDocumentation&quot; target=&quot;_blank&quot;&gt;API &lt;&#x2F;a&gt;使用GPU Instancer Pro的渲染系统来创建自定义渲染器。功能包括：&lt;&#x2F;p&gt;&lt;br&gt;&lt;ul&gt;&lt;li&gt;基于GPU的距离、视锥体和遮挡剔除。&lt;&#x2F;li&gt;&lt;li&gt;在GPU上执行的LOD计算和交叉渐变支持。&lt;&#x2F;li&gt;&lt;li&gt;每个原型的可自定义阴影LOD和剔除设置。&lt;&#x2F;li&gt;&lt;li&gt;内置对多个相机的支持。&lt;&#x2F;li&gt;&lt;li&gt;广告牌生成能力。&lt;&#x2F;li&gt;&lt;li&gt;易于使用的API方法，用于使用Matrix4x4数组渲染实例。&lt;&#x2F;li&gt;&lt;li&gt;可见LOD和顶点计数等统计信息。&lt;&#x2F;li&gt;&lt;li&gt;从多个来源批量绘制调用的能力。&lt;&#x2F;li&gt;&lt;&#x2F;ul&gt;
+&lt;p&gt;&lt;strong&gt;地形模块&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;p&gt;地形模块包括用于使用GPU Instancer Pro渲染地形细节和树木的工具。它具有细节管理器和树木管理器，提供以下功能：&lt;&#x2F;p&gt;
+&lt;ul&gt;&lt;li&gt;对多个地形的原生支持，最小化绘制调用。&lt;&#x2F;li&gt;&lt;li&gt;对细节和树木的无限渲染距离。&lt;&#x2F;li&gt;&lt;li&gt;支持“覆盖率”和“实例计数”细节散布模式选项。&lt;&#x2F;li&gt;&lt;li&gt;基于距离的细节密度减少能力。&lt;&#x2F;li&gt;&lt;li&gt;地形细节LOD支持。&lt;&#x2F;li&gt;&lt;li&gt;在运行时对地形细节和树木的高效添加&#x2F;移除功能。&lt;&#x2F;li&gt;&lt;li&gt;可自定义的基于纹理的地形细节密度。&lt;&#x2F;li&gt;&lt;&#x2F;ul&gt;
+&lt;p&gt;&lt;strong&gt;预制件模块&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;p&gt;配备预制件管理器，该模块提供直观的界面，用于在场景中渲染和管理大量预制件实例。主要功能包括：&lt;&#x2F;p&gt;
+&lt;ul&gt;&lt;li&gt;自动添加和移除用于实例化渲染的预制件实例。&lt;&#x2F;li&gt;&lt;li&gt;在GPU内存中自动运行时更新变换数据。&lt;&#x2F;li&gt;&lt;li&gt;具有内置着色器生成器的材质变体工具。&lt;&#x2F;li&gt;&lt;li&gt;能够与其他预制件和树木管理器使用相同的预制件批量绘制调用。&lt;&#x2F;li&gt;&lt;&#x2F;ul&gt;&lt;br&gt;&lt;p &gt;&lt;strong&gt;更多信息：&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;p &gt;&lt;a href=&quot;https:&#x2F;&#x2F;wiki.gurbu.com&#x2F;index.php?title=GPU_Instancer_Pro:BestPractices&quot; target=&quot;_blank&quot;&gt;最佳实践&lt;&#x2F;a&gt; | &lt;a href=&quot;https:&#x2F;&#x2F;wiki.gurbu.com&#x2F;index.php?title=GPU_Instancer_Pro:Terminology&quot; target=&quot;_blank&quot;&gt;术语&lt;&#x2F;a&gt; |&lt;a href=&quot;https:&#x2F;&#x2F;wiki.gurbu.com&#x2F;index.php?title=GPU_Instancer_Pro:APIDocumentation&quot; target=&quot;_blank&quot;&gt; API 文档&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;</content>
+        
+    </entry>
     <entry xml:lang="zh">
         <title>Mega Shapes</title>
         <published>2024-12-20T01:00:11+00:00</published>
