@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh">
+    <title>yzzfo | Share for Free - stylish</title>
+    <subtitle>游戏开发学习资源分享</subtitle>
+    <link rel="self" type="application/atom+xml" href="https://yzzfo.github.io/tags/stylish/atom.xml"/>
+    <link rel="alternate" type="text/html" href="https://yzzfo.github.io"/>
+    <generator uri="https://www.getzola.org/">Zola</generator>
+    <updated>2024-12-30T01:00:53+00:00</updated>
+    <id>https://yzzfo.github.io/tags/stylish/atom.xml</id>
+    <entry xml:lang="zh">
+        <title>Hex - Complete Stylish UI</title>
+        <published>2024-12-30T01:00:53+00:00</published>
+        <updated>2024-12-30T01:00:53+00:00</updated>
+        
+        <author>
+          <name>
+            
+              yzzfo
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://yzzfo.github.io/unity/store/hex-complete-stylish-ui/"/>
+        <id>https://yzzfo.github.io/unity/store/hex-complete-stylish-ui/</id>
+        
+        <content type="html" xml:base="https://yzzfo.github.io/unity/store/hex-complete-stylish-ui/">&lt;p&gt;Hex是一个完整的时尚UI资产，采用几何&#x2F;蜂窝风格设计。它是完全可定制的，经过优化，并且有详细文档。&lt;&#x2F;p&gt;
+&lt;p&gt;Hex UI是一个完整的用户界面解决方案，使您能够轻松创建时尚的用户界面。它是一个多用途的包，非常适合风格化的游戏。&lt;strong&gt;与Unity 2021.3及更高版本（包括Unity 6）完全兼容。&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;strong&gt;• UI管理器&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;p&gt;您可以在几秒钟内更改整个UI的外观，而无需逐个更改对象——这一切都可以通过UI管理器完成！&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;strong&gt;• 完全可定制&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;p&gt;使用检查器调整所有内容；无需为每个小更改处理代码或外部工具。&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;strong&gt;• 丰富的UI组件&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;p&gt;使用包中包含的数十个独特的UI元素和切片精灵，轻松创建各种UI布局。&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;strong&gt;• 完整解决方案&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;p&gt;此包不仅包括UI组件，还包括您可能需要的许多其他工具，例如音频管理器、致谢、本地化系统等！&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;strong&gt;• 演示场景&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;p&gt;包括功能齐全的演示场景，帮助您快速入门。&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;strong&gt;• 广泛的平台支持&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;p&gt;支持所有可用的渲染管线（内置、URP、HDRP）和主要平台，如Windows、macOS、Xbox和PlayStation。它也与iOS和Android兼容，但没有专门针对移动设备的演示场景。&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;strong&gt;• 原生UI支持&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;p&gt;Hex UI是使用原生Unity UI制作的，允许您继续按照习惯工作，甚至可以与第三方UGUI扩展一起使用。&lt;&#x2F;p&gt;
+&lt;p&gt;如果您有任何问题、建议或反馈，请随时&lt;a href=&quot;https:&#x2F;&#x2F;www.michsky.com&#x2F;contact&#x2F;&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;联系我&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt;。&lt;&#x2F;p&gt;&lt;br&gt;&lt;p &gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.michsky.com&#x2F;contact&#x2F;&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;联系&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt; | &lt;a href=&quot;http:&#x2F;&#x2F;docs.michsky.com&#x2F;docs&#x2F;hex-ui&#x2F;&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;文档&lt;&#x2F;strong&gt; &lt;&#x2F;a&gt;| &lt;a href=&quot;https:&#x2F;&#x2F;drive.google.com&#x2F;file&#x2F;d&#x2F;1gIkUBcxiajJGWz5sGVoMhSivHi7Rlckj&#x2F;view?usp=sharing&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;Windows 演示&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+&lt;p &gt;请展开 &lt;strong&gt;&#x27;技术细节&#x27;&lt;&#x2F;strong&gt; 以获取重要信息。&lt;&#x2F;p&gt;</content>
+        
+    </entry>
+</feed>

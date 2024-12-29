@@ -5,8 +5,28 @@
     <link rel="self" type="application/atom+xml" href="https://yzzfo.github.io/en/tags/elements/atom.xml"/>
     <link rel="alternate" type="text/html" href="https://yzzfo.github.io"/>
     <generator uri="https://www.getzola.org/">Zola</generator>
-    <updated>2024-12-17T13:34:44+00:00</updated>
+    <updated>2024-12-30T01:00:53+00:00</updated>
     <id>https://yzzfo.github.io/en/tags/elements/atom.xml</id>
+    <entry xml:lang="en">
+        <title>Hex - Complete Stylish UI</title>
+        <published>2024-12-30T01:00:53+00:00</published>
+        <updated>2024-12-30T01:00:53+00:00</updated>
+        
+        <author>
+          <name>
+            
+              yzzfo
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://yzzfo.github.io/en/unity/store/hex-complete-stylish-ui/"/>
+        <id>https://yzzfo.github.io/en/unity/store/hex-complete-stylish-ui/</id>
+        
+        <content type="html" xml:base="https://yzzfo.github.io/en/unity/store/hex-complete-stylish-ui/">&lt;p&gt;Hex is a complete stylish UI asset crafted in a geometric&#x2F;honeycomb style. It&#x27;s fully customizable, optimized, and documented.&lt;br&gt;&lt;p &gt;Hex UI is a complete user interface solution that allows you to easily create stylish user interfaces. It&#x27;s a multi-purpose package and perfect fit for stylistic games. &lt;strong&gt;Fully compatible with Unity 2021.3 and onwards, including Unity 6.&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;&lt;strong&gt;• UI Manager&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;p &gt;Instead of changing objects one by one, you change the whole look of your UI within seconds - all using the UI Manager!&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;&lt;strong&gt;• Fully Customizable&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;p &gt;Tweak everything using the inspector; no need to deal with code or external tools for every minor change.&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;&lt;strong&gt;• Rich UI Components&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;p &gt;Easily create various UI layouts using dozens of unique UI elements and sliced sprites included in the package.&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;&lt;strong&gt;• Complete Solution&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;p &gt;This package includes not just UI components, but also many other tools you may need, such as Audio Manager, Credits, Localization System, and more!&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;&lt;strong&gt;• Demo Scenes&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;p &gt;Includes fully featured demo scenes to get you started quickly.&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;&lt;strong&gt;• Wide Platform Support&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;p &gt;Supports all available rendering pipelines (Built-in, URP, HDRP) and major platforms such as Windows, macOS, Xbox, AND PlayStation. It&#x27;s also compatible with iOS and Android, but there&#x27;s no dedicated demo scene for mobile devices.&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;&lt;strong&gt;• Native UI Support&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;p &gt;Hex UI is made using the native Unity UI, allowing you to continue working as you&#x27;re used to and even use third-party UGUI extensions with it.&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;If you have any questions, suggestions or feedback, feel free to &lt;a href=&quot;https:&#x2F;&#x2F;www.michsky.com&#x2F;contact&#x2F;&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;contact me&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt;.&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.michsky.com&#x2F;contact&#x2F;&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;Contact&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt; | &lt;a href=&quot;http:&#x2F;&#x2F;docs.michsky.com&#x2F;docs&#x2F;hex-ui&#x2F;&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;Documentation&lt;&#x2F;strong&gt; &lt;&#x2F;a&gt;| &lt;a href=&quot;https:&#x2F;&#x2F;drive.google.com&#x2F;file&#x2F;d&#x2F;1gIkUBcxiajJGWz5sGVoMhSivHi7Rlckj&#x2F;view?usp=sharing&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;Windows Demo&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;Please expand &lt;strong&gt;&#x27;Technical Details&#x27;&lt;&#x2F;strong&gt; for important details.&lt;&#x2F;p&gt;&lt;&#x2F;p&gt;
+</content>
+        
+    </entry>
     <entry xml:lang="en">
         <title>Heat - Complete Modern UI</title>
         <published>2024-12-06T14:25:47+00:00</published>
