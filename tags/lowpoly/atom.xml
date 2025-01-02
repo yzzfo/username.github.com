@@ -5,8 +5,36 @@
     <link rel="self" type="application/atom+xml" href="https://yzzfo.github.io/tags/lowpoly/atom.xml"/>
     <link rel="alternate" type="text/html" href="https://yzzfo.github.io"/>
     <generator uri="https://www.getzola.org/">Zola</generator>
-    <updated>2024-12-25T01:00:31+00:00</updated>
+    <updated>2025-01-03T01:00:29+00:00</updated>
     <id>https://yzzfo.github.io/tags/lowpoly/atom.xml</id>
+    <entry xml:lang="zh">
+        <title>FANTASTIC - Nature Pack</title>
+        <published>2025-01-03T01:00:29+00:00</published>
+        <updated>2025-01-03T01:00:29+00:00</updated>
+        
+        <author>
+          <name>
+            
+              yzzfo
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://yzzfo.github.io/unity/store/fantastic-nature-pack/"/>
+        <id>https://yzzfo.github.io/unity/store/fantastic-nature-pack/</id>
+        
+        <content type="html" xml:base="https://yzzfo.github.io/unity/store/fantastic-nature-pack/">&lt;p&gt;一个低多边形自然资产包，包含超过110个独特资产，用于为您的幻想游戏创建风格化环境。&lt;&#x2F;p&gt;
+&lt;p&gt;如果您需要高质量的风格化自然资产——这个包非常适合您！&lt;&#x2F;p&gt;&lt;p&gt;这些资产与Unity Terrain兼容，使您能够快速高效地创建您所设想的环境。通过可自定义的水和植被着色器，您可以根据自己的喜好调整环境的氛围和季节。&lt;&#x2F;p&gt;
+&lt;p&gt;与Unity 6兼容。&lt;&#x2F;p&gt;
+&lt;p&gt;包含如预告片中所示的昼夜演示场景和帮助您入门的文档！&lt;&#x2F;p&gt;&lt;p&gt;作为免费赠品，此包还包括露营套件！&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;strong&gt;特点：&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;strong&gt;3D资产：&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;ul&gt;&lt;li&gt;12种独特的树木，可以使用5种不同的树干纹理进行自定义&lt;&#x2F;li&gt;&lt;li&gt;15块石头&lt;&#x2F;li&gt;&lt;li&gt;44种植物，具有风动的顶点贴图&lt;&#x2F;li&gt;&lt;li&gt;22个露营套件资产（锅、篝火和杆子、木勺&#x2F;碗&#x2F;杯、钓鱼竿、鱼和鱼片、金属盘、3个装饰性叶子、玻璃瓶、面包、奶酪、刀、锅和盖子、睡袋、帐篷、木堆和木材）&lt;&#x2F;li&gt;&lt;&#x2F;ul&gt;&lt;p&gt;树木和石头各有3个LOD。每个资产在其第二个UV通道中都有自定义光照贴图，并在需要的地方有碰撞体。&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;strong&gt;着色器：&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;使用Amplify创建了自定义着色器&lt;&#x2F;p&gt;&lt;ul&gt;&lt;li&gt;可自定义的水着色器&lt;&#x2F;li&gt;&lt;li&gt;可自定义的植被风着色器&lt;&#x2F;li&gt;&lt;li&gt;适用于内置渲染管线的简单双面着色器&lt;&#x2F;li&gt;&lt;&#x2F;ul&gt;
+&lt;p&gt;&lt;strong&gt;特效：&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;ul&gt;&lt;li&gt;风格化的粒子效果，包括火、蒸汽、飞舞的叶子和萤火虫&lt;&#x2F;li&gt;&lt;&#x2F;ul&gt;
+&lt;p&gt;&lt;strong&gt;关注我们以获取最新消息&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.tidalflask.com&#x2F;&quot; target=&quot;_blank&quot;&gt;网站&lt;&#x2F;a&gt; | &lt;a href=&quot;https:&#x2F;&#x2F;twitter.com&#x2F;tidalflask&quot; target=&quot;_blank&quot;&gt;推特&lt;&#x2F;a&gt; | &lt;a href=&quot;https:&#x2F;&#x2F;www.facebook.com&#x2F;tidalflask&quot; target=&quot;_blank&quot;&gt;脸书&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;&lt;br&gt;&lt;p &gt;&lt;strong&gt;查看我们的其他资源包&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;p &gt;&lt;a href=&quot;https:&#x2F;&#x2F;assetstore.unity.com&#x2F;lists&#x2F;story-3d-packs-series-142534&quot; target=&quot;_blank&quot;&gt;故事 - 3D资源包系列&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;&lt;p &gt;&lt;a href=&quot;https:&#x2F;&#x2F;assetstore.unity.com&#x2F;lists&#x2F;fantastic-3d-packs-series-130169&quot; target=&quot;_blank&quot;&gt;奇幻 - 3D资源包系列&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;</content>
+        
+    </entry>
     <entry xml:lang="zh">
         <title>Low Poly Water - Poseidon</title>
         <published>2024-12-25T01:00:31+00:00</published>

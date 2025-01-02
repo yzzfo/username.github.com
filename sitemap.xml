@@ -25,6 +25,9 @@
   <loc>https://yzzfo.github.io/en/page/14/</loc>
 </url>
 <url>
+  <loc>https://yzzfo.github.io/en/page/15/</loc>
+</url>
+<url>
   <loc>https://yzzfo.github.io/en/page/2/</loc>
 </url>
 <url>
@@ -1114,6 +1117,12 @@
   <loc>https://yzzfo.github.io/en/tags/database/page/1/</loc>
 </url>
 <url>
+  <loc>https://yzzfo.github.io/en/tags/day-night-cycle/</loc>
+</url>
+<url>
+  <loc>https://yzzfo.github.io/en/tags/day-night-cycle/page/1/</loc>
+</url>
+<url>
   <loc>https://yzzfo.github.io/en/tags/day/</loc>
 </url>
 <url>
@@ -1264,10 +1273,22 @@
   <loc>https://yzzfo.github.io/en/tags/dungeons/page/1/</loc>
 </url>
 <url>
+  <loc>https://yzzfo.github.io/en/tags/dynamic-clouds/</loc>
+</url>
+<url>
+  <loc>https://yzzfo.github.io/en/tags/dynamic-clouds/page/1/</loc>
+</url>
+<url>
   <loc>https://yzzfo.github.io/en/tags/dynamic-cutting/</loc>
 </url>
 <url>
   <loc>https://yzzfo.github.io/en/tags/dynamic-cutting/page/1/</loc>
+</url>
+<url>
+  <loc>https://yzzfo.github.io/en/tags/dynamic-skybox/</loc>
+</url>
+<url>
+  <loc>https://yzzfo.github.io/en/tags/dynamic-skybox/page/1/</loc>
 </url>
 <url>
   <loc>https://yzzfo.github.io/en/tags/dynamic/</loc>
@@ -1391,6 +1412,9 @@
 </url>
 <url>
   <loc>https://yzzfo.github.io/en/tags/environment/page/3/</loc>
+</url>
+<url>
+  <loc>https://yzzfo.github.io/en/tags/environment/page/4/</loc>
 </url>
 <url>
   <loc>https://yzzfo.github.io/en/tags/environments/</loc>
@@ -1642,6 +1666,9 @@
   <loc>https://yzzfo.github.io/en/tags/foliage/page/1/</loc>
 </url>
 <url>
+  <loc>https://yzzfo.github.io/en/tags/foliage/page/2/</loc>
+</url>
+<url>
   <loc>https://yzzfo.github.io/en/tags/follow/</loc>
 </url>
 <url>
@@ -1661,6 +1688,9 @@
 </url>
 <url>
   <loc>https://yzzfo.github.io/en/tags/forest/page/2/</loc>
+</url>
+<url>
+  <loc>https://yzzfo.github.io/en/tags/forest/page/3/</loc>
 </url>
 <url>
   <loc>https://yzzfo.github.io/en/tags/forms/</loc>
@@ -1721,6 +1751,12 @@
 </url>
 <url>
   <loc>https://yzzfo.github.io/en/tags/fsm/page/1/</loc>
+</url>
+<url>
+  <loc>https://yzzfo.github.io/en/tags/fullscreen-camera-effects/</loc>
+</url>
+<url>
+  <loc>https://yzzfo.github.io/en/tags/fullscreen-camera-effects/page/1/</loc>
 </url>
 <url>
   <loc>https://yzzfo.github.io/en/tags/functionality/</loc>
@@ -2501,6 +2537,9 @@
 </url>
 <url>
   <loc>https://yzzfo.github.io/en/tags/lowpoly/page/2/</loc>
+</url>
+<url>
+  <loc>https://yzzfo.github.io/en/tags/lowpoly/page/3/</loc>
 </url>
 <url>
   <loc>https://yzzfo.github.io/en/tags/magic-spells/</loc>
@@ -3328,6 +3367,12 @@
   <loc>https://yzzfo.github.io/en/tags/procedural-generation/page/1/</loc>
 </url>
 <url>
+  <loc>https://yzzfo.github.io/en/tags/procedural-skybox/</loc>
+</url>
+<url>
+  <loc>https://yzzfo.github.io/en/tags/procedural-skybox/page/1/</loc>
+</url>
+<url>
   <loc>https://yzzfo.github.io/en/tags/procedural/</loc>
 </url>
 <url>
@@ -3982,6 +4027,18 @@
   <loc>https://yzzfo.github.io/en/tags/sky/page/1/</loc>
 </url>
 <url>
+  <loc>https://yzzfo.github.io/en/tags/skybox-material/</loc>
+</url>
+<url>
+  <loc>https://yzzfo.github.io/en/tags/skybox-material/page/1/</loc>
+</url>
+<url>
+  <loc>https://yzzfo.github.io/en/tags/skybox-shader/</loc>
+</url>
+<url>
+  <loc>https://yzzfo.github.io/en/tags/skybox-shader/page/1/</loc>
+</url>
+<url>
   <loc>https://yzzfo.github.io/en/tags/skybox/</loc>
 </url>
 <url>
@@ -4522,6 +4579,12 @@
   <loc>https://yzzfo.github.io/en/tags/tidal-flask/page/1/</loc>
 </url>
 <url>
+  <loc>https://yzzfo.github.io/en/tags/time-of-day/</loc>
+</url>
+<url>
+  <loc>https://yzzfo.github.io/en/tags/time-of-day/page/1/</loc>
+</url>
+<url>
   <loc>https://yzzfo.github.io/en/tags/time-saver/</loc>
 </url>
 <url>
@@ -4610,6 +4673,9 @@
 </url>
 <url>
   <loc>https://yzzfo.github.io/en/tags/tree/page/1/</loc>
+</url>
+<url>
+  <loc>https://yzzfo.github.io/en/tags/tree/page/2/</loc>
 </url>
 <url>
   <loc>https://yzzfo.github.io/en/tags/trees/</loc>
@@ -4846,6 +4912,9 @@
   <loc>https://yzzfo.github.io/en/tags/vegetation/page/2/</loc>
 </url>
 <url>
+  <loc>https://yzzfo.github.io/en/tags/vegetation/page/3/</loc>
+</url>
+<url>
   <loc>https://yzzfo.github.io/en/tags/versatile/</loc>
 </url>
 <url>
@@ -4951,6 +5020,18 @@
   <loc>https://yzzfo.github.io/en/tags/volumetric-lighting/page/1/</loc>
 </url>
 <url>
+  <loc>https://yzzfo.github.io/en/tags/volumetric-sky/</loc>
+</url>
+<url>
+  <loc>https://yzzfo.github.io/en/tags/volumetric-sky/page/1/</loc>
+</url>
+<url>
+  <loc>https://yzzfo.github.io/en/tags/volumetric-skybox/</loc>
+</url>
+<url>
+  <loc>https://yzzfo.github.io/en/tags/volumetric-skybox/page/1/</loc>
+</url>
+<url>
   <loc>https://yzzfo.github.io/en/tags/volumetric/</loc>
 </url>
 <url>
@@ -4991,6 +5072,9 @@
 </url>
 <url>
   <loc>https://yzzfo.github.io/en/tags/water/page/2/</loc>
+</url>
+<url>
+  <loc>https://yzzfo.github.io/en/tags/water/page/3/</loc>
 </url>
 <url>
   <loc>https://yzzfo.github.io/en/tags/watercausticseffect/</loc>
@@ -5225,6 +5309,9 @@
   <loc>https://yzzfo.github.io/en/unity/page/14/</loc>
 </url>
 <url>
+  <loc>https://yzzfo.github.io/en/unity/page/15/</loc>
+</url>
+<url>
   <loc>https://yzzfo.github.io/en/unity/page/2/</loc>
 </url>
 <url>
@@ -5274,6 +5361,10 @@
 <url>
   <loc>https://yzzfo.github.io/en/unity/store/allsky-220-sky-skybox-set/</loc>
   <lastmod>2024-12-17T13:42:37</lastmod>
+</url>
+<url>
+  <loc>https://yzzfo.github.io/en/unity/store/altos-volumetric-clouds-skybox-and-weather-for-unity-urp/</loc>
+  <lastmod>2025-01-03T01:00:49</lastmod>
 </url>
 <url>
   <loc>https://yzzfo.github.io/en/unity/store/ambient-sounds-interactive-soundscapes/</loc>
@@ -5410,6 +5501,10 @@
 <url>
   <loc>https://yzzfo.github.io/en/unity/store/ethereal-urp-2021-volumetric-lighting-fog/</loc>
   <lastmod>2024-12-17T13:40:05</lastmod>
+</url>
+<url>
+  <loc>https://yzzfo.github.io/en/unity/store/fantastic-nature-pack/</loc>
+  <lastmod>2025-01-03T01:00:29</lastmod>
 </url>
 <url>
   <loc>https://yzzfo.github.io/en/unity/store/fantasy-adventure-environment/</loc>
@@ -5838,6 +5933,9 @@
 </url>
 <url>
   <loc>https://yzzfo.github.io/page/14/</loc>
+</url>
+<url>
+  <loc>https://yzzfo.github.io/page/15/</loc>
 </url>
 <url>
   <loc>https://yzzfo.github.io/page/2/</loc>
@@ -6926,6 +7024,12 @@
   <loc>https://yzzfo.github.io/tags/database/page/1/</loc>
 </url>
 <url>
+  <loc>https://yzzfo.github.io/tags/day-night-cycle/</loc>
+</url>
+<url>
+  <loc>https://yzzfo.github.io/tags/day-night-cycle/page/1/</loc>
+</url>
+<url>
   <loc>https://yzzfo.github.io/tags/day/</loc>
 </url>
 <url>
@@ -7097,10 +7201,22 @@
   <loc>https://yzzfo.github.io/tags/dungeons/page/1/</loc>
 </url>
 <url>
+  <loc>https://yzzfo.github.io/tags/dynamic-clouds/</loc>
+</url>
+<url>
+  <loc>https://yzzfo.github.io/tags/dynamic-clouds/page/1/</loc>
+</url>
+<url>
   <loc>https://yzzfo.github.io/tags/dynamic-cutting/</loc>
 </url>
 <url>
   <loc>https://yzzfo.github.io/tags/dynamic-cutting/page/1/</loc>
+</url>
+<url>
+  <loc>https://yzzfo.github.io/tags/dynamic-skybox/</loc>
+</url>
+<url>
+  <loc>https://yzzfo.github.io/tags/dynamic-skybox/page/1/</loc>
 </url>
 <url>
   <loc>https://yzzfo.github.io/tags/dynamic/</loc>
@@ -7224,6 +7340,9 @@
 </url>
 <url>
   <loc>https://yzzfo.github.io/tags/environment/page/3/</loc>
+</url>
+<url>
+  <loc>https://yzzfo.github.io/tags/environment/page/4/</loc>
 </url>
 <url>
   <loc>https://yzzfo.github.io/tags/epic/</loc>
@@ -7463,6 +7582,9 @@
   <loc>https://yzzfo.github.io/tags/foliage/page/1/</loc>
 </url>
 <url>
+  <loc>https://yzzfo.github.io/tags/foliage/page/2/</loc>
+</url>
+<url>
   <loc>https://yzzfo.github.io/tags/follow/</loc>
 </url>
 <url>
@@ -7482,6 +7604,9 @@
 </url>
 <url>
   <loc>https://yzzfo.github.io/tags/forest/page/2/</loc>
+</url>
+<url>
+  <loc>https://yzzfo.github.io/tags/forest/page/3/</loc>
 </url>
 <url>
   <loc>https://yzzfo.github.io/tags/forms/</loc>
@@ -8360,6 +8485,9 @@
   <loc>https://yzzfo.github.io/tags/lowpoly/page/2/</loc>
 </url>
 <url>
+  <loc>https://yzzfo.github.io/tags/lowpoly/page/3/</loc>
+</url>
+<url>
   <loc>https://yzzfo.github.io/tags/magic-spells/</loc>
 </url>
 <url>
@@ -9170,6 +9298,12 @@
   <loc>https://yzzfo.github.io/tags/procedural-generation/page/1/</loc>
 </url>
 <url>
+  <loc>https://yzzfo.github.io/tags/procedural-skybox/</loc>
+</url>
+<url>
+  <loc>https://yzzfo.github.io/tags/procedural-skybox/page/1/</loc>
+</url>
+<url>
   <loc>https://yzzfo.github.io/tags/procedural/</loc>
 </url>
 <url>
@@ -9264,6 +9398,12 @@
 </url>
 <url>
   <loc>https://yzzfo.github.io/tags/quality/page/1/</loc>
+</url>
+<url>
+  <loc>https://yzzfo.github.io/tags/quan-ping-yu-jing-tou-xiao-guo/</loc>
+</url>
+<url>
+  <loc>https://yzzfo.github.io/tags/quan-ping-yu-jing-tou-xiao-guo/page/1/</loc>
 </url>
 <url>
   <loc>https://yzzfo.github.io/tags/quick/</loc>
@@ -9857,6 +9997,18 @@
   <loc>https://yzzfo.github.io/tags/sky/page/1/</loc>
 </url>
 <url>
+  <loc>https://yzzfo.github.io/tags/skybox-material/</loc>
+</url>
+<url>
+  <loc>https://yzzfo.github.io/tags/skybox-material/page/1/</loc>
+</url>
+<url>
+  <loc>https://yzzfo.github.io/tags/skybox-shader/</loc>
+</url>
+<url>
+  <loc>https://yzzfo.github.io/tags/skybox-shader/page/1/</loc>
+</url>
+<url>
   <loc>https://yzzfo.github.io/tags/skybox/</loc>
 </url>
 <url>
@@ -10382,6 +10534,12 @@
   <loc>https://yzzfo.github.io/tags/tidal-flask/page/1/</loc>
 </url>
 <url>
+  <loc>https://yzzfo.github.io/tags/time-of-day/</loc>
+</url>
+<url>
+  <loc>https://yzzfo.github.io/tags/time-of-day/page/1/</loc>
+</url>
+<url>
   <loc>https://yzzfo.github.io/tags/time-saver/</loc>
 </url>
 <url>
@@ -10470,6 +10628,9 @@
 </url>
 <url>
   <loc>https://yzzfo.github.io/tags/tree/page/1/</loc>
+</url>
+<url>
+  <loc>https://yzzfo.github.io/tags/tree/page/2/</loc>
 </url>
 <url>
   <loc>https://yzzfo.github.io/tags/trees/</loc>
@@ -10694,6 +10855,9 @@
   <loc>https://yzzfo.github.io/tags/vegetation/page/2/</loc>
 </url>
 <url>
+  <loc>https://yzzfo.github.io/tags/vegetation/page/3/</loc>
+</url>
+<url>
   <loc>https://yzzfo.github.io/tags/versatile/</loc>
 </url>
 <url>
@@ -10790,6 +10954,18 @@
   <loc>https://yzzfo.github.io/tags/volumetric-lighting/page/1/</loc>
 </url>
 <url>
+  <loc>https://yzzfo.github.io/tags/volumetric-sky/</loc>
+</url>
+<url>
+  <loc>https://yzzfo.github.io/tags/volumetric-sky/page/1/</loc>
+</url>
+<url>
+  <loc>https://yzzfo.github.io/tags/volumetric-skybox/</loc>
+</url>
+<url>
+  <loc>https://yzzfo.github.io/tags/volumetric-skybox/page/1/</loc>
+</url>
+<url>
   <loc>https://yzzfo.github.io/tags/volumetric/</loc>
 </url>
 <url>
@@ -10836,6 +11012,9 @@
 </url>
 <url>
   <loc>https://yzzfo.github.io/tags/water/page/2/</loc>
+</url>
+<url>
+  <loc>https://yzzfo.github.io/tags/water/page/3/</loc>
 </url>
 <url>
   <loc>https://yzzfo.github.io/tags/watercausticseffect/</loc>
@@ -11057,6 +11236,12 @@
   <loc>https://yzzfo.github.io/tags/zheng-he/page/1/</loc>
 </url>
 <url>
+  <loc>https://yzzfo.github.io/tags/zhi-wu/</loc>
+</url>
+<url>
+  <loc>https://yzzfo.github.io/tags/zhi-wu/page/1/</loc>
+</url>
+<url>
   <loc>https://yzzfo.github.io/unity/</loc>
 </url>
 <url>
@@ -11112,6 +11297,9 @@
   <loc>https://yzzfo.github.io/unity/page/14/</loc>
 </url>
 <url>
+  <loc>https://yzzfo.github.io/unity/page/15/</loc>
+</url>
+<url>
   <loc>https://yzzfo.github.io/unity/page/2/</loc>
 </url>
 <url>
@@ -11161,6 +11349,10 @@
 <url>
   <loc>https://yzzfo.github.io/unity/store/allsky-220-sky-skybox-set/</loc>
   <lastmod>2024-12-17T13:42:37</lastmod>
+</url>
+<url>
+  <loc>https://yzzfo.github.io/unity/store/altos-volumetric-clouds-skybox-and-weather-for-unity-urp/</loc>
+  <lastmod>2025-01-03T01:00:49</lastmod>
 </url>
 <url>
   <loc>https://yzzfo.github.io/unity/store/ambient-sounds-interactive-soundscapes/</loc>
@@ -11297,6 +11489,10 @@
 <url>
   <loc>https://yzzfo.github.io/unity/store/ethereal-urp-2021-volumetric-lighting-fog/</loc>
   <lastmod>2024-12-17T13:40:05</lastmod>
+</url>
+<url>
+  <loc>https://yzzfo.github.io/unity/store/fantastic-nature-pack/</loc>
+  <lastmod>2025-01-03T01:00:29</lastmod>
 </url>
 <url>
   <loc>https://yzzfo.github.io/unity/store/fantasy-adventure-environment/</loc>

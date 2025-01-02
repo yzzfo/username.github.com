@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh">
+    <title>yzzfo | Share for Free - 全屏与镜头效果</title>
+    <subtitle>游戏开发学习资源分享</subtitle>
+    <link rel="self" type="application/atom+xml" href="https://yzzfo.github.io/tags/quan-ping-yu-jing-tou-xiao-guo/atom.xml"/>
+    <link rel="alternate" type="text/html" href="https://yzzfo.github.io"/>
+    <generator uri="https://www.getzola.org/">Zola</generator>
+    <updated>2025-01-03T01:00:49+00:00</updated>
+    <id>https://yzzfo.github.io/tags/quan-ping-yu-jing-tou-xiao-guo/atom.xml</id>
+    <entry xml:lang="zh">
+        <title>Altos - Volumetric Clouds, Skybox, and Weather for Unity URP</title>
+        <published>2025-01-03T01:00:49+00:00</published>
+        <updated>2025-01-03T01:00:49+00:00</updated>
+        
+        <author>
+          <name>
+            
+              yzzfo
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://yzzfo.github.io/unity/store/altos-volumetric-clouds-skybox-and-weather-for-unity-urp/"/>
+        <id>https://yzzfo.github.io/unity/store/altos-volumetric-clouds-skybox-and-weather-for-unity-urp/</id>
+        
+        <content type="html" xml:base="https://yzzfo.github.io/unity/store/altos-volumetric-clouds-skybox-and-weather-for-unity-urp/">&lt;p &gt;&lt;strong&gt;关注我们以获取更新、教程和促销信息：&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;p &gt;&lt;a href=&quot;https:&#x2F;&#x2F;occasoftware.com&#x2F;discord&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;DISCORD&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt;&lt;strong&gt;  &#x2F;&#x2F;  &lt;&#x2F;strong&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.youtube.com&#x2F;@OccaSoftware&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;YOUTUBE&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt;&lt;strong&gt;  &#x2F;&#x2F;  &lt;&#x2F;strong&gt;&lt;a href=&quot;https:&#x2F;&#x2F;twitter.com&#x2F;occasoftware&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;TWITTER&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt;&lt;strong&gt;  &#x2F;&#x2F;  &lt;&#x2F;strong&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.instagram.com&#x2F;occa.software&#x2F;&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;INSTAGRAM&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+&lt;p &gt;&lt;strong&gt;&lt;em&gt;寻找巨大的折扣吗？购买 &lt;&#x2F;em&gt;&lt;&#x2F;strong&gt;&lt;a href=&quot;https:&#x2F;&#x2F;assetstore.unity.com&#x2F;packages&#x2F;slug&#x2F;238480&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;&lt;em&gt;OccaSoftware 套件&lt;&#x2F;em&gt;&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt;&lt;strong&gt;&lt;em&gt; 时可获得所有 OccaSoftware 资产和工具。&lt;&#x2F;em&gt;&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
+&lt;p &gt;&lt;strong&gt;OccaSoftware 呈现：Altos - Unity URP 的体积云、天空盒和天气&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
+&lt;p &gt;&lt;strong&gt;动态天空盒。体积云。昼夜循环。气氛和大气雾。&lt;&#x2F;strong&gt;✨&lt;&#x2F;p&gt;
+&lt;ul&gt;&lt;li &gt;易于使用&lt;&#x2F;li&gt;&lt;li &gt;外观美丽&lt;&#x2F;li&gt;&lt;li &gt;适合程序员和设计师：无需艺术技能。&lt;&#x2F;li&gt;&lt;li &gt;广泛兼容&lt;&#x2F;li&gt;&lt;&#x2F;ul&gt;&lt;p &gt;&lt;strong&gt;✅更新至 Unity 6！&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;p &gt;所有 Occa Software 资产目前正在更新至 Unity 6 的过程中。如果您遇到任何问题，请与我们联系！&lt;&#x2F;p&gt;
+&lt;p &gt;&lt;strong&gt;✅让您的游戏看起来很棒&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;p &gt;我们的真实天空盒帮助您的环境吸引并沉浸玩家。这个工具包拥有您所需的一切，可以让您的世界成为一个沉浸式环境。&lt;&#x2F;p&gt;
+&lt;p &gt;戏剧性的云彩移动并动画。它们根据一天中的时间响应动态光照。在几秒钟内从多云的气氛过渡到沙漠天空。我们美丽的云渲染器看起来令人惊叹。&lt;&#x2F;p&gt;&lt;br&gt;&lt;p &gt;&lt;strong&gt;✅大气雾霭与实时光照&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;p &gt;我们的互动云朵融入了大气雾霭中。它们结合了来自太阳的直射光并投射阴影。同时，它们使用我们的实时环境光照来匹配您的环境。&lt;&#x2F;p&gt;
+&lt;p &gt;&lt;strong&gt;✅穿越云层&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;p &gt;您可以控制云朵是作为背景渲染还是作为环境的一部分。无论您是在飞行、攀爬，还是从地面仰望，这些云朵看起来都很棒。想象一下，当您攀登到山顶俯瞰云层时的景象和广阔。&lt;&#x2F;p&gt;
+&lt;p &gt;&lt;strong&gt;✅昼夜循环&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;p &gt;整个天空随着时间的推移而变化。我们的昼夜循环从白天过渡到夜晚。所有这些都是您可以控制的白天模拟的一部分。程序生成的天空盒运作良好。&lt;&#x2F;p&gt;
+&lt;p &gt;&lt;strong&gt;太阳与月亮&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;p &gt;天体，如太阳和月亮，在天空中动态移动。这是一个真实的天文模拟的一部分。在夜晚，观看星星的出现。星空照亮了您的世界。&lt;&#x2F;p&gt;
+&lt;p &gt;&lt;strong&gt;✅沉浸式环境&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;p &gt;您是在制作风格化、真实、像素艺术或低多边形游戏吗？我们的动态天空将使您的沉浸式环境脱颖而出。&lt;&#x2F;p&gt;
+&lt;p &gt;您是在制作奇幻、恐怖、中世纪、角色扮演游戏、日式角色扮演游戏或科幻项目吗？利用我们的互动云朵和时间系统构建新的游戏玩法元素。&lt;&#x2F;p&gt;
+&lt;p &gt;&lt;strong&gt;✅动态云系统&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;p &gt;忘掉无聊的静态天空盒生成器或平面的天空盒纹理吧。使用天空盒包，您的游戏将永远不会感觉沉浸。您的玩家将永远不会觉得自己置身于大自然中。相反，使用Altos来创建一个可信的氛围，玩家将会爱上您的游戏。&lt;&#x2F;p&gt;&lt;br&gt;&lt;p &gt;&lt;strong&gt;✅天气模拟&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;p &gt;通过我们的集成天气模拟，让您的游戏栩栩如生。云彩在天空中快速移动。我们的轻量级天气模拟展示了您动态的天空。或者，您可以通过可配置的天气图来控制天气。想要让您的体积云呈现飞翔的星星形状吗？只要您能想象，就能实现。&lt;&#x2F;p&gt;
+&lt;p &gt;&lt;strong&gt;✅适用于低多边形、风格化和真实项目&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;p &gt;这个天空盒非常适合所有环境。您是在制作一款日本中世纪角色扮演游戏吗？一款设定在星空中的风格化低多边形游戏？还是一款在丛林夜晚的像素艺术世界？这是您需要的天空盒渲染器。它看起来很棒。&lt;&#x2F;p&gt;
+&lt;p &gt;&lt;strong&gt;✅动态天空盒&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;p &gt;我们的天空盒包是一个具有动态光照的程序生成天空。坐下来，观看动画云彩、天空、太阳、月亮和星星在头顶移动。&lt;&#x2F;p&gt;
+&lt;p &gt;实现终极天空盒自定义。创造最美丽的风景天空。&lt;&#x2F;p&gt;
+&lt;p &gt;&lt;strong&gt;✅兼容且高效&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;p &gt;我们优化过的、游戏就绪的程序生成天空系统为您保驾护航。设计时注重质量和细节。您的玩家会认为您在使用HDRP或虚幻引擎。&lt;&#x2F;p&gt;
+&lt;p &gt;我们知道性能很重要。这就是为什么我们设计的天空要快速。&lt;&#x2F;p&gt;
+&lt;p &gt;&lt;strong&gt;✅与水和植被兼容&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;p &gt;Altos也与水和植被兼容。无论您的游戏设定在海洋还是森林，这个天空盒工具包都适合您。&lt;&#x2F;p&gt;
+&lt;p &gt;&lt;strong&gt;✅与视觉特效兼容&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;p &gt;我们的天空盒包也与视觉特效兼容。如果您的幻想法师施展魔法，它看起来会很合适。&lt;&#x2F;p&gt;
+&lt;p &gt;&lt;strong&gt;✅优化&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;p &gt;您掌控一切。这个资产经过优化。它非常快速。您甚至可以让它更快。&lt;&#x2F;p&gt;
+&lt;p &gt;忘记使用天空盒编辑器吧。您所需的一切都在这里。高质量、优化、游戏就绪。&lt;&#x2F;p&gt;
+&lt;p &gt;&lt;strong&gt;已经购买Altos的游戏开发者们都爱它&lt;&#x2F;strong&gt;✨&lt;&#x2F;p&gt;&lt;br&gt;&lt;p &gt;&lt;strong&gt;&quot;&lt;&#x2F;strong&gt;&lt;em&gt;Altos 是最&lt;&#x2F;em&gt;&lt;strong&gt;&lt;em&gt;完美且美丽的天空、云彩和昼夜循环系统&lt;&#x2F;em&gt;&lt;&#x2F;strong&gt;&lt;em&gt;！它在我的项目中表现得非常出色，并且&lt;&#x2F;em&gt;&lt;strong&gt;&lt;em&gt;设置起来非常简单&lt;&#x2F;em&gt;&lt;&#x2F;strong&gt;&lt;em&gt;，可以获得美丽的云彩，&lt;&#x2F;em&gt;&lt;strong&gt;&lt;em&gt;与行业标杆如微软飞行模拟器相媲美&lt;&#x2F;em&gt;&lt;&#x2F;strong&gt;&lt;em&gt;。&lt;&#x2F;em&gt;&quot; - eggymelon&lt;&#x2F;p&gt;
+&lt;p &gt;&quot;&lt;strong&gt;&lt;em&gt;美丽的云彩和天空盒&lt;&#x2F;em&gt;&lt;&#x2F;strong&gt;&lt;em&gt;，&lt;&#x2F;em&gt;&lt;strong&gt;&lt;em&gt;实现起来极其简单，&lt;&#x2F;em&gt;&lt;&#x2F;strong&gt;&lt;em&gt;还有一个昼夜循环，简直就像是锦上添花。每个人都需要这个！&lt;&#x2F;em&gt;&quot; - Fortypoundbaby&lt;&#x2F;p&gt;
+&lt;p &gt;&quot;&lt;em&gt;云彩和天空看起来很棒，效果也很好，&lt;&#x2F;em&gt;&lt;strong&gt;&lt;em&gt;开发者在 Discord 上提供了惊人且快速的支持&lt;&#x2F;em&gt;&lt;&#x2F;strong&gt;&lt;em&gt;！&lt;&#x2F;em&gt;&quot; - Furgl&lt;&#x2F;p&gt;
+&lt;p &gt;&lt;strong&gt;兼容性&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;p &gt;编辑器版本&lt;&#x2F;p&gt;&lt;p &gt;✅ 2021.3 LTS&lt;&#x2F;p&gt;&lt;p &gt;✅ 2022.3 LTS&lt;&#x2F;p&gt;
+&lt;p &gt;渲染管线&lt;&#x2F;p&gt;&lt;p &gt;✅ 通用&lt;&#x2F;p&gt;&lt;p &gt;❌ 内置&lt;&#x2F;p&gt;&lt;p &gt;❌ HDRP&lt;&#x2F;p&gt;
+&lt;p &gt;渲染路径&lt;&#x2F;p&gt;&lt;p &gt;✅ 延迟渲染&lt;&#x2F;p&gt;&lt;p &gt;✅ 前向渲染&lt;&#x2F;p&gt;
+&lt;p &gt;API&lt;&#x2F;p&gt;&lt;p &gt;✅ DirectX&lt;&#x2F;p&gt;&lt;p &gt;✅ OpenGL&lt;&#x2F;p&gt;&lt;p &gt;✅ Vulkan&lt;&#x2F;p&gt;&lt;p &gt;✅ Metal&lt;&#x2F;p&gt;
+&lt;p &gt;平台&lt;&#x2F;p&gt;&lt;p &gt;✅ 主机&lt;&#x2F;p&gt;&lt;p &gt;✅ PC&lt;&#x2F;p&gt;&lt;p &gt;❌ WebGL&lt;&#x2F;p&gt;&lt;p &gt;❌ 移动设备&lt;&#x2F;p&gt;&lt;p &gt;❌ VR&lt;&#x2F;p&gt;
+&lt;p &gt;&lt;strong&gt;我们推荐将 Altos 与以下内容搭配使用...&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;p &gt;- &lt;a href=&quot;https:&#x2F;&#x2F;assetstore.unity.com&#x2F;packages&#x2F;slug&#x2F;258881&quot; target=&quot;_blank&quot;&gt;Buto - URP 的体积雾和体积光照&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;&lt;p &gt;- &lt;a href=&quot;https:&#x2F;&#x2F;assetstore.unity.com&#x2F;packages&#x2F;slug&#x2F;259942&quot; target=&quot;_blank&quot;&gt;URP 的自动曝光&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;&lt;p &gt;- &lt;a href=&quot;https:&#x2F;&#x2F;assetstore.unity.com&#x2F;packages&#x2F;slug&#x2F;246472&quot; target=&quot;_blank&quot;&gt;URP 的终极光照着色器&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;</content>
+        
+    </entry>
+</feed>
