@@ -5,8 +5,34 @@
     <link rel="self" type="application/atom+xml" href="https://yzzfo.github.io/tags/physics/atom.xml"/>
     <link rel="alternate" type="text/html" href="https://yzzfo.github.io"/>
     <generator uri="https://www.getzola.org/">Zola</generator>
-    <updated>2024-12-17T14:08:54+00:00</updated>
+    <updated>2025-01-05T01:00:29+00:00</updated>
     <id>https://yzzfo.github.io/tags/physics/atom.xml</id>
+    <entry xml:lang="zh">
+        <title>PhysX Painter</title>
+        <published>2025-01-05T01:00:29+00:00</published>
+        <updated>2025-01-05T01:00:29+00:00</updated>
+        
+        <author>
+          <name>
+            
+              yzzfo
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://yzzfo.github.io/unity/store/physx-painter/"/>
+        <id>https://yzzfo.github.io/unity/store/physx-painter/</id>
+        
+        <content type="html" xml:base="https://yzzfo.github.io/unity/store/physx-painter/">&lt;p &gt;&lt;a href=&quot;https:&#x2F;&#x2F;discord.gg&#x2F;euvtFhk&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;加入 Discord&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt; • &lt;a href=&quot;https:&#x2F;&#x2F;www.youtube.com&#x2F;channel&#x2F;UCoRzdGX6ksIZdTX_95LPXgA&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;YouTube&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+&lt;p &gt;所有与资产相关的讨论将转移到 &lt;a href=&quot;https:&#x2F;&#x2F;discord.gg&#x2F;euvtFhk&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;Discord&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt;。加入我们以获取更多信息、更新，如果您遇到任何问题或只是想打个招呼！&lt;&#x2F;p&gt;
+&lt;p &gt;&lt;strong&gt;○ 重要信息&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
+&lt;p &gt;该工具的旧开发者已将权利转让给另一位开发者。权利转让发生在2021年8月23日。&lt;&#x2F;p&gt;
+&lt;p &gt;该工具的重大更新以及大量功能的添加将很快发布。如果您对该工具有任何想法，可以通过电子邮件与我联系：uladzislau78@gmail.com&lt;&#x2F;p&gt;
+&lt;p &gt;&lt;strong&gt;○ 概述&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
+&lt;p &gt;Physics Scatter 允许您直接从编辑器中散布遵循物理规律的对象！这意味着您不必痛苦地旋转、平移、缩放和调整场景中的对象，以使其位置看起来逼真。只需选择您希望散布的对象并将其放入场景中。它们将自然地一个接一个地落下，或落在场景中的其他组件上，以最佳方式实现，开发者的工作量最小！&amp;nbsp;&lt;&#x2F;p&gt;
+&lt;p &gt;&lt;strong&gt;○ 为什么 PhysX Painter 值得您关注&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;br&gt;&lt;p &gt;&lt;strong&gt;✓ &lt;&#x2F;strong&gt;您可以同时散布多个对象，并对它们应用随机旋转或缩放。&lt;&#x2F;p&gt;&lt;p &gt;&lt;strong&gt;✓ &lt;&#x2F;strong&gt;物理散布可以执行普通对象散布所能做的任何操作。随机旋转、缩放、偏移放置、全局和个别对象设置，所有这些都包含在内。此外，您还可以对对象应用物理效果！不仅是您散布的对象，还有（如果您愿意）场景中其他的对象。&lt;&#x2F;p&gt;&lt;p &gt;&lt;strong&gt;✓ &lt;&#x2F;strong&gt;包含一组效果以创建独特的场景。例如，您可以散布对象，然后应用爆炸效果。当对象在空中时，您可以将它们冻结，并在场景中使用这个令人惊叹的效果，即在爆炸过程中对象悬浮在空中！这为场景创建打开了大量新的可能性！&lt;&#x2F;p&gt;&lt;p &gt;&lt;strong&gt;✓ &lt;&#x2F;strong&gt;包含的效果有爆炸、黑洞和简单力。它们都是完全参数化的，允许不同大小、力量、垂直偏移等效果。查看图片和视频，以了解您可以轻松实现的惊人效果！&lt;&#x2F;p&gt;&lt;p &gt;想要快速回复您的问题吗？加入我的 &lt;a href=&quot;https:&#x2F;&#x2F;discord.gg&#x2F;euvtFhk&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;Discord&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt; 服务器。&lt;&#x2F;p&gt;</content>
+        
+    </entry>
     <entry xml:lang="zh">
         <title>PuppetMaster</title>
         <published>2024-11-29T21:16:44+00:00</published>

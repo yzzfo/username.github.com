@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+    <title>yzzfo | Share for Free - Physics Effects</title>
+    <subtitle>Game Development Learning Resources</subtitle>
+    <link rel="self" type="application/atom+xml" href="https://yzzfo.github.io/en/tags/physics-effects/atom.xml"/>
+    <link rel="alternate" type="text/html" href="https://yzzfo.github.io"/>
+    <generator uri="https://www.getzola.org/">Zola</generator>
+    <updated>2025-01-05T01:00:29+00:00</updated>
+    <id>https://yzzfo.github.io/en/tags/physics-effects/atom.xml</id>
+    <entry xml:lang="en">
+        <title>PhysX Painter</title>
+        <published>2025-01-05T01:00:29+00:00</published>
+        <updated>2025-01-05T01:00:29+00:00</updated>
+        
+        <author>
+          <name>
+            
+              yzzfo
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://yzzfo.github.io/en/unity/store/physx-painter/"/>
+        <id>https://yzzfo.github.io/en/unity/store/physx-painter/</id>
+        
+        <content type="html" xml:base="https://yzzfo.github.io/en/unity/store/physx-painter/">&lt;p&gt;&lt;br&gt;&lt;p &gt;&lt;a href=&quot;https:&#x2F;&#x2F;discord.gg&#x2F;euvtFhk&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;Join Discord&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt; • &lt;a href=&quot;https:&#x2F;&#x2F;www.youtube.com&#x2F;channel&#x2F;UCoRzdGX6ksIZdTX_95LPXgA&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;YouTube&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;All asset-related discussions are moving to &lt;a href=&quot;https:&#x2F;&#x2F;discord.gg&#x2F;euvtFhk&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;Discord&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt;. Join us for more info, updates, if you experience any issues or if you just want to say hi!&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;&lt;strong&gt;○ Important &lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;The old developer of the tool has transferred the rights to another developer. The transfer of rights took place on 23&#x2F;08&#x2F;2021.&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;A big update of the tool and the addition of a huge number of functionality will be released soon. If you have ideas for this tool, you can email me: uladzislau78@gmail.com&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;&lt;strong&gt;○ Overview&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;Physics Scatter allows you to scatter objects that follow physics, directly from the Editor! This means that you won&#x27;t have to painfully rotate, translate, scale, and adjust the objects in the scene to make their position look realistic. Just select the objects you wish to scatter and drop them in the scene. They&#x27;ll fall naturally one on top of the other, or on top of other components of your scene, in the best possible way, with minimum effort for the developer! &lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;&lt;strong&gt;○ Why PhysX Painter deserves your attention&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;&lt;strong&gt;✓ &lt;&#x2F;strong&gt;You can scatter multiple objects at the same time and apply random rotation or scale to them.&lt;&#x2F;p&gt;&lt;p &gt;&lt;strong&gt;✓ &lt;&#x2F;strong&gt;The Physics Scatter can do anything that a normal object scatter can do. Random rotation, scale, offset placement, global and individual settings for objects, are all included here. But, in addition to this, you can apply physics effects to your objects! Not only those you scattered, but also (if you wish) those that you have lying around in the scene.&lt;&#x2F;p&gt;&lt;p &gt;&lt;strong&gt;✓ &lt;&#x2F;strong&gt;A set of effects is included to create unique scenes. For example, you can scatter objects around and then apply an explosion effect. While the objects are in the air, you can freeze them, and use this amazing effect of objects frozen mid-air during an explosion in your scene! This opens up to a huge amount of new possibilities for scenes creation!&lt;&#x2F;p&gt;&lt;p &gt;&lt;strong&gt;✓ &lt;&#x2F;strong&gt;The effects included are Explosion, Blackhole and SimpleForce. They are fully parameterized, allowing effects of different size, power, vertical offset and more. Check the picture and the video for getting an idea of the amazing things you can easily do with this script!&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;Looking for a quick reply to your questions? Join us on my &lt;a href=&quot;https:&#x2F;&#x2F;discord.gg&#x2F;euvtFhk&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;Discord&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt; server&lt;&#x2F;p&gt;&lt;&#x2F;p&gt;
+</content>
+        
+    </entry>
+</feed>
