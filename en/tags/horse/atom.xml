@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+    <title>yzzfo | Share for Free - horse</title>
+    <subtitle>Game Development Learning Resources</subtitle>
+    <link rel="self" type="application/atom+xml" href="https://yzzfo.github.io/en/tags/horse/atom.xml"/>
+    <link rel="alternate" type="text/html" href="https://yzzfo.github.io"/>
+    <generator uri="https://www.getzola.org/">Zola</generator>
+    <updated>2025-01-08T01:01:26+00:00</updated>
+    <id>https://yzzfo.github.io/en/tags/horse/atom.xml</id>
+    <entry xml:lang="en">
+        <title>Horse Animset Pro (Riding System)</title>
+        <published>2025-01-08T01:01:26+00:00</published>
+        <updated>2025-01-08T01:01:26+00:00</updated>
+        
+        <author>
+          <name>
+            
+              yzzfo
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://yzzfo.github.io/en/unity/store/horse-animset-pro-riding-system/"/>
+        <id>https://yzzfo.github.io/en/unity/store/horse-animset-pro-riding-system/</id>
+        
+        <content type="html" xml:base="https://yzzfo.github.io/en/unity/store/horse-animset-pro-riding-system/">&lt;p&gt;Riding System using the Animal Controller to make your character Ride any creature&lt;br&gt;&lt;p &gt;&lt;a href=&quot;https:&#x2F;&#x2F;malbers-animations.gitbook.io&#x2F;animal-controller&#x2F;&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;Manual &lt;&#x2F;strong&gt;&lt;&#x2F;a&gt;&lt;strong&gt;| &lt;&#x2F;strong&gt;&lt;a href=&quot;https:&#x2F;&#x2F;malbers-animations.gitbook.io&#x2F;animal-controller&#x2F;annex&#x2F;integrations&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;Integrations &lt;&#x2F;strong&gt;&lt;&#x2F;a&gt;&lt;strong&gt;| &lt;&#x2F;strong&gt;&lt;a href=&quot;https:&#x2F;&#x2F;malbers-animations.gitbook.io&#x2F;animal-controller&#x2F;how-to-hap&#x2F;make-any-animal-mountable&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;Quick Guides&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt;&lt;strong&gt; | &lt;&#x2F;strong&gt;&lt;a href=&quot;https:&#x2F;&#x2F;drive.google.com&#x2F;file&#x2F;d&#x2F;1d6fOATbXq_v3fxAgEieYTiUuUo9DYHPj&#x2F;view?usp=sharing&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;Build Demo&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt;&lt;strong&gt; | &lt;&#x2F;strong&gt;&lt;a href=&quot;https:&#x2F;&#x2F;discord.gg&#x2F;evr5tSP&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;Discord&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;Here is your ultimate Riding System!🏇&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;&lt;strong&gt;⭐ &lt;&#x2F;strong&gt;&lt;a href=&quot;https:&#x2F;&#x2F;malbers-animations.gitbook.io&#x2F;animal-controller&#x2F;annex&#x2F;changelog&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;What&#x27;s New!&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;&lt;p &gt;&lt;strong&gt;⭐ &lt;&#x2F;strong&gt;&lt;a href=&quot;https:&#x2F;&#x2F;malbers-animations.gitbook.io&#x2F;animal-controller&#x2F;road-map&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;Road Map&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;&lt;p &gt;&lt;strong&gt;💖Everything in Animal Controller (AC) is included in Horse Animset Pro (HAP)&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;&#x2F;br&gt;&lt;p &gt;&lt;strong&gt;❇️IMPORTANT❇️&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;p &gt;This asset is included in Horse Animset Pro&lt;strong&gt; (HAP)&lt;&#x2F;strong&gt;.&lt;&#x2F;p&gt;&lt;p &gt;If you are going to use HAP too, You don&#x27;t have to buy AC&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;&#x2F;br&gt;&lt;p &gt;&lt;strong&gt;❇️UPGRADING❇️&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;p &gt;&lt;strong&gt;⏩ALWAYS BACK-UP YOUR PROJECT BEFORE UPGRADING⏪&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;p &gt;If you have trouble upgrading or if a script is causing errors, please remove the &lt;strong&gt;&lt;em&gt;&quot;MalbersAnimations&#x2F;Common&#x2F;&lt;&#x2F;em&gt;&lt;&#x2F;strong&gt;&lt;strong&gt;&quot;&lt;&#x2F;strong&gt; folder and reimport the asset again.&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;&#x2F;br&gt;&lt;p &gt;Horse AnimSet Pro(HAP) is an animation framework controller, Root-Motion or In-Place, for &lt;strong&gt;any Creature or Humanoid&lt;&#x2F;strong&gt; character.&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;Based on &lt;strong&gt;Scriptable Architecture&lt;&#x2F;strong&gt;, the asset uses &lt;strong&gt;modular features&lt;&#x2F;strong&gt; that you can add or remove to best fit your projects.&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;With more than &lt;strong&gt;100 AAA-quality Animations&lt;&#x2F;strong&gt;, HAP is the &lt;strong&gt;number one Riding System for Unity.&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;There are &lt;strong&gt;over a hundred tools &lt;&#x2F;strong&gt;that will help you achieve any situation without having to write a line of code.&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;Even though it &lt;strong&gt;includes a horse&lt;&#x2F;strong&gt; to mount, you can &lt;strong&gt;ride any creature&lt;&#x2F;strong&gt; from tiny rabbits to gigantic dragons.&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;Ready to use multiple &lt;strong&gt;combat abilities while riding or on the ground&lt;&#x2F;strong&gt; or simply have a smooth ride on any creature.&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;From Medieval lands to the harsh Wild West HAP is the cutting-edge riding solution.&lt;&#x2F;p&gt;&lt;p &gt;This package is continuously growing with more features and animations on each update!&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;&#x2F;br&gt;&lt;p &gt;&lt;strong&gt;Contact: &lt;&#x2F;strong&gt;&lt;a href=&quot;mailto:malbers.shark87@gmail.com&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;malbers.shark87@gmail.com&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;&lt;&#x2F;p&gt;
+</content>
+        
+    </entry>
+</feed>

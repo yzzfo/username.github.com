@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh">
+    <title>yzzfo | Share for Free - rider</title>
+    <subtitle>游戏开发学习资源分享</subtitle>
+    <link rel="self" type="application/atom+xml" href="https://yzzfo.github.io/tags/rider/atom.xml"/>
+    <link rel="alternate" type="text/html" href="https://yzzfo.github.io"/>
+    <generator uri="https://www.getzola.org/">Zola</generator>
+    <updated>2025-01-08T01:01:26+00:00</updated>
+    <id>https://yzzfo.github.io/tags/rider/atom.xml</id>
+    <entry xml:lang="zh">
+        <title>Horse Animset Pro (Riding System)</title>
+        <published>2025-01-08T01:01:26+00:00</published>
+        <updated>2025-01-08T01:01:26+00:00</updated>
+        
+        <author>
+          <name>
+            
+              yzzfo
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://yzzfo.github.io/unity/store/horse-animset-pro-riding-system/"/>
+        <id>https://yzzfo.github.io/unity/store/horse-animset-pro-riding-system/</id>
+        
+        <content type="html" xml:base="https://yzzfo.github.io/unity/store/horse-animset-pro-riding-system/">&lt;p&gt;Riding System using the Animal Controller to make your character Ride any creature&lt;br&gt;&lt;BR&gt;&lt;STRONG&gt;✅✅升级至 4.2+ ✅✅&lt;&#x2F;STRONG&gt;&lt;&#x2F;BR&gt;&lt;p&gt;已移除大量脚本，所以为了顺利升级，请遵循以下步骤：&lt;&#x2F;p&gt;&lt;p&gt;1- 移除 [Malbers Animation\Common] 文件夹&lt;&#x2F;p&gt;&lt;p&gt;2- 将 [Horse Animset Pro 4.2+] 再次导入项目&lt;&#x2F;p&gt; &lt;BR&gt;&lt;a href=&quot;https:&#x2F;&#x2F;malbersanimations.gitbook.io&#x2F;animal-controller&#x2F;quickstart&#x2F;upgrading-to-ac-1.2-hap-4.2&quot;&gt;升级过程中的常见问题 (AC)&lt;&#x2F;a&gt;&lt;&#x2F;BR&gt; &lt;BR&gt;&lt;&#x2F;BR&gt;&lt;P&gt;这就是你的终极骑行系统！&lt;&#x2F;P&gt;&lt;BR&gt;&lt;STRONG&gt;高质量的动画&lt;&#x2F;STRONG&gt;&lt;&#x2F;BR&gt;&lt;P&gt;Horse AnimSet Pro(HAP) 是一套动画框架和骑行系统控制器，基于根运动，适合于任何人形角色。该资源开始时就像是一个简单的马模型和动画包，但经过不断发展，它已经成为一套强大而灵活的骑行控制器。它包括一个来自于标准资源的基础角色控制器，但可以与你创建的更高级的角色控制器搭配使用，也可以与商店中任何让人惊叹的角色控制器（TCP 或 FPC）搭配使用。&lt;&#x2F;P&gt;&lt;p&gt;该资源包在不断扩展，每次更新都推出了更多功能和动画效果！&lt;&#x2F;p&gt; &lt;br&gt;&lt;p&gt;&lt;a href=&quot;http:&#x2F;&#x2F;bit.ly&#x2F;HAPIntegrations&quot;&gt;集成&lt;&#x2F;a&gt; | &lt;a href=&quot;http:&#x2F;&#x2F;bit.ly&#x2F;2DuntpT&quot;&gt;骑上任何生物&lt;&#x2F;a&gt; | &lt;a href=&quot;http:&#x2F;&#x2F;bit.ly&#x2F;HorseWebGL&quot;&gt;网络演示&lt;&#x2F;a&gt; | &lt;a href=&quot;http:&#x2F;&#x2F;goo.gl&#x2F;BLTI4t&quot;&gt;论坛&lt;&#x2F;a&gt; | &lt;a href=&quot;http:&#x2F;&#x2F;bit.ly&#x2F;MalbersHAPDoc&quot;&gt;手册&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;br&gt;&lt;STRONG&gt;⚙ 功能 ⚙&lt;&#x2F;STRONG&gt;&lt;&#x2F;br&gt;&lt;p&gt;马：&lt;&#x2F;p&gt;&lt;p&gt;- 80 个动画剪辑&lt;&#x2F;p&gt;&lt;p&gt;- 2 种马的风格（现实、多边形艺术）&lt;&#x2F;p&gt;&lt;p&gt;- 针对每种马的风格提供多种纹理集合&lt;&#x2F;p&gt;&lt;p&gt;- LOD&lt;&#x2F;p&gt;&lt;p&gt;- 盔甲、缰绳和马鞍&lt;&#x2F;p&gt;&lt;p&gt;- 针对缰绳和马鬃的 Unity 布料模拟不能用于 Unity 2019&lt;&#x2F;p&gt;&lt;p&gt;- 声音&lt;&#x2F;p&gt;&lt;p&gt;- 基础脚步系统（足迹声音和足迹粒子）&lt;&#x2F;p&gt;&lt;p&gt;- 用于管理所有 Malbers Animations 生物的动物控制器&lt;&#x2F;p&gt;&lt;p&gt;- 状态：游泳、摔倒、跳跃、攻击、死亡、行走、小跑、慢跑、疾驰、冲刺&lt;&#x2F;p&gt;&lt;p&gt;- 定向伤害系统&lt;&#x2F;p&gt;&lt;p&gt;- 扫射&lt;&#x2F;p&gt;&lt;p&gt;- 镜头基础输入&lt;&#x2F;p&gt;&lt;p&gt;- 地形校正&lt;&#x2F;p&gt;&lt;p&gt;- 支持 NavMesh Agent。基础 AI&lt;&#x2F;p&gt;&lt;p&gt;- 移动端友好&lt;&#x2F;p&gt;&lt;p&gt;骑行者：&lt;&#x2F;p&gt;&lt;p&gt;- 132 个动画剪辑（可用于人形角色设定，以获得更好的兼容性）&lt;&#x2F;p&gt;&lt;p&gt;- 附带 1 个纹理集合的牛仔模型&lt;&#x2F;p&gt;&lt;p&gt;- 骑行者系统（TCP 和 FPC）&lt;&#x2F;p&gt;&lt;p&gt;- 骑行者战斗系统：弓箭、手枪、混战（即将推出长矛、步枪、魔法物品、投掷物）&lt;&#x2F;p&gt;&lt;p&gt;- 非常非常基础的库存系统，用以演示骑行者 - 战斗系统与外部库存的兼容性。&lt;&#x2F;p&gt;&lt;p&gt;实用工具：&lt;&#x2F;p&gt;&lt;p&gt;- 材料更换器&lt;&#x2F;p&gt;&lt;p&gt;- 混合形状管理器&lt;&#x2F;p&gt;&lt;p&gt;- 网格更换器&lt;&#x2F;p&gt;&lt;p&gt;- 动画器消息行为&lt;&#x2F;p&gt;&lt;p&gt;- 动画器声音行为&lt;&#x2F;p&gt;&lt;p&gt;- 头部瞄准&lt;&#x2F;p&gt;&lt;p&gt;- 武器（模型、纹理和脚本）&lt;&#x2F;p&gt;&lt;p&gt;- 动物基础 AI&lt;&#x2F;p&gt;&lt;p&gt;- 带镜头状态的基础镜头设置系统。&lt;&#x2F;p&gt;&lt;p&gt;- 兼容所有 Malbers 动物&lt;&#x2F;p&gt;&lt;BR&gt;&lt;em&gt;- 兼容 Invector TCP、Ootii MC，即将推出更多集成！未来更新&lt;&#x2F;em&gt;&lt;&#x2F;BR&gt;&lt;p&gt;联系人：&lt;a href=&quot;mailto:malbers.shark87@gmail.com&quot;&gt;malbers.shark87@gmail.com&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;&lt;p&gt;查看日志以了解版本变化&lt;&#x2F;p&gt;&lt;&#x2F;p&gt;
+</content>
+        
+    </entry>
+</feed>
