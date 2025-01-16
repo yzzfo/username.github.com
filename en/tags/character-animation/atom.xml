@@ -5,8 +5,28 @@
     <link rel="self" type="application/atom+xml" href="https://yzzfo.github.io/en/tags/character-animation/atom.xml"/>
     <link rel="alternate" type="text/html" href="https://yzzfo.github.io"/>
     <generator uri="https://www.getzola.org/">Zola</generator>
-    <updated>2024-12-17T13:44:12+00:00</updated>
+    <updated>2025-01-16T15:49:23+00:00</updated>
     <id>https://yzzfo.github.io/en/tags/character-animation/atom.xml</id>
+    <entry xml:lang="en">
+        <title>Magic Animation Blend</title>
+        <published>2025-01-16T15:49:23+00:00</published>
+        <updated>2025-01-16T15:49:23+00:00</updated>
+        
+        <author>
+          <name>
+            
+              yzzfo
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://yzzfo.github.io/en/unity/store/magic-animation-blend/"/>
+        <id>https://yzzfo.github.io/en/unity/store/magic-animation-blend/</id>
+        
+        <content type="html" xml:base="https://yzzfo.github.io/en/unity/store/magic-animation-blend/">&lt;p&gt;A new way to blend animations in Unity.&lt;br&gt;&lt;p &gt;&lt;a href=&quot;https:&#x2F;&#x2F;play.unity.com&#x2F;en&#x2F;games&#x2F;700af78f-a4d9-41a5-be94-dc225f1da41f&#x2F;magic-animation-blending&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;WebGL Demo&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt;&lt;strong&gt; • &lt;&#x2F;strong&gt;&lt;a href=&quot;https:&#x2F;&#x2F;kinemation.gitbook.io&#x2F;magic-blend-documentation&#x2F;&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;Documentation&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt;&lt;strong&gt; • &lt;&#x2F;strong&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;kinemation&#x2F;magic-blending&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;GitHub Demo&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt;&lt;strong&gt; • &lt;&#x2F;strong&gt;&lt;a href=&quot;https:&#x2F;&#x2F;discord.gg&#x2F;kinemation-1027338787958816860&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;Discord&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;&lt;em&gt;THIS TOOL IS COMPATIBLE WITH &lt;&#x2F;em&gt;&lt;strong&gt;&lt;em&gt;UNITY 6&lt;&#x2F;em&gt;&lt;&#x2F;strong&gt;&lt;em&gt;.&lt;&#x2F;em&gt;&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;&lt;strong&gt;😭 Unity has a problem...&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;&lt;em&gt;Animator &lt;&#x2F;em&gt;is great, but it is very limited when adding new content to your awesome game! &lt;strong&gt;&lt;em&gt;Magic Blending&lt;&#x2F;em&gt;&lt;&#x2F;strong&gt; sets you free from spaghetti animators by introducing &lt;em&gt;Animation Overlays&lt;&#x2F;em&gt; - a feature that animates poses using the same &lt;em&gt;Animator Controller&lt;&#x2F;em&gt;.&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;❔ &lt;strong&gt;How can I use it in my game?&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;Imagine you have a nice &lt;em&gt;Animator Controller&lt;&#x2F;em&gt;, and now you need to add weapons or items. With &lt;strong&gt;Magic Blending&lt;&#x2F;strong&gt;, you don&#x27;t need to create new animations or modify your Animator Controller at all - just create a &lt;em&gt;Magic Blend Asset&lt;&#x2F;em&gt; and adjust the sliders!&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;Moreover, this plugin uses &lt;strong&gt;unique procedural blending&lt;&#x2F;strong&gt;, ensuring the final result is smooth and natural.&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;&lt;strong&gt;&lt;em&gt;🌟 &lt;&#x2F;em&gt;&lt;&#x2F;strong&gt;&lt;em&gt;Sounds interesting? Here are some more details about &lt;&#x2F;em&gt;&lt;strong&gt;&lt;em&gt;Magic Blending&lt;&#x2F;em&gt;&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;✔️ &lt;strong&gt;One animation, different poses&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;p &gt;Forget about spaghetti animator controllers. Save your time with scalable Magic Blend Assets.&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;&lt;strong&gt;✔️ Next-gen blending&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;p &gt;Unique procedural blending ensures a smooth and natural final result. Forget about linear and jittering transitions.&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;✔️ &lt;strong&gt;It is incredibly simple&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;p &gt;Very fast setup and no need for code knowledge make it perfect for artists and beginners!&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;&lt;strong&gt;✔️ Works with Animation States&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;p &gt;Bind &lt;em&gt;Magic Blends&lt;&#x2F;em&gt; to the States, and the system will perfectly sync it with your animator controller.&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;&lt;strong&gt;✔️ Compatible with third-party plugins&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;p &gt;&lt;em&gt;Magic Blending&lt;&#x2F;em&gt; enhances the animator controller, which means you can use it with any other package (e.g. Animation Riging).&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;&lt;strong&gt;✔️ Simple customization&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;p &gt;Just tweak the sliders in runtime to control the blending. No need to restart the game.&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;&lt;strong&gt;✨&lt;&#x2F;strong&gt;&lt;strong&gt;&lt;em&gt;Try the procedural animation magic and see the difference!&lt;&#x2F;em&gt;&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;&#x2F;p&gt;
+</content>
+        
+    </entry>
     <entry xml:lang="en">
         <title>Final IK</title>
         <published>2024-12-09T11:45:46+00:00</published>

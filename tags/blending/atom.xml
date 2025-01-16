@@ -5,8 +5,28 @@
     <link rel="self" type="application/atom+xml" href="https://yzzfo.github.io/tags/blending/atom.xml"/>
     <link rel="alternate" type="text/html" href="https://yzzfo.github.io"/>
     <generator uri="https://www.getzola.org/">Zola</generator>
-    <updated>2024-12-17T13:29:51+00:00</updated>
+    <updated>2025-01-16T15:49:23+00:00</updated>
     <id>https://yzzfo.github.io/tags/blending/atom.xml</id>
+    <entry xml:lang="zh">
+        <title>Magic Animation Blend</title>
+        <published>2025-01-16T15:49:23+00:00</published>
+        <updated>2025-01-16T15:49:23+00:00</updated>
+        
+        <author>
+          <name>
+            
+              yzzfo
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://yzzfo.github.io/unity/store/magic-animation-blend/"/>
+        <id>https://yzzfo.github.io/unity/store/magic-animation-blend/</id>
+        
+        <content type="html" xml:base="https://yzzfo.github.io/unity/store/magic-animation-blend/">&lt;p&gt;在Unity中混合动画的新方法。&lt;br&gt;&lt;p &gt;&lt;a href=&quot;https:&#x2F;&#x2F;play.unity.com&#x2F;en&#x2F;games&#x2F;700af78f-a4d9-41a5-be94-dc225f1da41f&#x2F;magic-animation-blending&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;Try Free Demo&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt;&lt;strong&gt; • &lt;&#x2F;strong&gt;&lt;a href=&quot;https:&#x2F;&#x2F;kinemation.gitbook.io&#x2F;magic-blend-documentation&#x2F;&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;Documentation&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt;&lt;strong&gt; • &lt;&#x2F;strong&gt;&lt;a href=&quot;https:&#x2F;&#x2F;discord.gg&#x2F;kinemation-1027338787958816860&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;Discord&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;&lt;strong&gt;😭 Unity有这个问题&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;&lt;em&gt;Animator&lt;&#x2F;em&gt;很棒，但它在扩展你出色的动画系统时非常有限！&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;想象一下，如果能够动态地利用现有的动画控制器来操控角色姿势。这种方式可以让你只需设置一次控制器，然后可以随时切换姿势！没有复杂的替代控制器或混乱的控制器结构——只有简洁且可扩展的架构。&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;🌟 这就是&lt;strong&gt;&lt;em&gt;Magic Blending&lt;&#x2F;em&gt;&lt;&#x2F;strong&gt;——将动画质量提升到新水平的简便方式。&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;&lt;strong&gt;✔️ 一个动画，不同的姿势&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;这可以节省大量时间和动画资源。告别混乱的过渡，享受干净且稳定的混合。&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;&#x2F;br&gt;&lt;p &gt;&lt;strong&gt;✔️ 它非常简单&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;创建一个Magic Blend资产，添加一个Magic Blend组件——就这么简单！简便且有效。&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;&#x2F;br&gt;&lt;p &gt;&lt;strong&gt;✔️ 支持动画状态&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;将Magic Blend绑定到状态，系统会完美地与动画控制器同步。&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;&#x2F;br&gt;&lt;p &gt;&lt;strong&gt;✔️ 高质量混合&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;你的角色再也不会看起来奇怪了。Magic Blending使用智能方法自然地动画化你的角色。&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;&#x2F;br&gt;&lt;p &gt;&lt;strong&gt;✔️ 简单的自定义&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;只需在运行时调整滑块即可控制混合。无需重新启动游戏。&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;&#x2F;br&gt;&lt;p &gt;&lt;strong&gt;&lt;em&gt;✨听起来很酷吧？亲自试试，看看效果！&lt;&#x2F;em&gt;&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;&#x2F;p&gt;
+</content>
+        
+    </entry>
     <entry xml:lang="zh">
         <title>Synty ANIMATION - Base Locomotion - Character Animset</title>
         <published>2024-11-29T21:21:42+00:00</published>
