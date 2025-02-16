@@ -5,7 +5,7 @@
     <link rel="self" type="application/atom+xml" href="https://yzzfo.github.io/tags/zhao-se-qi/atom.xml"/>
     <link rel="alternate" type="text/html" href="https://yzzfo.github.io"/>
     <generator uri="https://www.getzola.org/">Zola</generator>
-    <updated>2025-01-01T01:00:30+00:00</updated>
+    <updated>2025-02-16T17:44:54+00:00</updated>
     <id>https://yzzfo.github.io/tags/zhao-se-qi/atom.xml</id>
     <entry xml:lang="zh">
         <title>Volumetric Light Beam</title>
@@ -288,7 +288,7 @@
     <entry xml:lang="zh">
         <title>Lumen: Stylized Light FX</title>
         <published>2024-12-06T14:26:56+00:00</published>
-        <updated>2024-12-17T13:35:19+00:00</updated>
+        <updated>2025-02-16T17:44:54+00:00</updated>
         
         <author>
           <name>
@@ -302,20 +302,22 @@
         <id>https://yzzfo.github.io/unity/store/lumen-stylized-light-fx/</id>
         
         <content type="html" xml:base="https://yzzfo.github.io/unity/store/lumen-stylized-light-fx/">&lt;p&gt;将光线带回您的项目中，使用Lumen: 风格化光效！快速原型设计、保存、重新着色和实例化光晕和阳光射线，使用内置工具。&lt;&#x2F;p&gt;
-&lt;p&gt;&lt;strong&gt;与我们联系：&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;distantlands.wixsite.com&#x2F;distantlands&quot; target=&quot;_blank&quot;&gt;网站&lt;&#x2F;a&gt; | &lt;a href=&quot;mailto:distantlands.productions@gmail.com&quot; target=&quot;_blank&quot;&gt;电子邮件&lt;&#x2F;a&gt; | &lt;a href=&quot;https:&#x2F;&#x2F;discord.gg&#x2F;HWGU4hj&quot; target=&quot;_blank&quot;&gt;Discord&lt;&#x2F;a&gt; | &lt;a href=&quot;https:&#x2F;&#x2F;drive.google.com&#x2F;file&#x2F;d&#x2F;1Bt3RKHDQusY-mbQW44C4QKqUenksda_K&#x2F;view?usp=sharing&quot; target=&quot;_blank&quot;&gt;可玩演示&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
-&lt;p&gt;Distant Lands呈现：&lt;&#x2F;p&gt;&lt;p&gt;&lt;strong&gt;&lt;em&gt;Lumen: 风格化光效&lt;&#x2F;em&gt;&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
-&lt;p&gt;创建美丽的风格化光效，从光晕到光环，再到神光和散射！Lumen是风格化游戏中风格化、高性能体积光照的一站式解决方案。&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;strong&gt;与我们联系：&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;distantlands.space&#x2F;&quot; target=&quot;_blank&quot;&gt;网站&lt;&#x2F;a&gt; | &lt;a href=&quot;mailto:contact@distantlands.space&quot; target=&quot;_blank&quot;&gt;电子邮件&lt;&#x2F;a&gt; | &lt;a href=&quot;https:&#x2F;&#x2F;discord.gg&#x2F;HWGU4hj&quot; target=&quot;_blank&quot;&gt;Discord&lt;&#x2F;a&gt; | &lt;a href=&quot;https:&#x2F;&#x2F;drive.google.com&#x2F;file&#x2F;d&#x2F;1Bt3RKHDQusY-mbQW44C4QKqUenksda_K&#x2F;view?usp=sharing&quot; target=&quot;_blank&quot;&gt;可玩演示&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;Distant Lands呈现：&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;Lumen: 风格化光效&lt;&#x2F;em&gt;&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;创建美丽的风格化光效，从光晕到光环，再到神光和散射！Lumen是风格化游戏中高效体积光照的一站式解决方案。&lt;&#x2F;p&gt;
 &lt;p&gt;特点&lt;strong&gt;三种不同的光源系统&lt;&#x2F;strong&gt;，共同作用以显著风格化您的游戏世界：&lt;&#x2F;p&gt;
 &lt;p&gt;您场景中的光线是否显得平淡无奇？您想让观众感受到您游戏中光线的温暖吗？&lt;strong&gt;LUMEN光晕&lt;&#x2F;strong&gt;为您场景中的光源添加微妙的光环效果，提供类似于体积点光源的效果。这个效果可以极端化，使您的场景充满壮丽的光辉和强大的光环——这是任何玩家可能遇到的神秘物品的必备效果！&lt;&#x2F;p&gt;
 &lt;p&gt;&lt;strong&gt;LUMEN静态光线&lt;&#x2F;strong&gt;是实现任何类型体积光线的简单方法。神光、阳光束、聚光灯、2D、3D或介于两者之间的任何东西，这些光线都能做到！使用这些光线为您的场景增添趣味，引导玩家的视线到重要位置，填充场景以营造氛围，或仅仅让您的场景更加美丽！&lt;&#x2F;p&gt;&lt;br&gt;&lt;p&gt;最后，&lt;strong&gt;LUMEN DYNAMIC RAYS&lt;&#x2F;strong&gt; 使用顶点颜色和自定义着色器，实时动态缩放和扭曲光线到特定角度！使用这些光线动态追踪太阳，指向移动目标，或伪造实时体积光照！&lt;&#x2F;p&gt;
 &lt;p&gt;&lt;strong&gt;为什么选择基于网格的效果？&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
-&lt;p&gt;基于网格的程序材质构建，Lumen 通过用简单的顶点光照着色器替代传统数学，抛弃了大多数体积光照解决方案所需的所有计算！这使得您的效果可以以低成本计算，从而让您专注于场景的美学，而无需担心帧率下降。此外，缺乏纹理使得您的磁盘空间得以最小化，而不会降低使您的场景美丽的光晕和光线的质量！&lt;&#x2F;p&gt;&lt;br&gt;&lt;p&gt;&lt;strong&gt;强大的工具点亮你的世界：&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;ul&gt;&lt;li&gt;可脚本化对象后端，便于快速和轻松地保存。&lt;&#x2F;li&gt;&lt;li&gt;完全基于3D网格的工作流程意味着效果可以无限缩放而不会损失质量！&lt;&#x2F;li&gt;&lt;li&gt;动态且可自定义的深度渐变，允许你根据场景的深度显示和隐藏光效。&lt;&#x2F;li&gt;&lt;li&gt;先进的相机渐变，根据与相机的距离渐变光效的出现和消失。&lt;&#x2F;li&gt;&lt;li&gt;自定义分层系统，便于轻松定制。&lt;&#x2F;li&gt;&lt;li&gt;内置轻量级着色器，支持GPU实例化。&lt;&#x2F;li&gt;&lt;li&gt;自定义基于噪声的变体系统，平滑地将光效插值到不同的颜色。适用于从微妙、懒散的光移动到偶发、剧烈的照明。&lt;&#x2F;li&gt;&lt;li&gt;全局、本地和每层控制，给予你对场景中光渲染方式的终极控制。&lt;&#x2F;li&gt;&lt;li&gt;所有着色器均使用Amplify Shader Editor构建，便于在内置和URP之间进行轻松定制！&lt;&#x2F;li&gt;&lt;&#x2F;ul&gt;&lt;p&gt;&lt;strong&gt;准备好开箱即用的功能：&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;ul&gt;&lt;li&gt;42种预制光效&lt;&#x2F;li&gt;&lt;li&gt;89种光形状&lt;&#x2F;li&gt;&lt;li&gt;两种主要着色器类型&lt;&#x2F;li&gt;&lt;li&gt;从一开始就考虑快速和轻松编辑的完整检查器扩展&lt;&#x2F;li&gt;&lt;li&gt;完全支持内置和URP，适用于任何平台！&lt;&#x2F;li&gt;&lt;&#x2F;ul&gt;</content>
+&lt;p&gt;基于网格的程序材质构建，Lumen 通过用简单的顶点光照着色器替代传统数学，抛弃了大多数体积光照解决方案所需的所有计算！这使得您的效果可以以低成本计算，从而让您专注于场景的美学，而无需担心帧率下降。除此之外，缺乏纹理使得您的磁盘空间得以最小化，而不降低使您的场景美丽的光晕和光线的质量！&lt;&#x2F;p&gt;&lt;br&gt;&lt;p&gt;&lt;strong&gt;强大的工具点亮你的世界：&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;ul&gt;&lt;li&gt;可脚本化对象后端，便于快速和轻松地保存。&lt;&#x2F;li&gt;&lt;li&gt;完全基于3D网格的工作流程意味着效果可以无限缩放而不会损失质量！&lt;&#x2F;li&gt;&lt;li&gt;动态且可自定义的深度渐变，允许你根据场景的深度显示和隐藏光效。&lt;&#x2F;li&gt;&lt;li&gt;先进的相机渐变，根据与相机的距离淡入淡出光效。&lt;&#x2F;li&gt;&lt;li&gt;自定义分层系统，便于轻松定制。&lt;&#x2F;li&gt;&lt;li&gt;内置轻量级着色器，支持GPU实例化。&lt;&#x2F;li&gt;&lt;li&gt;自定义基于噪声的变体系统，平滑地将光效插值到不同的颜色。适用于从微妙、懒散的光移动到偶发、剧烈的照明。&lt;&#x2F;li&gt;&lt;li&gt;全局、本地和每层控制，给予你对场景中光线渲染方式的终极控制。&lt;&#x2F;li&gt;&lt;li&gt;所有着色器均使用Amplify Shader Editor构建，便于在内置和URP之间进行轻松定制！&lt;&#x2F;li&gt;&lt;&#x2F;ul&gt;&lt;p&gt;&lt;strong&gt;准备好开箱即用的功能：&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;ul&gt;&lt;li&gt;42种预制光效&lt;&#x2F;li&gt;&lt;li&gt;89种光形状&lt;&#x2F;li&gt;&lt;li&gt;两种主要着色器类型&lt;&#x2F;li&gt;&lt;li&gt;从一开始就考虑快速和轻松编辑的完整检查器扩展&lt;&#x2F;li&gt;&lt;li&gt;完全支持任何平台的内置和URP！&lt;&#x2F;li&gt;&lt;&#x2F;ul&gt;</content>
         
     </entry>
     <entry xml:lang="zh">
         <title>Highlight Plus - All in One Outline &amp; Selection Effects</title>
         <published>2024-11-29T21:20:55+00:00</published>
-        <updated>2024-12-17T13:29:16+00:00</updated>
+        <updated>2025-02-16T17:40:49+00:00</updated>
         
         <author>
           <name>

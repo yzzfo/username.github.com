@@ -5,7 +5,7 @@
     <link rel="self" type="application/atom+xml" href="https://yzzfo.github.io/tags/shi-yong-gong-ju/atom.xml"/>
     <link rel="alternate" type="text/html" href="https://yzzfo.github.io"/>
     <generator uri="https://www.getzola.org/">Zola</generator>
-    <updated>2024-12-29T01:00:52+00:00</updated>
+    <updated>2025-02-16T17:41:11+00:00</updated>
     <id>https://yzzfo.github.io/tags/shi-yong-gong-ju/atom.xml</id>
     <entry xml:lang="zh">
         <title>GPU Instancer Pro</title>
@@ -491,7 +491,7 @@
     <entry xml:lang="zh">
         <title>EasyPerformanceMonitor - 2024</title>
         <published>2024-11-29T21:21:24+00:00</published>
-        <updated>2024-12-17T13:29:40+00:00</updated>
+        <updated>2025-02-16T17:41:11+00:00</updated>
         
         <author>
           <name>
@@ -509,9 +509,9 @@
         
     </entry>
     <entry xml:lang="zh">
-        <title>vHierarchy 2</title>
+        <title>vHierarchy 2.0</title>
         <published>2024-11-29T21:21:14+00:00</published>
-        <updated>2024-12-17T13:29:24+00:00</updated>
+        <updated>2025-02-16T17:40:55+00:00</updated>
         
         <author>
           <name>
@@ -524,23 +524,26 @@
         <link rel="alternate" type="text/html" href="https://yzzfo.github.io/unity/store/vhierarchy-2/"/>
         <id>https://yzzfo.github.io/unity/store/vhierarchy-2/</id>
         
-        <content type="html" xml:base="https://yzzfo.github.io/unity/store/vhierarchy-2/">&lt;p &gt;&lt;strong&gt;终极层级资产&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
-&lt;p &gt;通过简单的生活质量改进来组织您的层级并简化工作流程&lt;&#x2F;p&gt;
-&lt;ul&gt;&lt;li &gt;&lt;strong&gt;简约&lt;&#x2F;strong&gt; - 无杂乱，无侵入性功能&lt;&#x2F;li&gt;&lt;li &gt;&lt;strong&gt;直观&lt;&#x2F;strong&gt; - 用户体验简单且精致&lt;&#x2F;li&gt;&lt;li &gt;&lt;strong&gt;可定制&lt;&#x2F;strong&gt; - 所有功能均为可选&lt;&#x2F;li&gt;&lt;li &gt;&lt;strong&gt;优化&lt;&#x2F;strong&gt; - 无延迟或卡顿&lt;&#x2F;li&gt;&lt;&#x2F;ul&gt;
-&lt;p &gt;&lt;strong&gt;自定义图标和颜色&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;p &gt;- 突出场景或预制件中的对象&lt;&#x2F;p&gt;&lt;p &gt;- 创建分隔符或文件夹&lt;&#x2F;p&gt;
-&lt;p &gt;&lt;strong&gt;组件小地图&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;p &gt;- 在右侧查看列出的组件&lt;&#x2F;p&gt;&lt;p &gt;- Alt-单击组件以打开迷你编辑器&lt;&#x2F;p&gt;
-&lt;p &gt;&lt;strong&gt;可定制调色板&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;p &gt;- 添加图标&lt;&#x2F;p&gt;&lt;p &gt;- 调整颜色&lt;&#x2F;p&gt;&lt;p &gt;- 导出以便在其他项目中使用&lt;&#x2F;p&gt;
-&lt;p &gt;&lt;strong&gt;可定制外观&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;p &gt;- 层级线&lt;&#x2F;p&gt;&lt;p &gt;- 简约模式&lt;&#x2F;p&gt;&lt;p &gt;- 条纹效果&lt;&#x2F;p&gt;
-&lt;p &gt;&lt;strong&gt;激活切换&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;p &gt;- 启用或禁用对象而无需选择它们&lt;&#x2F;p&gt;
-&lt;p &gt;&lt;strong&gt;快捷键&lt;&#x2F;strong&gt;（在鼠标下的对象上工作，无需选择它）&lt;&#x2F;p&gt;&lt;p &gt;- 按 A 切换激活状态&lt;&#x2F;p&gt;&lt;p &gt;- 按 F 聚焦对象&lt;&#x2F;p&gt;&lt;p &gt;- 按 X 删除对象&lt;&#x2F;p&gt;&lt;p &gt;- 按 E 展开或折叠&lt;&#x2F;p&gt;&lt;p &gt;- 按 Shift-E 仅展开一个对象&lt;&#x2F;p&gt;&lt;p &gt;- 按 Ctrl-Shift-E 折叠所有对象&lt;&#x2F;p&gt;
-&lt;p &gt;&lt;strong&gt;从 vHierarchy 1.0 升级的理由&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
-&lt;p &gt;在收集了半年的反馈后，我们添加了最受欢迎的功能，并进行了大量改进，以使您的体验更加顺畅：&lt;&#x2F;p&gt;&lt;br&gt;&lt;ul&gt;&lt;li &gt;&lt;strong&gt;多重选择编辑&lt;&#x2F;strong&gt; - 一次设置多个图标或颜色&lt;&#x2F;li&gt;&lt;li &gt;&lt;strong&gt;预制件中的图标&lt;&#x2F;strong&gt; - 在预制件中设置，它们将出现在场景中&lt;&#x2F;li&gt;&lt;li &gt;&lt;strong&gt;可自定义调色板&lt;&#x2F;strong&gt; - 添加自定义图标，导出以便在其他项目中使用&lt;&#x2F;li&gt;&lt;li &gt;&lt;strong&gt;可自定义外观&lt;&#x2F;strong&gt; - 按照您的喜好装饰层级&lt;&#x2F;li&gt;&lt;li &gt;&lt;strong&gt;渐变颜色&lt;&#x2F;strong&gt; - 如果需要，可以调整为平面颜色&lt;&#x2F;li&gt;&lt;li &gt;&lt;strong&gt;激活切换&lt;&#x2F;strong&gt; - 一键启用或禁用对象&lt;&#x2F;li&gt;&lt;li &gt;&lt;strong&gt;组件自动固定&lt;&#x2F;strong&gt; - 开始拖动组件编辑器以固定它&lt;&#x2F;li&gt;&lt;li &gt;&lt;strong&gt;在场景文件中存储数据&lt;&#x2F;strong&gt; - 为团队提供避免合并冲突的选项&lt;&#x2F;li&gt;&lt;li &gt;&lt;strong&gt;美学改进&lt;&#x2F;strong&gt; - 小调整带来大不同&lt;&#x2F;li&gt;&lt;li &gt;&lt;strong&gt;性能提升&lt;&#x2F;strong&gt;&lt;&#x2F;li&gt;&lt;&#x2F;ul&gt;</content>
+        <content type="html" xml:base="https://yzzfo.github.io/unity/store/vhierarchy-2/">&lt;p&gt;❗ vHierarchy 2.0 已被弃用，推荐使用新发布的 2.1 更新：&lt;&#x2F;p&gt;&lt;p&gt;https:&#x2F;&#x2F;assetstore.unity.com&#x2F;packages&#x2F;slug&#x2F;253397&lt;&#x2F;p&gt;
+&lt;p&gt;升级到 2.1 是免费的！&lt;&#x2F;p&gt;
+&lt;p&gt;旧描述：&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;strong&gt;终极层级资产&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;通过简单的生活质量改进来组织您的层级并简化工作流程&lt;&#x2F;p&gt;
+&lt;ul&gt;&lt;li&gt;&lt;strong&gt;极简&lt;&#x2F;strong&gt; - 无杂乱，无侵入性功能&lt;&#x2F;li&gt;&lt;li&gt;&lt;strong&gt;直观&lt;&#x2F;strong&gt; - 用户体验简单且精致&lt;&#x2F;li&gt;&lt;li&gt;&lt;strong&gt;可定制&lt;&#x2F;strong&gt; - 所有功能均为可选&lt;&#x2F;li&gt;&lt;li&gt;&lt;strong&gt;优化&lt;&#x2F;strong&gt; - 无延迟或卡顿&lt;&#x2F;li&gt;&lt;&#x2F;ul&gt;
+&lt;p&gt;&lt;strong&gt;自定义图标和颜色&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;p&gt;- 突出显示场景或预制件中的对象&lt;&#x2F;p&gt;&lt;p&gt;- 创建分隔符或文件夹&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;strong&gt;组件小地图&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;p&gt;- 在右侧查看列出的组件&lt;&#x2F;p&gt;&lt;p&gt;- Alt-点击组件以打开迷你编辑器&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;strong&gt;可定制调色板&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;p&gt;- 添加图标&lt;&#x2F;p&gt;&lt;p&gt;- 调整颜色&lt;&#x2F;p&gt;&lt;p&gt;- 导出以供其他项目使用&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;strong&gt;可定制外观&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;p&gt;- 层级线条&lt;&#x2F;p&gt;&lt;p&gt;- 极简模式&lt;&#x2F;p&gt;&lt;p&gt;- 条纹效果&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;strong&gt;激活切换&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;p&gt;- 启用或禁用对象而无需选择它们&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;strong&gt;快捷键&lt;&#x2F;strong&gt;（在鼠标下的对象上工作，无需选择它）&lt;&#x2F;p&gt;&lt;p&gt;- 按 A 切换激活状态&lt;&#x2F;p&gt;&lt;p&gt;- 按 F 聚焦对象&lt;&#x2F;p&gt;&lt;p&gt;- 按 X 删除对象&lt;&#x2F;p&gt;&lt;p&gt;- 按 E 展开或折叠&lt;&#x2F;p&gt;&lt;p&gt;- 按 Shift-E 仅展开一个对象&lt;&#x2F;p&gt;&lt;p&gt;- 按 Ctrl-Shift-E 折叠所有对象&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;strong&gt;从 vHierarchy 1.0 升级的理由&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;在收集了半年的反馈后，我们添加了最受欢迎的功能，并进行了大量改进，以使您的体验更加顺畅：&lt;&#x2F;p&gt;&lt;br&gt;&lt;ul&gt;&lt;li &gt;&lt;strong&gt;多重选择编辑&lt;&#x2F;strong&gt; - 一次设置多个图标或颜色&lt;&#x2F;li&gt;&lt;li &gt;&lt;strong&gt;预制件中的图标&lt;&#x2F;strong&gt; - 在预制件中设置，它们将在场景中出现&lt;&#x2F;li&gt;&lt;li &gt;&lt;strong&gt;可自定义调色板&lt;&#x2F;strong&gt; - 添加自定义图标，导出以供其他项目使用&lt;&#x2F;li&gt;&lt;li &gt;&lt;strong&gt;可自定义外观&lt;&#x2F;strong&gt; - 按照您的喜好装饰层级&lt;&#x2F;li&gt;&lt;li &gt;&lt;strong&gt;渐变颜色&lt;&#x2F;strong&gt; - 如果需要，可以调整为平面颜色&lt;&#x2F;li&gt;&lt;li &gt;&lt;strong&gt;激活切换&lt;&#x2F;strong&gt; - 一键启用或禁用对象&lt;&#x2F;li&gt;&lt;li &gt;&lt;strong&gt;组件自动固定&lt;&#x2F;strong&gt; - 开始拖动组件编辑器以固定它&lt;&#x2F;li&gt;&lt;li &gt;&lt;strong&gt;在场景文件中存储数据&lt;&#x2F;strong&gt; - 为团队提供避免合并冲突的选项&lt;&#x2F;li&gt;&lt;li &gt;&lt;strong&gt;美学改进&lt;&#x2F;strong&gt; - 小调整带来大不同&lt;&#x2F;li&gt;&lt;li &gt;&lt;strong&gt;性能提升&lt;&#x2F;strong&gt;&lt;&#x2F;li&gt;&lt;&#x2F;ul&gt;</content>
         
     </entry>
     <entry xml:lang="zh">
         <title>Easy Save - The Complete Save Game &amp; Data Serializer System</title>
         <published>2024-11-29T21:21:05+00:00</published>
-        <updated>2024-12-17T13:29:20+00:00</updated>
+        <updated>2025-02-16T17:40:52+00:00</updated>
         
         <author>
           <name>
@@ -560,7 +563,7 @@
     <entry xml:lang="zh">
         <title>Support package for Hovl Studio assets</title>
         <published>2024-11-29T21:20:45+00:00</published>
-        <updated>2024-12-17T13:29:09+00:00</updated>
+        <updated>2025-02-16T17:36:46+00:00</updated>
         
         <author>
           <name>
@@ -573,18 +576,18 @@
         <link rel="alternate" type="text/html" href="https://yzzfo.github.io/unity/store/support-package-for-hovl-studio-assets/"/>
         <id>https://yzzfo.github.io/unity/store/support-package-for-hovl-studio-assets/</id>
         
-        <content type="html" xml:base="https://yzzfo.github.io/unity/store/support-package-for-hovl-studio-assets/">&lt;p&gt;这个包为Hovl Studio资产提供了URP和HDRP支持（以及未来可能的新渲染管线）。&lt;&#x2F;p&gt;
-&lt;p&gt;如果您拥有Hovl Studio的资产，这个资产是&lt;strong&gt;免费&lt;&#x2F;strong&gt;的。&lt;&#x2F;p&gt;
-&lt;p&gt;编辑器将所有材料中仅与标准渲染管线兼容的着色器替换为自定义管线。&lt;&#x2F;p&gt;
-&lt;p&gt;&lt;strong&gt;编辑器仅适用于来自&lt;&#x2F;strong&gt;&lt;a href=&quot;https:&#x2F;&#x2F;assetstore.unity.com&#x2F;publishers&#x2F;28391&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;Hovl Studio&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt;&lt;strong&gt;的资产！&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
+        <content type="html" xml:base="https://yzzfo.github.io/unity/store/support-package-for-hovl-studio-assets/">&lt;p&gt;此包为Hovl Studio资产提供URP和HDRP支持（以及未来可能的新渲染管线）。&lt;&#x2F;p&gt;
+&lt;p&gt;如果您拥有Hovl Studio的资产，则此资产是&lt;strong&gt;免费&lt;&#x2F;strong&gt;的。&lt;&#x2F;p&gt;
+&lt;p&gt;该编辑器将仅与标准渲染管线兼容的着色器替换为所有材质中的自定义管线。&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;strong&gt;该编辑器仅适用于来自&lt;&#x2F;strong&gt;&lt;a href=&quot;https:&#x2F;&#x2F;assetstore.unity.com&#x2F;publishers&#x2F;28391&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;Hovl Studio&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt;&lt;strong&gt;的资产！&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
 &lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;youtu.be&#x2F;b9IEqs1gqcw&quot; target=&quot;_blank&quot;&gt;使用教程&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
-&lt;p&gt;该资产还包括适用于URP（LWRP）和HDRP 2019.2+的免费失真着色器以及许多实用的着色器。&lt;&#x2F;p&gt;</content>
+&lt;p&gt;此资产还包括适用于URP（LWRP）和HDRP 2019.2+的免费扭曲着色器以及许多实用的着色器。&lt;&#x2F;p&gt;</content>
         
     </entry>
     <entry xml:lang="zh">
         <title>Semantic Color Palette</title>
         <published>2024-11-29T21:19:48+00:00</published>
-        <updated>2024-12-17T13:28:19+00:00</updated>
+        <updated>2025-02-16T17:36:12+00:00</updated>
         
         <author>
           <name>
@@ -598,13 +601,13 @@
         <id>https://yzzfo.github.io/unity/store/semantic-color-palette/</id>
         
         <content type="html" xml:base="https://yzzfo.github.io/unity/store/semantic-color-palette/">&lt;p&gt;一个用于Unity的语义颜色管理系统：以有意义的调色板组织您的颜色，并将其分配给各种“可着色”组件。再也不需要在多个地方更新颜色值了！&lt;&#x2F;p&gt;
-&lt;p&gt;此包提供了一个&lt;strong&gt;语义颜色管理系统&lt;&#x2F;strong&gt;&lt;em&gt; &lt;&#x2F;em&gt;用于Unity。&lt;&#x2F;p&gt;
-&lt;p&gt;了解系统运行的最佳方式是&lt;a href=&quot;https:&#x2F;&#x2F;www.binarycharm.com&#x2F;tech&#x2F;unity-semantic-color-palette&#x2F;demo&#x2F;&quot; target=&quot;_blank&quot;&gt;尝试在线演示&lt;&#x2F;a&gt;，但视频也同样有效！&lt;&#x2F;p&gt;
+&lt;p&gt;这个包为Unity提供了一个&lt;strong&gt;语义颜色管理系统&lt;&#x2F;strong&gt;&lt;em&gt; &lt;&#x2F;em&gt;。&lt;&#x2F;p&gt;
+&lt;p&gt;体验该系统的最佳方式是&lt;a href=&quot;https:&#x2F;&#x2F;www.binarycharm.com&#x2F;tech&#x2F;unity-semantic-color-palette&#x2F;demo&#x2F;&quot; target=&quot;_blank&quot;&gt;尝试在线演示&lt;&#x2F;a&gt;，但视频也同样有效！&lt;&#x2F;p&gt;
 &lt;p&gt;&lt;strong&gt;那么，什么是语义颜色管理？&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
 &lt;p&gt;基本上，您为颜色定义一组&lt;strong&gt;有意义的标识符&lt;&#x2F;strong&gt;，表示&lt;em&gt;颜色的使用位置&#x2F;方式&lt;&#x2F;em&gt;（例如“buttonBackground”），而&lt;em&gt;不是颜色本身&lt;&#x2F;em&gt;（例如“darkBrown”）。&lt;&#x2F;p&gt;
 &lt;p&gt;然后，在其他地方，您&lt;strong&gt;映射&lt;&#x2F;strong&gt;每个标识符到一个实际的颜色值。&lt;&#x2F;p&gt;
-&lt;p&gt;颜色应用的元素从不直接引用实际的特定颜色，而只是引用&lt;em&gt;语义颜色标识符&lt;&#x2F;em&gt;。&lt;&#x2F;p&gt;
-&lt;p&gt;这种&lt;strong&gt;解耦&lt;&#x2F;strong&gt;允许以&lt;strong&gt;集中&lt;&#x2F;strong&gt;的方式快速且无缝地更改多个元素的颜色，并通过应用不同的&lt;em&gt;标识符 -&amp;gt; 颜色&lt;&#x2F;em&gt;映射轻松实现某种形式的“颜色皮肤化”。&lt;&#x2F;p&gt;&lt;br&gt;&lt;p&gt;&lt;strong&gt;这个系统在实践中是如何工作的？&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;p&gt;有三个核心元素共同协作以实现其设计目标：&lt;&#x2F;p&gt;&lt;ul&gt;&lt;li&gt;&lt;strong&gt;调色板&lt;&#x2F;strong&gt;：一组命名的&lt;em&gt;id -&amp;gt; 颜色&lt;&#x2F;em&gt;映射。它是一个&lt;em&gt;“数据”&lt;&#x2F;em&gt;元素，通常是持久的。&lt;&#x2F;li&gt;&lt;li&gt;&lt;strong&gt;调色板提供者&lt;&#x2F;strong&gt;：一个活跃的元素，存在于Unity场景中，充当&lt;em&gt;调色板&lt;&#x2F;em&gt;和&lt;em&gt;着色器&lt;&#x2F;em&gt;之间的&lt;em&gt;中介&lt;&#x2F;em&gt;，将颜色更新推送给任何相关的着色器。&lt;&#x2F;li&gt;&lt;li&gt;&lt;strong&gt;着色器&lt;&#x2F;strong&gt;：一个活跃的元素，包含将&lt;em&gt;一种或多种颜色&lt;&#x2F;em&gt;应用于场景组件（UI元素、3D模型材质等）的逻辑。着色器必须与&lt;em&gt;调色板提供者&lt;&#x2F;em&gt;&lt;em&gt;连接&lt;&#x2F;em&gt;，从中检索其配置中指定的颜色标识符的颜色。&lt;&#x2F;li&gt;&lt;&#x2F;ul&gt;&lt;p&gt;提供了可用于Unity组件的现成&lt;em&gt;着色器&lt;&#x2F;em&gt;，使用颜色属性（UI元素、材质等）。也就是说，程序员可以轻松地&lt;strong&gt;扩展&lt;&#x2F;strong&gt;系统，添加自定义的着色器（和提供者）。&lt;&#x2F;p&gt;
+&lt;p&gt;颜色应用的元素从不直接引用实际的特定颜色，而是仅引用&lt;em&gt;语义颜色标识符&lt;&#x2F;em&gt;。&lt;&#x2F;p&gt;
+&lt;p&gt;这种&lt;strong&gt;解耦&lt;&#x2F;strong&gt;允许以&lt;strong&gt;集中&lt;&#x2F;strong&gt;的方式快速且无缝地更改多个元素的颜色，并通过应用不同的&lt;em&gt;标识符 -&amp;gt; 颜色&lt;&#x2F;em&gt;映射轻松实现某种形式的“颜色皮肤化”。&lt;&#x2F;p&gt;&lt;br&gt;&lt;p&gt;&lt;strong&gt;这个系统在实践中是如何工作的？&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;p&gt;有三个核心元素共同协作以实现其设计目标：&lt;&#x2F;p&gt;&lt;ul&gt;&lt;li&gt;&lt;strong&gt;调色板&lt;&#x2F;strong&gt;：一组命名的&lt;em&gt;id -&amp;gt; 颜色&lt;&#x2F;em&gt;映射。它是一个&lt;em&gt;“数据”&lt;&#x2F;em&gt;元素，通常是持久的。&lt;&#x2F;li&gt;&lt;li&gt;&lt;strong&gt;调色板提供者&lt;&#x2F;strong&gt;：一个活��的元素，存在于Unity场景中，充当&lt;em&gt;调色板&lt;&#x2F;em&gt;和&lt;em&gt;着色器&lt;&#x2F;em&gt;之间的&lt;em&gt;中介&lt;&#x2F;em&gt;，将颜色更新推送给任何相关的着色器。&lt;&#x2F;li&gt;&lt;li&gt;&lt;strong&gt;着色器&lt;&#x2F;strong&gt;：一个活跃的元素，包含将&lt;em&gt;一种或多种颜色&lt;&#x2F;em&gt;应用于场景组件（UI元素、3D模型材质等）的逻辑。着色器必须与&lt;em&gt;调色板提供者&lt;&#x2F;em&gt;&lt;em&gt;连接&lt;&#x2F;em&gt;，从中检索其配置中指定的颜色标识符的颜色。&lt;&#x2F;li&gt;&lt;&#x2F;ul&gt;&lt;p&gt;提供了可用于Unity组件的现成&lt;em&gt;着色器&lt;&#x2F;em&gt;，使用颜色属性（UI元素、材质等）。也就是说，程序员可以轻松地&lt;strong&gt;扩展&lt;&#x2F;strong&gt;系统，添加自定义的着色器（和提供者）。&lt;&#x2F;p&gt;
 &lt;p&gt;您可以通过一种新的、更合理的方式在Unity中设置颜色来&lt;strong&gt;改善您的工作流程&lt;&#x2F;strong&gt;，实现&lt;strong&gt;低摩擦&lt;&#x2F;strong&gt;且对项目组织&lt;strong&gt;没有妥协&lt;&#x2F;strong&gt;。&lt;&#x2F;p&gt;
 &lt;p&gt;如果您愿意，可以通过&lt;strong&gt;检查器&lt;&#x2F;strong&gt;完成任何操作，但如果您更喜欢，也可以仅通过&lt;strong&gt;代码&lt;&#x2F;strong&gt;使用该系统。&lt;&#x2F;p&gt;
 &lt;p&gt;调色板可以从常用的第三方格式&lt;strong&gt;导入&lt;&#x2F;strong&gt;并在检查器中编辑，在更高级的场景中，可以在&lt;strong&gt;运行时&lt;&#x2F;strong&gt;从外部文件加载。&lt;&#x2F;p&gt;
@@ -614,7 +617,7 @@
     <entry xml:lang="zh">
         <title>Rewired</title>
         <published>2024-11-29T21:18:40+00:00</published>
-        <updated>2024-12-17T13:27:46+00:00</updated>
+        <updated>2025-02-16T17:34:52+00:00</updated>
         
         <author>
           <name>
@@ -634,7 +637,7 @@
     <entry xml:lang="zh">
         <title>Quantum Console</title>
         <published>2024-11-29T21:16:53+00:00</published>
-        <updated>2024-12-17T14:08:58+00:00</updated>
+        <updated>2025-02-16T17:06:16+00:00</updated>
         
         <author>
           <name>
@@ -654,7 +657,7 @@
     <entry xml:lang="zh">
         <title>Editor Console Pro</title>
         <published>2024-11-29T21:16:16+00:00</published>
-        <updated>2024-12-17T14:08:19+00:00</updated>
+        <updated>2025-02-16T17:06:05+00:00</updated>
         
         <author>
           <name>

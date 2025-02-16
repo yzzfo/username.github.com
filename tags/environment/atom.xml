@@ -5,7 +5,7 @@
     <link rel="self" type="application/atom+xml" href="https://yzzfo.github.io/tags/environment/atom.xml"/>
     <link rel="alternate" type="text/html" href="https://yzzfo.github.io"/>
     <generator uri="https://www.getzola.org/">Zola</generator>
-    <updated>2025-01-03T01:00:29+00:00</updated>
+    <updated>2025-02-16T17:44:36+00:00</updated>
     <id>https://yzzfo.github.io/tags/environment/atom.xml</id>
     <entry xml:lang="zh">
         <title>FANTASTIC - Nature Pack</title>
@@ -322,7 +322,7 @@
     <entry xml:lang="zh">
         <title>STORY - Wildlands Nature</title>
         <published>2024-12-03T01:14:33+00:00</published>
-        <updated>2024-12-17T13:33:26+00:00</updated>
+        <updated>2025-02-16T17:44:36+00:00</updated>
         
         <author>
           <name>
@@ -342,7 +342,7 @@
     <entry xml:lang="zh">
         <title>STORY - Wildlands Nature</title>
         <published>2024-12-03T01:14:33+00:00</published>
-        <updated>2024-12-17T13:33:26+00:00</updated>
+        <updated>2025-02-16T17:44:36+00:00</updated>
         
         <author>
           <name>
@@ -361,16 +361,16 @@
 &lt;p&gt;查看我们的荒野捆绑包，节省开支：&lt;a href=&quot;https:&#x2F;&#x2F;assetstore.unity.com&#x2F;packages&#x2F;3d&#x2F;environments&#x2F;story-wildlands-bundle-159615&quot; target=&quot;_blank&quot;&gt; &lt;strong&gt;故事 - 荒野捆绑包 &lt;&#x2F;strong&gt;&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
 &lt;p&gt;&lt;strong&gt;特点：&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
 &lt;p&gt;&lt;strong&gt;3D资产：&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;ul&gt;&lt;li&gt;6种松树变体&lt;&#x2F;li&gt;&lt;li&gt;9种白桦树变体&lt;&#x2F;li&gt;&lt;li&gt;8块石头和2个石崖&lt;&#x2F;li&gt;&lt;li&gt;23种植物&lt;&#x2F;li&gt;&lt;&#x2F;ul&gt;&lt;p&gt;树木和石头有3个LOD。所有资产在第二个UV通道中都有自定义光照贴图。&lt;&#x2F;p&gt;
-&lt;p&gt;&lt;strong&gt;纹理：&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;ul&gt;&lt;li&gt;1个手绘天空盒&lt;&#x2F;li&gt;&lt;li&gt;2个可平铺的木材纹理&lt;&#x2F;li&gt;&lt;li&gt;2个地形纹理&lt;&#x2F;li&gt;&lt;li&gt;6个植物图集&lt;&#x2F;li&gt;&lt;li&gt;3种草地&lt;&#x2F;li&gt;&lt;li&gt;3种特效纹理&lt;&#x2F;li&gt;&lt;&#x2F;ul&gt;
-&lt;p&gt;&lt;strong&gt;着色器：&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;p&gt;使用Amplify创建了自定义着色器&lt;&#x2F;p&gt;&lt;ul&gt;&lt;li&gt;可定制的水面着色器&lt;&#x2F;li&gt;&lt;li&gt;可定制的草和树叶风动及颜色着色器&lt;&#x2F;li&gt;&lt;li&gt;可定制的石头颜色和顶部投影着色器&lt;&#x2F;li&gt;&lt;li&gt;内置版本的简单双面着色器&lt;&#x2F;li&gt;&lt;&#x2F;ul&gt;
-&lt;p&gt;&lt;strong&gt;特效：&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;ul&gt;&lt;li&gt;发光粒子效果&lt;&#x2F;li&gt;&lt;li&gt;光束效果&lt;&#x2F;li&gt;&lt;&#x2F;ul&gt;
+&lt;p&gt;&lt;strong&gt;纹理：&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;ul&gt;&lt;li&gt;1个手绘天空盒&lt;&#x2F;li&gt;&lt;li&gt;2个可平铺的木材纹理&lt;&#x2F;li&gt;&lt;li&gt;2个地形纹理&lt;&#x2F;li&gt;&lt;li&gt;6个植物图集&lt;&#x2F;li&gt;&lt;li&gt;3种草&lt;&#x2F;li&gt;&lt;li&gt;3种特效纹理&lt;&#x2F;li&gt;&lt;&#x2F;ul&gt;
+&lt;p&gt;&lt;strong&gt;着色器：&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;p&gt;使用Amplify创建了自定义着色器&lt;&#x2F;p&gt;&lt;ul&gt;&lt;li&gt;可定制的水面着色器&lt;&#x2F;li&gt;&lt;li&gt;可定制的草和树叶风动及颜色着色器&lt;&#x2F;li&gt;&lt;li&gt;可定制的石头��色和顶部投影着色器&lt;&#x2F;li&gt;&lt;li&gt;内置版本的简单双面着色器&lt;&#x2F;li&gt;&lt;&#x2F;ul&gt;
+&lt;p&gt;&lt;strong&gt;特效：&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;ul&gt;&lt;li&gt;发光粒子效果&lt;&#x2F;li&gt;&lt;li&gt;神光效果&lt;&#x2F;li&gt;&lt;&#x2F;ul&gt;
 &lt;p&gt;&lt;strong&gt;关注我们以获取最新消息&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.tidalflask.com&#x2F;&quot; target=&quot;_blank&quot;&gt; 网站 &lt;&#x2F;a&gt; | &lt;a href=&quot;https:&#x2F;&#x2F;twitter.com&#x2F;tidalflask&quot; target=&quot;_blank&quot;&gt; 推特 &lt;&#x2F;a&gt; | &lt;a href=&quot;https:&#x2F;&#x2F;www.facebook.com&#x2F;tidalflask&quot; target=&quot;_blank&quot;&gt; Facebook &lt;&#x2F;a&gt;&lt;&#x2F;p&gt;&lt;br&gt;&lt;p &gt;&lt;strong&gt;查看我们的其他资源包&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;p &gt;&lt;a href=&quot;https:&#x2F;&#x2F;assetstore.unity.com&#x2F;lists&#x2F;story-3d-packs-series-142534&quot; target=&quot;_blank&quot;&gt; 故事 - 3D 资源包系列 &lt;&#x2F;a&gt;&lt;&#x2F;p&gt;&lt;p &gt;&lt;a href=&quot;https:&#x2F;&#x2F;assetstore.unity.com&#x2F;lists&#x2F;fantastic-3d-packs-series-130169&quot; target=&quot;_blank&quot;&gt; 奇幻 - 3D 资源包系列 &lt;&#x2F;a&gt;&lt;&#x2F;p&gt;</content>
         
     </entry>
     <entry xml:lang="zh">
         <title>Low Poly Vegetation Kit Pro</title>
         <published>2024-12-03T00:51:18+00:00</published>
-        <updated>2024-12-17T13:33:03+00:00</updated>
+        <updated>2025-02-16T17:44:02+00:00</updated>
         
         <author>
           <name>
@@ -383,14 +383,14 @@
         <link rel="alternate" type="text/html" href="https://yzzfo.github.io/unity/store/Low Poly Vegetation Kit Pro/ignore-index-en/"/>
         <id>https://yzzfo.github.io/unity/store/Low Poly Vegetation Kit Pro/ignore-index-en/</id>
         
-        <content type="html" xml:base="https://yzzfo.github.io/unity/store/Low Poly Vegetation Kit Pro/ignore-index-en/">&lt;p&gt;Unlock your creativity with the Low Poly Vegetation Kit Pro. Ideal for designing low-poly vegetation environments.&lt;br&gt;&lt;p &gt;ⓘ &lt;strong&gt;Note&lt;&#x2F;strong&gt;&lt;em&gt;:&lt;&#x2F;em&gt;&lt;strong&gt;&lt;em&gt; &lt;&#x2F;em&gt;&lt;&#x2F;strong&gt;&lt;em&gt;Before updating to the new version, ensure to back up your project if you are using the older one.&lt;&#x2F;em&gt;&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;The &lt;strong&gt;free version&lt;&#x2F;strong&gt; of Low Poly Vegetation Kit Pro is available &lt;a href=&quot;https:&#x2F;&#x2F;assetstore.unity.com&#x2F;packages&#x2F;3d&#x2F;environments&#x2F;low-poly-vegetation-kit-free-version-176906&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;here&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt;.&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;&lt;strong&gt;Package contains (46 unique assets)&lt;&#x2F;strong&gt;:&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;ul&gt;&lt;li &gt;&lt;strong&gt;Foliage&lt;&#x2F;strong&gt;:&lt;strong&gt; &lt;&#x2F;strong&gt;Trees (5x), Plants (3x), Grass Patches (5x), Flowers (3x), Stumps (5x), Branches (3x), Log, Mushrooms (3x).&lt;&#x2F;li&gt;&lt;li &gt;&lt;strong&gt;Rocks&lt;&#x2F;strong&gt;:&lt;strong&gt; &lt;&#x2F;strong&gt;Rocks (5x), Rock Cliffs (5x), Small Rocks (5x), Mountain.&lt;&#x2F;li&gt;&lt;li &gt;&lt;strong&gt;Water&lt;&#x2F;strong&gt;: Detailed Water, Flat Water.&lt;&#x2F;li&gt;&lt;&#x2F;ul&gt;&lt;&#x2F;br&gt;&lt;p &gt;&lt;strong&gt;Both Demo Scenes are included&lt;&#x2F;strong&gt;:&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;&lt;strong&gt;Main Demo Scene&lt;&#x2F;strong&gt;:&lt;&#x2F;p&gt;&lt;ul&gt;&lt;li &gt;Explore the Main Demo Scene to see how the assets seamlessly integrate into different environments.&lt;&#x2F;li&gt;&lt;&#x2F;ul&gt;&lt;&#x2F;br&gt;&lt;p &gt;&lt;strong&gt;Showcase Demo Scene&lt;&#x2F;strong&gt;:&lt;&#x2F;p&gt;&lt;ul&gt;&lt;li &gt;Take a closer look with the Showcase Demo Scene. See the fine details and unique features of each asset highlighted individuallly.&lt;&#x2F;li&gt;&lt;&#x2F;ul&gt;&lt;&#x2F;br&gt;&lt;p &gt;&lt;strong&gt;Features&lt;&#x2F;strong&gt;:&lt;&#x2F;p&gt;&lt;ul&gt;&lt;li &gt;&lt;strong&gt;Each model&lt;&#x2F;strong&gt; is equipped with &lt;strong&gt;LODs&lt;&#x2F;strong&gt;, ensuring optimal performace by automatically utilizing detail levels for distant objects. This feature supports the creation of thousands of models while maintaining efficient rendering.&lt;&#x2F;li&gt;&lt;li &gt;You can &lt;strong&gt;customize colors&lt;&#x2F;strong&gt; for the &lt;strong&gt;majority of assets&lt;&#x2F;strong&gt;, allowing you to adjust the appearance of your models to match different environments and themes.&lt;&#x2F;li&gt;&lt;li &gt;&lt;strong&gt;Each model&lt;&#x2F;strong&gt; is equipped with &lt;strong&gt;pre-configured colliders&lt;&#x2F;strong&gt; for enhanced functionality.&lt;&#x2F;li&gt;&lt;li &gt;&lt;strong&gt;Each prefab pivot&lt;&#x2F;strong&gt; is positioned at the &lt;strong&gt;model&#x27;s center bottom, &lt;&#x2F;strong&gt;ensuring precise alignment&lt;strong&gt;.&lt;&#x2F;strong&gt;&lt;&#x2F;li&gt;&lt;li &gt;&lt;strong&gt;Life-like proportions&lt;&#x2F;strong&gt; for an authentic experience.&lt;&#x2F;li&gt;&lt;&#x2F;ul&gt;&lt;&#x2F;br&gt;&lt;p &gt;All screenshots were made with the standard render pipeline with &lt;strong&gt;Unity 2022.3.18f1&lt;&#x2F;strong&gt;.&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;&lt;strong&gt;Compatibility&lt;&#x2F;strong&gt;:&lt;&#x2F;p&gt;&lt;ul&gt;&lt;li &gt;Recommended for use with &lt;strong&gt;Unity 2022.3.18f1&lt;&#x2F;strong&gt; and later versions.&lt;&#x2F;li&gt;&lt;&#x2F;ul&gt;&lt;&#x2F;br&gt;&lt;p &gt;For any support-related questions, you can contact me through this &lt;a href=&quot;mailto:animationcraft84@gmail.com&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;support&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt; link.&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;If you appreciate this asset, feel free to check out my &lt;strong&gt;additional works&lt;&#x2F;strong&gt;:&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;ul&gt;&lt;li &gt;&lt;a href=&quot;https:&#x2F;&#x2F;assetstore.unity.com&#x2F;packages&#x2F;3d&#x2F;environments&#x2F;stylized-survival-kit-193143&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;Stylized Survival Kit&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;&lt;li &gt;&lt;a href=&quot;https:&#x2F;&#x2F;assetstore.unity.com&#x2F;packages&#x2F;3d&#x2F;environments&#x2F;stylized-nature-kit-185089&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;Stylized Nature Kit&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;&lt;li &gt;&lt;a href=&quot;https:&#x2F;&#x2F;assetstore.unity.com&#x2F;packages&#x2F;3d&#x2F;environments&#x2F;low-poly-medieval-kit-155572&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;Low Poly Medieval Kit&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;&lt;li &gt;&lt;a href=&quot;https:&#x2F;&#x2F;assetstore.unity.com&#x2F;packages&#x2F;3d&#x2F;environments&#x2F;low-poly-vegetation-kit-free-version-176906&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;Low Poly Vegetation Kit Lite&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;&lt;&#x2F;ul&gt;&lt;&#x2F;br&gt;&lt;p &gt;Stay tuned for &lt;strong&gt;upcoming updates&lt;&#x2F;strong&gt;.&lt;&#x2F;p&gt;&lt;p &gt;————————————————————&lt;&#x2F;p&gt;&lt;p &gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.youtube.com&#x2F;@proxygamesart&#x2F;featured&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;YouTube&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt; | &lt;a href=&quot;https:&#x2F;&#x2F;twitter.com&#x2F;proxygamesart&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;Twitter&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt; | &lt;a href=&quot;https:&#x2F;&#x2F;www.instagram.com&#x2F;proxygamesart&#x2F;&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;Instagram&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt; | &lt;a href=&quot;https:&#x2F;&#x2F;www.facebook.com&#x2F;proxygamesart&#x2F;&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;Facebook&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;&lt;p &gt;————————————————————&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;ⓘ For more information please check the &lt;strong&gt;&quot;&lt;&#x2F;strong&gt;&lt;em&gt;Technical details&lt;&#x2F;em&gt;&quot; section.&lt;&#x2F;p&gt;&lt;&#x2F;p&gt;
+        <content type="html" xml:base="https://yzzfo.github.io/unity/store/Low Poly Vegetation Kit Pro/ignore-index-en/">&lt;p&gt;Unlock your creativity with the Low Poly Vegetation Kit Pro. Ideal for designing low-poly vegetation environments.&lt;br&gt;&lt;p &gt;ⓘ &lt;strong&gt;Note&lt;&#x2F;strong&gt;&lt;em&gt;:&lt;&#x2F;em&gt;&lt;strong&gt;&lt;em&gt; &lt;&#x2F;em&gt;&lt;&#x2F;strong&gt;&lt;em&gt;Before updating to the new version, ensure to back up your project if you are using the older one.&lt;&#x2F;em&gt;&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;The &lt;strong&gt;free version&lt;&#x2F;strong&gt; of Low Poly Vegetation Kit Pro is available &lt;a href=&quot;https:&#x2F;&#x2F;assetstore.unity.com&#x2F;packages&#x2F;3d&#x2F;environments&#x2F;low-poly-vegetation-kit-free-version-176906&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;here&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt;.&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;&lt;strong&gt;Package contains (46 unique assets)&lt;&#x2F;strong&gt;:&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;ul&gt;&lt;li &gt;&lt;strong&gt;Foliage&lt;&#x2F;strong&gt;:&lt;strong&gt; &lt;&#x2F;strong&gt;Trees (5x), Plants (3x), Grass Patches (5x), Flowers (3x), Stumps (5x), Branches (3x), Log, Mushrooms (3x).&lt;&#x2F;li&gt;&lt;li &gt;&lt;strong&gt;Rocks&lt;&#x2F;strong&gt;:&lt;strong&gt; &lt;&#x2F;strong&gt;Rocks (5x), Rock Cliffs (5x), Small Rocks (5x), Mountain.&lt;&#x2F;li&gt;&lt;li &gt;&lt;strong&gt;Water&lt;&#x2F;strong&gt;: Detailed Water, Flat Water.&lt;&#x2F;li&gt;&lt;&#x2F;ul&gt;&lt;&#x2F;br&gt;&lt;p &gt;&lt;strong&gt;Both Demo Scenes are included&lt;&#x2F;strong&gt;:&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;&lt;strong&gt;Main Demo Scene&lt;&#x2F;strong&gt;:&lt;&#x2F;p&gt;&lt;ul&gt;&lt;li &gt;Explore the Main Demo Scene to see how the assets seamlessly integrate into different environments.&lt;&#x2F;li&gt;&lt;&#x2F;ul&gt;&lt;&#x2F;br&gt;&lt;p &gt;&lt;strong&gt;Showcase Demo Scene&lt;&#x2F;strong&gt;:&lt;&#x2F;p&gt;&lt;ul&gt;&lt;li &gt;Take a closer look with the Showcase Demo Scene. See the fine details and unique features of each asset highlighted individuallly.&lt;&#x2F;li&gt;&lt;&#x2F;ul&gt;&lt;&#x2F;br&gt;&lt;p &gt;&lt;strong&gt;Features&lt;&#x2F;strong&gt;:&lt;&#x2F;p&gt;&lt;ul&gt;&lt;li &gt;&lt;strong&gt;Each model&lt;&#x2F;strong&gt; is equipped with &lt;strong&gt;LODs&lt;&#x2F;strong&gt;, ensuring optimal performace by automatically utilizing detail levels for distant objects. This feature supports the creation of thousands of models while maintaining efficient rendering.&lt;&#x2F;li&gt;&lt;li &gt;You can &lt;strong&gt;customize colors&lt;&#x2F;strong&gt; for the &lt;strong&gt;majority of assets&lt;&#x2F;strong&gt;, allowing you to adjust the appearance of your models to match different environments and themes.&lt;&#x2F;li&gt;&lt;li &gt;&lt;strong&gt;Each model&lt;&#x2F;strong&gt; is equipped with &lt;strong&gt;pre-configured colliders&lt;&#x2F;strong&gt; for enhanced functionality.&lt;&#x2F;li&gt;&lt;li &gt;&lt;strong&gt;Each prefab pivot&lt;&#x2F;strong&gt; is positioned at the &lt;strong&gt;model&#x27;s center bottom, &lt;&#x2F;strong&gt;ensuring precise alignment&lt;strong&gt;.&lt;&#x2F;strong&gt;&lt;&#x2F;li&gt;&lt;li &gt;&lt;strong&gt;Life-like proportions&lt;&#x2F;strong&gt; for an authentic experience.&lt;&#x2F;li&gt;&lt;&#x2F;ul&gt;&lt;&#x2F;br&gt;&lt;p &gt;All screenshots were made with the standard render pipeline with &lt;strong&gt;Unity 2022.3.18f1&lt;&#x2F;strong&gt;.&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;&lt;strong&gt;Compatibility&lt;&#x2F;strong&gt;:&lt;&#x2F;p&gt;&lt;ul&gt;&lt;li &gt;Recommended for use with &lt;strong&gt;Unity 2022.3.18f1&lt;&#x2F;strong&gt; and later versions.&lt;&#x2F;li&gt;&lt;&#x2F;ul&gt;&lt;&#x2F;br&gt;&lt;p &gt;For any support-related questions, you can contact me through this &lt;a href=&quot;mailto:contact.innerversegames@gmail.com&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;support&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt; link.&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;If you appreciate this asset, feel free to check out my &lt;strong&gt;additional works&lt;&#x2F;strong&gt;:&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;ul&gt;&lt;li &gt;&lt;a href=&quot;https:&#x2F;&#x2F;assetstore.unity.com&#x2F;packages&#x2F;3d&#x2F;environments&#x2F;stylized-survival-kit-193143&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;Stylized Survival Kit&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;&lt;li &gt;&lt;a href=&quot;https:&#x2F;&#x2F;assetstore.unity.com&#x2F;packages&#x2F;3d&#x2F;environments&#x2F;stylized-nature-kit-185089&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;Stylized Nature Kit&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;&lt;li &gt;&lt;a href=&quot;https:&#x2F;&#x2F;assetstore.unity.com&#x2F;packages&#x2F;3d&#x2F;environments&#x2F;low-poly-medieval-kit-155572&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;Low Poly Medieval Kit&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;&lt;li &gt;&lt;a href=&quot;https:&#x2F;&#x2F;assetstore.unity.com&#x2F;packages&#x2F;3d&#x2F;environments&#x2F;low-poly-vegetation-kit-free-version-176906&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;Low Poly Vegetation Kit Lite&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;&lt;&#x2F;ul&gt;&lt;&#x2F;br&gt;&lt;p &gt;Stay tuned for &lt;strong&gt;upcoming updates&lt;&#x2F;strong&gt;.&lt;&#x2F;p&gt;&lt;p &gt;————————————————————&lt;&#x2F;p&gt;&lt;p &gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.youtube.com&#x2F;@proxygamesart&#x2F;featured&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;YouTube&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt; | &lt;a href=&quot;https:&#x2F;&#x2F;twitter.com&#x2F;proxygamesart&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;Twitter&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt; | &lt;a href=&quot;https:&#x2F;&#x2F;www.instagram.com&#x2F;proxygamesart&#x2F;&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;Instagram&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt; | &lt;a href=&quot;https:&#x2F;&#x2F;www.facebook.com&#x2F;proxygamesart&#x2F;&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;Facebook&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;&lt;p &gt;————————————————————&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;ⓘ For more information please check the &lt;strong&gt;&quot;&lt;&#x2F;strong&gt;&lt;em&gt;Technical details&lt;&#x2F;em&gt;&quot; section.&lt;&#x2F;p&gt;&lt;&#x2F;p&gt;
 </content>
         
     </entry>
     <entry xml:lang="zh">
         <title>Low Poly Vegetation Kit Pro</title>
         <published>2024-12-03T00:51:18+00:00</published>
-        <updated>2024-12-17T13:33:03+00:00</updated>
+        <updated>2025-02-16T17:44:02+00:00</updated>
         
         <author>
           <name>
@@ -403,17 +403,17 @@
         <link rel="alternate" type="text/html" href="https://yzzfo.github.io/unity/store/low-poly-vegetation-kit-pro/"/>
         <id>https://yzzfo.github.io/unity/store/low-poly-vegetation-kit-pro/</id>
         
-        <content type="html" xml:base="https://yzzfo.github.io/unity/store/low-poly-vegetation-kit-pro/">&lt;p&gt;解锁您的创造力，使用低多边形植被工具包专业版。非常适合设计低多边形植被环境。&lt;&#x2F;p&gt;
+        <content type="html" xml:base="https://yzzfo.github.io/unity/store/low-poly-vegetation-kit-pro/">&lt;p&gt;解锁您的创意，使用低多边形植被工具包专业版。非常适合设计低多边形植被环境。&lt;&#x2F;p&gt;
 &lt;p&gt;ⓘ &lt;strong&gt;注意&lt;&#x2F;strong&gt;&lt;em&gt;：&lt;&#x2F;em&gt;&lt;strong&gt;&lt;em&gt; &lt;&#x2F;em&gt;&lt;&#x2F;strong&gt;&lt;em&gt;在更新到新版本之前，请确保备份您的项目，如果您正在使用旧版本。&lt;&#x2F;em&gt;&lt;&#x2F;p&gt;
-&lt;p&gt;低多边形植被工具包专业版的&lt;strong&gt;免费版本&lt;&#x2F;strong&gt;可在&lt;a href=&quot;https:&#x2F;&#x2F;assetstore.unity.com&#x2F;packages&#x2F;3d&#x2F;environments&#x2F;low-poly-vegetation-kit-free-version-176906&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;这里&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt;获取。&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;strong&gt;低多边形植被工具包专业版的&lt;&#x2F;strong&gt;&lt;strong&gt;免费版本&lt;&#x2F;strong&gt;可在 &lt;a href=&quot;https:&#x2F;&#x2F;assetstore.unity.com&#x2F;packages&#x2F;3d&#x2F;environments&#x2F;low-poly-vegetation-kit-free-version-176906&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;这里&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt;获取。&lt;&#x2F;p&gt;
 &lt;p&gt;&lt;strong&gt;包内包含（46个独特资产）&lt;&#x2F;strong&gt;：&lt;&#x2F;p&gt;
 &lt;ul&gt;&lt;li&gt;&lt;strong&gt;植被&lt;&#x2F;strong&gt;:&lt;strong&gt; &lt;&#x2F;strong&gt;树木（5个）、植物（3个）、草地（5个）、花朵（3个）、树桩（5个）、树枝（3个）、原木、蘑菇（3个）。&lt;&#x2F;li&gt;&lt;li&gt;&lt;strong&gt;岩石&lt;&#x2F;strong&gt;:&lt;strong&gt; &lt;&#x2F;strong&gt;岩石（5个）、岩崖（5个）、小岩石（5个）、山脉。&lt;&#x2F;li&gt;&lt;li&gt;&lt;strong&gt;水&lt;&#x2F;strong&gt;: 详细水面，平面水面。&lt;&#x2F;li&gt;&lt;&#x2F;ul&gt;
 &lt;p&gt;&lt;strong&gt;包含两个演示场景&lt;&#x2F;strong&gt;：&lt;&#x2F;p&gt;
 &lt;p&gt;&lt;strong&gt;主演示场景&lt;&#x2F;strong&gt;：&lt;&#x2F;p&gt;&lt;ul&gt;&lt;li&gt;探索主演示场景，查看资产如何无缝集成到不同环境中。&lt;&#x2F;li&gt;&lt;&#x2F;ul&gt;
-&lt;p&gt;&lt;strong&gt;展示演示场景&lt;&#x2F;strong&gt;：&lt;&#x2F;p&gt;&lt;ul&gt;&lt;li&gt;通过展示演示场景仔细观察。查看每个资产的细节和独特特征，逐一突出显示。&lt;&#x2F;li&gt;&lt;&#x2F;ul&gt;&lt;br&gt;&lt;p &gt;&lt;strong&gt;特点&lt;&#x2F;strong&gt;:&lt;&#x2F;p&gt;&lt;ul&gt;&lt;li &gt;&lt;strong&gt;每个模型&lt;&#x2F;strong&gt;都配备了&lt;strong&gt;细节层级（LODs）&lt;&#x2F;strong&gt;，通过自动利用远处物体的细节层级来确保最佳性能。此功能支持创建数千个模型，同时保持高效的渲染。&lt;&#x2F;li&gt;&lt;li &gt;您可以为&lt;strong&gt;大多数资产&lt;&#x2F;strong&gt;进行&lt;strong&gt;自定义颜色&lt;&#x2F;strong&gt;，使您能够调整模型的外观，以匹配不同的环境和主题。&lt;&#x2F;li&gt;&lt;li &gt;&lt;strong&gt;每个模型&lt;&#x2F;strong&gt;都配备了&lt;strong&gt;预配置的碰撞体&lt;&#x2F;strong&gt;，以增强功能性。&lt;&#x2F;li&gt;&lt;li &gt;&lt;strong&gt;每个预制件的支点&lt;&#x2F;strong&gt;位于&lt;strong&gt;模型的中心底部&lt;&#x2F;strong&gt;，确保精确对齐&lt;strong&gt;。&lt;&#x2F;strong&gt;&lt;&#x2F;li&gt;&lt;li &gt;&lt;strong&gt;逼真的比例&lt;&#x2F;strong&gt;，提供真实的体验。&lt;&#x2F;li&gt;&lt;&#x2F;ul&gt;
+&lt;p&gt;&lt;strong&gt;展示演示场景&lt;&#x2F;strong&gt;：&lt;&#x2F;p&gt;&lt;ul&gt;&lt;li&gt;通过展示演示场景仔细观察。查看每个资产的细节和独特特征，逐一突出显示。&lt;&#x2F;li&gt;&lt;&#x2F;ul&gt;&lt;br&gt;&lt;p &gt;&lt;strong&gt;特点&lt;&#x2F;strong&gt;:&lt;&#x2F;p&gt;&lt;ul&gt;&lt;li &gt;&lt;strong&gt;每个模型&lt;&#x2F;strong&gt;都配备了&lt;strong&gt;细节层级（LODs）&lt;&#x2F;strong&gt;，通过自动利用远处物体的细节层级来确保最佳性能。此功能支持创建成千上万的模型，同时保持高效的渲染。&lt;&#x2F;li&gt;&lt;li &gt;您可以为&lt;strong&gt;大多数资产&lt;&#x2F;strong&gt;进行&lt;strong&gt;自定义颜色&lt;&#x2F;strong&gt;，使您能够调整模型的外观以匹配不同的环境和主题。&lt;&#x2F;li&gt;&lt;li &gt;&lt;strong&gt;每个模型&lt;&#x2F;strong&gt;都配备了&lt;strong&gt;预配置的碰撞体&lt;&#x2F;strong&gt;，以增强功能性。&lt;&#x2F;li&gt;&lt;li &gt;&lt;strong&gt;每个预制件的支点&lt;&#x2F;strong&gt;位于&lt;strong&gt;模型的底部中心&lt;&#x2F;strong&gt;，确保精确对齐&lt;strong&gt;.&lt;&#x2F;strong&gt;&lt;&#x2F;li&gt;&lt;li &gt;&lt;strong&gt;逼真的比例&lt;&#x2F;strong&gt;，提供真实的体验。&lt;&#x2F;li&gt;&lt;&#x2F;ul&gt;
 &lt;p &gt;所有截图均使用&lt;strong&gt;Unity 2022.3.18f1&lt;&#x2F;strong&gt;的标准渲染管线制作。&lt;&#x2F;p&gt;
 &lt;p &gt;&lt;strong&gt;兼容性&lt;&#x2F;strong&gt;:&lt;&#x2F;p&gt;&lt;ul&gt;&lt;li &gt;推荐与&lt;strong&gt;Unity 2022.3.18f1&lt;&#x2F;strong&gt;及更高版本一起使用。&lt;&#x2F;li&gt;&lt;&#x2F;ul&gt;
-&lt;p &gt;如有任何支持相关的问题，您可以通过此&lt;a href=&quot;mailto:animationcraft84@gmail.com&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;支持&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt;链接与我联系。&lt;&#x2F;p&gt;
+&lt;p &gt;如有任何支持相关的问题，您可以通过此&lt;a href=&quot;mailto:contact.innerversegames@gmail.com&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;支持&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt;链接与我联系。&lt;&#x2F;p&gt;
 &lt;p &gt;如果您喜欢这个资产，请随时查看我的&lt;strong&gt;其他作品&lt;&#x2F;strong&gt;:&lt;&#x2F;p&gt;&lt;br&gt;&lt;ul&gt;&lt;li &gt;&lt;a href=&quot;https:&#x2F;&#x2F;assetstore.unity.com&#x2F;packages&#x2F;3d&#x2F;environments&#x2F;stylized-survival-kit-193143&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;风格化生存工具包&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;&lt;li &gt;&lt;a href=&quot;https:&#x2F;&#x2F;assetstore.unity.com&#x2F;packages&#x2F;3d&#x2F;environments&#x2F;stylized-nature-kit-185089&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;风格化自然工具包&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;&lt;li &gt;&lt;a href=&quot;https:&#x2F;&#x2F;assetstore.unity.com&#x2F;packages&#x2F;3d&#x2F;environments&#x2F;low-poly-medieval-kit-155572&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;低多边形中世纪工具包&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;&lt;li &gt;&lt;a href=&quot;https:&#x2F;&#x2F;assetstore.unity.com&#x2F;packages&#x2F;3d&#x2F;environments&#x2F;low-poly-vegetation-kit-free-version-176906&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;低多边形植被工具包 Lite&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;&lt;&#x2F;ul&gt;
 &lt;p &gt;敬请关注&lt;strong&gt;即将更新&lt;&#x2F;strong&gt;。&lt;&#x2F;p&gt;&lt;p &gt;————————————————————&lt;&#x2F;p&gt;&lt;p &gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.youtube.com&#x2F;@proxygamesart&#x2F;featured&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;YouTube&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt; | &lt;a href=&quot;https:&#x2F;&#x2F;twitter.com&#x2F;proxygamesart&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;Twitter&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt; | &lt;a href=&quot;https:&#x2F;&#x2F;www.instagram.com&#x2F;proxygamesart&#x2F;&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;Instagram&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt; | &lt;a href=&quot;https:&#x2F;&#x2F;www.facebook.com&#x2F;proxygamesart&#x2F;&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;Facebook&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;&lt;p &gt;————————————————————&lt;&#x2F;p&gt;
 &lt;p &gt;ⓘ 欲了解更多信息，请查看&lt;strong&gt;&quot;&lt;&#x2F;strong&gt;&lt;em&gt;技术细节&lt;&#x2F;em&gt;&quot;部分。&lt;&#x2F;p&gt;</content>
@@ -422,7 +422,7 @@
     <entry xml:lang="zh">
         <title>Mountain Valley - Stylized Fantasy Nature Environment</title>
         <published>2024-12-03T00:46:43+00:00</published>
-        <updated>2024-12-17T13:32:41+00:00</updated>
+        <updated>2025-02-16T17:43:41+00:00</updated>
         
         <author>
           <name>
@@ -442,7 +442,7 @@
     <entry xml:lang="zh">
         <title>Mountain Valley - Stylized Fantasy Nature Environment</title>
         <published>2024-12-03T00:46:43+00:00</published>
-        <updated>2024-12-17T13:32:41+00:00</updated>
+        <updated>2025-02-16T17:43:41+00:00</updated>
         
         <author>
           <name>
@@ -456,15 +456,15 @@
         <id>https://yzzfo.github.io/unity/store/mountain-valley-stylized-fantasy-nature-environment/</id>
         
         <content type="html" xml:base="https://yzzfo.github.io/unity/store/mountain-valley-stylized-fantasy-nature-environment/">&lt;p&gt;创建美丽的风格化环境，为您的游戏提供我们的模块化资产包！&lt;&#x2F;p&gt;
-&lt;p&gt;使用&lt;strong&gt;山谷&lt;&#x2F;strong&gt;构建您游戏中美丽的风景——这是一个令人惊叹的风格化环境，非常适合平台游戏和奇幻角色扮演游戏。此包具有令人叹为观止的鲜艳色彩、郁郁葱葱的植被，如树木、草和灌木，以及岩石和自定义天空盒。用这个精美制作的山谷环境为您的游戏世界注入生命，为您的项目增添一丝魔力。&lt;&#x2F;p&gt;
-&lt;p&gt;&lt;strong&gt;特点与内容&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;ul&gt;&lt;li&gt;美丽的风格化环境艺术&lt;&#x2F;li&gt;&lt;li&gt;树木和其他植被上的美丽风动画&lt;&#x2F;li&gt;&lt;li&gt;美丽的演示场景，展示如何将所有包含的功能结合在一起&lt;&#x2F;li&gt;&lt;li&gt;植被入门包（花、岩石、树、灌木和草）&lt;&#x2F;li&gt;&lt;li&gt;落叶粒子系统&lt;&#x2F;li&gt;&lt;li&gt;漂浮尘埃粒子系统&lt;&#x2F;li&gt;&lt;li&gt;光线粒子系统&lt;&#x2F;li&gt;&lt;li&gt;具有颜色调 tint 和风设置的自定义植被着色器&lt;&#x2F;li&gt;&lt;&#x2F;ul&gt;
+&lt;p&gt;使用&lt;strong&gt;山谷&lt;&#x2F;strong&gt;构建您游戏中的美丽景观——这是一个令人惊叹的风格化环境，非常适合平台游戏和奇幻角色扮演游戏。此包具有令人叹为观止的鲜艳色彩、郁郁葱葱的植被，如树木、草和灌木，以及岩石和自定义天空盒。用这个精美制作的山谷环境为您的游戏世界注入生命，为您的项目增添一丝魔力。&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;strong&gt;特点与内容&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;ul&gt;&lt;li&gt;美丽的风格化环境艺术&lt;&#x2F;li&gt;&lt;li&gt;树木和其他植被上的美丽风动画&lt;&#x2F;li&gt;&lt;li&gt;美丽的演示场景，展示如何将所有包含的功能结合在一起&lt;&#x2F;li&gt;&lt;li&gt;植被入门包（花、岩石、树、灌木和草）&lt;&#x2F;li&gt;&lt;li&gt;落叶粒子系统&lt;&#x2F;li&gt;&lt;li&gt;漂浮尘埃粒子系统&lt;&#x2F;li&gt;&lt;li&gt;光线粒子系统&lt;&#x2F;li&gt;&lt;li&gt;自定义植被着色器，具有颜色调和风设置&lt;&#x2F;li&gt;&lt;&#x2F;ul&gt;
 &lt;p&gt;&lt;strong&gt;*请注意&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;p&gt;演示视频中的音频文件不属于此包&lt;&#x2F;p&gt;</content>
         
     </entry>
     <entry xml:lang="zh">
         <title>Variety FX 2.0</title>
         <published>2024-12-03T00:46:20+00:00</published>
-        <updated>2024-12-17T13:32:28+00:00</updated>
+        <updated>2025-02-16T17:43:10+00:00</updated>
         
         <author>
           <name>
@@ -484,7 +484,7 @@
     <entry xml:lang="zh">
         <title>Variety FX 2.0</title>
         <published>2024-12-03T00:46:20+00:00</published>
-        <updated>2024-12-17T13:32:28+00:00</updated>
+        <updated>2025-02-16T17:43:10+00:00</updated>
         
         <author>
           <name>
@@ -498,12 +498,12 @@
         <id>https://yzzfo.github.io/unity/store/variety-fx-2-0/</id>
         
         <content type="html" xml:base="https://yzzfo.github.io/unity/store/variety-fx-2-0/">&lt;p&gt;Variety FX 是一套广泛的环境粒子特效，可以轻松为您的场景增添氛围。&lt;&#x2F;p&gt;
-&lt;p&gt;Variety FX 总共包含 &lt;strong&gt;273 种特效&lt;&#x2F;strong&gt;，分为 4 个主要类别和 24 个子类别，以便在项目文件夹中轻松查找。&lt;&#x2F;p&gt;
-&lt;p&gt;所包含的特效适用于风格化或真实感项目，并且可以适应多种游戏类型，包括生存、恐怖、动作和冒险游戏。&lt;&#x2F;p&gt;
+&lt;p&gt;Variety FX 总共包含 &lt;strong&gt;273 种特效&lt;&#x2F;strong&gt;，分为 4 个主要类别和 24 个子类别，以便于在项目文件夹中查找。&lt;&#x2F;p&gt;
+&lt;p&gt;这些特效适用于风格化或现实主义项目，并且可以适应多种游戏类型，包括生存、恐怖、动作和冒险游戏。&lt;&#x2F;p&gt;
 &lt;p&gt;大多数特效可以通过粒子系统轻松重新着色，或者已经有预制的颜色可以拖放到您的场景中。它们也可以通过更改变换值轻松缩放。&lt;&#x2F;p&gt;
-&lt;p&gt;虽然该资产专注于环境特效，但它还包括一些常见的战斗特效，如爆炸、血液和魔法。&lt;&#x2F;p&gt;
+&lt;p&gt;虽然该资产专注于环境特效，但它也包括一些常见的战斗特效，如爆炸、血液和魔法。&lt;&#x2F;p&gt;
 &lt;p&gt;&lt;a href=&quot;http:&#x2F;&#x2F;bit.ly&#x2F;2cQryoI&quot; target=&quot;_blank&quot;&gt;WebGL 演示&lt;&#x2F;a&gt; • &lt;a href=&quot;http:&#x2F;&#x2F;bit.ly&#x2F;1F4wCu5&quot; target=&quot;_blank&quot;&gt;论坛&lt;&#x2F;a&gt; • &lt;a href=&quot;https:&#x2F;&#x2F;archanor.com&#x2F;support.html&quot; target=&quot;_blank&quot;&gt;支持&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
-&lt;p&gt;视频&#x2F;截图中看到的所有 19 个演示场景均已包含。&lt;&#x2F;p&gt;
+&lt;p&gt;视频&#x2F;截图中展示的所有 19 个演示场景均已包含。&lt;&#x2F;p&gt;
 &lt;p&gt;&lt;strong&gt;人工特效&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;ul&gt;&lt;li&gt;爆炸&lt;&#x2F;li&gt;&lt;li&gt;烟花&lt;&#x2F;li&gt;&lt;li&gt;信号弹&lt;&#x2F;li&gt;&lt;li&gt;魔法&lt;&#x2F;li&gt;&lt;li&gt;火花&lt;&#x2F;li&gt;&lt;&#x2F;ul&gt;
 &lt;p&gt;&lt;strong&gt;地面特效&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;ul&gt;&lt;li&gt;灰尘&lt;&#x2F;li&gt;&lt;li&gt;火焰&lt;&#x2F;li&gt;&lt;li&gt;雾&lt;&#x2F;li&gt;&lt;li&gt;昆虫&lt;&#x2F;li&gt;&lt;li&gt;树叶&lt;&#x2F;li&gt;&lt;li&gt;闪电&lt;&#x2F;li&gt;&lt;li&gt;液体&lt;&#x2F;li&gt;&lt;li&gt;岩石&lt;&#x2F;li&gt;&lt;li&gt;沙子&lt;&#x2F;li&gt;&lt;li&gt;烟雾&lt;&#x2F;li&gt;&lt;li&gt;闪烁&lt;&#x2F;li&gt;&lt;li&gt;蒸汽&lt;&#x2F;li&gt;&lt;&#x2F;ul&gt;
 &lt;p&gt;&lt;strong&gt;天空特效&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;ul&gt;&lt;li&gt;极光&lt;&#x2F;li&gt;&lt;li&gt;云&lt;&#x2F;li&gt;&lt;li&gt;神光&lt;&#x2F;li&gt;&lt;li&gt;星星&lt;&#x2F;li&gt;&lt;li&gt;天气&lt;&#x2F;li&gt;&lt;&#x2F;ul&gt;
@@ -660,7 +660,7 @@
     <entry xml:lang="zh">
         <title>POLYGON Western Frontier - Low Poly 3D Art by Synty</title>
         <published>2024-11-29T21:17:13+00:00</published>
-        <updated>2024-12-17T14:09:05+00:00</updated>
+        <updated>2025-02-16T17:31:43+00:00</updated>
         
         <author>
           <name>
@@ -680,7 +680,7 @@
     <entry xml:lang="zh">
         <title>POLYGON Western Frontier - Low Poly 3D Art by Synty</title>
         <published>2024-11-29T21:17:13+00:00</published>
-        <updated>2024-12-17T14:09:05+00:00</updated>
+        <updated>2025-02-16T17:31:43+00:00</updated>
         
         <author>
           <name>
@@ -694,14 +694,14 @@
         <id>https://yzzfo.github.io/unity/store/polygon-western-frontier-low-poly-3d-art-by-synty/</id>
         
         <content type="html" xml:base="https://yzzfo.github.io/unity/store/polygon-western-frontier-low-poly-3d-art-by-synty/">&lt;p &gt;&lt;strong&gt;◼&lt;&#x2F;strong&gt; &lt;a href=&quot;http:&#x2F;&#x2F;discord.gg&#x2F;syntystudios&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;Synty Discord 社区&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt;&lt;strong&gt; ◼&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;p &gt;&lt;strong&gt;加入我们的 &lt;&#x2F;strong&gt;&lt;a href=&quot;http:&#x2F;&#x2F;discord.gg&#x2F;syntystudios&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;Discord&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt;&lt;strong&gt;，学习、创造和分享！&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
-&lt;p &gt;&lt;a href=&quot;https:&#x2F;&#x2F;assetstore.unity.com&#x2F;publishers&#x2F;5217&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;Synty Studios™&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt;&lt;strong&gt; 呈现 -&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
+&lt;p &gt;&lt;a href=&quot;https:&#x2F;&#x2F;assetstore.unity.com&#x2F;publishers&#x2F;5217&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;Synty Studios™&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt;&lt;strong&gt; 介绍 -&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
 &lt;p &gt;一款史诗级低多边形资产包，包含角色、道具、武器、车辆和环境资产，用于创建西部主题的多边形风格游戏。&lt;&#x2F;p&gt;
 &lt;p &gt;是 &lt;a href=&quot;https:&#x2F;&#x2F;assetstore.unity.com&#x2F;packages&#x2F;3d&#x2F;environments&#x2F;historic&#x2F;polygon-western-pack-112212&quot; target=&quot;_blank&quot;&gt;POLYGON - 西部包&lt;&#x2F;a&gt; 的绝佳补充。&lt;&#x2F;p&gt;
 &lt;p &gt;&lt;strong&gt;主要特点 -&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;p &gt;&lt;strong&gt;329 个独特资产，具有四种替代纹理颜色。&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
 &lt;p &gt;&lt;strong&gt;资产&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;p &gt;- 建筑资产 (x42)，环境资产 (x147)，特效 (x5)，通用资产 (x9)，道具资产 (x87)&lt;&#x2F;p&gt;
 &lt;p &gt;&lt;strong&gt;车辆 (x3)&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;p &gt;- 监狱马车、商店马车、旅行马车。&lt;&#x2F;p&gt;
-&lt;p &gt;&lt;strong&gt;角色 (x21)&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;p &gt;- 男盗贼、男队长、男金矿工、男猎人、墨西哥女性、墨西哥男性 01、墨西哥男性 02、美国原住民女性 01、美国原住民首领男性 01、美国原住民长者女性 01、美国原住民战士女性 01、美国原住民战士男性 01、美国原住民战士男性 02、美国原住民战士男性 03、男性牧师 01、男性推销员 01、男性士兵 01、男性暴徒 01、男性暴徒 02、女性旅行者 01。&lt;&#x2F;p&gt;&lt;p &gt;(带有替代颜色)&lt;&#x2F;p&gt;
-&lt;p &gt;&lt;strong&gt;武器 (x15)&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;p &gt;- 斧头、链枪、枪托、锤子、刀、镐、左轮手枪、步枪、步枪刺刀、步枪堆、霰弹枪、铲子、矛、剑。&lt;&#x2F;p&gt;&lt;p &gt;- 包含大量精彩内容（请查看布局截图以获取更多详细信息）&lt;&#x2F;p&gt;&lt;br&gt;&lt;p &gt;&lt;strong&gt;查看我们的其他资源&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;ul&gt;&lt;li &gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.assetstore.unity3d.com&#x2F;en&#x2F;?stay#!&#x2F;list&#x2F;44060-polygon-3d-asset-series-by-synty-studios&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;POLYGON - 3D 资源系列&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;&lt;li &gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.assetstore.unity3d.com&#x2F;en&#x2F;?stay#!&#x2F;list&#x2F;115084-mini-3d-asset-series-by-synty-studios&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;迷你 - 3D 资源系列&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;&lt;li &gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.assetstore.unity3d.com&#x2F;en&#x2F;?stay#!&#x2F;list&#x2F;65459-simple-3d-asset-series-by-synty-studios&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;简单 - 3D 资源系列&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;&lt;&#x2F;ul&gt;&lt;p &gt;&lt;strong&gt;◼ 兼容性 &lt;&#x2F;strong&gt;◼&lt;&#x2F;p&gt;&lt;p &gt;- 支持通用渲染管线 (URP) - &lt;a href=&quot;https:&#x2F;&#x2F;bit.ly&#x2F;synty-urp&quot; target=&quot;_blank&quot;&gt;URP 指南在这里&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;&lt;p &gt;- 角色已设置为与 Mecanim 一起使用（此包中不包含动画）&lt;&#x2F;p&gt;
+&lt;p &gt;&lt;strong&gt;角色 (x21)&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;p &gt;- 男盗贼、男队长、男淘金者、男猎人、墨西哥女性、墨西哥男性 01、墨西哥男性 02、美国原住民女性 01、美国原住民首领男性 01、美国原住民长者女性 01、美国原住民战士女性 01、美国原住民战士男性 01、美国原住民战士男性 02、美国原住民战士男性 03、男性牧师 01、男性推销员 01、男性士兵 01、男性暴徒 01、男性暴徒 02、女性旅行者 01。&lt;&#x2F;p&gt;&lt;p &gt;(带有替代颜色)&lt;&#x2F;p&gt;
+&lt;p &gt;&lt;strong&gt;武器 (x15)&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;p &gt;- 斧头、链枪、枪托、锤子、刀、镐、左轮手枪、步枪、步枪刺刀、步枪弹夹、霰弹枪、铲子、矛、剑。&lt;&#x2F;p&gt;&lt;p &gt;- 包含大量精彩内容（请查看布局截图以获取更多详细信息）&lt;&#x2F;p&gt;&lt;br&gt;&lt;p &gt;&lt;strong&gt;查看我们的其他资源&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;ul&gt;&lt;li &gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.assetstore.unity3d.com&#x2F;en&#x2F;?stay#!&#x2F;list&#x2F;44060-polygon-3d-asset-series-by-synty-studios&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;POLYGON - 3D 资源系列&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;&lt;li &gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.assetstore.unity3d.com&#x2F;en&#x2F;?stay#!&#x2F;list&#x2F;115084-mini-3d-asset-series-by-synty-studios&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;迷你 - 3D 资源系列&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;&lt;li &gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.assetstore.unity3d.com&#x2F;en&#x2F;?stay#!&#x2F;list&#x2F;65459-simple-3d-asset-series-by-synty-studios&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;简单 - 3D 资源系列&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;&lt;&#x2F;ul&gt;&lt;p &gt;&lt;strong&gt;◼ 兼容性 &lt;&#x2F;strong&gt;◼&lt;&#x2F;p&gt;&lt;p &gt;- 支持通用渲染管线 (URP) - &lt;a href=&quot;https:&#x2F;&#x2F;bit.ly&#x2F;synty-urp&quot; target=&quot;_blank&quot;&gt;这里是URP指南&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;&lt;p &gt;- 角色已设置为与Mecanim兼容（此包中不包含动画）&lt;&#x2F;p&gt;
 &lt;p &gt;&amp;#128220; &lt;a href=&quot;https:&#x2F;&#x2F;bit.ly&#x2F;synty-newsletter&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;Synty 新闻通讯&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt; &amp;#128220;&lt;&#x2F;p&gt;&lt;p &gt;不要错过发布折扣！&lt;&#x2F;p&gt;&lt;p &gt;注册我们的 &lt;a href=&quot;https:&#x2F;&#x2F;bit.ly&#x2F;synty-newsletter&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;Synty 资源商店新闻通讯&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;&lt;p &gt;&lt;strong&gt;关注我们以获取更新、促销、预览和教程：&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;p &gt;&lt;a href=&quot;http:&#x2F;&#x2F;bit.ly&#x2F;30aOuGW&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;DISCORD&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt;&lt;strong&gt; | &lt;&#x2F;strong&gt;&lt;a href=&quot;http:&#x2F;&#x2F;bit.ly&#x2F;37VGYlB&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;FACEBOOK&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt;&lt;strong&gt; | &lt;&#x2F;strong&gt;&lt;a href=&quot;http:&#x2F;&#x2F;bit.ly&#x2F;306iJOW&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;YOUTUBE&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt;&lt;strong&gt; |  &lt;&#x2F;strong&gt;&lt;a href=&quot;https:&#x2F;&#x2F;twitter.com&#x2F;SyntyStudios&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;TWITTER&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt;&lt;strong&gt; | &lt;&#x2F;strong&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.instagram.com&#x2F;synty.studios&#x2F;&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;INSTAGRAM&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;</content>
         
     </entry>

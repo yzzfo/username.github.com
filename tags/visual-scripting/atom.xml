@@ -5,7 +5,7 @@
     <link rel="self" type="application/atom+xml" href="https://yzzfo.github.io/tags/visual-scripting/atom.xml"/>
     <link rel="alternate" type="text/html" href="https://yzzfo.github.io"/>
     <generator uri="https://www.getzola.org/">Zola</generator>
-    <updated>2024-12-17T14:08:22+00:00</updated>
+    <updated>2025-02-16T17:33:51+00:00</updated>
     <id>https://yzzfo.github.io/tags/visual-scripting/atom.xml</id>
     <entry xml:lang="zh">
         <title>Playmaker</title>
@@ -30,7 +30,7 @@
     <entry xml:lang="zh">
         <title>UI Node Connect 4</title>
         <published>2024-11-29T21:18:21+00:00</published>
-        <updated>2024-12-17T13:27:22+00:00</updated>
+        <updated>2025-02-16T17:33:51+00:00</updated>
         
         <author>
           <name>
@@ -50,7 +50,7 @@
     <entry xml:lang="zh">
         <title>UI Node Connect 4</title>
         <published>2024-11-29T21:18:21+00:00</published>
-        <updated>2024-12-17T13:27:22+00:00</updated>
+        <updated>2025-02-16T17:33:51+00:00</updated>
         
         <author>
           <name>
@@ -69,13 +69,13 @@
 &lt;p&gt;&amp;#128218;&lt;strong&gt; &lt;&#x2F;strong&gt;&lt;a href=&quot;https:&#x2F;&#x2F;docs.google.com&#x2F;document&#x2F;d&#x2F;1Wh4QISqWpeRZiC1uXzM4CAO-uZuCs5Y8agiJM-xHhgo&#x2F;edit&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;代码参考&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
 &lt;p&gt;&amp;#127918;&lt;strong&gt; &lt;&#x2F;strong&gt;&lt;a href=&quot;https:&#x2F;&#x2F;danielcmcg.itch.io&#x2F;logic-gates&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;逻辑门示例场景&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
 &lt;p&gt;&lt;strong&gt;使用您自己的精灵、文本、颜色、按钮自定义资产&lt;&#x2F;strong&gt;，并通过使用 API 添加新功能来扩展它，以 &lt;strong&gt;连接到事件&lt;&#x2F;strong&gt; 并分析 &lt;strong&gt;节点、端口和连接&lt;&#x2F;strong&gt;。&lt;&#x2F;p&gt;
-&lt;p&gt;通过为用户添加新的交互方式，使画布成为您游戏的一部分，以便操纵和连接节点。&lt;&#x2F;p&gt;</content>
+&lt;p&gt;通过为用户添加新的交互方式，使画布成为您游戏玩法的一部分，以便操纵和连接节点。&lt;&#x2F;p&gt;</content>
         
     </entry>
     <entry xml:lang="zh">
         <title>NodeCanvas</title>
         <published>2024-11-29T21:18:02+00:00</published>
-        <updated>2024-12-17T13:26:27+00:00</updated>
+        <updated>2025-02-16T17:32:58+00:00</updated>
         
         <author>
           <name>
@@ -95,7 +95,7 @@
     <entry xml:lang="zh">
         <title>NodeCanvas</title>
         <published>2024-11-29T21:18:02+00:00</published>
-        <updated>2024-12-17T13:26:27+00:00</updated>
+        <updated>2025-02-16T17:32:58+00:00</updated>
         
         <author>
           <name>
@@ -115,7 +115,7 @@
     <entry xml:lang="zh">
         <title>DOTween Pro</title>
         <published>2024-11-29T21:17:52+00:00</published>
-        <updated>2024-12-17T13:26:23+00:00</updated>
+        <updated>2025-02-16T17:32:55+00:00</updated>
         
         <author>
           <name>
@@ -135,7 +135,7 @@
     <entry xml:lang="zh">
         <title>DOTween Pro</title>
         <published>2024-11-29T21:17:52+00:00</published>
-        <updated>2024-12-17T13:26:23+00:00</updated>
+        <updated>2025-02-16T17:32:55+00:00</updated>
         
         <author>
           <name>
@@ -155,7 +155,7 @@
     <entry xml:lang="zh">
         <title>FlowCanvas</title>
         <published>2024-11-29T21:16:25+00:00</published>
-        <updated>2024-12-17T14:08:22+00:00</updated>
+        <updated>2025-02-16T17:06:09+00:00</updated>
         
         <author>
           <name>
@@ -168,14 +168,14 @@
         <link rel="alternate" type="text/html" href="https://yzzfo.github.io/unity/store/FlowCanvas/ignore-index-en/"/>
         <id>https://yzzfo.github.io/unity/store/FlowCanvas/ignore-index-en/</id>
         
-        <content type="html" xml:base="https://yzzfo.github.io/unity/store/FlowCanvas/ignore-index-en/">&lt;p&gt;&lt;br&gt;&lt;br&gt;&lt;strong&gt;&lt;a href=&quot;http:&#x2F;&#x2F;www.flowcanvas.paradoxnotion.com&quot;&gt;[Documentation, Downloads, Support Forums]&lt;&#x2F;a&gt;&lt;br&gt;&lt;a href=&quot;https:&#x2F;&#x2F;flowcanvas.paradoxnotion.com&#x2F;features-comparison&#x2F;&quot;&gt;[Features Comparison]&lt;&#x2F;a&gt;&lt;br&gt;&lt;a href=&quot;https:&#x2F;&#x2F;discord.gg&#x2F;97q2Rjh&quot;&gt;[Join Us On Discord]&lt;&#x2F;a&gt;&lt;br&gt;&lt;&#x2F;strong&gt;&lt;br&gt;&lt;strong&gt;FlowCanvas&lt;&#x2F;strong&gt; is a powerful and feature-rich Visual Scripting Solution for Unity, empowering you to create and manipulate virtually any aspect of gameplay elements for your games in a very similar fashion to Unreal Blueprints, but with far less programming knowledge required all around.&lt;br&gt;&lt;br&gt;&lt;strong&gt;FlowCanvas&lt;&#x2F;strong&gt; gives you the full flexibility of concepts and tools typically available only in code, but through an intuitive visual node editor, making it possible for you to create things from quick prototypes, up to complete game mechanics without writing a single line of code.&lt;br&gt;&lt;br&gt;&lt;strong&gt;✔ Designers:&lt;&#x2F;strong&gt; Prototype, iterate and completely realize your ideas without coding, while also learning how code works the fun way. If you are familiar with Unreal Blueprints you will feel right at home.&lt;br&gt;&lt;br&gt;&lt;strong&gt;✔ Programmers:&lt;&#x2F;strong&gt; Interface with your code at a higher level, creating decoupled systems and&#x2F;or provide new self-contained nodes for designers with an easy and well documented API.&lt;br&gt;&lt;br&gt;By connecting Events, Flow Controllers and Function Nodes together, create and manipulate gameplay elements including but certainly not limited to:&lt;br&gt;&lt;br&gt;● Player Controls.&lt;br&gt;● Level Design Events.&lt;br&gt;● Gameplay Mechanics.&lt;br&gt;● User Interfaces.&lt;br&gt;● Player Interactions.&lt;br&gt;● Resource Management Systems.&lt;br&gt;● And honestly a whole lot more!&lt;br&gt;&lt;br&gt;FlowCanvas is a production ready framework used by awesome games including &lt;strong&gt;Graveyard Keeper, Deadhold, Memories Retold, and Len&#x27;s Island&lt;&#x2F;strong&gt; among many others.&lt;br&gt;&lt;br&gt;&lt;strong&gt;FEATURE HIGHLIGHTS&lt;&#x2F;strong&gt;&lt;br&gt;-----------------------------&lt;br&gt;● Sleek and Intuitive Visual Node Editor with all expected pro features.&lt;br&gt;● All Types Supported out-of-the-box.&lt;br&gt;&lt;em&gt;(Classes, Structs, Enums, Collections, Interfaces...)&lt;&#x2F;em&gt;&lt;br&gt;● Automatically Generated Nodes for all and any Unity functionality, your code and 3rd party APIs.&lt;br&gt;&lt;em&gt;(Methods, Properties, Fields, Unity Events, C# Events, Delegates, Generic Methods, Constructors, Extractors and Operators)&lt;&#x2F;em&gt;&lt;br&gt;● More than 60 built-in Event nodes.&lt;br&gt;&lt;em&gt;(triggers, collisions, particles, visibility, input, UI and much more)&lt;&#x2F;em&gt;&lt;br&gt;● More than 30 built-in Flow Controller nodes.&lt;br&gt;&lt;em&gt;(for-loops, ifs, whiles, cooldowns, filters, togglers, selectors, gotos, switch-statements and much more)&lt;&#x2F;em&gt;&lt;br&gt;● Custom Events &amp;amp; asset-based Signal Events with any # of parameters.&lt;br&gt;● Custom local flowScript Functions.&lt;br&gt;● Custom reusable Macros and nested flowScripts.&lt;br&gt;● Graph, GameObject, Asset and Global Variables.&lt;br&gt;● Blackboard Variables Parenting.&lt;br&gt;● Data Bound Variables with instance or static properties and fields.&lt;br&gt;● Prefab Overridable Variables support.&lt;br&gt;● Colorful and informative runtime Visual Debugging.&lt;br&gt;● Node Browser: to search, favorite and read built-in documentation.&lt;br&gt;● Preferred Types Configurator: to tailor type-related menus to your project.&lt;br&gt;● Graph Minimap: to navigate your graphs with ease.&lt;br&gt;● Graph Console: to automatically locate faulty nodes with a single mouse click.&lt;br&gt;● Graph Explorer: to quickly find nodes and variables usage within the graph.&lt;br&gt;● Graph Refactor: to batch refactor missing nodes and reflection references.&lt;br&gt;● Live Editing in runtime: faster realize your ideas.&lt;br&gt;● Auto-Convert Connection Types and Generic WildPorts.&lt;br&gt;● Type-Sensitive Intellisense-like context menus.&lt;br&gt;● Multi-Targeted object-based Event Nodes.&lt;br&gt;● Full, Partial, Compact Display Modes and Auto-Bounds Canvas Groups.&lt;br&gt;● Clean and well-documented API, to extend and create custom nodes.&lt;br&gt;● Seamless Integration with &lt;a href=&quot;http:&#x2F;&#x2F;u3d.as&#x2F;6tv&quot;&gt;NodeCanvas&lt;&#x2F;a&gt; BehaviourTrees, FSMs and DialogueTrees, with nested subgraphs between any one another graph module.&lt;br&gt;● User Friendly. Lightweight. No Setup Required.&lt;br&gt;● Solid Performance. Near Zero Allocations. &lt;strong&gt;&lt;em&gt;&lt;&#x2F;strong&gt;&lt;br&gt;● Highly Optimized Reflection for JIT platforms.&lt;br&gt;● Strong Type Connections. No boxing.&lt;br&gt;● Async Graph Loading.&lt;br&gt;● All Platforms Supported.&lt;br&gt;● C# Source Code included!&lt;br&gt;● And much more...&lt;br&gt;&lt;br&gt;&lt;strong&gt;&lt;&#x2F;em&gt;&lt;&#x2F;strong&gt; &quot;.NET 4.x&quot; API Compatibility Level, while not required, it is highly recommended to get the best performance with FlowCanvas when using reflection based nodes.&lt;br&gt;&lt;br&gt;&lt;strong&gt;Add FlowCanvas to your project and enjoy a modern, feature-rich, Visual Scripting solution for Unity with powerful possibilities and without compromises.&lt;&#x2F;strong&gt;&lt;br&gt;&lt;br&gt;&lt;strong&gt;&lt;a href=&quot;http:&#x2F;&#x2F;www.flowcanvas.paradoxnotion.com&quot;&gt;[Documentation, Downloads, Support Forums]&lt;&#x2F;a&gt;&lt;br&gt;&lt;a href=&quot;https:&#x2F;&#x2F;flowcanvas.paradoxnotion.com&#x2F;features-comparison&#x2F;&quot;&gt;[Features Comparison]&lt;&#x2F;a&gt;&lt;br&gt;&lt;a href=&quot;https:&#x2F;&#x2F;discord.gg&#x2F;97q2Rjh&quot;&gt;[Join Us On Discord]&lt;&#x2F;a&gt;&lt;br&gt;&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
+        <content type="html" xml:base="https://yzzfo.github.io/unity/store/FlowCanvas/ignore-index-en/">&lt;p&gt;&lt;br&gt;&lt;br&gt;&lt;strong&gt;&lt;a href=&quot;http:&#x2F;&#x2F;www.flowcanvas.paradoxnotion.com&quot;&gt;[Documentation, Downloads, Support Forums]&lt;&#x2F;a&gt;&lt;br&gt;&lt;a href=&quot;https:&#x2F;&#x2F;flowcanvas.paradoxnotion.com&#x2F;features-comparison&#x2F;&quot;&gt;[Features Comparison]&lt;&#x2F;a&gt;&lt;br&gt;&lt;a href=&quot;https:&#x2F;&#x2F;discord.gg&#x2F;97q2Rjh&quot;&gt;[Join Us On Discord]&lt;&#x2F;a&gt;&lt;br&gt;&lt;&#x2F;strong&gt;&lt;br&gt;&lt;strong&gt;FlowCanvas&lt;&#x2F;strong&gt; is a powerful and feature-rich Visual Scripting Solution for Unity, empowering you to create and manipulate virtually any aspect of gameplay elements for your games in a very similar fashion to Unreal Blueprints, but with far less programming knowledge required all around.&lt;br&gt;&lt;br&gt;&lt;strong&gt;FlowCanvas&lt;&#x2F;strong&gt; gives you the full flexibility of concepts and tools typically available only in code, but through an intuitive visual node editor, making it possible for you to create things from quick prototypes, up to complete game mechanics without writing a single line of code.&lt;br&gt;&lt;br&gt;&lt;strong&gt;✔ Designers:&lt;&#x2F;strong&gt; Prototype, iterate and completely realize your ideas without coding, while also learning how code works the fun way. If you are familiar with Unreal Blueprints you will feel right at home.&lt;br&gt;&lt;br&gt;&lt;strong&gt;✔ Programmers:&lt;&#x2F;strong&gt; Interface with your code at a higher level, creating decoupled systems and&#x2F;or provide new self-contained nodes for designers with an easy and well documented API.&lt;br&gt;&lt;br&gt;By connecting Events, Flow Controllers and Function Nodes together, create and manipulate gameplay elements including but certainly not limited to:&lt;br&gt;&lt;br&gt;● Player Controls.&lt;br&gt;● Level Design Events.&lt;br&gt;● Gameplay Mechanics.&lt;br&gt;● User Interfaces.&lt;br&gt;● Player Interactions.&lt;br&gt;● Resource Management Systems.&lt;br&gt;● And honestly a whole lot more!&lt;br&gt;&lt;br&gt;FlowCanvas is a production ready framework used by awesome games including &lt;strong&gt;Graveyard Keeper, Deadhold, Memories Retold, The Operator, and Len&#x27;s Island&lt;&#x2F;strong&gt; among many others.&lt;br&gt;&lt;br&gt;&lt;strong&gt;FEATURE HIGHLIGHTS&lt;&#x2F;strong&gt;&lt;br&gt;-----------------------------&lt;br&gt;● Sleek and Intuitive Visual Node Editor with all expected pro features.&lt;br&gt;● All Types Supported out-of-the-box.&lt;br&gt;&lt;em&gt;(Classes, Structs, Enums, Collections, Interfaces...)&lt;&#x2F;em&gt;&lt;br&gt;● Automatically Generated Nodes for all and any Unity functionality, your code and 3rd party APIs.&lt;br&gt;&lt;em&gt;(Methods, Properties, Fields, Unity Events, C# Events, Delegates, Generic Methods, Constructors, Extractors and Operators)&lt;&#x2F;em&gt;&lt;br&gt;● More than 60 built-in Event nodes.&lt;br&gt;&lt;em&gt;(triggers, collisions, particles, visibility, input, UI and much more)&lt;&#x2F;em&gt;&lt;br&gt;● More than 30 built-in Flow Controller nodes.&lt;br&gt;&lt;em&gt;(for-loops, ifs, whiles, cooldowns, filters, togglers, selectors, gotos, switch-statements and much more)&lt;&#x2F;em&gt;&lt;br&gt;● Custom Events &amp;amp; asset-based Signal Events with any # of parameters.&lt;br&gt;● Custom local flowScript Functions.&lt;br&gt;● Custom reusable Macros and nested flowScripts.&lt;br&gt;● Graph, GameObject, Asset and Global Variables.&lt;br&gt;● Blackboard Variables Parenting.&lt;br&gt;● Data Bound Variables with instance or static properties and fields.&lt;br&gt;● Prefab Overridable Variables support.&lt;br&gt;● Colorful and informative runtime Visual Debugging.&lt;br&gt;● Node Browser: to search, favorite and read built-in documentation.&lt;br&gt;● Preferred Types Configurator: to tailor type-related menus to your project.&lt;br&gt;● Graph Minimap: to navigate your graphs with ease.&lt;br&gt;● Graph Console: to automatically locate faulty nodes with a single mouse click.&lt;br&gt;● Graph Explorer: to quickly find nodes and variables usage within the graph.&lt;br&gt;● Graph Refactor: to batch refactor missing nodes and reflection references.&lt;br&gt;● Live Editing in runtime: faster realize your ideas.&lt;br&gt;● Auto-Convert Connection Types and Generic WildPorts.&lt;br&gt;● Type-Sensitive Intellisense-like context menus.&lt;br&gt;● Multi-Targeted object-based Event Nodes.&lt;br&gt;● Full, Partial, Compact Display Modes and Auto-Bounds Canvas Groups.&lt;br&gt;● Clean and well-documented API, to extend and create custom nodes.&lt;br&gt;● Seamless Integration with &lt;a href=&quot;http:&#x2F;&#x2F;u3d.as&#x2F;6tv&quot;&gt;NodeCanvas&lt;&#x2F;a&gt; BehaviourTrees, FSMs and DialogueTrees, with nested subgraphs between any one another graph module.&lt;br&gt;● User Friendly. Lightweight. No Setup Required.&lt;br&gt;● Solid Performance. Near Zero Allocations. &lt;strong&gt;&lt;em&gt;&lt;&#x2F;strong&gt;&lt;br&gt;● Highly Optimized Reflection for JIT platforms.&lt;br&gt;● Strong Type Connections. No boxing.&lt;br&gt;● Async Graph Loading.&lt;br&gt;● All Platforms Supported.&lt;br&gt;● C# Source Code included!&lt;br&gt;● And much more...&lt;br&gt;&lt;br&gt;&lt;strong&gt;&lt;&#x2F;em&gt;&lt;&#x2F;strong&gt; &quot;.NET Framework&quot; API Compatibility Level, while not required, is highly recommended to get the best performance with FlowCanvas when using reflection-based nodes.&lt;br&gt;&lt;br&gt;&lt;strong&gt;Add FlowCanvas to your project and enjoy a modern, feature-rich, Visual Scripting solution for Unity with powerful possibilities and without compromises.&lt;&#x2F;strong&gt;&lt;br&gt;&lt;br&gt;&lt;strong&gt;&lt;a href=&quot;http:&#x2F;&#x2F;www.flowcanvas.paradoxnotion.com&quot;&gt;[Documentation, Downloads, Support Forums]&lt;&#x2F;a&gt;&lt;br&gt;&lt;a href=&quot;https:&#x2F;&#x2F;flowcanvas.paradoxnotion.com&#x2F;features-comparison&#x2F;&quot;&gt;[Features Comparison]&lt;&#x2F;a&gt;&lt;br&gt;&lt;a href=&quot;https:&#x2F;&#x2F;discord.gg&#x2F;97q2Rjh&quot;&gt;[Join Us On Discord]&lt;&#x2F;a&gt;&lt;br&gt;&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
 </content>
         
     </entry>
     <entry xml:lang="zh">
         <title>FlowCanvas</title>
         <published>2024-11-29T21:16:25+00:00</published>
-        <updated>2024-12-17T14:08:22+00:00</updated>
+        <updated>2025-02-16T17:06:09+00:00</updated>
         
         <author>
           <name>
@@ -195,7 +195,7 @@
     <entry xml:lang="zh">
         <title>Behavior Designer - Behavior Trees for Everyone</title>
         <published>2024-11-29T21:16:06+00:00</published>
-        <updated>2024-12-17T14:08:13+00:00</updated>
+        <updated>2025-02-16T17:06:00+00:00</updated>
         
         <author>
           <name>
@@ -215,7 +215,7 @@
     <entry xml:lang="zh">
         <title>Behavior Designer - Behavior Trees for Everyone</title>
         <published>2024-11-29T21:16:06+00:00</published>
-        <updated>2024-12-17T14:08:13+00:00</updated>
+        <updated>2025-02-16T17:06:00+00:00</updated>
         
         <author>
           <name>

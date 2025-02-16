@@ -5,7 +5,7 @@
     <link rel="self" type="application/atom+xml" href="https://yzzfo.github.io/tags/shield/atom.xml"/>
     <link rel="alternate" type="text/html" href="https://yzzfo.github.io"/>
     <generator uri="https://www.getzola.org/">Zola</generator>
-    <updated>2024-12-17T13:43:12+00:00</updated>
+    <updated>2025-02-16T17:36:32+00:00</updated>
     <id>https://yzzfo.github.io/tags/shield/atom.xml</id>
     <entry xml:lang="zh">
         <title>RPG VFX Bundle</title>
@@ -50,7 +50,7 @@
     <entry xml:lang="zh">
         <title>Character Auras</title>
         <published>2024-11-29T21:20:26+00:00</published>
-        <updated>2024-12-17T13:28:56+00:00</updated>
+        <updated>2025-02-16T17:36:32+00:00</updated>
         
         <author>
           <name>
@@ -70,7 +70,7 @@
     <entry xml:lang="zh">
         <title>Character Auras</title>
         <published>2024-11-29T21:20:26+00:00</published>
-        <updated>2024-12-17T13:28:56+00:00</updated>
+        <updated>2025-02-16T17:36:32+00:00</updated>
         
         <author>
           <name>
@@ -85,7 +85,7 @@
         
         <content type="html" xml:base="https://yzzfo.github.io/unity/store/character-auras/">&lt;p&gt;15个惊人的角色光环效果！&lt;&#x2F;p&gt;
 &lt;p&gt;该包包含&lt;strong&gt;15&lt;&#x2F;strong&gt;个惊人的光环效果：&lt;&#x2F;p&gt;&lt;ul&gt;&lt;li&gt;水光环&lt;&#x2F;li&gt;&lt;li&gt;白色光环&lt;&#x2F;li&gt;&lt;li&gt;肥皂光环&lt;&#x2F;li&gt;&lt;li&gt;烟雾光环&lt;&#x2F;li&gt;&lt;li&gt;睡眠光环&lt;&#x2F;li&gt;&lt;li&gt;闪耀光环&lt;&#x2F;li&gt;&lt;li&gt;流星光环&lt;&#x2F;li&gt;&lt;li&gt;闪电光环&lt;&#x2F;li&gt;&lt;li&gt;治疗光环&lt;&#x2F;li&gt;&lt;li&gt;金色光环&lt;&#x2F;li&gt;&lt;li&gt;冰冻光环&lt;&#x2F;li&gt;&lt;li&gt;火焰光环&lt;&#x2F;li&gt;&lt;li&gt;黑暗光环&lt;&#x2F;li&gt;&lt;li&gt;血液光环&lt;&#x2F;li&gt;&lt;li&gt;酸性光环&lt;&#x2F;li&gt;&lt;&#x2F;ul&gt;&lt;p&gt;所有预制件均为游戏准备就绪，只需将它们拖放到您的游戏中即可！&lt;&#x2F;p&gt;
-&lt;p&gt;默认支持内置渲染。&lt;strong&gt;HDRP和URP通过&lt;&#x2F;strong&gt;&lt;a href=&quot;https:&#x2F;&#x2F;assetstore.unity.com&#x2F;packages&#x2F;tools&#x2F;utilities&#x2F;support-package-for-hovl-studio-assets-157764&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;这个&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt;&lt;strong&gt;免费的Unity 2021或更低版本的包进行支持。&lt;&#x2F;strong&gt;在购买我的资产之一后，它将变为免费。&lt;&#x2F;p&gt;&lt;p&gt;&lt;strong&gt;URP&#x2F;HDRP是Unity 2022或Unity 6+的默认设置&lt;&#x2F;strong&gt;。需要Shader Graph，该组件与此资产一起安装。可以更改为内置渲染。&lt;&#x2F;p&gt;&lt;p&gt;&lt;strong&gt;支持所有平台！&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;默认支持内置渲染。&lt;strong&gt;HDRP和URP通过&lt;&#x2F;strong&gt;&lt;a href=&quot;https:&#x2F;&#x2F;assetstore.unity.com&#x2F;packages&#x2F;tools&#x2F;utilities&#x2F;support-package-for-hovl-studio-assets-157764&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;这个&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt;&lt;strong&gt;免费包支持Unity 2021或更低版本。&lt;&#x2F;strong&gt;在购买我的资产之一后，它将变为免费。&lt;&#x2F;p&gt;&lt;p&gt;&lt;strong&gt;URP&#x2F;HDRP是Unity 2022或Unity 6+的默认设置&lt;&#x2F;strong&gt;。需要Shader Graph，它与此资产一起安装。可以更改为内置渲染。&lt;&#x2F;p&gt;&lt;p&gt;&lt;strong&gt;支持所有平台！&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
 &lt;p&gt;&lt;strong&gt;这些不是网格效果！所有效果只是简单的循环粒子系统！&lt;&#x2F;strong&gt;宣传媒体（视频、图片）使用来自Volume组件的后期处理“辉光”。&lt;&#x2F;p&gt;&lt;p&gt;如果您有任何问题或疑问，请与我联系。联系方式在个人资料页面上。&lt;&#x2F;p&gt;</content>
         
     </entry>

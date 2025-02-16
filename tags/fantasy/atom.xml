@@ -5,7 +5,7 @@
     <link rel="self" type="application/atom+xml" href="https://yzzfo.github.io/tags/fantasy/atom.xml"/>
     <link rel="alternate" type="text/html" href="https://yzzfo.github.io"/>
     <generator uri="https://www.getzola.org/">Zola</generator>
-    <updated>2025-01-03T01:00:29+00:00</updated>
+    <updated>2025-02-16T17:44:36+00:00</updated>
     <id>https://yzzfo.github.io/tags/fantasy/atom.xml</id>
     <entry xml:lang="zh">
         <title>FANTASTIC - Nature Pack</title>
@@ -339,7 +339,7 @@
     <entry xml:lang="zh">
         <title>STORY - Wildlands Nature</title>
         <published>2024-12-03T01:14:33+00:00</published>
-        <updated>2024-12-17T13:33:26+00:00</updated>
+        <updated>2025-02-16T17:44:36+00:00</updated>
         
         <author>
           <name>
@@ -359,7 +359,7 @@
     <entry xml:lang="zh">
         <title>STORY - Wildlands Nature</title>
         <published>2024-12-03T01:14:33+00:00</published>
-        <updated>2024-12-17T13:33:26+00:00</updated>
+        <updated>2025-02-16T17:44:36+00:00</updated>
         
         <author>
           <name>
@@ -378,16 +378,16 @@
 &lt;p&gt;查看我们的荒野捆绑包，节省开支：&lt;a href=&quot;https:&#x2F;&#x2F;assetstore.unity.com&#x2F;packages&#x2F;3d&#x2F;environments&#x2F;story-wildlands-bundle-159615&quot; target=&quot;_blank&quot;&gt; &lt;strong&gt;故事 - 荒野捆绑包 &lt;&#x2F;strong&gt;&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
 &lt;p&gt;&lt;strong&gt;特点：&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
 &lt;p&gt;&lt;strong&gt;3D资产：&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;ul&gt;&lt;li&gt;6种松树变体&lt;&#x2F;li&gt;&lt;li&gt;9种白桦树变体&lt;&#x2F;li&gt;&lt;li&gt;8块石头和2个石崖&lt;&#x2F;li&gt;&lt;li&gt;23种植物&lt;&#x2F;li&gt;&lt;&#x2F;ul&gt;&lt;p&gt;树木和石头有3个LOD。所有资产在第二个UV通道中都有自定义光照贴图。&lt;&#x2F;p&gt;
-&lt;p&gt;&lt;strong&gt;纹理：&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;ul&gt;&lt;li&gt;1个手绘天空盒&lt;&#x2F;li&gt;&lt;li&gt;2个可平铺的木材纹理&lt;&#x2F;li&gt;&lt;li&gt;2个地形纹理&lt;&#x2F;li&gt;&lt;li&gt;6个植物图集&lt;&#x2F;li&gt;&lt;li&gt;3种草地&lt;&#x2F;li&gt;&lt;li&gt;3种特效纹理&lt;&#x2F;li&gt;&lt;&#x2F;ul&gt;
-&lt;p&gt;&lt;strong&gt;着色器：&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;p&gt;使用Amplify创建了自定义着色器&lt;&#x2F;p&gt;&lt;ul&gt;&lt;li&gt;可定制的水面着色器&lt;&#x2F;li&gt;&lt;li&gt;可定制的草和树叶风动及颜色着色器&lt;&#x2F;li&gt;&lt;li&gt;可定制的石头颜色和顶部投影着色器&lt;&#x2F;li&gt;&lt;li&gt;内置版本的简单双面着色器&lt;&#x2F;li&gt;&lt;&#x2F;ul&gt;
-&lt;p&gt;&lt;strong&gt;特效：&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;ul&gt;&lt;li&gt;发光粒子效果&lt;&#x2F;li&gt;&lt;li&gt;光束效果&lt;&#x2F;li&gt;&lt;&#x2F;ul&gt;
+&lt;p&gt;&lt;strong&gt;纹理：&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;ul&gt;&lt;li&gt;1个手绘天空盒&lt;&#x2F;li&gt;&lt;li&gt;2个可平铺的木材纹理&lt;&#x2F;li&gt;&lt;li&gt;2个地形纹理&lt;&#x2F;li&gt;&lt;li&gt;6个植物图集&lt;&#x2F;li&gt;&lt;li&gt;3种草&lt;&#x2F;li&gt;&lt;li&gt;3种特效纹理&lt;&#x2F;li&gt;&lt;&#x2F;ul&gt;
+&lt;p&gt;&lt;strong&gt;着色器：&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;p&gt;使用Amplify创建了自定义着色器&lt;&#x2F;p&gt;&lt;ul&gt;&lt;li&gt;可定制的水面着色器&lt;&#x2F;li&gt;&lt;li&gt;可定制的草和树叶风动及颜色着色器&lt;&#x2F;li&gt;&lt;li&gt;可定制的石头��色和顶部投影着色器&lt;&#x2F;li&gt;&lt;li&gt;内置版本的简单双面着色器&lt;&#x2F;li&gt;&lt;&#x2F;ul&gt;
+&lt;p&gt;&lt;strong&gt;特效：&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;ul&gt;&lt;li&gt;发光粒子效果&lt;&#x2F;li&gt;&lt;li&gt;神光效果&lt;&#x2F;li&gt;&lt;&#x2F;ul&gt;
 &lt;p&gt;&lt;strong&gt;关注我们以获取最新消息&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.tidalflask.com&#x2F;&quot; target=&quot;_blank&quot;&gt; 网站 &lt;&#x2F;a&gt; | &lt;a href=&quot;https:&#x2F;&#x2F;twitter.com&#x2F;tidalflask&quot; target=&quot;_blank&quot;&gt; 推特 &lt;&#x2F;a&gt; | &lt;a href=&quot;https:&#x2F;&#x2F;www.facebook.com&#x2F;tidalflask&quot; target=&quot;_blank&quot;&gt; Facebook &lt;&#x2F;a&gt;&lt;&#x2F;p&gt;&lt;br&gt;&lt;p &gt;&lt;strong&gt;查看我们的其他资源包&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;p &gt;&lt;a href=&quot;https:&#x2F;&#x2F;assetstore.unity.com&#x2F;lists&#x2F;story-3d-packs-series-142534&quot; target=&quot;_blank&quot;&gt; 故事 - 3D 资源包系列 &lt;&#x2F;a&gt;&lt;&#x2F;p&gt;&lt;p &gt;&lt;a href=&quot;https:&#x2F;&#x2F;assetstore.unity.com&#x2F;lists&#x2F;fantastic-3d-packs-series-130169&quot; target=&quot;_blank&quot;&gt; 奇幻 - 3D 资源包系列 &lt;&#x2F;a&gt;&lt;&#x2F;p&gt;</content>
         
     </entry>
     <entry xml:lang="zh">
         <title>Mountain Valley - Stylized Fantasy Nature Environment</title>
         <published>2024-12-03T00:46:43+00:00</published>
-        <updated>2024-12-17T13:32:41+00:00</updated>
+        <updated>2025-02-16T17:43:41+00:00</updated>
         
         <author>
           <name>
@@ -407,7 +407,7 @@
     <entry xml:lang="zh">
         <title>Mountain Valley - Stylized Fantasy Nature Environment</title>
         <published>2024-12-03T00:46:43+00:00</published>
-        <updated>2024-12-17T13:32:41+00:00</updated>
+        <updated>2025-02-16T17:43:41+00:00</updated>
         
         <author>
           <name>
@@ -421,15 +421,15 @@
         <id>https://yzzfo.github.io/unity/store/mountain-valley-stylized-fantasy-nature-environment/</id>
         
         <content type="html" xml:base="https://yzzfo.github.io/unity/store/mountain-valley-stylized-fantasy-nature-environment/">&lt;p&gt;创建美丽的风格化环境，为您的游戏提供我们的模块化资产包！&lt;&#x2F;p&gt;
-&lt;p&gt;使用&lt;strong&gt;山谷&lt;&#x2F;strong&gt;构建您游戏中美丽的风景——这是一个令人惊叹的风格化环境，非常适合平台游戏和奇幻角色扮演游戏。此包具有令人叹为观止的鲜艳色彩、郁郁葱葱的植被，如树木、草和灌木，以及岩石和自定义天空盒。用这个精美制作的山谷环境为您的游戏世界注入生命，为您的项目增添一丝魔力。&lt;&#x2F;p&gt;
-&lt;p&gt;&lt;strong&gt;特点与内容&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;ul&gt;&lt;li&gt;美丽的风格化环境艺术&lt;&#x2F;li&gt;&lt;li&gt;树木和其他植被上的美丽风动画&lt;&#x2F;li&gt;&lt;li&gt;美丽的演示场景，展示如何将所有包含的功能结合在一起&lt;&#x2F;li&gt;&lt;li&gt;植被入门包（花、岩石、树、灌木和草）&lt;&#x2F;li&gt;&lt;li&gt;落叶粒子系统&lt;&#x2F;li&gt;&lt;li&gt;漂浮尘埃粒子系统&lt;&#x2F;li&gt;&lt;li&gt;光线粒子系统&lt;&#x2F;li&gt;&lt;li&gt;具有颜色调 tint 和风设置的自定义植被着色器&lt;&#x2F;li&gt;&lt;&#x2F;ul&gt;
+&lt;p&gt;使用&lt;strong&gt;山谷&lt;&#x2F;strong&gt;构建您游戏中的美丽景观——这是一个令人惊叹的风格化环境，非常适合平台游戏和奇幻角色扮演游戏。此包具有令人叹为观止的鲜艳色彩、郁郁葱葱的植被，如树木、草和灌木，以及岩石和自定义天空盒。用这个精美制作的山谷环境为您的游戏世界注入生命，为您的项目增添一丝魔力。&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;strong&gt;特点与内容&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;ul&gt;&lt;li&gt;美丽的风格化环境艺术&lt;&#x2F;li&gt;&lt;li&gt;树木和其他植被上的美丽风动画&lt;&#x2F;li&gt;&lt;li&gt;美丽的演示场景，展示如何将所有包含的功能结合在一起&lt;&#x2F;li&gt;&lt;li&gt;植被入门包（花、岩石、树、灌木和草）&lt;&#x2F;li&gt;&lt;li&gt;落叶粒子系统&lt;&#x2F;li&gt;&lt;li&gt;漂浮尘埃粒子系统&lt;&#x2F;li&gt;&lt;li&gt;光线粒子系统&lt;&#x2F;li&gt;&lt;li&gt;自定义植被着色器，具有颜色调和风设置&lt;&#x2F;li&gt;&lt;&#x2F;ul&gt;
 &lt;p&gt;&lt;strong&gt;*请注意&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;p&gt;演示视频中的音频文件不属于此包&lt;&#x2F;p&gt;</content>
         
     </entry>
     <entry xml:lang="zh">
         <title>Combat animations - Kickboxing and Muay Thai V2</title>
         <published>2024-12-01T18:53:31+00:00</published>
-        <updated>2024-12-17T13:31:33+00:00</updated>
+        <updated>2025-02-16T17:42:08+00:00</updated>
         
         <author>
           <name>
@@ -449,7 +449,7 @@
     <entry xml:lang="zh">
         <title>Combat animations - Kickboxing and Muay Thai V2</title>
         <published>2024-12-01T18:53:31+00:00</published>
-        <updated>2024-12-17T13:31:33+00:00</updated>
+        <updated>2025-02-16T17:42:08+00:00</updated>
         
         <author>
           <name>
@@ -463,14 +463,14 @@
         <id>https://yzzfo.github.io/unity/store/combat-animations-kickboxing-and-muay-thai-v2/</id>
         
         <content type="html" xml:base="https://yzzfo.github.io/unity/store/combat-animations-kickboxing-and-muay-thai-v2/">&lt;p&gt;Collection of animations for Kickboxing and Muay Thai part 2&lt;&#x2F;p&gt;
-&lt;p&gt;A set of 31 third-person Kickboxing and Muay Thai animations&lt;&#x2F;p&gt;&lt;p&gt;姿势匹配的起始和结束帧&lt;&#x2F;p&gt;&lt;p&gt;类人3D动画，适用于重定向到其他类人3D角色的动画动作。&lt;&#x2F;p&gt;&lt;p&gt;这些泰拳动画的第一部分在&lt;a href=&quot;https:&#x2F;&#x2F;assetstore.unity.com&#x2F;packages&#x2F;slug&#x2F;202886&quot; target=&quot;_blank&quot;&gt;这里&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;  
-&lt;p&gt;我们邀请您访问我的页面。还有其他作品希望您能看到&lt;a href=&quot;https:&#x2F;&#x2F;assetstore.unity.com&#x2F;publishers&#x2F;56005?_ga=2.198619887.1778482432.1636715525-1776350741.1628504465&amp;_gac=1.82762212.1633960559.Cj0KCQjwwY-LBhD6ARIsACvT72OwlmosnD9LngefWGHTPOSiUU-YRL73PscMfovVseRlCecPWW9x11gaAlpZEALw_wcB&quot; target=&quot;_blank&quot;&gt;这里&lt;&#x2F;a&gt;。&lt;&#x2F;p&gt;</content>
+&lt;p&gt;A set of 31 第三人称踢拳和泰拳动画&lt;&#x2F;p&gt;&lt;p&gt;姿势匹配的起始和结束帧&lt;&#x2F;p&gt;&lt;p&gt;类人3D动画，动画动作可重新定向到其他类人3D角色。&lt;&#x2F;p&gt;&lt;p&gt;这些泰拳动画的第一部分在 &lt;a href=&quot;https:&#x2F;&#x2F;assetstore.unity.com&#x2F;packages&#x2F;slug&#x2F;202886&quot; target=&quot;_blank&quot;&gt;这里&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;  
+&lt;p&gt;我们邀请您访问我的页面。还有其他作品我们希望您能看到 &lt;a href=&quot;https:&#x2F;&#x2F;assetstore.unity.com&#x2F;publishers&#x2F;56005?_ga=2.198619887.1778482432.1636715525-1776350741.1628504465&amp;_gac=1.82762212.1633960559.Cj0KCQjwwY-LBhD6ARIsACvT72OwlmosnD9LngefWGHTPOSiUU-YRL73PscMfovVseRlCecPWW9x11gaAlpZEALw_wcB&quot; target=&quot;_blank&quot;&gt;这里&lt;&#x2F;a&gt;。&lt;&#x2F;p&gt;</content>
         
     </entry>
     <entry xml:lang="zh">
         <title>Combat animations - Kickboxing and Muay Thai V1</title>
         <published>2024-11-30T19:54:50+00:00</published>
-        <updated>2024-12-17T13:30:59+00:00</updated>
+        <updated>2025-02-16T17:41:49+00:00</updated>
         
         <author>
           <name>
@@ -490,7 +490,7 @@
     <entry xml:lang="zh">
         <title>Combat animations - Kickboxing and Muay Thai V1</title>
         <published>2024-11-30T19:54:50+00:00</published>
-        <updated>2024-12-17T13:30:59+00:00</updated>
+        <updated>2025-02-16T17:41:49+00:00</updated>
         
         <author>
           <name>
@@ -503,8 +503,8 @@
         <link rel="alternate" type="text/html" href="https://yzzfo.github.io/unity/store/combat-animations-kickboxing-and-muay-thai-v1/"/>
         <id>https://yzzfo.github.io/unity/store/combat-animations-kickboxing-and-muay-thai-v1/</id>
         
-        <content type="html" xml:base="https://yzzfo.github.io/unity/store/combat-animations-kickboxing-and-muay-thai-v1/">&lt;p&gt;Collection of animations for Kickboxing and Muay Thai&lt;&#x2F;p&gt;
-&lt;p&gt;连续的镜像动作 - &lt;a href=&quot;https:&#x2F;&#x2F;youtu.be&#x2F;ZlOfiNEiThM&quot; target=&quot;_blank&quot;&gt;https:&#x2F;&#x2F;youtu.be&#x2F;ZlOfiNEiThM&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;&lt;p&gt;一套19个第三人称的踢拳和泰拳动画&lt;&#x2F;p&gt;&lt;p&gt;姿势匹配的起始和结束帧&lt;&#x2F;p&gt;&lt;p&gt;类人3D动画，适用于重定向到其他类人3D角色的动画动作。&lt;&#x2F;p&gt;&lt;p&gt;这些泰拳动画的第二部分在&lt;a href=&quot;https:&#x2F;&#x2F;u3d.as&#x2F;2FxD&quot; target=&quot;_blank&quot;&gt;这里&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+        <content type="html" xml:base="https://yzzfo.github.io/unity/store/combat-animations-kickboxing-and-muay-thai-v1/">&lt;p&gt;Kickboxing和Muay Thai的动画合集&lt;&#x2F;p&gt;
+&lt;p&gt;连续的镜像动作 - &lt;a href=&quot;https:&#x2F;&#x2F;youtu.be&#x2F;ZlOfiNEiThM&quot; target=&quot;_blank&quot;&gt;https:&#x2F;&#x2F;youtu.be&#x2F;ZlOfiNEiThM&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;&lt;p&gt;一组19个第三人称Kickboxing和Muay Thai动画&lt;&#x2F;p&gt;&lt;p&gt;姿势匹配的起始和结束帧&lt;&#x2F;p&gt;&lt;p&gt;类人3D动画，适用于重新定向到其他类人3D角色的动画动作。&lt;&#x2F;p&gt;&lt;p&gt;这些Muay Thai动画的第二部分在&lt;a href=&quot;https:&#x2F;&#x2F;u3d.as&#x2F;2FxD&quot; target=&quot;_blank&quot;&gt;这里&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
 &lt;p&gt;我们邀请您访问我的页面。还有其他作品希望您能看到&lt;a href=&quot;https:&#x2F;&#x2F;assetstore.unity.com&#x2F;publishers&#x2F;56005?_ga=2.198619887.1778482432.1636715525-1776350741.1628504465&amp;_gac=1.82762212.1633960559.Cj0KCQjwwY-LBhD6ARIsACvT72OwlmosnD9LngefWGHTPOSiUU-YRL73PscMfovVseRlCecPWW9x11gaAlpZEALw_wcB&quot; target=&quot;_blank&quot;&gt;这里&lt;&#x2F;a&gt;。&lt;&#x2F;p&gt;</content>
         
     </entry>
@@ -623,7 +623,7 @@
     <entry xml:lang="zh">
         <title>Character Auras</title>
         <published>2024-11-29T21:20:26+00:00</published>
-        <updated>2024-12-17T13:28:56+00:00</updated>
+        <updated>2025-02-16T17:36:32+00:00</updated>
         
         <author>
           <name>
@@ -643,7 +643,7 @@
     <entry xml:lang="zh">
         <title>Character Auras</title>
         <published>2024-11-29T21:20:26+00:00</published>
-        <updated>2024-12-17T13:28:56+00:00</updated>
+        <updated>2025-02-16T17:36:32+00:00</updated>
         
         <author>
           <name>
@@ -658,7 +658,7 @@
         
         <content type="html" xml:base="https://yzzfo.github.io/unity/store/character-auras/">&lt;p&gt;15个惊人的角色光环效果！&lt;&#x2F;p&gt;
 &lt;p&gt;该包包含&lt;strong&gt;15&lt;&#x2F;strong&gt;个惊人的光环效果：&lt;&#x2F;p&gt;&lt;ul&gt;&lt;li&gt;水光环&lt;&#x2F;li&gt;&lt;li&gt;白色光环&lt;&#x2F;li&gt;&lt;li&gt;肥皂光环&lt;&#x2F;li&gt;&lt;li&gt;烟雾光环&lt;&#x2F;li&gt;&lt;li&gt;睡眠光环&lt;&#x2F;li&gt;&lt;li&gt;闪耀光环&lt;&#x2F;li&gt;&lt;li&gt;流星光环&lt;&#x2F;li&gt;&lt;li&gt;闪电光环&lt;&#x2F;li&gt;&lt;li&gt;治疗光环&lt;&#x2F;li&gt;&lt;li&gt;金色光环&lt;&#x2F;li&gt;&lt;li&gt;冰冻光环&lt;&#x2F;li&gt;&lt;li&gt;火焰光环&lt;&#x2F;li&gt;&lt;li&gt;黑暗光环&lt;&#x2F;li&gt;&lt;li&gt;血液光环&lt;&#x2F;li&gt;&lt;li&gt;酸性光环&lt;&#x2F;li&gt;&lt;&#x2F;ul&gt;&lt;p&gt;所有预制件均为游戏准备就绪，只需将它们拖放到您的游戏中即可！&lt;&#x2F;p&gt;
-&lt;p&gt;默认支持内置渲染。&lt;strong&gt;HDRP和URP通过&lt;&#x2F;strong&gt;&lt;a href=&quot;https:&#x2F;&#x2F;assetstore.unity.com&#x2F;packages&#x2F;tools&#x2F;utilities&#x2F;support-package-for-hovl-studio-assets-157764&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;这个&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt;&lt;strong&gt;免费的Unity 2021或更低版本的包进行支持。&lt;&#x2F;strong&gt;在购买我的资产之一后，它将变为免费。&lt;&#x2F;p&gt;&lt;p&gt;&lt;strong&gt;URP&#x2F;HDRP是Unity 2022或Unity 6+的默认设置&lt;&#x2F;strong&gt;。需要Shader Graph，该组件与此资产一起安装。可以更改为内置渲染。&lt;&#x2F;p&gt;&lt;p&gt;&lt;strong&gt;支持所有平台！&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;默认支持内置渲染。&lt;strong&gt;HDRP和URP通过&lt;&#x2F;strong&gt;&lt;a href=&quot;https:&#x2F;&#x2F;assetstore.unity.com&#x2F;packages&#x2F;tools&#x2F;utilities&#x2F;support-package-for-hovl-studio-assets-157764&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;这个&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt;&lt;strong&gt;免费包支持Unity 2021或更低版本。&lt;&#x2F;strong&gt;在购买我的资产之一后，它将变为免费。&lt;&#x2F;p&gt;&lt;p&gt;&lt;strong&gt;URP&#x2F;HDRP是Unity 2022或Unity 6+的默认设置&lt;&#x2F;strong&gt;。需要Shader Graph，它与此资产一起安装。可以更改为内置渲染。&lt;&#x2F;p&gt;&lt;p&gt;&lt;strong&gt;支持所有平台！&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
 &lt;p&gt;&lt;strong&gt;这些不是网格效果！所有效果只是简单的循环粒子系统！&lt;&#x2F;strong&gt;宣传媒体（视频、图片）使用来自Volume组件的后期处理“辉光”。&lt;&#x2F;p&gt;&lt;p&gt;如果您有任何问题或疑问，请与我联系。联系方式在个人资料页面上。&lt;&#x2F;p&gt;</content>
         
     </entry>
@@ -708,7 +708,7 @@
     <entry xml:lang="zh">
         <title>Mesh Effects</title>
         <published>2024-11-29T21:19:19+00:00</published>
-        <updated>2024-12-17T13:28:09+00:00</updated>
+        <updated>2025-02-16T17:36:06+00:00</updated>
         
         <author>
           <name>
@@ -728,7 +728,7 @@
     <entry xml:lang="zh">
         <title>Mesh Effects</title>
         <published>2024-11-29T21:19:19+00:00</published>
-        <updated>2024-12-17T13:28:09+00:00</updated>
+        <updated>2025-02-16T17:36:06+00:00</updated>
         
         <author>
           <name>
@@ -802,7 +802,7 @@
     <entry xml:lang="zh">
         <title>POLYGON Western Frontier - Low Poly 3D Art by Synty</title>
         <published>2024-11-29T21:17:13+00:00</published>
-        <updated>2024-12-17T14:09:05+00:00</updated>
+        <updated>2025-02-16T17:31:43+00:00</updated>
         
         <author>
           <name>
@@ -822,7 +822,7 @@
     <entry xml:lang="zh">
         <title>POLYGON Western Frontier - Low Poly 3D Art by Synty</title>
         <published>2024-11-29T21:17:13+00:00</published>
-        <updated>2024-12-17T14:09:05+00:00</updated>
+        <updated>2025-02-16T17:31:43+00:00</updated>
         
         <author>
           <name>
@@ -836,21 +836,21 @@
         <id>https://yzzfo.github.io/unity/store/polygon-western-frontier-low-poly-3d-art-by-synty/</id>
         
         <content type="html" xml:base="https://yzzfo.github.io/unity/store/polygon-western-frontier-low-poly-3d-art-by-synty/">&lt;p &gt;&lt;strong&gt;◼&lt;&#x2F;strong&gt; &lt;a href=&quot;http:&#x2F;&#x2F;discord.gg&#x2F;syntystudios&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;Synty Discord 社区&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt;&lt;strong&gt; ◼&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;p &gt;&lt;strong&gt;加入我们的 &lt;&#x2F;strong&gt;&lt;a href=&quot;http:&#x2F;&#x2F;discord.gg&#x2F;syntystudios&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;Discord&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt;&lt;strong&gt;，学习、创造和分享！&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
-&lt;p &gt;&lt;a href=&quot;https:&#x2F;&#x2F;assetstore.unity.com&#x2F;publishers&#x2F;5217&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;Synty Studios™&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt;&lt;strong&gt; 呈现 -&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
+&lt;p &gt;&lt;a href=&quot;https:&#x2F;&#x2F;assetstore.unity.com&#x2F;publishers&#x2F;5217&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;Synty Studios™&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt;&lt;strong&gt; 介绍 -&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
 &lt;p &gt;一款史诗级低多边形资产包，包含角色、道具、武器、车辆和环境资产，用于创建西部主题的多边形风格游戏。&lt;&#x2F;p&gt;
 &lt;p &gt;是 &lt;a href=&quot;https:&#x2F;&#x2F;assetstore.unity.com&#x2F;packages&#x2F;3d&#x2F;environments&#x2F;historic&#x2F;polygon-western-pack-112212&quot; target=&quot;_blank&quot;&gt;POLYGON - 西部包&lt;&#x2F;a&gt; 的绝佳补充。&lt;&#x2F;p&gt;
 &lt;p &gt;&lt;strong&gt;主要特点 -&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;p &gt;&lt;strong&gt;329 个独特资产，具有四种替代纹理颜色。&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
 &lt;p &gt;&lt;strong&gt;资产&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;p &gt;- 建筑资产 (x42)，环境资产 (x147)，特效 (x5)，通用资产 (x9)，道具资产 (x87)&lt;&#x2F;p&gt;
 &lt;p &gt;&lt;strong&gt;车辆 (x3)&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;p &gt;- 监狱马车、商店马车、旅行马车。&lt;&#x2F;p&gt;
-&lt;p &gt;&lt;strong&gt;角色 (x21)&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;p &gt;- 男盗贼、男队长、男金矿工、男猎人、墨西哥女性、墨西哥男性 01、墨西哥男性 02、美国原住民女性 01、美国原住民首领男性 01、美国原住民长者女性 01、美国原住民战士女性 01、美国原住民战士男性 01、美国原住民战士男性 02、美国原住民战士男性 03、男性牧师 01、男性推销员 01、男性士兵 01、男性暴徒 01、男性暴徒 02、女性旅行者 01。&lt;&#x2F;p&gt;&lt;p &gt;(带有替代颜色)&lt;&#x2F;p&gt;
-&lt;p &gt;&lt;strong&gt;武器 (x15)&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;p &gt;- 斧头、链枪、枪托、锤子、刀、镐、左轮手枪、步枪、步枪刺刀、步枪堆、霰弹枪、铲子、矛、剑。&lt;&#x2F;p&gt;&lt;p &gt;- 包含大量精彩内容（请查看布局截图以获取更多详细信息）&lt;&#x2F;p&gt;&lt;br&gt;&lt;p &gt;&lt;strong&gt;查看我们的其他资源&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;ul&gt;&lt;li &gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.assetstore.unity3d.com&#x2F;en&#x2F;?stay#!&#x2F;list&#x2F;44060-polygon-3d-asset-series-by-synty-studios&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;POLYGON - 3D 资源系列&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;&lt;li &gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.assetstore.unity3d.com&#x2F;en&#x2F;?stay#!&#x2F;list&#x2F;115084-mini-3d-asset-series-by-synty-studios&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;迷你 - 3D 资源系列&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;&lt;li &gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.assetstore.unity3d.com&#x2F;en&#x2F;?stay#!&#x2F;list&#x2F;65459-simple-3d-asset-series-by-synty-studios&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;简单 - 3D 资源系列&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;&lt;&#x2F;ul&gt;&lt;p &gt;&lt;strong&gt;◼ 兼容性 &lt;&#x2F;strong&gt;◼&lt;&#x2F;p&gt;&lt;p &gt;- 支持通用渲染管线 (URP) - &lt;a href=&quot;https:&#x2F;&#x2F;bit.ly&#x2F;synty-urp&quot; target=&quot;_blank&quot;&gt;URP 指南在这里&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;&lt;p &gt;- 角色已设置为与 Mecanim 一起使用（此包中不包含动画）&lt;&#x2F;p&gt;
+&lt;p &gt;&lt;strong&gt;角色 (x21)&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;p &gt;- 男盗贼、男队长、男淘金者、男猎人、墨西哥女性、墨西哥男性 01、墨西哥男性 02、美国原住民女性 01、美国原住民首领男性 01、美国原住民长者女性 01、美国原住民战士女性 01、美国原住民战士男性 01、美国原住民战士男性 02、美国原住民战士男性 03、男性牧师 01、男性推销员 01、男性士兵 01、男性暴徒 01、男性暴徒 02、女性旅行者 01。&lt;&#x2F;p&gt;&lt;p &gt;(带有替代颜色)&lt;&#x2F;p&gt;
+&lt;p &gt;&lt;strong&gt;武器 (x15)&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;p &gt;- 斧头、链枪、枪托、锤子、刀、镐、左轮手枪、步枪、步枪刺刀、步枪弹夹、霰弹枪、铲子、矛、剑。&lt;&#x2F;p&gt;&lt;p &gt;- 包含大量精彩内容（请查看布局截图以获取更多详细信息）&lt;&#x2F;p&gt;&lt;br&gt;&lt;p &gt;&lt;strong&gt;查看我们的其他资源&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;ul&gt;&lt;li &gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.assetstore.unity3d.com&#x2F;en&#x2F;?stay#!&#x2F;list&#x2F;44060-polygon-3d-asset-series-by-synty-studios&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;POLYGON - 3D 资源系列&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;&lt;li &gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.assetstore.unity3d.com&#x2F;en&#x2F;?stay#!&#x2F;list&#x2F;115084-mini-3d-asset-series-by-synty-studios&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;迷你 - 3D 资源系列&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;&lt;li &gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.assetstore.unity3d.com&#x2F;en&#x2F;?stay#!&#x2F;list&#x2F;65459-simple-3d-asset-series-by-synty-studios&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;简单 - 3D 资源系列&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;&lt;&#x2F;ul&gt;&lt;p &gt;&lt;strong&gt;◼ 兼容性 &lt;&#x2F;strong&gt;◼&lt;&#x2F;p&gt;&lt;p &gt;- 支持通用渲染管线 (URP) - &lt;a href=&quot;https:&#x2F;&#x2F;bit.ly&#x2F;synty-urp&quot; target=&quot;_blank&quot;&gt;这里是URP指南&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;&lt;p &gt;- 角色已设置为与Mecanim兼容（此包中不包含动画）&lt;&#x2F;p&gt;
 &lt;p &gt;&amp;#128220; &lt;a href=&quot;https:&#x2F;&#x2F;bit.ly&#x2F;synty-newsletter&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;Synty 新闻通讯&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt; &amp;#128220;&lt;&#x2F;p&gt;&lt;p &gt;不要错过发布折扣！&lt;&#x2F;p&gt;&lt;p &gt;注册我们的 &lt;a href=&quot;https:&#x2F;&#x2F;bit.ly&#x2F;synty-newsletter&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;Synty 资源商店新闻通讯&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;&lt;p &gt;&lt;strong&gt;关注我们以获取更新、促销、预览和教程：&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;p &gt;&lt;a href=&quot;http:&#x2F;&#x2F;bit.ly&#x2F;30aOuGW&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;DISCORD&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt;&lt;strong&gt; | &lt;&#x2F;strong&gt;&lt;a href=&quot;http:&#x2F;&#x2F;bit.ly&#x2F;37VGYlB&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;FACEBOOK&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt;&lt;strong&gt; | &lt;&#x2F;strong&gt;&lt;a href=&quot;http:&#x2F;&#x2F;bit.ly&#x2F;306iJOW&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;YOUTUBE&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt;&lt;strong&gt; |  &lt;&#x2F;strong&gt;&lt;a href=&quot;https:&#x2F;&#x2F;twitter.com&#x2F;SyntyStudios&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;TWITTER&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt;&lt;strong&gt; | &lt;&#x2F;strong&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.instagram.com&#x2F;synty.studios&#x2F;&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;INSTAGRAM&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;</content>
         
     </entry>
     <entry xml:lang="zh">
         <title>Unique Projectiles Volume 1</title>
         <published>2024-11-29T21:17:03+00:00</published>
-        <updated>2024-12-17T14:09:02+00:00</updated>
+        <updated>2025-02-16T17:06:26+00:00</updated>
         
         <author>
           <name>
@@ -870,7 +870,7 @@
     <entry xml:lang="zh">
         <title>Unique Projectiles Volume 1</title>
         <published>2024-11-29T21:17:03+00:00</published>
-        <updated>2024-12-17T14:09:02+00:00</updated>
+        <updated>2025-02-16T17:06:26+00:00</updated>
         
         <author>
           <name>

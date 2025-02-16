@@ -5,12 +5,12 @@
     <link rel="self" type="application/atom+xml" href="https://yzzfo.github.io/tags/semantic-color-management/atom.xml"/>
     <link rel="alternate" type="text/html" href="https://yzzfo.github.io"/>
     <generator uri="https://www.getzola.org/">Zola</generator>
-    <updated>2024-12-17T13:28:19+00:00</updated>
+    <updated>2025-02-16T17:36:12+00:00</updated>
     <id>https://yzzfo.github.io/tags/semantic-color-management/atom.xml</id>
     <entry xml:lang="zh">
         <title>Semantic Color Palette</title>
         <published>2024-11-29T21:19:48+00:00</published>
-        <updated>2024-12-17T13:28:19+00:00</updated>
+        <updated>2025-02-16T17:36:12+00:00</updated>
         
         <author>
           <name>
@@ -30,7 +30,7 @@
     <entry xml:lang="zh">
         <title>Semantic Color Palette</title>
         <published>2024-11-29T21:19:48+00:00</published>
-        <updated>2024-12-17T13:28:19+00:00</updated>
+        <updated>2025-02-16T17:36:12+00:00</updated>
         
         <author>
           <name>
@@ -44,13 +44,13 @@
         <id>https://yzzfo.github.io/unity/store/semantic-color-palette/</id>
         
         <content type="html" xml:base="https://yzzfo.github.io/unity/store/semantic-color-palette/">&lt;p&gt;一个用于Unity的语义颜色管理系统：以有意义的调色板组织您的颜色，并将其分配给各种“可着色”组件。再也不需要在多个地方更新颜色值了！&lt;&#x2F;p&gt;
-&lt;p&gt;此包提供了一个&lt;strong&gt;语义颜色管理系统&lt;&#x2F;strong&gt;&lt;em&gt; &lt;&#x2F;em&gt;用于Unity。&lt;&#x2F;p&gt;
-&lt;p&gt;了解系统运行的最佳方式是&lt;a href=&quot;https:&#x2F;&#x2F;www.binarycharm.com&#x2F;tech&#x2F;unity-semantic-color-palette&#x2F;demo&#x2F;&quot; target=&quot;_blank&quot;&gt;尝试在线演示&lt;&#x2F;a&gt;，但视频也同样有效！&lt;&#x2F;p&gt;
+&lt;p&gt;这个包为Unity提供了一个&lt;strong&gt;语义颜色管理系统&lt;&#x2F;strong&gt;&lt;em&gt; &lt;&#x2F;em&gt;。&lt;&#x2F;p&gt;
+&lt;p&gt;体验该系统的最佳方式是&lt;a href=&quot;https:&#x2F;&#x2F;www.binarycharm.com&#x2F;tech&#x2F;unity-semantic-color-palette&#x2F;demo&#x2F;&quot; target=&quot;_blank&quot;&gt;尝试在线演示&lt;&#x2F;a&gt;，但视频也同样有效！&lt;&#x2F;p&gt;
 &lt;p&gt;&lt;strong&gt;那么，什么是语义颜色管理？&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
 &lt;p&gt;基本上，您为颜色定义一组&lt;strong&gt;有意义的标识符&lt;&#x2F;strong&gt;，表示&lt;em&gt;颜色的使用位置&#x2F;方式&lt;&#x2F;em&gt;（例如“buttonBackground”），而&lt;em&gt;不是颜色本身&lt;&#x2F;em&gt;（例如“darkBrown”）。&lt;&#x2F;p&gt;
 &lt;p&gt;然后，在其他地方，您&lt;strong&gt;映射&lt;&#x2F;strong&gt;每个标识符到一个实际的颜色值。&lt;&#x2F;p&gt;
-&lt;p&gt;颜色应用的元素从不直接引用实际的特定颜色，而只是引用&lt;em&gt;语义颜色标识符&lt;&#x2F;em&gt;。&lt;&#x2F;p&gt;
-&lt;p&gt;这种&lt;strong&gt;解耦&lt;&#x2F;strong&gt;允许以&lt;strong&gt;集中&lt;&#x2F;strong&gt;的方式快速且无缝地更改多个元素的颜色，并通过应用不同的&lt;em&gt;标识符 -&amp;gt; 颜色&lt;&#x2F;em&gt;映射轻松实现某种形式的“颜色皮肤化”。&lt;&#x2F;p&gt;&lt;br&gt;&lt;p&gt;&lt;strong&gt;这个系统在实践中是如何工作的？&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;p&gt;有三个核心元素共同协作以实现其设计目标：&lt;&#x2F;p&gt;&lt;ul&gt;&lt;li&gt;&lt;strong&gt;调色板&lt;&#x2F;strong&gt;：一组命名的&lt;em&gt;id -&amp;gt; 颜色&lt;&#x2F;em&gt;映射。它是一个&lt;em&gt;“数据”&lt;&#x2F;em&gt;元素，通常是持久的。&lt;&#x2F;li&gt;&lt;li&gt;&lt;strong&gt;调色板提供者&lt;&#x2F;strong&gt;：一个活跃的元素，存在于Unity场景中，充当&lt;em&gt;调色板&lt;&#x2F;em&gt;和&lt;em&gt;着色器&lt;&#x2F;em&gt;之间的&lt;em&gt;中介&lt;&#x2F;em&gt;，将颜色更新推送给任何相关的着色器。&lt;&#x2F;li&gt;&lt;li&gt;&lt;strong&gt;着色器&lt;&#x2F;strong&gt;：一个活跃的元素，包含将&lt;em&gt;一种或多种颜色&lt;&#x2F;em&gt;应用于场景组件（UI元素、3D模型材质等）的逻辑。着色器必须与&lt;em&gt;调色板提供者&lt;&#x2F;em&gt;&lt;em&gt;连接&lt;&#x2F;em&gt;，从中检索其配置中指定的颜色标识符的颜色。&lt;&#x2F;li&gt;&lt;&#x2F;ul&gt;&lt;p&gt;提供了可用于Unity组件的现成&lt;em&gt;着色器&lt;&#x2F;em&gt;，使用颜色属性（UI元素、材质等）。也就是说，程序员可以轻松地&lt;strong&gt;扩展&lt;&#x2F;strong&gt;系统，添加自定义的着色器（和提供者）。&lt;&#x2F;p&gt;
+&lt;p&gt;颜色应用的元素从不直接引用实际的特定颜色，而是仅引用&lt;em&gt;语义颜色标识符&lt;&#x2F;em&gt;。&lt;&#x2F;p&gt;
+&lt;p&gt;这种&lt;strong&gt;解耦&lt;&#x2F;strong&gt;允许以&lt;strong&gt;集中&lt;&#x2F;strong&gt;的方式快速且无缝地更改多个元素的颜色，并通过应用不同的&lt;em&gt;标识符 -&amp;gt; 颜色&lt;&#x2F;em&gt;映射轻松实现某种形式的“颜色皮肤化”。&lt;&#x2F;p&gt;&lt;br&gt;&lt;p&gt;&lt;strong&gt;这个系统在实践中是如何工作的？&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;p&gt;有三个核心元素共同协作以实现其设计目标：&lt;&#x2F;p&gt;&lt;ul&gt;&lt;li&gt;&lt;strong&gt;调色板&lt;&#x2F;strong&gt;：一组命名的&lt;em&gt;id -&amp;gt; 颜色&lt;&#x2F;em&gt;映射。它是一个&lt;em&gt;“数据”&lt;&#x2F;em&gt;元素，通常是持久的。&lt;&#x2F;li&gt;&lt;li&gt;&lt;strong&gt;调色板提供者&lt;&#x2F;strong&gt;：一个活��的元素，存在于Unity场景中，充当&lt;em&gt;调色板&lt;&#x2F;em&gt;和&lt;em&gt;着色器&lt;&#x2F;em&gt;之间的&lt;em&gt;中介&lt;&#x2F;em&gt;，将颜色更新推送给任何相关的着色器。&lt;&#x2F;li&gt;&lt;li&gt;&lt;strong&gt;着色器&lt;&#x2F;strong&gt;：一个活跃的元素，包含将&lt;em&gt;一种或多种颜色&lt;&#x2F;em&gt;应用于场景组件（UI元素、3D模型材质等）的逻辑。着色器必须与&lt;em&gt;调色板提供者&lt;&#x2F;em&gt;&lt;em&gt;连接&lt;&#x2F;em&gt;，从中检索其配置中指定的颜色标识符的颜色。&lt;&#x2F;li&gt;&lt;&#x2F;ul&gt;&lt;p&gt;提供了可用于Unity组件的现成&lt;em&gt;着色器&lt;&#x2F;em&gt;，使用颜色属性（UI元素、材质等）。也就是说，程序员可以轻松地&lt;strong&gt;扩展&lt;&#x2F;strong&gt;系统，添加自定义的着色器（和提供者）。&lt;&#x2F;p&gt;
 &lt;p&gt;您可以通过一种新的、更合理的方式在Unity中设置颜色来&lt;strong&gt;改善您的工作流程&lt;&#x2F;strong&gt;，实现&lt;strong&gt;低摩擦&lt;&#x2F;strong&gt;且对项目组织&lt;strong&gt;没有妥协&lt;&#x2F;strong&gt;。&lt;&#x2F;p&gt;
 &lt;p&gt;如果您愿意，可以通过&lt;strong&gt;检查器&lt;&#x2F;strong&gt;完成任何操作，但如果您更喜欢，也可以仅通过&lt;strong&gt;代码&lt;&#x2F;strong&gt;使用该系统。&lt;&#x2F;p&gt;
 &lt;p&gt;调色板可以从常用的第三方格式&lt;strong&gt;导入&lt;&#x2F;strong&gt;并在检查器中编辑，在更高级的场景中，可以在&lt;strong&gt;运行时&lt;&#x2F;strong&gt;从外部文件加载。&lt;&#x2F;p&gt;
