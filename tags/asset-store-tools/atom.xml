@@ -20,6 +20,26 @@
           </name>
         </author>
         
+        <link rel="alternate" type="text/html" href="https://yzzfo.github.io/unity/store/Runtime Asset Database/ignore-index-en/"/>
+        <id>https://yzzfo.github.io/unity/store/Runtime Asset Database/ignore-index-en/</id>
+        
+        <content type="html" xml:base="https://yzzfo.github.io/unity/store/Runtime Asset Database/ignore-index-en/">&lt;p&gt;Runtime Asset Database simplifies runtime save&#x2F;load implementation in Unity, replicating Unity Editor&#x27;s prefab concepts for runtime asset management.&lt;br&gt;&lt;p &gt;&lt;strong&gt;Runtime Asset Database&lt;&#x2F;strong&gt; is a library designed to simplify the implementation of a runtime save and load subsystem in your Unity application. This library replicates and extends the familiar concepts of prefabs, prefab variants, and assets found within the Unity Editor, making it easier than ever to manage and manipulate game assets at runtime and implement workflows similar to those of the Unity Editor dynamically during runtime.&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;Unity developers often rely on the convenience and flexibility of the Editor&#x27;s asset management system when designing their games. However, when it comes to implementing a save and load system at runtime, this process can become more complex. The Runtime Asset Database bridges this gap by bringing the essential asset management functionalities you&#x27;re accustomed to into the runtime environment.&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;&lt;strong&gt;Features:&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;p &gt;♥ Runtime Asset Management API.&lt;&#x2F;p&gt;&lt;p &gt;♥ Built on Unity Editor Prefab Concepts.&lt;&#x2F;p&gt;&lt;p &gt;♥ Asset and Asset Variant Support.&lt;&#x2F;p&gt;&lt;p &gt;♥ Extensibility with new types and components.&lt;&#x2F;p&gt;&lt;p &gt;♥ Pluggable External Asset Importers.&lt;&#x2F;p&gt;&lt;p &gt;♥ Addressables Support.&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;Battlehub0x&#x2F;RuntimeAssetDatabase&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;Docs&lt;&#x2F;strong&gt; &lt;&#x2F;a&gt;&lt;strong&gt;| &lt;&#x2F;strong&gt;&lt;a href=&quot;https:&#x2F;&#x2F;t.me&#x2F;battlehub&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;Telegram&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt;&lt;strong&gt; | &lt;&#x2F;strong&gt;&lt;a href=&quot;https:&#x2F;&#x2F;assetstore.unity.com&#x2F;packages&#x2F;tools&#x2F;modeling&#x2F;runtime-editor-64806&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;Runtime Editor&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;&#x2F;p&gt;
+</content>
+        
+    </entry>
+    <entry xml:lang="zh">
+        <title>Runtime Asset Database</title>
+        <published>2024-12-27T01:01:02+00:00</published>
+        <updated>2024-12-27T01:01:02+00:00</updated>
+        
+        <author>
+          <name>
+            
+              yzzfo
+            
+          </name>
+        </author>
+        
         <link rel="alternate" type="text/html" href="https://yzzfo.github.io/unity/store/runtime-asset-database/"/>
         <id>https://yzzfo.github.io/unity/store/runtime-asset-database/</id>
         
@@ -43,6 +63,26 @@
           </name>
         </author>
         
+        <link rel="alternate" type="text/html" href="https://yzzfo.github.io/unity/store/Runtime Transform Handles/ignore-index-en/"/>
+        <id>https://yzzfo.github.io/unity/store/Runtime Transform Handles/ignore-index-en/</id>
+        
+        <content type="html" xml:base="https://yzzfo.github.io/unity/store/Runtime Transform Handles/ignore-index-en/">&lt;p&gt;Runtime Transform Handles are the runtime 3D controls that are used to manipulate GameObjects in the scene.&lt;br&gt;&lt;p &gt;&lt;strong&gt;Runtime Transform Handles&lt;&#x2F;strong&gt; are the runtime 3D controls used to manipulate GameObjects in the scene. There are three built-in transform tools for positioning, rotating, and scaling objects via the transform component. Supplementary controls, such as the scene gizmo and grid, allow for changing the viewing angle and projection mode, and for showing the grid in the scene. Other important components include the selection component, scene component, and handles component, which allow for selecting objects, navigating the scene, and changing the appearance of transform handles.&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;BattlehubCode&#x2F;RTH_Docs&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;Documentation&lt;&#x2F;strong&gt; &lt;&#x2F;a&gt;&lt;strong&gt;|&lt;&#x2F;strong&gt; &lt;a href=&quot;https:&#x2F;&#x2F;t.me&#x2F;battlehub&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;Telegram&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;This is lite version of  &lt;a href=&quot;https:&#x2F;&#x2F;www.assetstore.unity3d.com&#x2F;en&#x2F;#!&#x2F;content&#x2F;64806&quot; target=&quot;_blank&quot;&gt;Runtime Editor&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;&lt;strong&gt;Features:&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;p &gt;♥ Positon handle,&lt;&#x2F;p&gt;&lt;p &gt;♥ Rotation handle;&lt;&#x2F;p&gt;&lt;p &gt;♥ Scale handle;&lt;&#x2F;p&gt;&lt;p &gt;♥ Grid;&lt;&#x2F;p&gt;&lt;p &gt;♥ Box Selection;&lt;&#x2F;p&gt;&lt;p &gt;♥  Selection gizmo;&lt;&#x2F;p&gt;&lt;p &gt;♥ Align to Grid &amp;amp; Vertex snapping;&lt;&#x2F;p&gt;&lt;p &gt;♥ Scene navigation;&lt;&#x2F;p&gt;&lt;p &gt;♥ Global &amp;amp; Local coordinates;&lt;&#x2F;p&gt;&lt;p &gt;♥ Undo &amp;amp; Redo;&lt;&#x2F;p&gt;&lt;p &gt;♥ Touch support;&lt;&#x2F;p&gt;&lt;p &gt;♥ Multi-camera support;&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;&#x2F;p&gt;
+</content>
+        
+    </entry>
+    <entry xml:lang="zh">
+        <title>Runtime Transform Handles</title>
+        <published>2024-12-02T19:47:22+00:00</published>
+        <updated>2024-12-17T13:32:15+00:00</updated>
+        
+        <author>
+          <name>
+            
+              yzzfo
+            
+          </name>
+        </author>
+        
         <link rel="alternate" type="text/html" href="https://yzzfo.github.io/unity/store/runtime-transform-handles/"/>
         <id>https://yzzfo.github.io/unity/store/runtime-transform-handles/</id>
         
@@ -51,6 +91,26 @@
 &lt;p &gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;BattlehubCode&#x2F;RTH_Docs&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;文档&lt;&#x2F;strong&gt; &lt;&#x2F;a&gt;&lt;strong&gt;|&lt;&#x2F;strong&gt; &lt;a href=&quot;https:&#x2F;&#x2F;t.me&#x2F;battlehub&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;Telegram&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
 &lt;p &gt;这是&lt;a href=&quot;https:&#x2F;&#x2F;www.assetstore.unity3d.com&#x2F;en&#x2F;#!&#x2F;content&#x2F;64806&quot; target=&quot;_blank&quot;&gt;运行时编辑器&lt;&#x2F;a&gt;的精简版&lt;&#x2F;p&gt;
 &lt;p &gt;&lt;strong&gt;功能：&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;p &gt;♥ 位置控制器，&lt;&#x2F;p&gt;&lt;p &gt;♥ 旋转控制器；&lt;&#x2F;p&gt;&lt;p &gt;♥ 缩放控制器；&lt;&#x2F;p&gt;&lt;p &gt;♥ 网格；&lt;&#x2F;p&gt;&lt;p &gt;♥ 框选；&lt;&#x2F;p&gt;&lt;p &gt;♥ 选择小工具；&lt;&#x2F;p&gt;&lt;p &gt;♥ 对齐到网格和顶点捕捉；&lt;&#x2F;p&gt;&lt;p &gt;♥ 场景导航；&lt;&#x2F;p&gt;&lt;p &gt;♥ 全局和局部坐标；&lt;&#x2F;p&gt;&lt;p &gt;♥ 撤销和重做；&lt;&#x2F;p&gt;&lt;p &gt;♥ 触控支持；&lt;&#x2F;p&gt;&lt;p &gt;♥ 多摄像机支持；&lt;&#x2F;p&gt;</content>
+        
+    </entry>
+    <entry xml:lang="zh">
+        <title>Runtime Editor</title>
+        <published>2024-11-29T21:19:38+00:00</published>
+        <updated>2024-12-17T13:28:15+00:00</updated>
+        
+        <author>
+          <name>
+            
+              yzzfo
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://yzzfo.github.io/unity/store/Runtime Editor/ignore-index-en/"/>
+        <id>https://yzzfo.github.io/unity/store/Runtime Editor/ignore-index-en/</id>
+        
+        <content type="html" xml:base="https://yzzfo.github.io/unity/store/Runtime Editor/ignore-index-en/">&lt;p&gt;Runtime Editor is a set of scripts and prefabs that help you create scene editor, game level editor, or your own modeling application&lt;br&gt;&lt;p &gt;&lt;strong&gt;Runtime Editor&lt;&#x2F;strong&gt; is a set of scripts and prefabs designed to help you create a scene editor, game level editor, or build your own modeling application. It supports drag-and-drop, undo and redo, and a selection API. This asset extends the familiar concepts of prefabs, prefab variants, and assets found in the Unity Editor, making it easier than ever to manage and manipulate game assets at runtime.To implement the user interface and core functions, Runtime Editor uses &lt;a href=&quot;https:&#x2F;&#x2F;assetstore.unity.com&#x2F;packages&#x2F;tools&#x2F;modeling&#x2F;runtime-transform-handles-65363&quot; target=&quot;_blank&quot;&gt;transform-handles&lt;&#x2F;a&gt;, &lt;a href=&quot;https:&#x2F;&#x2F;assetstore.unity.com&#x2F;packages&#x2F;tools&#x2F;modeling&#x2F;gizmos-77103&quot; target=&quot;_blank&quot;&gt; gizmos&lt;&#x2F;a&gt;, &lt;a href=&quot;https:&#x2F;&#x2F;assetstore.unity.com&#x2F;packages&#x2F;slug&#x2F;263289&quot; target=&quot;_blank&quot;&gt;runtime asset database&lt;&#x2F;a&gt; and multiple ui controls including &lt;a href=&quot;https:&#x2F;&#x2F;assetstore.unity.com&#x2F;packages&#x2F;tools&#x2F;gui&#x2F;menu-control-138619&quot; target=&quot;_blank&quot;&gt;menu&lt;&#x2F;a&gt;, &lt;a href=&quot;https:&#x2F;&#x2F;assetstore.unity.com&#x2F;packages&#x2F;tools&#x2F;gui&#x2F;virtualizing-tree-view-101871&quot; target=&quot;_blank&quot;&gt;virtualizing tree view&lt;&#x2F;a&gt; and &lt;a href=&quot;https:&#x2F;&#x2F;assetstore.unity.com&#x2F;packages&#x2F;tools&#x2F;gui&#x2F;dock-panel-138621&quot; target=&quot;_blank&quot;&gt;dock panels.&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;Battlehub0x&#x2F;RTE_Docs&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;Docs &lt;&#x2F;strong&gt;&lt;&#x2F;a&gt;&lt;strong&gt;|&lt;&#x2F;strong&gt; &lt;a href=&quot;https:&#x2F;&#x2F;t.me&#x2F;battlehub&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;Telegram&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;&lt;strong&gt;Features:&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;p &gt;♥ Runtime Asset Database&lt;&#x2F;p&gt;&lt;p &gt;♥ Support for Prefabs and Prefab Variants&lt;&#x2F;p&gt;&lt;p &gt;♥ Support for Addressables&lt;&#x2F;p&gt;&lt;p &gt;♥ Position, Rotation, Scale transform handles;&lt;&#x2F;p&gt;&lt;p &gt;♥ Grid, Box Selection, Scene Gizmo;&lt;&#x2F;p&gt;&lt;p &gt;♥ Transform Handles Mobile;&lt;&#x2F;p&gt;&lt;p &gt;♥ Global &amp;amp; Local coordinates;&lt;&#x2F;p&gt;&lt;p &gt;♥ Local &amp;amp; Center pivot point modes;&lt;&#x2F;p&gt;&lt;p &gt;♥ Vertex &amp;amp; Grid snapping;&lt;&#x2F;p&gt;&lt;p &gt;♥ Gizmos for Colliders, Lights and Audio Sources;&lt;&#x2F;p&gt;&lt;p &gt;♥ Scene navigation, Orthographic &amp;amp; Perspective view;&lt;&#x2F;p&gt;&lt;p &gt;♥ Undo &amp;amp; Redo API;&lt;&#x2F;p&gt;&lt;p &gt;♥  Object Selection API;&lt;&#x2F;p&gt;&lt;p &gt;♥ Object life-cycle events;&lt;&#x2F;p&gt;&lt;p &gt;♥ Play &amp;amp; Edit mode;&lt;&#x2F;p&gt;&lt;p &gt;♥ Configurable Inspector;&lt;&#x2F;p&gt;&lt;p &gt;♥ Component &amp;amp; Material editors;&lt;&#x2F;p&gt;&lt;p &gt;♥ 20+ Built-in property editors;&lt;&#x2F;p&gt;&lt;p &gt;♥ Add Component control;&lt;&#x2F;p&gt;&lt;p &gt;♥ Multiple Scenes and Cameras support;&lt;&#x2F;p&gt;&lt;p &gt;♥ Dock Panels &amp;amp; Windows management;&lt;&#x2F;p&gt;&lt;p &gt;♥ Dialogs, Message Boxes, Confirmations;&lt;&#x2F;p&gt;&lt;p &gt;♥ Easy to extend with new windows;&lt;&#x2F;p&gt;&lt;p &gt;♥ Configurable Main &amp;amp; Context Menu;&lt;&#x2F;p&gt;&lt;p &gt;♥ Fast Virtualizing Tree View;&lt;&#x2F;p&gt;&lt;p &gt;♥ Multiple Projects support;&lt;&#x2F;p&gt;&lt;p &gt;♥ Ability to edit components of multiple selected objects;&lt;&#x2F;p&gt;&lt;p &gt;♥ Universal Render Pipeline support;&lt;&#x2F;p&gt;&lt;p &gt;♥ HD Renderer Pipeline support (Beta).&lt;&#x2F;p&gt;&lt;p &gt;&lt;strong&gt;This asset uses:&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;p &gt;♥ Roslyn .NET compiler;&lt;&#x2F;p&gt;&lt;p &gt;♥ HSV Color Picker;&lt;&#x2F;p&gt;&lt;p &gt;♥ protobuf-net;&lt;&#x2F;p&gt;&lt;p &gt;♥ SharpZipLib.&lt;&#x2F;p&gt;&lt;p &gt;♥ &lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;sebastienros&#x2F;jint&quot; target=&quot;_blank&quot;&gt;Jint&lt;&#x2F;a&gt;.&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;&#x2F;p&gt;
+</content>
         
     </entry>
     <entry xml:lang="zh">

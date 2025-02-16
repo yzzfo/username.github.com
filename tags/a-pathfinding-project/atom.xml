@@ -20,6 +20,26 @@
           </name>
         </author>
         
+        <link rel="alternate" type="text/html" href="https://yzzfo.github.io/unity/store/Behavior Designer - Movement Pack/ignore-index-en/"/>
+        <id>https://yzzfo.github.io/unity/store/Behavior Designer - Movement Pack/ignore-index-en/</id>
+        
+        <content type="html" xml:base="https://yzzfo.github.io/unity/store/Behavior Designer - Movement Pack/ignore-index-en/">&lt;p&gt;&lt;br&gt;&lt;p &gt;Behavior Designer - Movement Pack contains 17 different behaviour tree tasks focused on &lt;strong&gt;both 2D and 3D movement&lt;&#x2F;strong&gt;.&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;In addition to covering all of the AI steering behaviors, some tasks provide unique functionality such as finding cover or hearing if an object is within range.&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;Three tasks - flock, leader follow, and queue - provide an excellent example of controlling multiple AI agents with just a single behavior tree.&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;Each task is well commented and written in a generic and clean way making it very easy to integrate into your own project. This pack will continue to grow as we hear new task suggestions from the community.&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.opsive.com&#x2F;assets&#x2F;behavior-designer-movement-pack&#x2F;&quot; target=&quot;_blank&quot;&gt;Web Demo&lt;&#x2F;a&gt; |  &lt;a href=&quot;https:&#x2F;&#x2F;www.opsive.com&#x2F;support&#x2F;documentation&#x2F;behavior-designer-movement-pack&#x2F;&quot; target=&quot;_blank&quot;&gt;Documentation&lt;&#x2F;a&gt; | &lt;a href=&quot;http:&#x2F;&#x2F;forum.unity3d.com&#x2F;threads&#x2F;227497&quot; target=&quot;_blank&quot;&gt;Unity Forum&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;&lt;strong&gt;Pathfinding Implementations&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;ul&gt;&lt;li &gt;Unity&#x27;s Navigation Mesh&lt;&#x2F;li&gt;&lt;li &gt;A* Pathfinding Project&lt;&#x2F;li&gt;&lt;li &gt;Poly|Nav&lt;&#x2F;li&gt;&lt;&#x2F;ul&gt;&lt;&#x2F;br&gt;&lt;p &gt;&lt;strong&gt;Tasks&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;ul&gt;&lt;li &gt;Move Towards&lt;&#x2F;li&gt;&lt;li &gt;Rotate Towards&lt;&#x2F;li&gt;&lt;li &gt;Seek&lt;&#x2F;li&gt;&lt;li &gt;Flee&lt;&#x2F;li&gt;&lt;li &gt;Pursue&lt;&#x2F;li&gt;&lt;li &gt;Evade&lt;&#x2F;li&gt;&lt;li &gt;Follow&lt;&#x2F;li&gt;&lt;li &gt;Patrol&lt;&#x2F;li&gt;&lt;li &gt;Cover&lt;&#x2F;li&gt;&lt;li &gt;Wander&lt;&#x2F;li&gt;&lt;li &gt;Search&lt;&#x2F;li&gt;&lt;li &gt;Within Distance&lt;&#x2F;li&gt;&lt;li &gt;Can See Object&lt;&#x2F;li&gt;&lt;li &gt;Can Hear Object&lt;&#x2F;li&gt;&lt;li &gt;Flock&lt;&#x2F;li&gt;&lt;li &gt;Leader Follow&lt;&#x2F;li&gt;&lt;li &gt;Queue&lt;&#x2F;li&gt;&lt;&#x2F;ul&gt;&lt;&#x2F;br&gt;&lt;p &gt;The Movement Pack is integrated with the Ultimate Character Controller allowing for movement with root motion.&lt;&#x2F;p&gt;&lt;&#x2F;p&gt;
+</content>
+        
+    </entry>
+    <entry xml:lang="zh">
+        <title>Behavior Designer - Movement Pack</title>
+        <published>2024-12-06T15:20:53+00:00</published>
+        <updated>2024-12-17T13:38:07+00:00</updated>
+        
+        <author>
+          <name>
+            
+              yzzfo
+            
+          </name>
+        </author>
+        
         <link rel="alternate" type="text/html" href="https://yzzfo.github.io/unity/store/behavior-designer-movement-pack/"/>
         <id>https://yzzfo.github.io/unity/store/behavior-designer-movement-pack/</id>
         

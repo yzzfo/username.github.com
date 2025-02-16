@@ -20,6 +20,26 @@
           </name>
         </author>
         
+        <link rel="alternate" type="text/html" href="https://yzzfo.github.io/unity/store/Grid Placement System/ignore-index-en/"/>
+        <id>https://yzzfo.github.io/unity/store/Grid Placement System/ignore-index-en/</id>
+        
+        <content type="html" xml:base="https://yzzfo.github.io/unity/store/Grid Placement System/ignore-index-en/">&lt;p&gt;Grid Placement System allows players to easily place items onto a grid at runtime. Perfect for city builders, tower defense and all sorts of other genres where players need to place items.&lt;br&gt;&lt;p &gt;&lt;strong&gt;Grid Placement System&lt;&#x2F;strong&gt; is designed to be extremely customizable and with ease of use at its core.&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;&lt;strong&gt;No&lt;&#x2F;strong&gt; &lt;strong&gt;object configuration needed.&lt;&#x2F;strong&gt; Pass an object to the grid and it just works! When the grid manager is passed an object to be placed into the grid it handles all of the calculations to determine how many grid cells it takes up.&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;&lt;strong&gt;Customize all aspects of the grid&lt;&#x2F;strong&gt;. Settings include width and height, amount of cells, visualization of grid cells, visualization of occupied cells, the object&#x27;s alignment within its cell(s), the visual feedback when placing an item and more!&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;&lt;strong&gt;Don&#x27;t like square grid cells?&lt;&#x2F;strong&gt; You can change the sprite to show any shape you like, a circle, a triangle, a dot?&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;&lt;strong&gt;Easy to use.&lt;&#x2F;strong&gt; The grid settings provide &lt;strong&gt;one &lt;&#x2F;strong&gt;place to customize everything to do with the grid.&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;&lt;strong&gt;Custom editor tools. &lt;&#x2F;strong&gt;Visualize the modifications you make to the grid settings in real-time without entering play mode.&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;&lt;strong&gt;Suitable for a wide range of genres&lt;&#x2F;strong&gt;. Examples include: tower defense, city builders, simulation, and anything where the player is required to place an item onto a grid.&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;The showcase images use 3D models from a 3rd party low poly asset pack. These models are not included in this package.&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;&#x2F;p&gt;
+</content>
+        
+    </entry>
+    <entry xml:lang="zh">
+        <title>Grid Placement System</title>
+        <published>2024-12-19T01:00:31+00:00</published>
+        <updated>2024-12-19T01:00:31+00:00</updated>
+        
+        <author>
+          <name>
+            
+              yzzfo
+            
+          </name>
+        </author>
+        
         <link rel="alternate" type="text/html" href="https://yzzfo.github.io/unity/store/grid-placement-system/"/>
         <id>https://yzzfo.github.io/unity/store/grid-placement-system/</id>
         
@@ -47,6 +67,26 @@
           </name>
         </author>
         
+        <link rel="alternate" type="text/html" href="https://yzzfo.github.io/unity/store/Dynamic Mesh Combiner/ignore-index-en/"/>
+        <id>https://yzzfo.github.io/unity/store/Dynamic Mesh Combiner/ignore-index-en/</id>
+        
+        <content type="html" xml:base="https://yzzfo.github.io/unity/store/Dynamic Mesh Combiner/ignore-index-en/">&lt;p&gt;A powerful tool that seamlessly combines either skinned or regular mesh renderers. It allows for both animated and static output with support for LODs* and dynamic object manipulation.&lt;br&gt;&lt;p &gt;Dynamic Mesh Combiner will help optimize the performance of all your 3D models while still maintaining visual quality. Whether you&#x27;re working on a mobile game, a PC game, or a VR project, Dynamic Mesh Combiner is the ultimate tool for reducing draw calls and improving performance in your Unity project.&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;To start combining, simply add the &#x27;MC Mesh Combiner&#x27; component to the root game object and &#x27;MC Combinable&#x27; or &#x27;MC LOD Combinable&#x27; to any child renderers that you want to combine. The asset will take care of the rest automatically and will update if the objects are moved!&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;If you&#x27;d like to try out Dynamic Mesh Combiner to see if it’s the right fit for your project, we offer a free demo version that you can try out before purchase: &lt;a href=&quot;https:&#x2F;&#x2F;u3d.as&#x2F;35Bd&quot; target=&quot;_blank&quot;&gt;Demo&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;Works well with these outline assets:&lt;&#x2F;p&gt;&lt;ul&gt;&lt;li &gt;&lt;a href=&quot;https:&#x2F;&#x2F;assetstore.unity.com&#x2F;packages&#x2F;vfx&#x2F;shaders&#x2F;ultimate-outlines-highlights-235063&quot; target=&quot;_blank&quot;&gt;Ultimate Outlines &amp;amp; Highlights&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;&lt;li &gt;&lt;a href=&quot;https:&#x2F;&#x2F;assetstore.unity.com&#x2F;packages&#x2F;vfx&#x2F;shaders&#x2F;fullscreen-camera-effects&#x2F;easy-performant-outline-2d-3d-urp-hdrp-and-built-in-renderer-157187&quot; target=&quot;_blank&quot;&gt;Easy Performant Outline&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;&lt;li &gt;&lt;a href=&quot;https:&#x2F;&#x2F;assetstore.unity.com&#x2F;packages&#x2F;vfx&#x2F;shaders&#x2F;highlight-plus-all-in-one-outline-selection-effects-134149&quot; target=&quot;_blank&quot;&gt;Highlight Plus - All in One Outline &amp;amp; Selection Effects&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;&lt;&#x2F;ul&gt;&lt;&#x2F;br&gt;&lt;p &gt;Feel free to consult the &lt;a href=&quot;https:&#x2F;&#x2F;teogames.gitbook.io&#x2F;dynamic-mesh-combiner&#x2F;&quot; target=&quot;_blank&quot;&gt;documentation&lt;&#x2F;a&gt; before use or join our &lt;a href=&quot;https:&#x2F;&#x2F;discord.gg&#x2F;DeFvujmZzQ&quot; target=&quot;_blank&quot;&gt;discord server &lt;&#x2F;a&gt;if you have any questions!&lt;&#x2F;p&gt;&lt;&#x2F;p&gt;
+</content>
+        
+    </entry>
+    <entry xml:lang="zh">
+        <title>Dynamic Mesh Combiner</title>
+        <published>2024-12-16T01:00:58+00:00</published>
+        <updated>2024-12-17T13:48:42+00:00</updated>
+        
+        <author>
+          <name>
+            
+              yzzfo
+            
+          </name>
+        </author>
+        
         <link rel="alternate" type="text/html" href="https://yzzfo.github.io/unity/store/dynamic-mesh-combiner/"/>
         <id>https://yzzfo.github.io/unity/store/dynamic-mesh-combiner/</id>
         
@@ -56,6 +96,26 @@
 &lt;p&gt;如果您想尝试动态网格合并器，以查看它是否适合您的项目，我们提供了一个免费演示版本，您可以在购买前试用：&lt;a href=&quot;https:&#x2F;&#x2F;u3d.as&#x2F;35Bd&quot; target=&quot;_blank&quot;&gt;演示&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
 &lt;p&gt;与以下轮廓资产兼容良好：&lt;&#x2F;p&gt;&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;assetstore.unity.com&#x2F;packages&#x2F;vfx&#x2F;shaders&#x2F;ultimate-outlines-highlights-235063&quot; target=&quot;_blank&quot;&gt;终极轮廓与高亮&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;assetstore.unity.com&#x2F;packages&#x2F;vfx&#x2F;shaders&#x2F;fullscreen-camera-effects&#x2F;easy-performant-outline-2d-3d-urp-hdrp-and-built-in-renderer-157187&quot; target=&quot;_blank&quot;&gt;易于高效的轮廓&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;assetstore.unity.com&#x2F;packages&#x2F;vfx&#x2F;shaders&#x2F;highlight-plus-all-in-one-outline-selection-effects-134149&quot; target=&quot;_blank&quot;&gt;高亮加 - 一体化轮廓与选择效果&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;&lt;&#x2F;ul&gt;
 &lt;p&gt;在使用前，请随时查阅&lt;a href=&quot;https:&#x2F;&#x2F;teogames.gitbook.io&#x2F;dynamic-mesh-combiner&#x2F;&quot; target=&quot;_blank&quot;&gt;文档&lt;&#x2F;a&gt;，或加入我们的&lt;a href=&quot;https:&#x2F;&#x2F;discord.gg&#x2F;DeFvujmZzQ&quot; target=&quot;_blank&quot;&gt;Discord服务器&lt;&#x2F;a&gt;，如果您有任何问题！&lt;&#x2F;p&gt;</content>
+        
+    </entry>
+    <entry xml:lang="zh">
+        <title>Roslyn C# - Runtime Compiler</title>
+        <published>2024-12-14T11:48:40+00:00</published>
+        <updated>2024-12-17T13:48:10+00:00</updated>
+        
+        <author>
+          <name>
+            
+              yzzfo
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://yzzfo.github.io/unity/store/Roslyn C# - Runtime Compiler/ignore-index-en/"/>
+        <id>https://yzzfo.github.io/unity/store/Roslyn C# - Runtime Compiler/ignore-index-en/</id>
+        
+        <content type="html" xml:base="https://yzzfo.github.io/unity/store/Roslyn C# - Runtime Compiler/ignore-index-en/">&lt;p&gt;&lt;br&gt;&lt;strong&gt;&lt;em&gt;*Requires .Net 4.x or .Net standard API compatibility level&lt;&#x2F;em&gt;&lt;&#x2F;strong&gt;&lt;br&gt;&lt;br&gt;&lt;p&gt;Roslyn C# allows runtime loading of assemblies and C# scripts using the Roslyn compiler making it easy to add modding support or in-game programming to your project. In addition, Roslyn C# also includes code security verification that allows you to specify a number of security restrictions that loaded code must adhere to including illegal namespaces and types. This makes it much safer to load 3rd party code from unknown sources.&lt;&#x2F;P&gt;&lt;br&gt;&lt;p&gt;Includes a small programming based game where the objective is to navigate a mouse out of a maze by writing code that performs the direction decision making.&lt;&#x2F;P&gt;&lt;br&gt;&lt;br&gt;&lt;p&gt;&lt;strong&gt;Features&lt;&#x2F;strong&gt;&lt;br&gt;-Compile and run C# scripts at runtime&lt;br&gt;-Leverage the latest C# language features using the Roslyn C# compiler&lt;br&gt;-Fast execution. Once compiled, external scripts will run as fast as game scripts&lt;br&gt;-Allows modding support to be added easily&lt;br&gt;-Code security validation means that unsafe code can be identified and discarded&lt;br&gt;-Code security generates a detailed report upon failure containing information about illegal types used and every usage occurrence in the external code&lt;br&gt;-Simple and easy to use API for assembly, type and instance reflection&lt;br&gt;-Support for non-concrete communication using script proxies&lt;br&gt;-Automatic type construction using correct method (AddComponent, CreateInstance, new)&lt;br&gt;-Cached member tables for quick reflection&lt;br&gt;-All scripts and example are organised into namespaces to avoid type name clashes&lt;br&gt;-Fully commented partial C# source code included&lt;br&gt;-Comprehensive .chm documentation of the API for quick and easy reference&lt;br&gt;&lt;br&gt;&lt;strong&gt;Platforms&lt;&#x2F;strong&gt;&lt;br&gt;Support for PC, Mac and Linux platforms. &lt;p&gt;Roslyn C# may work on other platforms without issue however we will only offer support for the officially supported platforms.&lt;&#x2F;p&gt;&lt;br&gt;&lt;br&gt;&lt;strong&gt;Android&lt;&#x2F;strong&gt;&lt;br&gt;Android is not officially supported however, many users have had success getting the asset to run on Android by following &lt;a href=&quot;https:&#x2F;&#x2F;forum.unity.com&#x2F;threads&#x2F;released-roslyn-c-runtime-c-compiler.651505&#x2F;page-4#post-6834782&quot;&gt;these steps&lt;&#x2F;a&gt;&lt;br&gt;&lt;br&gt;&lt;a href=&quot;https:&#x2F;&#x2F;forum.unity.com&#x2F;threads&#x2F;pending-review-roslyn-c-runtime-c-compiler.651505&#x2F;&quot;&gt;Forum&lt;&#x2F;a&gt; | &lt;a href=&quot;https:&#x2F;&#x2F;discord.gg&#x2F;sHREXjmwa2&quot;&gt;Discord&lt;&#x2F;a&gt; | &lt;a href=&quot;http:&#x2F;&#x2F;trivialinteractive.co.uk&#x2F;products&#x2F;documentation&#x2F;roslyncsharp&#x2F;UserGuide.pdf&quot;&gt;Documentation&lt;&#x2F;a&gt; | &lt;a href=&quot;http:&#x2F;&#x2F;trivialinteractive.co.uk&#x2F;support.html&quot;&gt;Support&lt;&#x2F;a&gt; | &lt;a href=&quot;http:&#x2F;&#x2F;trivialinteractive.co.uk&quot;&gt;Website&lt;&#x2F;a&gt;&lt;br&gt;&lt;br&gt;&lt;&#x2F;p&gt;
+</content>
         
     </entry>
     <entry xml:lang="zh">
@@ -111,6 +171,26 @@
           </name>
         </author>
         
+        <link rel="alternate" type="text/html" href="https://yzzfo.github.io/unity/store/Runtime Transform Handles/ignore-index-en/"/>
+        <id>https://yzzfo.github.io/unity/store/Runtime Transform Handles/ignore-index-en/</id>
+        
+        <content type="html" xml:base="https://yzzfo.github.io/unity/store/Runtime Transform Handles/ignore-index-en/">&lt;p&gt;Runtime Transform Handles are the runtime 3D controls that are used to manipulate GameObjects in the scene.&lt;br&gt;&lt;p &gt;&lt;strong&gt;Runtime Transform Handles&lt;&#x2F;strong&gt; are the runtime 3D controls used to manipulate GameObjects in the scene. There are three built-in transform tools for positioning, rotating, and scaling objects via the transform component. Supplementary controls, such as the scene gizmo and grid, allow for changing the viewing angle and projection mode, and for showing the grid in the scene. Other important components include the selection component, scene component, and handles component, which allow for selecting objects, navigating the scene, and changing the appearance of transform handles.&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;BattlehubCode&#x2F;RTH_Docs&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;Documentation&lt;&#x2F;strong&gt; &lt;&#x2F;a&gt;&lt;strong&gt;|&lt;&#x2F;strong&gt; &lt;a href=&quot;https:&#x2F;&#x2F;t.me&#x2F;battlehub&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;Telegram&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;This is lite version of  &lt;a href=&quot;https:&#x2F;&#x2F;www.assetstore.unity3d.com&#x2F;en&#x2F;#!&#x2F;content&#x2F;64806&quot; target=&quot;_blank&quot;&gt;Runtime Editor&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;&lt;strong&gt;Features:&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;p &gt;♥ Positon handle,&lt;&#x2F;p&gt;&lt;p &gt;♥ Rotation handle;&lt;&#x2F;p&gt;&lt;p &gt;♥ Scale handle;&lt;&#x2F;p&gt;&lt;p &gt;♥ Grid;&lt;&#x2F;p&gt;&lt;p &gt;♥ Box Selection;&lt;&#x2F;p&gt;&lt;p &gt;♥  Selection gizmo;&lt;&#x2F;p&gt;&lt;p &gt;♥ Align to Grid &amp;amp; Vertex snapping;&lt;&#x2F;p&gt;&lt;p &gt;♥ Scene navigation;&lt;&#x2F;p&gt;&lt;p &gt;♥ Global &amp;amp; Local coordinates;&lt;&#x2F;p&gt;&lt;p &gt;♥ Undo &amp;amp; Redo;&lt;&#x2F;p&gt;&lt;p &gt;♥ Touch support;&lt;&#x2F;p&gt;&lt;p &gt;♥ Multi-camera support;&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;&#x2F;p&gt;
+</content>
+        
+    </entry>
+    <entry xml:lang="zh">
+        <title>Runtime Transform Handles</title>
+        <published>2024-12-02T19:47:22+00:00</published>
+        <updated>2024-12-17T13:32:15+00:00</updated>
+        
+        <author>
+          <name>
+            
+              yzzfo
+            
+          </name>
+        </author>
+        
         <link rel="alternate" type="text/html" href="https://yzzfo.github.io/unity/store/runtime-transform-handles/"/>
         <id>https://yzzfo.github.io/unity/store/runtime-transform-handles/</id>
         
@@ -119,6 +199,26 @@
 &lt;p &gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;BattlehubCode&#x2F;RTH_Docs&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;文档&lt;&#x2F;strong&gt; &lt;&#x2F;a&gt;&lt;strong&gt;|&lt;&#x2F;strong&gt; &lt;a href=&quot;https:&#x2F;&#x2F;t.me&#x2F;battlehub&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;Telegram&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
 &lt;p &gt;这是&lt;a href=&quot;https:&#x2F;&#x2F;www.assetstore.unity3d.com&#x2F;en&#x2F;#!&#x2F;content&#x2F;64806&quot; target=&quot;_blank&quot;&gt;运行时编辑器&lt;&#x2F;a&gt;的精简版&lt;&#x2F;p&gt;
 &lt;p &gt;&lt;strong&gt;功能：&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;p &gt;♥ 位置控制器，&lt;&#x2F;p&gt;&lt;p &gt;♥ 旋转控制器；&lt;&#x2F;p&gt;&lt;p &gt;♥ 缩放控制器；&lt;&#x2F;p&gt;&lt;p &gt;♥ 网格；&lt;&#x2F;p&gt;&lt;p &gt;♥ 框选；&lt;&#x2F;p&gt;&lt;p &gt;♥ 选择小工具；&lt;&#x2F;p&gt;&lt;p &gt;♥ 对齐到网格和顶点捕捉；&lt;&#x2F;p&gt;&lt;p &gt;♥ 场景导航；&lt;&#x2F;p&gt;&lt;p &gt;♥ 全局和局部坐标；&lt;&#x2F;p&gt;&lt;p &gt;♥ 撤销和重做；&lt;&#x2F;p&gt;&lt;p &gt;♥ 触控支持；&lt;&#x2F;p&gt;&lt;p &gt;♥ 多摄像机支持；&lt;&#x2F;p&gt;</content>
+        
+    </entry>
+    <entry xml:lang="zh">
+        <title>Runtime Editor</title>
+        <published>2024-11-29T21:19:38+00:00</published>
+        <updated>2024-12-17T13:28:15+00:00</updated>
+        
+        <author>
+          <name>
+            
+              yzzfo
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://yzzfo.github.io/unity/store/Runtime Editor/ignore-index-en/"/>
+        <id>https://yzzfo.github.io/unity/store/Runtime Editor/ignore-index-en/</id>
+        
+        <content type="html" xml:base="https://yzzfo.github.io/unity/store/Runtime Editor/ignore-index-en/">&lt;p&gt;Runtime Editor is a set of scripts and prefabs that help you create scene editor, game level editor, or your own modeling application&lt;br&gt;&lt;p &gt;&lt;strong&gt;Runtime Editor&lt;&#x2F;strong&gt; is a set of scripts and prefabs designed to help you create a scene editor, game level editor, or build your own modeling application. It supports drag-and-drop, undo and redo, and a selection API. This asset extends the familiar concepts of prefabs, prefab variants, and assets found in the Unity Editor, making it easier than ever to manage and manipulate game assets at runtime.To implement the user interface and core functions, Runtime Editor uses &lt;a href=&quot;https:&#x2F;&#x2F;assetstore.unity.com&#x2F;packages&#x2F;tools&#x2F;modeling&#x2F;runtime-transform-handles-65363&quot; target=&quot;_blank&quot;&gt;transform-handles&lt;&#x2F;a&gt;, &lt;a href=&quot;https:&#x2F;&#x2F;assetstore.unity.com&#x2F;packages&#x2F;tools&#x2F;modeling&#x2F;gizmos-77103&quot; target=&quot;_blank&quot;&gt; gizmos&lt;&#x2F;a&gt;, &lt;a href=&quot;https:&#x2F;&#x2F;assetstore.unity.com&#x2F;packages&#x2F;slug&#x2F;263289&quot; target=&quot;_blank&quot;&gt;runtime asset database&lt;&#x2F;a&gt; and multiple ui controls including &lt;a href=&quot;https:&#x2F;&#x2F;assetstore.unity.com&#x2F;packages&#x2F;tools&#x2F;gui&#x2F;menu-control-138619&quot; target=&quot;_blank&quot;&gt;menu&lt;&#x2F;a&gt;, &lt;a href=&quot;https:&#x2F;&#x2F;assetstore.unity.com&#x2F;packages&#x2F;tools&#x2F;gui&#x2F;virtualizing-tree-view-101871&quot; target=&quot;_blank&quot;&gt;virtualizing tree view&lt;&#x2F;a&gt; and &lt;a href=&quot;https:&#x2F;&#x2F;assetstore.unity.com&#x2F;packages&#x2F;tools&#x2F;gui&#x2F;dock-panel-138621&quot; target=&quot;_blank&quot;&gt;dock panels.&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;Battlehub0x&#x2F;RTE_Docs&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;Docs &lt;&#x2F;strong&gt;&lt;&#x2F;a&gt;&lt;strong&gt;|&lt;&#x2F;strong&gt; &lt;a href=&quot;https:&#x2F;&#x2F;t.me&#x2F;battlehub&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;Telegram&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;&lt;strong&gt;Features:&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;p &gt;♥ Runtime Asset Database&lt;&#x2F;p&gt;&lt;p &gt;♥ Support for Prefabs and Prefab Variants&lt;&#x2F;p&gt;&lt;p &gt;♥ Support for Addressables&lt;&#x2F;p&gt;&lt;p &gt;♥ Position, Rotation, Scale transform handles;&lt;&#x2F;p&gt;&lt;p &gt;♥ Grid, Box Selection, Scene Gizmo;&lt;&#x2F;p&gt;&lt;p &gt;♥ Transform Handles Mobile;&lt;&#x2F;p&gt;&lt;p &gt;♥ Global &amp;amp; Local coordinates;&lt;&#x2F;p&gt;&lt;p &gt;♥ Local &amp;amp; Center pivot point modes;&lt;&#x2F;p&gt;&lt;p &gt;♥ Vertex &amp;amp; Grid snapping;&lt;&#x2F;p&gt;&lt;p &gt;♥ Gizmos for Colliders, Lights and Audio Sources;&lt;&#x2F;p&gt;&lt;p &gt;♥ Scene navigation, Orthographic &amp;amp; Perspective view;&lt;&#x2F;p&gt;&lt;p &gt;♥ Undo &amp;amp; Redo API;&lt;&#x2F;p&gt;&lt;p &gt;♥  Object Selection API;&lt;&#x2F;p&gt;&lt;p &gt;♥ Object life-cycle events;&lt;&#x2F;p&gt;&lt;p &gt;♥ Play &amp;amp; Edit mode;&lt;&#x2F;p&gt;&lt;p &gt;♥ Configurable Inspector;&lt;&#x2F;p&gt;&lt;p &gt;♥ Component &amp;amp; Material editors;&lt;&#x2F;p&gt;&lt;p &gt;♥ 20+ Built-in property editors;&lt;&#x2F;p&gt;&lt;p &gt;♥ Add Component control;&lt;&#x2F;p&gt;&lt;p &gt;♥ Multiple Scenes and Cameras support;&lt;&#x2F;p&gt;&lt;p &gt;♥ Dock Panels &amp;amp; Windows management;&lt;&#x2F;p&gt;&lt;p &gt;♥ Dialogs, Message Boxes, Confirmations;&lt;&#x2F;p&gt;&lt;p &gt;♥ Easy to extend with new windows;&lt;&#x2F;p&gt;&lt;p &gt;♥ Configurable Main &amp;amp; Context Menu;&lt;&#x2F;p&gt;&lt;p &gt;♥ Fast Virtualizing Tree View;&lt;&#x2F;p&gt;&lt;p &gt;♥ Multiple Projects support;&lt;&#x2F;p&gt;&lt;p &gt;♥ Ability to edit components of multiple selected objects;&lt;&#x2F;p&gt;&lt;p &gt;♥ Universal Render Pipeline support;&lt;&#x2F;p&gt;&lt;p &gt;♥ HD Renderer Pipeline support (Beta).&lt;&#x2F;p&gt;&lt;p &gt;&lt;strong&gt;This asset uses:&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;p &gt;♥ Roslyn .NET compiler;&lt;&#x2F;p&gt;&lt;p &gt;♥ HSV Color Picker;&lt;&#x2F;p&gt;&lt;p &gt;♥ protobuf-net;&lt;&#x2F;p&gt;&lt;p &gt;♥ SharpZipLib.&lt;&#x2F;p&gt;&lt;p &gt;♥ &lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;sebastienros&#x2F;jint&quot; target=&quot;_blank&quot;&gt;Jint&lt;&#x2F;a&gt;.&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;&#x2F;p&gt;
+</content>
         
     </entry>
     <entry xml:lang="zh">

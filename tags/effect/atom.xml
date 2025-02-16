@@ -20,6 +20,26 @@
           </name>
         </author>
         
+        <link rel="alternate" type="text/html" href="https://yzzfo.github.io/unity/store/Water Caustics Effect for URP v2/ignore-index-en/"/>
+        <id>https://yzzfo.github.io/unity/store/Water Caustics Effect for URP v2/ignore-index-en/</id>
+        
+        <content type="html" xml:base="https://yzzfo.github.io/unity/store/Water Caustics Effect for URP v2/ignore-index-en/">&lt;p&gt;&lt;br&gt;‥∴∵ &lt;em&gt;Thanks 500+ downloads&lt;&#x2F;em&gt; ∵∴‥&lt;br&gt;This asset easily adds the beautiful caustics essential for realistic water representation. &lt;br&gt;&lt;br&gt;&lt;a href=&quot;https:&#x2F;&#x2F;hacoapp.com&#x2F;asset&#x2F;wce&#x2F;v2&#x2F;ManualPDF.pdf&quot;&gt;➡ Manual PDF&lt;&#x2F;a&gt;&lt;br&gt;This asset contains two modules:&lt;br&gt;a Texture Generator and an Effect.&lt;br&gt;&lt;br&gt;&lt;br&gt;■ &lt;strong&gt;1. Water Caustics Tex Generator [ URP &#x2F; HDRP &#x2F; Built-inRP ]&lt;&#x2F;strong&gt;&lt;br&gt;•Generates rich, realistic caustics animated textures at runtime by simulating waves and light refraction with Compute Shader.&lt;br&gt;•Possible to create not only realistic but also cartoon-like expressions.&lt;br&gt;•This generator works with all rendering pipelines.&lt;br&gt;•All parameters modifiable via script.&lt;br&gt;•[Features] 4 Wave Layers, 3 Drawing Styles, Chromatic Aberration, Blur, Directional Blur, RGB Color Shift, Gamma, Brightness Adjustment, etc.&lt;br&gt;&lt;br&gt;&lt;br&gt;■ &lt;strong&gt;2. Water Caustics Effect [ URP(3D) only ]&lt;&#x2F;strong&gt;&lt;br&gt;•Apply caustics effects using the camera&#x27;s depth and normal textures.&lt;br&gt;•VR supported.&lt;br&gt;•Forward、Forward+ and Deferred rendering supported.&lt;br&gt;•All parameters modifiable via script.&lt;br&gt;•It is also possible to apply individually by embedding Custom Function in shaders. Materials that are not rendered in depth textures, such as transparent textures, can be applied with this method. (Shader Graph, HLSL, and Amplify Shader Editor supported.)&lt;br&gt;•[Features] Range specification by Rectangle&#x2F;Image&#x2F;Stencil mask, Attenuation by Depth and Distance, Random Texture Tiling, Texture Rotation, RGB Color Shift, Transparency Effect, Draw Timing Adjustment, etc.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;strong&gt;[ Unity 2020.3 LTS or higher supported ]&lt;&#x2F;strong&gt;&lt;br&gt;&lt;strong&gt;[ PC &#x2F; MAC &#x2F; iOS &#x2F; Android &#x2F; Switch &#x2F; Quest2 tested]&lt;&#x2F;strong&gt;&lt;br&gt;&lt;strong&gt;[ DX11,12 &#x2F; Metal &#x2F; Vulkan &#x2F; OpenGL &#x2F; GLES3.1 supported ]&lt;&#x2F;strong&gt;&lt;br&gt;&lt;em&gt;※ Tested with Unity 2020.3.20, 2021.3.33, 2022.3.22, 6000.0.28&lt;&#x2F;em&gt;&lt;br&gt;&lt;em&gt;※ WebGL is not supported because it does not support Compute Shader.&lt;&#x2F;em&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;※ All code is included.&lt;br&gt;※ The specification of URP is still in flux. Therefore, please be aware that it may not work in the future when the URP version is upgraded.&lt;br&gt;※ If you encounter problems, please first check the &lt;a href=&quot;https:&#x2F;&#x2F;hacoapp.com&#x2F;asset&#x2F;wce&#x2F;v2&#x2F;ManualPDF.pdf#ManualPDF.indd:Troubleshooting:178&quot;&gt;Troubleshooting&lt;&#x2F;a&gt; of Manual PDF, and if not resolved, please let me know in &lt;a href=&quot;https:&#x2F;&#x2F;hacoapp.com&#x2F;asset&#x2F;wce&#x2F;v2&#x2F;ManualPDF.pdf#ManualPDF.indd:Contact:224&quot;&gt;this way&lt;&#x2F;a&gt;. I will support you as soon as possible.&lt;br&gt;&lt;br&gt; mail: &lt;strong&gt;support_asset@hacoapp.com&lt;&#x2F;strong&gt;&lt;br&gt;twitter: &lt;a href=&quot;https:&#x2F;&#x2F;twitter.com&#x2F;m_hakozaki&quot;&gt;@m_hakozaki&lt;&#x2F;a&gt;&lt;br&gt;&lt;&#x2F;p&gt;
+</content>
+        
+    </entry>
+    <entry xml:lang="zh">
+        <title>Water Caustics Effect for URP v2</title>
+        <published>2024-12-28T01:01:24+00:00</published>
+        <updated>2024-12-28T01:01:24+00:00</updated>
+        
+        <author>
+          <name>
+            
+              yzzfo
+            
+          </name>
+        </author>
+        
         <link rel="alternate" type="text/html" href="https://yzzfo.github.io/unity/store/water-caustics-effect-for-urp-v2/"/>
         <id>https://yzzfo.github.io/unity/store/water-caustics-effect-for-urp-v2/</id>
         
@@ -66,10 +86,50 @@
           </name>
         </author>
         
+        <link rel="alternate" type="text/html" href="https://yzzfo.github.io/unity/store/Ultimate Outlines & Highlights/ignore-index-en/"/>
+        <id>https://yzzfo.github.io/unity/store/Ultimate Outlines & Highlights/ignore-index-en/</id>
+        
+        <content type="html" xml:base="https://yzzfo.github.io/unity/store/Ultimate Outlines &amp; Highlights/ignore-index-en/">&lt;p&gt;Take your game to the next level with this asset. It enables you to effortlessly add effects such as outlines, glows, overlays, and fresnel effects into any game object.&lt;br&gt;&lt;p &gt;Make your in-game objects stand out, enhance gameplay, and infuse your game with an immersive feel. Select from a diverse range of options to fine-tune the appearance and make it uniquely yours.&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;Join &lt;a href=&quot;https:&#x2F;&#x2F;discord.gg&#x2F;K88zmyuZFD&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;Discord &lt;&#x2F;strong&gt;&lt;&#x2F;a&gt;for updates, to report issues, or just to say hello!&lt;&#x2F;p&gt;&lt;p &gt;Please check the &lt;a href=&quot;https:&#x2F;&#x2F;inabstudios.gitbook.io&#x2F;ultimate-outlines-and-highlights&#x2F;&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;documentation &lt;&#x2F;strong&gt;&lt;&#x2F;a&gt;before purchasing.&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;&lt;a href=&quot;https:&#x2F;&#x2F;inabstudios.gitbook.io&#x2F;ultimate-outlines-and-highlights&#x2F;&quot; target=&quot;_blank&quot;&gt;✨&lt;&#x2F;a&gt;&lt;strong&gt;Overview&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;p &gt;&lt;strong&gt;Easily add custom selection highlighting&lt;&#x2F;strong&gt; to your models, whether they are simple or complex.&lt;&#x2F;p&gt;&lt;p &gt;&lt;strong&gt;Choose from a wide range of options&lt;&#x2F;strong&gt; to tweak the appearance and make it your own.&lt;&#x2F;p&gt;&lt;p &gt;&lt;strong&gt;Make your 3D and 2D objects stand out&lt;&#x2F;strong&gt; even more with effects like outline, glow, overlay, rim, and see-through.&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;⚡&lt;strong&gt;Main Features&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;ul&gt;&lt;li &gt;Easy to use.&lt;&#x2F;li&gt;&lt;li &gt;Extremely flexible.&lt;&#x2F;li&gt;&lt;li &gt;Every feature can be customized per object and you can combine them in any way you like.&lt;&#x2F;li&gt;&lt;li &gt;There are several fill effects included and you can create your own as well.&lt;&#x2F;li&gt;&lt;li &gt;You can exclude specific submeshes.&lt;&#x2F;li&gt;&lt;li &gt;Allows you to affect an individual or group of objects.&lt;&#x2F;li&gt;&lt;li &gt;Supports sprites and cutout objects.&lt;&#x2F;li&gt;&lt;li &gt;Optimized for mobile devices.&lt;&#x2F;li&gt;&lt;li &gt;Allows you to preview the effect in the editor without entering play mode.&lt;&#x2F;li&gt;&lt;li &gt;Works with both orthographic and perspective cameras.&lt;&#x2F;li&gt;&lt;li &gt;Use it in both HDR and LDR environments.&lt;&#x2F;li&gt;&lt;li &gt;Comes with integrated C# classes and coroutines to help you create various effects without additional assets.&lt;&#x2F;li&gt;&lt;li &gt;Includes built-in trigger classes.&lt;&#x2F;li&gt;&lt;li &gt;Example code and usage is provided to make it easy to integrate into your project.&lt;&#x2F;li&gt;&lt;&#x2F;ul&gt;&lt;p &gt;&lt;strong&gt;Not supported:&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;ul&gt;&lt;li &gt;URP 2D renderer below 2021.2&lt;&#x2F;li&gt;&lt;li &gt;VR and WebGL&lt;&#x2F;li&gt;&lt;&#x2F;ul&gt;&lt;p &gt;&lt;strong&gt;Compatibility:&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;ul&gt;&lt;li &gt;Supports URP and Built-in versions 2021.3 and above.&lt;&#x2F;li&gt;&lt;li &gt;Unity 6 is &lt;strong&gt;not &lt;&#x2F;strong&gt;supported. (Unity 6 update will be out soon)&lt;&#x2F;li&gt;&lt;li &gt;Built-in requires Shader Graph for the demo scenes to work.&lt;&#x2F;li&gt;&lt;&#x2F;ul&gt;&lt;&#x2F;br&gt;&lt;&#x2F;p&gt;
+</content>
+        
+    </entry>
+    <entry xml:lang="zh">
+        <title>Ultimate Outlines &amp; Highlights</title>
+        <published>2024-12-10T01:14:00+00:00</published>
+        <updated>2024-12-17T13:46:37+00:00</updated>
+        
+        <author>
+          <name>
+            
+              yzzfo
+            
+          </name>
+        </author>
+        
         <link rel="alternate" type="text/html" href="https://yzzfo.github.io/unity/store/ultimate-outlines-highlights/"/>
         <id>https://yzzfo.github.io/unity/store/ultimate-outlines-highlights/</id>
         
         <content type="html" xml:base="https://yzzfo.github.io/unity/store/ultimate-outlines-highlights/">&lt;p&gt;利用此资产将您的游戏提升到一个新的水平。 它使您能够轻松地将轮廓、发光、叠加和菲涅耳效果等效果添加到任何游戏对象中。&lt;br&gt;&lt;p &gt;让您的游戏内对象脱颖而出，增强游戏玩法，并为您的游戏注入身临其境的感觉。 从多种选项中进行选择，以微调外观并使其独一无二。&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;✨概述&lt;&#x2F;p&gt;&lt;p &gt;轻松地将自定义选择突出显示添加到您的模型中，无论它们是简单还是复杂。&lt;&#x2F;p&gt;&lt;p &gt;从多种选项中进行选择来调整外观并使其成为您自己的外观。&lt;&#x2F;p&gt;&lt;p &gt;利用轮廓、发光、叠加、边缘和透视等效果让您的 3D 和 2D 对象更加突出。&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;⚡主要特点&lt;&#x2F;p&gt;&lt;p &gt;便于使用。&lt;&#x2F;p&gt;&lt;p &gt;极其灵活。&lt;&#x2F;p&gt;&lt;p &gt;每个功能都可以针对每个对象进行自定义，并且您可以按照您喜欢的任何方式组合它们。&lt;&#x2F;p&gt;&lt;p &gt;其中包含多种填充效果，您也可以创建自己的填充效果。&lt;&#x2F;p&gt;&lt;p &gt;您可以排除特定的子网格。&lt;&#x2F;p&gt;&lt;p &gt;允许您影响单个或一组对象。&lt;&#x2F;p&gt;&lt;p &gt;支持精灵和剪切对象。&lt;&#x2F;p&gt;&lt;p &gt;针对移动设备进行了优化。&lt;&#x2F;p&gt;&lt;p &gt;允许您在编辑器中预览效果，而无需进入播放模式。&lt;&#x2F;p&gt;&lt;p &gt;适用于正交相机和透视相机。&lt;&#x2F;p&gt;&lt;p &gt;在 HDR 和 LDR 环境中使用它。&lt;&#x2F;p&gt;&lt;p &gt;附带集成的 C# 类和协程，可帮助您创建各种效果，而无需额外资源。&lt;&#x2F;p&gt;&lt;p &gt;包括内置触发器类。&lt;&#x2F;p&gt;&lt;p &gt;提供示例代码和用法，以便轻松集成到您的项目中。&lt;&#x2F;p&gt;&lt;p &gt;不支持：&lt;&#x2F;p&gt;&lt;p &gt;URP 2D 渲染器低于 2021.2&lt;&#x2F;p&gt;&lt;p &gt;VR 和 WebGL&lt;&#x2F;p&gt;&lt;p &gt;适用于 Unity LTS：2020、2021 和 2022&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;查看高级边缘检测以创建风格化轮廓。&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;获取有关资产的更多信息：文档。&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;通过 Discord 或电子邮件联系我：izzynab.publisher@gmail.com&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;&lt;a href=&quot;https:&#x2F;&#x2F;assetstore.unity.com&#x2F;packages&#x2F;slug&#x2F;262863&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;Advanced Edge Detection&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;&lt;p &gt;&lt;a href=&quot;https:&#x2F;&#x2F;inabstudios.gitbook.io&#x2F;ultimate-outlines-and-highlights&#x2F;&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;Documentation&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;&lt;p &gt;&lt;a href=&quot;https:&#x2F;&#x2F;discord.gg&#x2F;K88zmyuZFD&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;Discord &lt;&#x2F;strong&gt;&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;&lt;&#x2F;p&gt;
+</content>
+        
+    </entry>
+    <entry xml:lang="zh">
+        <title>Character Auras</title>
+        <published>2024-11-29T21:20:26+00:00</published>
+        <updated>2024-12-17T13:28:56+00:00</updated>
+        
+        <author>
+          <name>
+            
+              yzzfo
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://yzzfo.github.io/unity/store/Character Auras/ignore-index-en/"/>
+        <id>https://yzzfo.github.io/unity/store/Character Auras/ignore-index-en/</id>
+        
+        <content type="html" xml:base="https://yzzfo.github.io/unity/store/Character Auras/ignore-index-en/">&lt;p&gt;15 amazing character aura effects!&lt;br&gt;&lt;p &gt;The pack contains &lt;strong&gt;15&lt;&#x2F;strong&gt; amazing aura effects:&lt;&#x2F;p&gt;&lt;ul&gt;&lt;li &gt;Water aura&lt;&#x2F;li&gt;&lt;li &gt;White aura&lt;&#x2F;li&gt;&lt;li &gt;Soap ayra&lt;&#x2F;li&gt;&lt;li &gt;Smoke aura&lt;&#x2F;li&gt;&lt;li &gt;Sleep aura&lt;&#x2F;li&gt;&lt;li &gt;Shine aura&lt;&#x2F;li&gt;&lt;li &gt;Meteor aura&lt;&#x2F;li&gt;&lt;li &gt;Lightning aura&lt;&#x2F;li&gt;&lt;li &gt;Healing aura&lt;&#x2F;li&gt;&lt;li &gt;Gold aura&lt;&#x2F;li&gt;&lt;li &gt;Freeze aura&lt;&#x2F;li&gt;&lt;li &gt;Fire ayra&lt;&#x2F;li&gt;&lt;li &gt;Darkness aura&lt;&#x2F;li&gt;&lt;li &gt;Blood aura&lt;&#x2F;li&gt;&lt;li &gt;Acid aura&lt;&#x2F;li&gt;&lt;&#x2F;ul&gt;&lt;p &gt;All prefabs are game ready, just take and drop them into your game!&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;Supports built-in render by default. &lt;strong&gt;HDRP and URP are supported using &lt;&#x2F;strong&gt;&lt;a href=&quot;https:&#x2F;&#x2F;assetstore.unity.com&#x2F;packages&#x2F;tools&#x2F;utilities&#x2F;support-package-for-hovl-studio-assets-157764&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;this&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt;&lt;strong&gt; FREE package for Unity 2021 or below. &lt;&#x2F;strong&gt;It becomes free after purchasing one of my assets.&lt;&#x2F;p&gt;&lt;p &gt;&lt;strong&gt;URP&#x2F;HDRP is default from Unity 2022 or Unity 6+&lt;&#x2F;strong&gt;. Shader Graph is required which is installed together with this asset. Can be changed to built-in render.&lt;&#x2F;p&gt;&lt;p &gt;&lt;strong&gt;All platforms supported!&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;&lt;strong&gt;These are not mesh effects! All effects are just simple looped particles system!&lt;&#x2F;strong&gt; Promo media (videos, images) uses post process &quot;Bloom&quot; from the Volume component.&lt;&#x2F;p&gt;&lt;p &gt;Contact me if you have any problems or questions. Contact methods on the profile page.&lt;&#x2F;p&gt;&lt;&#x2F;p&gt;
 </content>
         
     </entry>
@@ -93,6 +153,26 @@
 &lt;p&gt;该包包含&lt;strong&gt;15&lt;&#x2F;strong&gt;个惊人的光环效果：&lt;&#x2F;p&gt;&lt;ul&gt;&lt;li&gt;水光环&lt;&#x2F;li&gt;&lt;li&gt;白色光环&lt;&#x2F;li&gt;&lt;li&gt;肥皂光环&lt;&#x2F;li&gt;&lt;li&gt;烟雾光环&lt;&#x2F;li&gt;&lt;li&gt;睡眠光环&lt;&#x2F;li&gt;&lt;li&gt;闪耀光环&lt;&#x2F;li&gt;&lt;li&gt;流星光环&lt;&#x2F;li&gt;&lt;li&gt;闪电光环&lt;&#x2F;li&gt;&lt;li&gt;治疗光环&lt;&#x2F;li&gt;&lt;li&gt;金色光环&lt;&#x2F;li&gt;&lt;li&gt;冰冻光环&lt;&#x2F;li&gt;&lt;li&gt;火焰光环&lt;&#x2F;li&gt;&lt;li&gt;黑暗光环&lt;&#x2F;li&gt;&lt;li&gt;血液光环&lt;&#x2F;li&gt;&lt;li&gt;酸性光环&lt;&#x2F;li&gt;&lt;&#x2F;ul&gt;&lt;p&gt;所有预制件均为游戏准备就绪，只需将它们拖放到您的游戏中即可！&lt;&#x2F;p&gt;
 &lt;p&gt;默认支持内置渲染。&lt;strong&gt;HDRP和URP通过&lt;&#x2F;strong&gt;&lt;a href=&quot;https:&#x2F;&#x2F;assetstore.unity.com&#x2F;packages&#x2F;tools&#x2F;utilities&#x2F;support-package-for-hovl-studio-assets-157764&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;这个&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt;&lt;strong&gt;免费的Unity 2021或更低版本的包进行支持。&lt;&#x2F;strong&gt;在购买我的资产之一后，它将变为免费。&lt;&#x2F;p&gt;&lt;p&gt;&lt;strong&gt;URP&#x2F;HDRP是Unity 2022或Unity 6+的默认设置&lt;&#x2F;strong&gt;。需要Shader Graph，该组件与此资产一起安装。可以更改为内置渲染。&lt;&#x2F;p&gt;&lt;p&gt;&lt;strong&gt;支持所有平台！&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
 &lt;p&gt;&lt;strong&gt;这些不是网格效果！所有效果只是简单的循环粒子系统！&lt;&#x2F;strong&gt;宣传媒体（视频、图片）使用来自Volume组件的后期处理“辉光”。&lt;&#x2F;p&gt;&lt;p&gt;如果您有任何问题或疑问，请与我联系。联系方式在个人资料页面上。&lt;&#x2F;p&gt;</content>
+        
+    </entry>
+    <entry xml:lang="zh">
+        <title>Mesh Effects</title>
+        <published>2024-11-29T21:19:19+00:00</published>
+        <updated>2024-12-17T13:28:09+00:00</updated>
+        
+        <author>
+          <name>
+            
+              yzzfo
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://yzzfo.github.io/unity/store/Mesh Effects/ignore-index-en/"/>
+        <id>https://yzzfo.github.io/unity/store/Mesh Effects/ignore-index-en/</id>
+        
+        <content type="html" xml:base="https://yzzfo.github.io/unity/store/Mesh Effects/ignore-index-en/">&lt;p&gt;&lt;br&gt;&lt;p &gt;Supported mobile platforms, VR, URP (10x+) and HDRP (10x+) rendering&lt;&#x2F;p&gt;&lt;p &gt;(does not work with 2D sprites)&lt;&#x2F;p&gt;&lt;p &gt;&lt;strong&gt;Note&lt;&#x2F;strong&gt;: Uninstall the old version of the package before upgrading.&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;&lt;a href=&quot;http:&#x2F;&#x2F;kripto289.com&#x2F;AssetStore&#x2F;WeaponFX&#x2F;1.4&#x2F;PC.zip&quot; target=&quot;_blank&quot;&gt;PC Demo&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;&lt;p &gt;&lt;a href=&quot;http:&#x2F;&#x2F;kripto289.com&#x2F;AssetStore&#x2F;WeaponFX&#x2F;1.4&#x2F;MeshEffectsDemo.apk&quot; target=&quot;_blank&quot;&gt;Mobile Demo&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;- Works out of the box (just drag and drop)&lt;&#x2F;p&gt;&lt;p &gt;- Any color in one click&lt;&#x2F;p&gt;&lt;p &gt;- Effects scale relative to a real mesh size&lt;&#x2F;p&gt;&lt;p &gt;- Works with a &quot;mesh renderer&quot; and a &quot;skinned mesh renderer&quot;&lt;&#x2F;p&gt;&lt;p &gt;- The demo scene includes (animations&#x2F;characters&#x2F;weapons&#x2F;environment)&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;&#x2F;br&gt;&lt;p &gt;&lt;a href=&quot;https:&#x2F;&#x2F;discord.gg&#x2F;GUUZ9D96Uq&quot; target=&quot;_blank&quot;&gt;Discord channel&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;&lt;p &gt;email: kripto289@gmail.com&lt;&#x2F;p&gt;&lt;&#x2F;p&gt;
+</content>
         
     </entry>
     <entry xml:lang="zh">

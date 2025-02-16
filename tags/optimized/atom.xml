@@ -20,10 +20,50 @@
           </name>
         </author>
         
+        <link rel="alternate" type="text/html" href="https://yzzfo.github.io/unity/store/AnimatorLOD Pro - Animator Optimizer/ignore-index-en/"/>
+        <id>https://yzzfo.github.io/unity/store/AnimatorLOD Pro - Animator Optimizer/ignore-index-en/</id>
+        
+        <content type="html" xml:base="https://yzzfo.github.io/unity/store/AnimatorLOD Pro - Animator Optimizer/ignore-index-en/">&lt;p&gt;Enhance Unity&#x27;s animator performance with the AnimatorLOD Pro – a powerful tool designed to optimize animation playback and boost your application&#x27;s overall efficiency.&lt;br&gt;&lt;p &gt;Supercharge your game&#x27;s performance with &lt;strong&gt;AnimatorLOD Pro&lt;&#x2F;strong&gt;, the ultimate tool for optimizing Unity&#x27;s Animator system without compromising animation quality!&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;&lt;strong&gt;What does it do?&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;p &gt;Using smart, distance-based frame skipping and skin-weight changing techniques, &lt;strong&gt;AnimatorLOD Pro&lt;&#x2F;strong&gt; ensures that animations close to the camera run smoothly while distant ones use less processing power. This results in smoother gameplay and a significant performance boost. perfect for scenes with many skinned mesh renderers!&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;&lt;strong&gt;What is included?&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;ul&gt;&lt;li &gt;Improves performance with distance-based animation framerate scaling&lt;&#x2F;li&gt;&lt;li &gt;Automatically adjusts skin weights based on distance to optimize quality&lt;&#x2F;li&gt;&lt;li &gt;Easy to integrate components with documentation and video guide&lt;&#x2F;li&gt;&lt;li &gt;Fully multithreaded skinning and Animator calculations—no impact on the main thread&lt;&#x2F;li&gt;&lt;li &gt;Scales perfectly with all framerates&lt;&#x2F;li&gt;&lt;li &gt;Seamlessly integrates with Unity&#x27;s rendering pipelines (BiRP, URP, HDRP)&lt;&#x2F;li&gt;&lt;li &gt;Supports all platforms, including AR, VR, Android, PC, WebGL, and consoles&lt;&#x2F;li&gt;&lt;&#x2F;ul&gt;&lt;&#x2F;br&gt;&lt;p &gt;This technique is already being used by many top-tier game studios, and now it&#x27;s available to you!&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;&#x2F;br&gt;&lt;p &gt;&lt;strong&gt;&lt;em&gt;Getting started is a breeze! &lt;&#x2F;em&gt;&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;p &gt;Just follow these steps:&lt;&#x2F;p&gt;&lt;ol&gt;&lt;li &gt;Add the &lt;em&gt;AnimatorLODManager &lt;&#x2F;em&gt;component to your scene.&lt;&#x2F;li&gt;&lt;li &gt;Attach the &lt;em&gt;AnimatorLODObject &lt;&#x2F;em&gt;component to your animated objects.&lt;&#x2F;li&gt;&lt;li &gt;Watch your animation performance improve instantly!&lt;&#x2F;li&gt;&lt;&#x2F;ol&gt;&lt;&#x2F;br&gt;&lt;p &gt;&lt;strong&gt;Need help? &lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;p &gt;Join our community or read the quickstart guide to get up and running!&lt;&#x2F;p&gt;&lt;p &gt;&lt;a href=&quot;https:&#x2F;&#x2F;discord.gg&#x2F;ySTKg2QTrx&quot; target=&quot;_blank&quot;&gt;Support Discord&lt;&#x2F;a&gt; | &lt;a href=&quot;https:&#x2F;&#x2F;dunktechnologies.com&#x2F;PDF&#x2F;Assets&#x2F;AnimatorLOD%20Pro%20Documentation.pdf&quot; target=&quot;_blank&quot;&gt;Quickstart Guide&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;&lt;&#x2F;p&gt;
+</content>
+        
+    </entry>
+    <entry xml:lang="zh">
+        <title>AnimatorLOD Pro - Animator Optimizer</title>
+        <published>2024-12-15T12:00:36+00:00</published>
+        <updated>2024-12-17T13:48:39+00:00</updated>
+        
+        <author>
+          <name>
+            
+              yzzfo
+            
+          </name>
+        </author>
+        
         <link rel="alternate" type="text/html" href="https://yzzfo.github.io/unity/store/animatorlod-pro-animator-optimizer/"/>
         <id>https://yzzfo.github.io/unity/store/animatorlod-pro-animator-optimizer/</id>
         
         <content type="html" xml:base="https://yzzfo.github.io/unity/store/animatorlod-pro-animator-optimizer/">&lt;p&gt;提高 Unity 动画器性能的 AnimatorLOD Pro 是一种强大的工具，设计用于优化动画播放并提高应用程序的整体效率。&lt;br&gt;&lt;p &gt;介绍 AnimatorLOD Pro，你提高 Unity 动画器性能的必备工具！&lt;&#x2F;p&gt;&lt;p &gt;同时运行多个动画器可能会显著降低速度，但是使用 AnimatorLOD Pro，你可以提高性能而不会牺牲感知质量！&lt;&#x2F;p&gt;&lt;p &gt;包含内容：&lt;&#x2F;p&gt;&lt;ul&gt;&lt;li &gt;易于集成&lt;&#x2F;li&gt;&lt;li &gt;在运行时更改动画帧率和皮肤权重&lt;&#x2F;li&gt;&lt;li &gt;皮肤处理保持多线程并可以在 GPU 上运行&lt;&#x2F;li&gt;&lt;li &gt;适用于所有动画器&lt;&#x2F;li&gt;&lt;li &gt;更新动画器时不会暂停主线程&lt;&#x2F;li&gt;&lt;li &gt;编辑器性能更佳的程序集定义支持&lt;&#x2F;li&gt;&lt;&#x2F;ul&gt;&lt;p &gt;工作原理： AnimatorLOD Pro 使用一种智能的基于距离的帧跳过和皮肤权重调整技术。这种技术可以保留靠近摄像机的动画器的完整质量，而减少远处动画器的质量。这意味着靠近你的动画将会顺畅地运行，而远处的动画将会使用较少的处理能力，从而提供你所需要的性能提升。&lt;&#x2F;p&gt;&lt;p &gt;这种技术已经被许多一流的游戏工作室所使用，现在它也为你所提供！&lt;&#x2F;p&gt;&lt;p &gt;开始使用很容易！ 将 AnimatorLODManager 组件添加到你的场景中，将 AnimatorLODObject 组件附加到你的动画对象，并观察性能的即时提高！尤其是在包含许多皮肤网格渲染器的场景中。&lt;&#x2F;p&gt;&lt;&#x2F;p&gt;
+</content>
+        
+    </entry>
+    <entry xml:lang="zh">
+        <title>Better Fog: Height Fog, Light Scattering &amp; More</title>
+        <published>2024-12-07T20:00:36+00:00</published>
+        <updated>2024-12-17T13:39:33+00:00</updated>
+        
+        <author>
+          <name>
+            
+              yzzfo
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://yzzfo.github.io/unity/store/Better Fog Height Fog, Light Scattering & More/ignore-index-en/"/>
+        <id>https://yzzfo.github.io/unity/store/Better Fog Height Fog, Light Scattering & More/ignore-index-en/</id>
+        
+        <content type="html" xml:base="https://yzzfo.github.io/unity/store/Better Fog Height Fog, Light Scattering &amp; More/ignore-index-en/">&lt;p&gt;Add depth and feel to your game. Achieve greater realism or craft a truly unique look. Improve or completely transform your game&#x27;s appearance without concerns over transparents, water, or skyboxes.&lt;br&gt;&lt;p &gt;&lt;strong&gt;Better Fog&lt;&#x2F;strong&gt; is a post-processing effect offering a wide variety of features to craft numerous looks and styles, from realistic to stylized. This effect is not a volumetric solution, ensuring optimal performance. It also includes additional features such as a plane or sphere analytical world fog, a custom fog particle shader, and more. Crafted using Shader Graph (URP) and the Amplify Shader Editor (Built-in), Better Fog supports transparent objects without the need to modify their shaders.&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;Join &lt;a href=&quot;https:&#x2F;&#x2F;discord.gg&#x2F;K88zmyuZFD&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;Discord &lt;&#x2F;strong&gt;&lt;&#x2F;a&gt;for updates, to report issues, or just to say hello!&lt;&#x2F;p&gt;&lt;p &gt;Please check the &lt;a href=&quot;https:&#x2F;&#x2F;inabstudios.gitbook.io&#x2F;better-fog&#x2F;&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;documentation &lt;&#x2F;strong&gt;&lt;&#x2F;a&gt;before purchasing.&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;&lt;strong&gt;Features:&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;ul&gt;&lt;li &gt;&lt;strong&gt;Screen Space Light Scattering (SSMS):&lt;&#x2F;strong&gt; Use it to create a more realistic feel for the fog.&lt;&#x2F;li&gt;&lt;li &gt;&lt;strong&gt;Gradient Fog Colors:&lt;&#x2F;strong&gt; Create your own custom look or use one of the many gradients included with the asset.&lt;&#x2F;li&gt;&lt;li &gt;&lt;strong&gt;Skybox Fog Integration:&lt;&#x2F;strong&gt; Ensure consistent visuals with any skybox.&lt;&#x2F;li&gt;&lt;li &gt;&lt;strong&gt;Distance-Based Fog:&lt;&#x2F;strong&gt; Default fog with the option to use radial distance.&lt;&#x2F;li&gt;&lt;li &gt;&lt;strong&gt;Height Fog:&lt;&#x2F;strong&gt; Atmospheric height fog.&lt;&#x2F;li&gt;&lt;li &gt;&lt;strong&gt;Volume Blending:&lt;&#x2F;strong&gt; Use post-processing volumes to blend between various presets.&lt;&#x2F;li&gt;&lt;li &gt;&lt;strong&gt;Transparents &amp;amp; Particle Support:&lt;&#x2F;strong&gt; The fog works well with particles and transparent objects.&lt;&#x2F;li&gt;&lt;li &gt;&lt;strong&gt;World Fog:&lt;&#x2F;strong&gt; Customize and add fog using planes and spheres with custom shaders.&lt;&#x2F;li&gt;&lt;li &gt;&lt;strong&gt;Custom Fog with Particles:&lt;&#x2F;strong&gt; Includes procedural fog particle FX.&lt;&#x2F;li&gt;&lt;li &gt;&lt;strong&gt;Fog Energy Loss:&lt;&#x2F;strong&gt; Imitate the loss of photon energy due to fog scattering.&lt;&#x2F;li&gt;&lt;li &gt;&lt;strong&gt;Simple Integration:&lt;&#x2F;strong&gt; Easily add the effect to your project.&lt;&#x2F;li&gt;&lt;li &gt;&lt;strong&gt;Versatile Customization:&lt;&#x2F;strong&gt; Adjust each feature as needed and use keywords for better performance.&lt;&#x2F;li&gt;&lt;&#x2F;ul&gt;&lt;&#x2F;br&gt;&lt;p &gt;&lt;strong&gt;Compatibility:&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;ul&gt;&lt;li &gt;Supports URP and Built-in versions 2021.3 and above.&lt;&#x2F;li&gt;&lt;li &gt;Unity 6 support! (see limitations below)&lt;&#x2F;li&gt;&lt;li &gt;Built-in requires Shader Graph for the demo scenes to work.&lt;&#x2F;li&gt;&lt;&#x2F;ul&gt;&lt;&#x2F;br&gt;&lt;p &gt;&lt;strong&gt;Limitations:&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;ul&gt;&lt;li &gt;Only supports directional light light scattering.&lt;&#x2F;li&gt;&lt;li &gt;Non-volumetric.&lt;&#x2F;li&gt;&lt;li &gt;No MSAA support.&lt;&#x2F;li&gt;&lt;li &gt;Requires devices capable of depth rendering.&lt;&#x2F;li&gt;&lt;li &gt;No support for orthographic camera, VR, webGL, VFX graph particles blending.&lt;&#x2F;li&gt;&lt;&#x2F;ul&gt;&lt;&#x2F;p&gt;
 </content>
         
     </entry>

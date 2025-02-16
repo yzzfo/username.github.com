@@ -20,6 +20,26 @@
           </name>
         </author>
         
+        <link rel="alternate" type="text/html" href="https://yzzfo.github.io/unity/store/Roslyn C# - Runtime Compiler/ignore-index-en/"/>
+        <id>https://yzzfo.github.io/unity/store/Roslyn C# - Runtime Compiler/ignore-index-en/</id>
+        
+        <content type="html" xml:base="https://yzzfo.github.io/unity/store/Roslyn C# - Runtime Compiler/ignore-index-en/">&lt;p&gt;&lt;br&gt;&lt;strong&gt;&lt;em&gt;*Requires .Net 4.x or .Net standard API compatibility level&lt;&#x2F;em&gt;&lt;&#x2F;strong&gt;&lt;br&gt;&lt;br&gt;&lt;p&gt;Roslyn C# allows runtime loading of assemblies and C# scripts using the Roslyn compiler making it easy to add modding support or in-game programming to your project. In addition, Roslyn C# also includes code security verification that allows you to specify a number of security restrictions that loaded code must adhere to including illegal namespaces and types. This makes it much safer to load 3rd party code from unknown sources.&lt;&#x2F;P&gt;&lt;br&gt;&lt;p&gt;Includes a small programming based game where the objective is to navigate a mouse out of a maze by writing code that performs the direction decision making.&lt;&#x2F;P&gt;&lt;br&gt;&lt;br&gt;&lt;p&gt;&lt;strong&gt;Features&lt;&#x2F;strong&gt;&lt;br&gt;-Compile and run C# scripts at runtime&lt;br&gt;-Leverage the latest C# language features using the Roslyn C# compiler&lt;br&gt;-Fast execution. Once compiled, external scripts will run as fast as game scripts&lt;br&gt;-Allows modding support to be added easily&lt;br&gt;-Code security validation means that unsafe code can be identified and discarded&lt;br&gt;-Code security generates a detailed report upon failure containing information about illegal types used and every usage occurrence in the external code&lt;br&gt;-Simple and easy to use API for assembly, type and instance reflection&lt;br&gt;-Support for non-concrete communication using script proxies&lt;br&gt;-Automatic type construction using correct method (AddComponent, CreateInstance, new)&lt;br&gt;-Cached member tables for quick reflection&lt;br&gt;-All scripts and example are organised into namespaces to avoid type name clashes&lt;br&gt;-Fully commented partial C# source code included&lt;br&gt;-Comprehensive .chm documentation of the API for quick and easy reference&lt;br&gt;&lt;br&gt;&lt;strong&gt;Platforms&lt;&#x2F;strong&gt;&lt;br&gt;Support for PC, Mac and Linux platforms. &lt;p&gt;Roslyn C# may work on other platforms without issue however we will only offer support for the officially supported platforms.&lt;&#x2F;p&gt;&lt;br&gt;&lt;br&gt;&lt;strong&gt;Android&lt;&#x2F;strong&gt;&lt;br&gt;Android is not officially supported however, many users have had success getting the asset to run on Android by following &lt;a href=&quot;https:&#x2F;&#x2F;forum.unity.com&#x2F;threads&#x2F;released-roslyn-c-runtime-c-compiler.651505&#x2F;page-4#post-6834782&quot;&gt;these steps&lt;&#x2F;a&gt;&lt;br&gt;&lt;br&gt;&lt;a href=&quot;https:&#x2F;&#x2F;forum.unity.com&#x2F;threads&#x2F;pending-review-roslyn-c-runtime-c-compiler.651505&#x2F;&quot;&gt;Forum&lt;&#x2F;a&gt; | &lt;a href=&quot;https:&#x2F;&#x2F;discord.gg&#x2F;sHREXjmwa2&quot;&gt;Discord&lt;&#x2F;a&gt; | &lt;a href=&quot;http:&#x2F;&#x2F;trivialinteractive.co.uk&#x2F;products&#x2F;documentation&#x2F;roslyncsharp&#x2F;UserGuide.pdf&quot;&gt;Documentation&lt;&#x2F;a&gt; | &lt;a href=&quot;http:&#x2F;&#x2F;trivialinteractive.co.uk&#x2F;support.html&quot;&gt;Support&lt;&#x2F;a&gt; | &lt;a href=&quot;http:&#x2F;&#x2F;trivialinteractive.co.uk&quot;&gt;Website&lt;&#x2F;a&gt;&lt;br&gt;&lt;br&gt;&lt;&#x2F;p&gt;
+</content>
+        
+    </entry>
+    <entry xml:lang="zh">
+        <title>Roslyn C# - Runtime Compiler</title>
+        <published>2024-12-14T11:48:40+00:00</published>
+        <updated>2024-12-17T13:48:10+00:00</updated>
+        
+        <author>
+          <name>
+            
+              yzzfo
+            
+          </name>
+        </author>
+        
         <link rel="alternate" type="text/html" href="https://yzzfo.github.io/unity/store/roslyn-c-runtime-compiler/"/>
         <id>https://yzzfo.github.io/unity/store/roslyn-c-runtime-compiler/</id>
         
@@ -44,6 +64,26 @@
 支持 PC、Mac 和 Linux 平台。&lt;p&gt;Roslyn C# 可能在其他平台上也能正常工作，但我们只会为官方支持的平台提供支持。&lt;&#x2F;p&gt;&lt;&#x2F;p&gt;
 &lt;p&gt;&lt;strong&gt;Android&lt;&#x2F;strong&gt;&lt;br&gt;Android并未得到官方支持，但许多用户通过遵循&lt;a href=&quot;https:&#x2F;&#x2F;forum.unity.com&#x2F;threads&#x2F;released-roslyn-c-runtime-c-compiler.651505&#x2F;page-4#post-6834782&quot;&gt;这些步骤&lt;&#x2F;a&gt;成功地在Android上运行该资源。&lt;&#x2F;p&gt;
 &lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;forum.unity.com&#x2F;threads&#x2F;pending-review-roslyn-c-runtime-c-compiler.651505&#x2F;&quot;&gt;论坛&lt;&#x2F;a&gt; | &lt;a href=&quot;https:&#x2F;&#x2F;discord.gg&#x2F;sHREXjmwa2&quot;&gt;Discord&lt;&#x2F;a&gt; | &lt;a href=&quot;http:&#x2F;&#x2F;trivialinteractive.co.uk&#x2F;products&#x2F;documentation&#x2F;roslyncsharp&#x2F;UserGuide.pdf&quot;&gt;文档&lt;&#x2F;a&gt; | &lt;a href=&quot;http:&#x2F;&#x2F;trivialinteractive.co.uk&#x2F;support.html&quot;&gt;支持&lt;&#x2F;a&gt; | &lt;a href=&quot;http:&#x2F;&#x2F;trivialinteractive.co.uk&quot;&gt;网站&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+</content>
+        
+    </entry>
+    <entry xml:lang="zh">
+        <title>uMod 2.0</title>
+        <published>2024-12-09T11:46:07+00:00</published>
+        <updated>2024-12-17T13:44:28+00:00</updated>
+        
+        <author>
+          <name>
+            
+              yzzfo
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://yzzfo.github.io/unity/store/uMod 2.0/ignore-index-en/"/>
+        <id>https://yzzfo.github.io/unity/store/uMod 2.0/ignore-index-en/</id>
+        
+        <content type="html" xml:base="https://yzzfo.github.io/unity/store/uMod 2.0/ignore-index-en/">&lt;p&gt;&lt;br&gt;uMod 2.0 is a complete modding solution for the Unity game engine and makes it quick and painless to add mod support to your game. Modders are able to extend to and modify gameplay by creating mods with assets, scripts and even entire scenes, all within the Unity editor.&lt;br&gt;&lt;br&gt;&lt;strong&gt;Features&lt;&#x2F;strong&gt;&lt;br&gt;-Basic mod support out of the box&lt;br&gt;-Supports all assets that Unity can handle, Yes! even scenes and scripts can be included &lt;br&gt;-Load from the local file system or from remote server &lt;br&gt;-Supports command line launching of mods &lt;br&gt;-Supports multi-mod loading &lt;br&gt;-Catches exceptions and errors generated by mods &lt;br&gt;-Modders can create their content in the Unity editor and export easily using uMod Exporter &lt;br&gt;-C# scripts and assemblies can be included in mods &lt;br&gt;-Cross domain scripting allows communication between game and mod scripts &lt;br&gt;-Script execution security allows developers to restrict modded code &lt;br&gt;-Customizable build pipeline allows for custom exporter tools to be created &lt;br&gt;-Supports asset sharing allowing modders to make use of game assets &lt;br&gt;-Includes a directory utility for managing a mod directory &lt;br&gt;-Dedicated online scripting reference &lt;br&gt;-Many more features&lt;br&gt;&lt;br&gt;&lt;strong&gt;Supported platforms&lt;&#x2F;strong&gt;&lt;br&gt;Supports PC, Mac and Linux platforms only. IL2CPP is not supported if scriptable mods are required.&lt;br&gt;&lt;br&gt;Want to know more about uMod 2.0? Take a look at the following links:&lt;br&gt;&lt;br&gt;&lt;a href=&quot;http:&#x2F;&#x2F;trivialinteractive.co.uk&quot;&gt;Website&lt;&#x2F;a&gt; | &lt;a href=&quot;http:&#x2F;&#x2F;trivialinteractive.co.uk&#x2F;products&#x2F;documentation&#x2F;umod_20&#x2F;UserGuide.pdf&quot;&gt;Documentation &lt;&#x2F;a&gt;| &lt;a href=&quot;http:&#x2F;&#x2F;trivialinteractive.co.uk&#x2F;products&#x2F;documentation&#x2F;umod_20&#x2F;scriptingreference&quot;&gt;Script Reference&lt;&#x2F;a&gt;&lt;br&gt;&lt;br&gt;Need help with uMod 2.0, found a bug or simply have a question? Let us know via one of the methods below:&lt;br&gt;&lt;br&gt;&lt;a href=&quot;https:&#x2F;&#x2F;forum.unity3d.com&#x2F;threads&#x2F;released-umod-2-0-modding-support-made-easy.449697&#x2F;&quot;&gt;Forum&lt;&#x2F;a&gt; | &lt;a href=&quot;https:&#x2F;&#x2F;discord.gg&#x2F;sHREXjmwa2&quot;&gt;Discord&lt;&#x2F;a&gt; | &lt;a href=&quot;http:&#x2F;&#x2F;www.trivialinteractive.co.uk&#x2F;support.html&quot;&gt;Support &lt;&#x2F;a&gt;| &lt;a href=&quot;http:&#x2F;&#x2F;www.trivialinteractive.co.uk&#x2F;support.html&quot;&gt;Feature Request&lt;&#x2F;a&gt; | &lt;a href=&quot;http:&#x2F;&#x2F;www.trivialinteractive.co.uk&#x2F;support.html&quot;&gt;Bug Report&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
 </content>
         
     </entry>

@@ -20,6 +20,83 @@
           </name>
         </author>
         
+        <link rel="alternate" type="text/html" href="https://yzzfo.github.io/unity/other/Cross-Platform Native Plugins Essential Kit/ignore-index-en/"/>
+        <id>https://yzzfo.github.io/unity/other/Cross-Platform Native Plugins Essential Kit/ignore-index-en/</id>
+        
+        <content type="html" xml:base="https://yzzfo.github.io/unity/other/Cross-Platform Native Plugins Essential Kit/ignore-index-en/">&lt;p&gt;&lt;b&gt;Cross Platform Native Plugins: Essential Kit&lt;&#x2F;b&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;Cross Platform Native Plugins: Essential Kit provides a unified API for IAP, Notifications (FCM), Cloud Save (iCloud, Saved Games), Web view, Leaderboards, Rate app, Sharing, and more on mobile platforms.&lt;&#x2F;p&gt;
+&lt;p&gt;It is a true cross-platform tool for Unity that provides a unique and unified way to access native functionality on mobile platforms.&lt;&#x2F;p&gt;
+&lt;p&gt;The new &lt;strong&gt;2.0 version&lt;&#x2F;strong&gt; is a complete rewrite from scratch, communicating directly with native platforms and featuring a much more efficient workflow. Additionally, some parts of the API have been revised for extendability and ease of use based on your feedback!&lt;&#x2F;p&gt;
+&lt;p&gt;If you are upgrading from version 1.x, please &lt;a href=&quot;#&quot;&gt;follow this guide&lt;&#x2F;a&gt;.&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;strong&gt;Supported platforms:&lt;&#x2F;strong&gt; iOS (v10.0 and above), Android (API 14 and above).&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;b&gt;Important Links:&lt;&#x2F;b&gt;&lt;&#x2F;p&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;#&quot;&gt;Unity Forum Thread&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+  &lt;li&gt;&lt;a href=&quot;#&quot;&gt;Tutorials&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+  &lt;li&gt;&lt;a href=&quot;#&quot;&gt;Support&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;p&gt;&lt;b&gt;Highlights:&lt;&#x2F;b&gt;&lt;&#x2F;p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Unified API design&lt;&#x2F;li&gt;
+  &lt;li&gt;Hassle-free installation&lt;&#x2F;li&gt;
+  &lt;li&gt;No need for knowledge of native platform services&lt;&#x2F;li&gt;
+  &lt;li&gt;Simulates most feature behaviors in the Editor&lt;&#x2F;li&gt;
+  &lt;li&gt;Automatically generates Android Manifest file and permissions based on feature usage&lt;&#x2F;li&gt;
+  &lt;li&gt;Automatically adds required capabilities on iOS&lt;&#x2F;li&gt;
+  &lt;li&gt;Selective inclusion of feature files&lt;&#x2F;li&gt;
+  &lt;li&gt;Complete ASMDEF!&lt;&#x2F;li&gt;
+  &lt;li&gt;Full source code included&lt;&#x2F;li&gt;
+  &lt;li&gt;Detailed tutorials with native platform setup (video tutorials coming soon)&lt;&#x2F;li&gt;
+  &lt;li&gt;Unity Cloud Build and batch mode compatible&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;p&gt;&lt;b&gt;Feature Set:&lt;&#x2F;b&gt;&lt;&#x2F;p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Address Book&lt;&#x2F;li&gt;
+  &lt;li&gt;Billing&lt;&#x2F;li&gt;
+  &lt;li&gt;Cloud Services&lt;&#x2F;li&gt;
+  &lt;li&gt;Deep Link Services (New!)&lt;&#x2F;li&gt;
+  &lt;li&gt;Game Services&lt;&#x2F;li&gt;
+  &lt;li&gt;Mail Sharing&lt;&#x2F;li&gt;
+  &lt;li&gt;Message Sharing&lt;&#x2F;li&gt;
+  &lt;li&gt;Media Library Services&lt;&#x2F;li&gt;
+  &lt;li&gt;Native UI Popups (Alert Dialog, Date&#x2F;Time Picker (New!))&lt;&#x2F;li&gt;
+  &lt;li&gt;Network Connectivity&lt;&#x2F;li&gt;
+  &lt;li&gt;Local Notification System&lt;&#x2F;li&gt;
+  &lt;li&gt;Push Notification System&lt;&#x2F;li&gt;
+  &lt;li&gt;Rate My App (Android Rating – New!)&lt;&#x2F;li&gt;
+  &lt;li&gt;Social Sharing (Fb, Twitter, WhatsApp)&lt;&#x2F;li&gt;
+  &lt;li&gt;Share Sheet&lt;&#x2F;li&gt;
+  &lt;li&gt;WebView&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;p&gt;&lt;b&gt;Note:&lt;&#x2F;b&gt;&lt;&#x2F;p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Plugin doesn’t include Facebook SDK&lt;&#x2F;li&gt;
+  &lt;li&gt;Works with Unity Cloud Build&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;p&gt;&lt;b&gt;Related Products:&lt;&#x2F;b&gt;&lt;&#x2F;p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Cross Platform Easy Save&lt;&#x2F;li&gt;
+  &lt;li&gt;Cross Platform Replay Kit&lt;&#x2F;li&gt;
+  &lt;li&gt;Cross Platform Snapchat Kit&lt;&#x2F;li&gt;
+  &lt;li&gt;Cross Platform Story Kit (Instagram)&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;p&gt;We love to hear from you! Contact us to share your feedback and suggestions with our team.&lt;&#x2F;p&gt;
+</content>
+        
+    </entry>
+    <entry xml:lang="zh">
+        <title>Cross-Platform Native Plugins : Essential Kit (Mobile - iOS &amp; Android)</title>
+        <published>2024-12-07T21:00:17+00:00</published>
+        <updated>2024-12-07T21:00:17+00:00</updated>
+        
+        <author>
+          <name>
+            
+              yzzfo
+            
+          </name>
+        </author>
+        
         <link rel="alternate" type="text/html" href="https://yzzfo.github.io/unity/other/cross-platform-native-plugins-essential-kit/"/>
         <id>https://yzzfo.github.io/unity/other/cross-platform-native-plugins-essential-kit/</id>
         
@@ -97,10 +174,50 @@
           </name>
         </author>
         
+        <link rel="alternate" type="text/html" href="https://yzzfo.github.io/unity/store/UniWebView 5/ignore-index-en/"/>
+        <id>https://yzzfo.github.io/unity/store/UniWebView 5/ignore-index-en/</id>
+        
+        <content type="html" xml:base="https://yzzfo.github.io/unity/store/UniWebView 5/ignore-index-en/">&lt;p&gt;A powerful web view component to display web content in your mobile game. Browsing through HTTP, running JavaScript, performing OAuth 2.0, and much more.&lt;br&gt;&lt;p &gt;UniWebView is a Unity 3D plugin for &lt;strong&gt;adding a web view component&lt;&#x2F;strong&gt; to your Unity 3D mobile games.&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;Visit our &lt;a href=&quot;https:&#x2F;&#x2F;uniwebview.com&#x2F;&quot; target=&quot;_blank&quot;&gt;official website&lt;&#x2F;a&gt; to learn more about UniWebView 5.&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;&lt;strong&gt;&lt;em&gt;OVERVIEW&lt;&#x2F;em&gt;&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;UniWebView includes a set of abstract high-level APIs in C#, which wrapped the native APIs of iOS and Android platforms. With UniWebView, you can have some behaviors like a browser into your games without knowing anything about native development. It is very useful when you need to show an announcement or notice, add a leader board for player rankings, or just display any web pages to your users.&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;UniWebView supports running on iOS 9.0 or above, and Android 5.0 (API Level 21) or above. It also contains fully functional support for Unity Editor on macOS.&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;&lt;em&gt;Unity 2020.3 or later is required.&lt;&#x2F;em&gt;&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;&lt;strong&gt;&lt;em&gt;FEATURES&lt;&#x2F;em&gt;&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;ul&gt;&lt;li &gt;Web Browsing on the Internet. Display content through HTTP&#x2F;HTTPS.&lt;&#x2F;li&gt;&lt;li &gt;Safe Browsing Mode for secure browsing. Supporting Apple Pay, Google Pay, and more.&lt;&#x2F;li&gt;&lt;li &gt;Built-in support for popular OAuth 2.0 providers. Log in to Google, Facebook, and more.&lt;&#x2F;li&gt;&lt;li &gt;Loading local HTML files.&lt;&#x2F;li&gt;&lt;li &gt;Full JavaScript Support. Running and adding JavaScript on the page.&lt;&#x2F;li&gt;&lt;li &gt;Message System based on url scheme to receive a message from web page.&lt;&#x2F;li&gt;&lt;li &gt;Setting Position and Size by either absolute values or reference Relative Unity UI element.&lt;&#x2F;li&gt;&lt;li &gt;Playing YouTube, Vimeo, or local videos.&lt;&#x2F;li&gt;&lt;li &gt;Uploading photos from the camera or gallery through an input form.&lt;&#x2F;li&gt;&lt;li &gt;Rendering web page to Texture and use in your game world.&lt;&#x2F;li&gt;&lt;li &gt;Clicking through the transparent area of the web view. Creating game UI with the web page.&lt;&#x2F;li&gt;&lt;li &gt;Check &lt;a href=&quot;https:&#x2F;&#x2F;uniwebview.com&#x2F;&quot; target=&quot;_blank&quot;&gt;our website&lt;&#x2F;a&gt; for even more.&lt;&#x2F;li&gt;&lt;&#x2F;ul&gt;&lt;p &gt;&lt;strong&gt;&lt;em&gt;DOCS, GUIDES, AND SUPPORT&lt;&#x2F;em&gt;&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;We prepared detailed documentation and guides. Please visit the &lt;a href=&quot;https:&#x2F;&#x2F;docs.uniwebview.com&#x2F;&quot; target=&quot;_blank&quot;&gt;UniWebView Documentation Site&lt;&#x2F;a&gt; to learn how to use this asset.&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;If you have any questions, take a look at the &lt;a href=&quot;https:&#x2F;&#x2F;docs.uniwebview.com&#x2F;guide&#x2F;faq.html&quot; target=&quot;_blank&quot;&gt;FAQ page&lt;&#x2F;a&gt; or even submit a ticket from our docs page!&lt;&#x2F;p&gt;&lt;&#x2F;p&gt;
+</content>
+        
+    </entry>
+    <entry xml:lang="zh">
+        <title>UniWebView 5</title>
+        <published>2024-12-07T20:33:31+00:00</published>
+        <updated>2024-12-17T13:42:30+00:00</updated>
+        
+        <author>
+          <name>
+            
+              yzzfo
+            
+          </name>
+        </author>
+        
         <link rel="alternate" type="text/html" href="https://yzzfo.github.io/unity/store/uniwebview-5/"/>
         <id>https://yzzfo.github.io/unity/store/uniwebview-5/</id>
         
         <content type="html" xml:base="https://yzzfo.github.io/unity/store/uniwebview-5/">&lt;p&gt;面向移动平台的 Web View 强大控件，帮助您在游戏中显示网页内容。显示 HTTP 网页，执行 JavaScript，通过 OAuth 2.0 登入，以及更多其他功能。&lt;br&gt;&lt;p &gt;UniWebView 可以用于向您的 Unity 3D 手机游戏中添加&lt;strong&gt;网页视图组件&lt;&#x2F;strong&gt;。&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;欢迎访问我们的&lt;a href=&quot;https:&#x2F;&#x2F;uniwebview.com&#x2F;&quot; target=&quot;_blank&quot;&gt;官方网站&lt;&#x2F;a&gt;，以了解有关 UniWebView 5 的更多信息。&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;&lt;strong&gt;&lt;em&gt;概览&lt;&#x2F;em&gt;&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;UniWebView 包含一组 C# 的高层级 API，它对 iOS 和 Android 平台的本机 API 进行了抽象封装。使用 UniWebView，您可以在无需了解本机开发的任何内容的情况下，就将浏览器行为添加到游戏中。当您需要显示活动公告及通知，或为玩家排名添加排行板，或是向用户显示任何网页内容时，UniWebView 都可以帮助您轻松解决问题。&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;UniWebView 支持 iOS 9.0 或更高版本，以及 Android 5.0 (API Level 21) 或更高版本。它还包含在 macOS 上的 Unity Editor 的完整功能支持。&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;UniWebView 可以运行在 Unity 2020.3 或者更高版本中。&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;&lt;strong&gt;&lt;em&gt;功能&lt;&#x2F;em&gt;&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;ul&gt;&lt;li &gt;网络浏览，像浏览器一样显示 HTTP&#x2F;HTTPS 内容。&lt;&#x2F;li&gt;&lt;li &gt;使用安全浏览，支持 Apple Pay 或 Google Pay 等。&lt;&#x2F;li&gt;&lt;li &gt;内置常用的 OAuth 2.0 提供商支持，简单登录 Google&#x2F;Facebook 等。&lt;&#x2F;li&gt;&lt;li &gt;载入本地 HTML 文件。&lt;&#x2F;li&gt;&lt;li &gt;JavaScript 完整支持。在页面上执行或添加 JavaScript。&lt;&#x2F;li&gt;&lt;li &gt;基于 url scheme 的消息系统，在 Unity 侧获取页面消息。&lt;&#x2F;li&gt;&lt;li &gt;通过绝对值或引用 Unity UI 元素的相对值来设置位置和大小。&lt;&#x2F;li&gt;&lt;li &gt;播放 YouTube，Vimeo 或本地视频。&lt;&#x2F;li&gt;&lt;li &gt;使用相机或照片库，通过 input 表单进行图片上传。&lt;&#x2F;li&gt;&lt;li &gt;将网页渲染为 Texture 并在游戏世界中使用。&lt;&#x2F;li&gt;&lt;li &gt;网页透明部分穿透点击，使用网页制作游戏 UI。&lt;&#x2F;li&gt;&lt;li &gt;查看&lt;a href=&quot;https:&#x2F;&#x2F;uniwebview.com&#x2F;&quot; target=&quot;_blank&quot;&gt;我们的网站&lt;&#x2F;a&gt;获取更多信息。&lt;&#x2F;li&gt;&lt;&#x2F;ul&gt;&lt;p &gt;&lt;strong&gt;&lt;em&gt;文档，指南和技术支持&lt;&#x2F;em&gt;&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;我们准备了详细的文档和指南。请访问&lt;a href=&quot;http:&#x2F;&#x2F;docs.uniwebview.com&#x2F;&quot; target=&quot;_blank&quot;&gt;UniWebView 文档网站&lt;&#x2F;a&gt;来了解如何使用。&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;如果您有任何问题，请查看&lt;a href=&quot;https:&#x2F;&#x2F;docs.uniwebview.com&#x2F;guide&#x2F;faq.html&quot; target=&quot;_blank&quot;&gt;常见问题解答页面&lt;&#x2F;a&gt;，或者从我们的文档网站向我们提交问题！&lt;&#x2F;p&gt;&lt;&#x2F;p&gt;
+</content>
+        
+    </entry>
+    <entry xml:lang="zh">
+        <title>OneJS</title>
+        <published>2024-11-29T21:18:31+00:00</published>
+        <updated>2024-12-17T13:27:31+00:00</updated>
+        
+        <author>
+          <name>
+            
+              yzzfo
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://yzzfo.github.io/unity/store/OneJS/ignore-index-en/"/>
+        <id>https://yzzfo.github.io/unity/store/OneJS/ignore-index-en/</id>
+        
+        <content type="html" xml:base="https://yzzfo.github.io/unity/store/OneJS/ignore-index-en/">&lt;p&gt;OneJS brings JavaScript and many beloved web techs to Unity, seamlessly integrating with UI Toolkit without the need for a browser or webview.&lt;br&gt;&lt;p &gt;&lt;a href=&quot;http:&#x2F;&#x2F;onejs.com&#x2F;&quot; target=&quot;_blank&quot;&gt;Visit onejs.com for Documentation and Tutorials&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;&lt;p &gt;&lt;a href=&quot;https:&#x2F;&#x2F;discord.gg&#x2F;dwnYFte6SF&quot; target=&quot;_blank&quot;&gt;Discord&lt;&#x2F;a&gt; • &lt;a href=&quot;https:&#x2F;&#x2F;www.youtube.com&#x2F;Singtaa&quot; target=&quot;_blank&quot;&gt;Youtube&lt;&#x2F;a&gt; • &lt;a href=&quot;https:&#x2F;&#x2F;twitter.com&#x2F;Singtaa&quot; target=&quot;_blank&quot;&gt;Twitter&#x2F;X&lt;&#x2F;a&gt; • &lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;Singtaa&quot; target=&quot;_blank&quot;&gt;Github&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;&lt;em&gt;(Familiarity with React and Typescript is recommended)&lt;&#x2F;em&gt;&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;OneJS brings the power of React-style workflows to Unity UI development. It provides a thin DOM layer for Preact, seamlessly integrating with UI Toolkit for high performance. Leverage Typescript, JSX, Tailwind, and many other web techs that you already know and love - all working natively in Unity.&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;With V2, OneJS is now supercharged by Puerts for up to 100x performance boost. The new ESBuild workflow simplifies deployment and supports npm packages.&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;Beyond UI, OneJS enables easy implementation of modding systems. Give your players the power of TypeScript, JSX, and USS to create addons and mods for your game.&lt;&#x2F;p&gt;&lt;&#x2F;p&gt;
 </content>
         
     </entry>
@@ -126,6 +243,26 @@
 &lt;p &gt;OneJS将React风格的工作流程的强大功能带入Unity UI开发。它为Preact提供了一个轻量级的DOM层，与UI Toolkit无缝集成，以实现高性能。利用Typescript、JSX、Tailwind以及许多您已经熟悉和喜爱的网页技术——所有这些都可以在Unity中原生运行。&lt;&#x2F;p&gt;
 &lt;p &gt;在V2中，OneJS现在通过Puerts获得了高达100倍的性能提升。新的ESBuild工作流程简化了部署并支持npm包。&lt;&#x2F;p&gt;
 &lt;p &gt;除了UI，OneJS还使得实现修改系统变得简单。赋予您的玩家使用TypeScript、JSX和USS的能力，以创建游戏的附加内容和修改。&lt;&#x2F;p&gt;</content>
+        
+    </entry>
+    <entry xml:lang="zh">
+        <title>Save Game Pro - Gold Update</title>
+        <published>2024-11-29T21:18:11+00:00</published>
+        <updated>2024-12-17T13:26:30+00:00</updated>
+        
+        <author>
+          <name>
+            
+              yzzfo
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://yzzfo.github.io/unity/store/Save Game Pro - Gold Update/ignore-index-en/"/>
+        <id>https://yzzfo.github.io/unity/store/Save Game Pro - Gold Update/ignore-index-en/</id>
+        
+        <content type="html" xml:base="https://yzzfo.github.io/unity/store/Save Game Pro - Gold Update/ignore-index-en/">&lt;p&gt;Save Game Pro is a complete, powerful, and feature-rich save game solution for Unity (Game Engine) that lets you save everything everywhere.&lt;br&gt;&lt;p &gt;We &lt;strong&gt;recommend &lt;&#x2F;strong&gt;new users to use &lt;a href=&quot;https:&#x2F;&#x2F;assetstore.unity.com&#x2F;packages&#x2F;slug&#x2F;108890&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;Bayat - Save System&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt; instead, cause Save Game Pro will be in maintenance mode which means it will only receive bug fixes and patches, so according to this you can start your new project with the new system or migrate your existing game data to the new system as well.&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;As a note, Save Game Pro won&#x27;t be deprecated, it will just receive patches and bug fixes, no new features.&lt;&#x2F;p&gt;&lt;p &gt;------&lt;&#x2F;p&gt;&lt;p &gt;Save Game Pro is a complete, powerful, and feature-rich save game solution for Unity (Game Engine) that lets you save everything such as Components, Data Types, GameObjects including Custom Data Types everywhere including Web &amp;amp; Cloud, Local Storage, PlayerPrefs, Database.&lt;&#x2F;p&gt;&lt;p &gt;Save Game Pro has an Elegant and Complete API for controlling saved data, for example, by using the API you can check if data exists or you can Retrieve the saved files list and show them to the user.&lt;&#x2F;p&gt;&lt;p &gt;Works well with Unity 2017.x and higher and also you can make it work with older Unity versions just ignore the warning before importing the package.&lt;&#x2F;p&gt;&lt;p &gt;Tested on the below Unity versions:&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;- 2018.2, 2018.1, 2017.4, 2017.3, 2017.2, 2017.1, 5.6&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;But it works well with older and newer versions too,  so just contact us if you had any issues with importing the package.&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;✔️ &lt;strong&gt;Resources&lt;&#x2F;strong&gt; ✔️&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;☀️ &lt;a href=&quot;http:&#x2F;&#x2F;docs.bayat.io&#x2F;savegamepro&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;Documentation&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;&lt;p &gt;☀️ &lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;BayatGames&#x2F;Support&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;Support and News&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;&lt;p &gt;☀️ &lt;a href=&quot;https:&#x2F;&#x2F;forum.unity.com&#x2F;threads&#x2F;save-game-pro-gold-update.502905&#x2F;&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;Forum Thread&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;&lt;p &gt;☀️ &lt;a href=&quot;https:&#x2F;&#x2F;trello.com&#x2F;c&#x2F;SgYpFsfd&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;Roadmap&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;✔️ &lt;strong&gt;Features&lt;&#x2F;strong&gt; ✔️&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;☀️ &lt;strong&gt;Elegant API&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;p &gt;☀️ &lt;strong&gt;+200 Supported Types&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;p &gt;☀️ &lt;strong&gt;Full Examples&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;p &gt;☀️ &lt;strong&gt;General Settings&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;p &gt;☀️ &lt;a href=&quot;https:&#x2F;&#x2F;www.assetstore.unity3d.com&#x2F;#!&#x2F;content&#x2F;368?aid=1101l3ncK&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;PlayMaker&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt;&lt;strong&gt; Integration&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;p &gt;☀️ &lt;strong&gt;Cross-Platform&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;p &gt;☀️ &lt;strong&gt;Web &amp;amp; Cloud&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;p &gt;☀️ &lt;a href=&quot;https:&#x2F;&#x2F;docs.microsoft.com&#x2F;en-us&#x2F;windows&#x2F;uwp&#x2F;xbox-live&#x2F;storage-platform&#x2F;connected-storage&#x2F;connected-storage-overview&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;Xbox Connected Storage&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt;&lt;strong&gt; Integration&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;p &gt;☀️ &lt;a href=&quot;https:&#x2F;&#x2F;firebase.google.com&#x2F;&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;Firebase&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt;&lt;strong&gt; Integration&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;p &gt;☀️ &lt;a href=&quot;https:&#x2F;&#x2F;playfab.com&#x2F;&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;PlayFab&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt;&lt;strong&gt; Integration&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;p &gt;☀️ &lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;BayatGames&#x2F;php-savegamepro-mysql&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;PHP MySQL&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt;&lt;strong&gt; Integration&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;p &gt;☀️ &lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;BayatGames&#x2F;php-savegamepro-mongodb&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;PHP MongoDB&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt;&lt;strong&gt; Integration&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;p &gt;☀️ &lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;BayatGames&#x2F;node-savegamepro-mysql&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;Node.js MySQL&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt;&lt;strong&gt; Integration&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;p &gt;☀️ &lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;BayatGames&#x2F;node-savegamepro-mongodb&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;Node.js MongoDB&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt;&lt;strong&gt; Integration&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;p &gt;☀️ &lt;strong&gt;Custom Types (Type Creator)&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;p &gt;☀️ &lt;strong&gt;Custom Type Serialization&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;p &gt;☀️ &lt;strong&gt;JSON and Binary Serialization&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;p &gt;☀️ &lt;a href=&quot;https:&#x2F;&#x2F;en.wikipedia.org&#x2F;wiki&#x2F;Advanced_Encryption_Standard&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;AES Encryption&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;☀️ &lt;strong&gt;+200 Supported Types&lt;&#x2F;strong&gt;: Save Game Pro supports more than +200 Types built-in and you can add your own extra types manually or by using Type Creator.&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;*️ &lt;strong&gt;Almost All Components&lt;&#x2F;strong&gt;, such as BoxCollider, Rigidbody, MeshRenderer, Camera, Transform.&lt;&#x2F;p&gt;&lt;p &gt;*️ &lt;strong&gt;GameObject&lt;&#x2F;strong&gt;, the Whole GameObject will be saved, that means all Components including All Childs.&lt;&#x2F;p&gt;&lt;p &gt;&lt;strong&gt;DISCLAIMER&lt;&#x2F;strong&gt;, The GameObject saving and loading feature is under heavy development for including support to save complex objects and hierarchies, so until then, we don&#x27;t recommend you to use GameObject saving and loading for saving complex objects, only simple objects. Also, it is a better practice to use data structures in all situations.&lt;&#x2F;p&gt;&lt;p &gt;*️ &lt;strong&gt;Transform with Hierarchy&lt;&#x2F;strong&gt;, which means the transforms are saved by their root parent and they will be loaded like that.&lt;&#x2F;p&gt;&lt;p &gt;*️ &lt;strong&gt;Primitives&lt;&#x2F;strong&gt;, such as Integer, String, Boolean, …&lt;&#x2F;p&gt;&lt;p &gt;*️ &lt;strong&gt;Collections&lt;&#x2F;strong&gt;, Almost all collections supported, such as Dictionary, List, LinkedList, Multi-Dimensional Arrays (there is no limitation), Stack, Queue, HashSet, …&lt;&#x2F;p&gt;&lt;p &gt;*️ &lt;strong&gt;Data Types&lt;&#x2F;strong&gt;, Almost all Data Types such as Vector3, Vector2, Vector4, Mesh, …&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;☀️ &lt;strong&gt;Full Examples&lt;&#x2F;strong&gt;: Complete set of Examples included helping you get started easier and faster. Also, each integration comes with its own examples.&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;*️ &lt;strong&gt;Cloud Saving&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;p &gt;*️ &lt;strong&gt;Custom Path Saving&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;p &gt;*️ &lt;strong&gt;Listing Saved Files&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;p &gt;*️ &lt;strong&gt;Saving Collections&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;p &gt;*️ &lt;strong&gt;Saving Custom Data&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;p &gt;*️ &lt;strong&gt;Saving Game Object&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;p &gt;*️ &lt;strong&gt;Saving Runtime Generated Objects&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;p &gt;*️ &lt;strong&gt;Saving Simple Data&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;p &gt;*️ &lt;strong&gt;Saving Slots&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;p &gt;*️ &lt;strong&gt;Saving Texture2D&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;p &gt;*️ &lt;strong&gt;Saving Transform&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;☀️ &lt;strong&gt;General Settings&lt;&#x2F;strong&gt;: Configure, Modify and Apply General operations on Save Game Pro right inside a panel and Install&#x2F;Uninstall integrations easily by simple clicks.&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;☀️ &lt;strong&gt;PlayMaker Integration&lt;&#x2F;strong&gt;: Save Game Pro integrates with PlayMaker fully and completely by adding Save Game Pro API methods as Actions to PlayMaker. Also, each integration includes PlayMaker Actions as well.&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;☀️ &lt;strong&gt;Cross Platform&lt;&#x2F;strong&gt;: Save Game Pro supports almost all platforms that Unity supports, we have tested the Save Game Pro examples in:&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;*️ &lt;strong&gt;Standalone (Windows, Mac, Linux)&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;p &gt;*️ &lt;strong&gt;Android (and it should work well on iOS)&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;p &gt;*️ &lt;strong&gt;Samsung TV&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;But it should work as expected on All Unity Platforms.&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;☀️ &lt;strong&gt;Web &amp;amp; Cloud&lt;&#x2F;strong&gt;: Save Game Pro integrates as well with your Cloud environments such as PHP and Node.js and supports the most popular Database Engines, such as MySQL and MongoDB, Also, Save Game Pro integrates with Firebase and PlayFab as well to let you save your game data and sync it across devices.&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;*️ &lt;a href=&quot;https:&#x2F;&#x2F;firebase.google.com&#x2F;&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;Firebase&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt;&lt;strong&gt; Integration&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;p &gt;*️ &lt;a href=&quot;https:&#x2F;&#x2F;playfab.com&#x2F;&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;PlayFab&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt;&lt;strong&gt; Integration&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;p &gt;*️ &lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;BayatGames&#x2F;php-savegamepro-mysql&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;PHP MySQL&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt;&lt;strong&gt; Integration&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;p &gt;*️ &lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;BayatGames&#x2F;php-savegamepro-mongodb&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;PHP MongoDB&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt;&lt;strong&gt; Integration&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;p &gt;*️ &lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;BayatGames&#x2F;node-savegamepro-mysql&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;Node.js MySQL&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt;&lt;strong&gt; Integration&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;p &gt;*️ &lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;BayatGames&#x2F;node-savegamepro-mongodb&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;Node.js MongoDB&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt;&lt;strong&gt; Integration&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;☀️ &lt;strong&gt;Custom Types (Type Creator)&lt;&#x2F;strong&gt;: Save Game Pro supports Custom Types, which means you can add serialization of Types that aren’t supported by Save Game Pro, So you can create these Custom Types easily and automatically using Type Creator. Type Creator provides an easy, fast, and helpful interface for Creating and Browsing types, Also, Type Creator includes Search inputs to help you browse all types by searching for the desired Type.&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;☀️ &lt;strong&gt;AES Encryption&lt;&#x2F;strong&gt;: Save Game Pro uses AES encryption to make your saved data secure and stop cheaters to cheat the data, so you can adjust different settings of this encryption algorithm to make it safe for your game, such as changing Encryption password, salt, vector, and hash algorithm.&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;✂️ What you are waiting for?&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;Go and save your game data using Save Game Pro.&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;Made with ❤️ by &lt;a href=&quot;https:&#x2F;&#x2F;www.assetstore.unity3d.com&#x2F;en&#x2F;#!&#x2F;search&#x2F;page=1&#x2F;sortby=popularity&#x2F;query=publisher:26641&quot; target=&quot;_blank&quot;&gt;Bayat Games&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;&lt;&#x2F;p&gt;
+</content>
         
     </entry>
     <entry xml:lang="zh">

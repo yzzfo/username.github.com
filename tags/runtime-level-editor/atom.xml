@@ -20,6 +20,26 @@
           </name>
         </author>
         
+        <link rel="alternate" type="text/html" href="https://yzzfo.github.io/unity/store/Runtime Asset Database/ignore-index-en/"/>
+        <id>https://yzzfo.github.io/unity/store/Runtime Asset Database/ignore-index-en/</id>
+        
+        <content type="html" xml:base="https://yzzfo.github.io/unity/store/Runtime Asset Database/ignore-index-en/">&lt;p&gt;Runtime Asset Database simplifies runtime save&#x2F;load implementation in Unity, replicating Unity Editor&#x27;s prefab concepts for runtime asset management.&lt;br&gt;&lt;p &gt;&lt;strong&gt;Runtime Asset Database&lt;&#x2F;strong&gt; is a library designed to simplify the implementation of a runtime save and load subsystem in your Unity application. This library replicates and extends the familiar concepts of prefabs, prefab variants, and assets found within the Unity Editor, making it easier than ever to manage and manipulate game assets at runtime and implement workflows similar to those of the Unity Editor dynamically during runtime.&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;Unity developers often rely on the convenience and flexibility of the Editor&#x27;s asset management system when designing their games. However, when it comes to implementing a save and load system at runtime, this process can become more complex. The Runtime Asset Database bridges this gap by bringing the essential asset management functionalities you&#x27;re accustomed to into the runtime environment.&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;&lt;strong&gt;Features:&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;p &gt;♥ Runtime Asset Management API.&lt;&#x2F;p&gt;&lt;p &gt;♥ Built on Unity Editor Prefab Concepts.&lt;&#x2F;p&gt;&lt;p &gt;♥ Asset and Asset Variant Support.&lt;&#x2F;p&gt;&lt;p &gt;♥ Extensibility with new types and components.&lt;&#x2F;p&gt;&lt;p &gt;♥ Pluggable External Asset Importers.&lt;&#x2F;p&gt;&lt;p &gt;♥ Addressables Support.&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;Battlehub0x&#x2F;RuntimeAssetDatabase&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;Docs&lt;&#x2F;strong&gt; &lt;&#x2F;a&gt;&lt;strong&gt;| &lt;&#x2F;strong&gt;&lt;a href=&quot;https:&#x2F;&#x2F;t.me&#x2F;battlehub&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;Telegram&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt;&lt;strong&gt; | &lt;&#x2F;strong&gt;&lt;a href=&quot;https:&#x2F;&#x2F;assetstore.unity.com&#x2F;packages&#x2F;tools&#x2F;modeling&#x2F;runtime-editor-64806&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;Runtime Editor&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;&#x2F;p&gt;
+</content>
+        
+    </entry>
+    <entry xml:lang="zh">
+        <title>Runtime Asset Database</title>
+        <published>2024-12-27T01:01:02+00:00</published>
+        <updated>2024-12-27T01:01:02+00:00</updated>
+        
+        <author>
+          <name>
+            
+              yzzfo
+            
+          </name>
+        </author>
+        
         <link rel="alternate" type="text/html" href="https://yzzfo.github.io/unity/store/runtime-asset-database/"/>
         <id>https://yzzfo.github.io/unity/store/runtime-asset-database/</id>
         
@@ -28,6 +48,26 @@
 &lt;p &gt;Unity开发者在设计游戏时通常依赖于编辑器资产管理系统的便利性和灵活性。然而，当涉及到在运行时实现保存和加载系统时，这一过程可能会变得更加复杂。运行时资产数据库弥补了这一差距，将您习惯的基本资产管理功能带入运行时环境。&lt;&#x2F;p&gt;
 &lt;p &gt;&lt;strong&gt;特点：&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;p &gt;♥ 运行时资产管理API。&lt;&#x2F;p&gt;&lt;p &gt;♥ 基于Unity编辑器预制件概念。&lt;&#x2F;p&gt;&lt;p &gt;♥ 支持资产和资产变体。&lt;&#x2F;p&gt;&lt;p &gt;♥ 可扩展性，支持新类型和组件。&lt;&#x2F;p&gt;&lt;p &gt;♥ 可插拔的外部资产导入器。&lt;&#x2F;p&gt;&lt;p &gt;♥ 支持可寻址资产。&lt;&#x2F;p&gt;
 &lt;p &gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;Battlehub0x&#x2F;RuntimeAssetDatabase&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;文档&lt;&#x2F;strong&gt; &lt;&#x2F;a&gt;&lt;strong&gt;| &lt;&#x2F;strong&gt;&lt;a href=&quot;https:&#x2F;&#x2F;t.me&#x2F;battlehub&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;Telegram&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt;&lt;strong&gt; | &lt;&#x2F;strong&gt;&lt;a href=&quot;https:&#x2F;&#x2F;assetstore.unity.com&#x2F;packages&#x2F;tools&#x2F;modeling&#x2F;runtime-editor-64806&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;运行时编辑器&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;</content>
+        
+    </entry>
+    <entry xml:lang="zh">
+        <title>Grid Placement System</title>
+        <published>2024-12-19T01:00:31+00:00</published>
+        <updated>2024-12-19T01:00:31+00:00</updated>
+        
+        <author>
+          <name>
+            
+              yzzfo
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://yzzfo.github.io/unity/store/Grid Placement System/ignore-index-en/"/>
+        <id>https://yzzfo.github.io/unity/store/Grid Placement System/ignore-index-en/</id>
+        
+        <content type="html" xml:base="https://yzzfo.github.io/unity/store/Grid Placement System/ignore-index-en/">&lt;p&gt;Grid Placement System allows players to easily place items onto a grid at runtime. Perfect for city builders, tower defense and all sorts of other genres where players need to place items.&lt;br&gt;&lt;p &gt;&lt;strong&gt;Grid Placement System&lt;&#x2F;strong&gt; is designed to be extremely customizable and with ease of use at its core.&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;&lt;strong&gt;No&lt;&#x2F;strong&gt; &lt;strong&gt;object configuration needed.&lt;&#x2F;strong&gt; Pass an object to the grid and it just works! When the grid manager is passed an object to be placed into the grid it handles all of the calculations to determine how many grid cells it takes up.&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;&lt;strong&gt;Customize all aspects of the grid&lt;&#x2F;strong&gt;. Settings include width and height, amount of cells, visualization of grid cells, visualization of occupied cells, the object&#x27;s alignment within its cell(s), the visual feedback when placing an item and more!&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;&lt;strong&gt;Don&#x27;t like square grid cells?&lt;&#x2F;strong&gt; You can change the sprite to show any shape you like, a circle, a triangle, a dot?&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;&lt;strong&gt;Easy to use.&lt;&#x2F;strong&gt; The grid settings provide &lt;strong&gt;one &lt;&#x2F;strong&gt;place to customize everything to do with the grid.&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;&lt;strong&gt;Custom editor tools. &lt;&#x2F;strong&gt;Visualize the modifications you make to the grid settings in real-time without entering play mode.&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;&lt;strong&gt;Suitable for a wide range of genres&lt;&#x2F;strong&gt;. Examples include: tower defense, city builders, simulation, and anything where the player is required to place an item onto a grid.&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;The showcase images use 3D models from a 3rd party low poly asset pack. These models are not included in this package.&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;&#x2F;p&gt;
+</content>
         
     </entry>
     <entry xml:lang="zh">

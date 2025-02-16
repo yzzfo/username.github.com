@@ -20,6 +20,26 @@
           </name>
         </author>
         
+        <link rel="alternate" type="text/html" href="https://yzzfo.github.io/unity/store/PhysX Painter/ignore-index-en/"/>
+        <id>https://yzzfo.github.io/unity/store/PhysX Painter/ignore-index-en/</id>
+        
+        <content type="html" xml:base="https://yzzfo.github.io/unity/store/PhysX Painter/ignore-index-en/">&lt;p&gt;&lt;br&gt;&lt;p &gt;&lt;a href=&quot;https:&#x2F;&#x2F;discord.gg&#x2F;euvtFhk&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;Join Discord&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt; • &lt;a href=&quot;https:&#x2F;&#x2F;www.youtube.com&#x2F;channel&#x2F;UCoRzdGX6ksIZdTX_95LPXgA&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;YouTube&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;All asset-related discussions are moving to &lt;a href=&quot;https:&#x2F;&#x2F;discord.gg&#x2F;euvtFhk&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;Discord&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt;. Join us for more info, updates, if you experience any issues or if you just want to say hi!&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;&lt;strong&gt;○ Important &lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;The old developer of the tool has transferred the rights to another developer. The transfer of rights took place on 23&#x2F;08&#x2F;2021.&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;A big update of the tool and the addition of a huge number of functionality will be released soon. If you have ideas for this tool, you can email me: uladzislau78@gmail.com&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;&lt;strong&gt;○ Overview&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;Physics Scatter allows you to scatter objects that follow physics, directly from the Editor! This means that you won&#x27;t have to painfully rotate, translate, scale, and adjust the objects in the scene to make their position look realistic. Just select the objects you wish to scatter and drop them in the scene. They&#x27;ll fall naturally one on top of the other, or on top of other components of your scene, in the best possible way, with minimum effort for the developer! &lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;&lt;strong&gt;○ Why PhysX Painter deserves your attention&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;&lt;strong&gt;✓ &lt;&#x2F;strong&gt;You can scatter multiple objects at the same time and apply random rotation or scale to them.&lt;&#x2F;p&gt;&lt;p &gt;&lt;strong&gt;✓ &lt;&#x2F;strong&gt;The Physics Scatter can do anything that a normal object scatter can do. Random rotation, scale, offset placement, global and individual settings for objects, are all included here. But, in addition to this, you can apply physics effects to your objects! Not only those you scattered, but also (if you wish) those that you have lying around in the scene.&lt;&#x2F;p&gt;&lt;p &gt;&lt;strong&gt;✓ &lt;&#x2F;strong&gt;A set of effects is included to create unique scenes. For example, you can scatter objects around and then apply an explosion effect. While the objects are in the air, you can freeze them, and use this amazing effect of objects frozen mid-air during an explosion in your scene! This opens up to a huge amount of new possibilities for scenes creation!&lt;&#x2F;p&gt;&lt;p &gt;&lt;strong&gt;✓ &lt;&#x2F;strong&gt;The effects included are Explosion, Blackhole and SimpleForce. They are fully parameterized, allowing effects of different size, power, vertical offset and more. Check the picture and the video for getting an idea of the amazing things you can easily do with this script!&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;Looking for a quick reply to your questions? Join us on my &lt;a href=&quot;https:&#x2F;&#x2F;discord.gg&#x2F;euvtFhk&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;Discord&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt; server&lt;&#x2F;p&gt;&lt;&#x2F;p&gt;
+</content>
+        
+    </entry>
+    <entry xml:lang="zh">
+        <title>PhysX Painter</title>
+        <published>2025-01-05T01:00:29+00:00</published>
+        <updated>2025-01-05T01:00:29+00:00</updated>
+        
+        <author>
+          <name>
+            
+              yzzfo
+            
+          </name>
+        </author>
+        
         <link rel="alternate" type="text/html" href="https://yzzfo.github.io/unity/store/physx-painter/"/>
         <id>https://yzzfo.github.io/unity/store/physx-painter/</id>
         
@@ -31,6 +51,26 @@
 &lt;p &gt;&lt;strong&gt;○ 概述&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
 &lt;p &gt;Physics Scatter 允许您直接从编辑器中散布遵循物理规律的对象！这意味着您不必痛苦地旋转、平移、缩放和调整场景中的对象，以使其位置看起来逼真。只需选择您希望散布的对象并将其放入场景中。它们将自然地一个接一个地落下，或落在场景中的其他组件上，以最佳方式实现，开发者的工作量最小！&amp;nbsp;&lt;&#x2F;p&gt;
 &lt;p &gt;&lt;strong&gt;○ 为什么 PhysX Painter 值得您关注&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;br&gt;&lt;p &gt;&lt;strong&gt;✓ &lt;&#x2F;strong&gt;您可以同时散布多个对象，并对它们应用随机旋转或缩放。&lt;&#x2F;p&gt;&lt;p &gt;&lt;strong&gt;✓ &lt;&#x2F;strong&gt;物理散布可以执行普通对象散布所能做的任何操作。随机旋转、缩放、偏移放置、全局和个别对象设置，所有这些都包含在内。此外，您还可以对对象应用物理效果！不仅是您散布的对象，还有（如果您愿意）场景中其他的对象。&lt;&#x2F;p&gt;&lt;p &gt;&lt;strong&gt;✓ &lt;&#x2F;strong&gt;包含一组效果以创建独特的场景。例如，您可以散布对象，然后应用爆炸效果。当对象在空中时，您可以将它们冻结，并在场景中使用这个令人惊叹的效果，即在爆炸过程中对象悬浮在空中！这为场景创建打开了大量新的可能性！&lt;&#x2F;p&gt;&lt;p &gt;&lt;strong&gt;✓ &lt;&#x2F;strong&gt;包含的效果有爆炸、黑洞和简单力。它们都是完全参数化的，允许不同大小、力量、垂直偏移等效果。查看图片和视频，以了解您可以轻松实现的惊人效果！&lt;&#x2F;p&gt;&lt;p &gt;想要快速回复您的问题吗？加入我的 &lt;a href=&quot;https:&#x2F;&#x2F;discord.gg&#x2F;euvtFhk&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;Discord&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt; 服务器。&lt;&#x2F;p&gt;</content>
+        
+    </entry>
+    <entry xml:lang="zh">
+        <title>PuppetMaster</title>
+        <published>2024-11-29T21:16:44+00:00</published>
+        <updated>2024-12-17T14:08:54+00:00</updated>
+        
+        <author>
+          <name>
+            
+              yzzfo
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://yzzfo.github.io/unity/store/PuppetMaster/ignore-index-en/"/>
+        <id>https://yzzfo.github.io/unity/store/PuppetMaster/ignore-index-en/</id>
+        
+        <content type="html" xml:base="https://yzzfo.github.io/unity/store/PuppetMaster/ignore-index-en/">&lt;p&gt;Advanced active ragdoll physics complete with ragdoll creation and editing tools from the creator of Final IK.&lt;br&gt;&lt;p &gt;&lt;strong&gt;What can I do with PuppetMaster?&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;- Animate ragdolls&lt;&#x2F;p&gt;&lt;p &gt;- Create biped ragdolls with a single click&lt;&#x2F;p&gt;&lt;p &gt;- Edit colliders and joint limits intuitively and visually in the Scene View.&lt;&#x2F;p&gt;&lt;p &gt;- Create procedural behaviors for ragdoll characters.&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v=on7wAz0fsGg&quot; target=&quot;_blank&quot;&gt;Overview Video&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;&lt;strong&gt;How can I learn PuppetMaster?&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;&lt;a href=&quot;https:&#x2F;&#x2F;rootmotion.freshdesk.com&#x2F;support&#x2F;home&quot; target=&quot;_blank&quot;&gt;Help, Community &amp;amp; Support Tickets&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;&lt;p &gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.youtube.com&#x2F;playlist?list=PLVxSIA1OaTOuE2SB9NUbckQ9r2hTg4mvL&quot; target=&quot;_blank&quot;&gt;Tutorial Video Channel&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;&lt;p &gt;&lt;a href=&quot;http:&#x2F;&#x2F;root-motion.com&#x2F;puppetmasterdox&#x2F;html&#x2F;pages.html&quot; target=&quot;_blank&quot;&gt;User Manual&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;&lt;p &gt;&lt;a href=&quot;http:&#x2F;&#x2F;root-motion.com&#x2F;puppetmasterdox&#x2F;html&#x2F;annotated.html&quot; target=&quot;_blank&quot;&gt;Script Reference&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;&lt;p &gt;&lt;a href=&quot;http:&#x2F;&#x2F;www.root-motion.com&#x2F;&quot; target=&quot;_blank&quot;&gt;Publisher&#x27;s Website&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;&lt;p &gt;&lt;a href=&quot;https:&#x2F;&#x2F;discord.gg&#x2F;2muvhyD&quot; target=&quot;_blank&quot;&gt;Discord&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;&lt;p &gt;support@root-motion.com&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;&lt;strong&gt;NB!&lt;&#x2F;strong&gt; The most basic learning resource for each component can be found by clicking on the help button on the header of right-clicking on the header and clicking on the tutorial&#x2F;manual links in the context menu.&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;&lt;strong&gt;What are your plans for the product?&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;Similar to Final IK, PM users will be provided with continuous development and support for years to come. Development will be focused on ensuring the reliability of the product as well as creating new smart procedural behaviors for the Puppets.&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;Looking forward to working together,&lt;&#x2F;p&gt;&lt;p &gt;Partel Lang - developer of PuppetMaster&lt;&#x2F;p&gt;&lt;&#x2F;p&gt;
+</content>
         
     </entry>
     <entry xml:lang="zh">

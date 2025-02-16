@@ -20,6 +20,26 @@
           </name>
         </author>
         
+        <link rel="alternate" type="text/html" href="https://yzzfo.github.io/unity/store/Dynamic Mesh Combiner/ignore-index-en/"/>
+        <id>https://yzzfo.github.io/unity/store/Dynamic Mesh Combiner/ignore-index-en/</id>
+        
+        <content type="html" xml:base="https://yzzfo.github.io/unity/store/Dynamic Mesh Combiner/ignore-index-en/">&lt;p&gt;A powerful tool that seamlessly combines either skinned or regular mesh renderers. It allows for both animated and static output with support for LODs* and dynamic object manipulation.&lt;br&gt;&lt;p &gt;Dynamic Mesh Combiner will help optimize the performance of all your 3D models while still maintaining visual quality. Whether you&#x27;re working on a mobile game, a PC game, or a VR project, Dynamic Mesh Combiner is the ultimate tool for reducing draw calls and improving performance in your Unity project.&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;To start combining, simply add the &#x27;MC Mesh Combiner&#x27; component to the root game object and &#x27;MC Combinable&#x27; or &#x27;MC LOD Combinable&#x27; to any child renderers that you want to combine. The asset will take care of the rest automatically and will update if the objects are moved!&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;If you&#x27;d like to try out Dynamic Mesh Combiner to see if it’s the right fit for your project, we offer a free demo version that you can try out before purchase: &lt;a href=&quot;https:&#x2F;&#x2F;u3d.as&#x2F;35Bd&quot; target=&quot;_blank&quot;&gt;Demo&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;Works well with these outline assets:&lt;&#x2F;p&gt;&lt;ul&gt;&lt;li &gt;&lt;a href=&quot;https:&#x2F;&#x2F;assetstore.unity.com&#x2F;packages&#x2F;vfx&#x2F;shaders&#x2F;ultimate-outlines-highlights-235063&quot; target=&quot;_blank&quot;&gt;Ultimate Outlines &amp;amp; Highlights&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;&lt;li &gt;&lt;a href=&quot;https:&#x2F;&#x2F;assetstore.unity.com&#x2F;packages&#x2F;vfx&#x2F;shaders&#x2F;fullscreen-camera-effects&#x2F;easy-performant-outline-2d-3d-urp-hdrp-and-built-in-renderer-157187&quot; target=&quot;_blank&quot;&gt;Easy Performant Outline&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;&lt;li &gt;&lt;a href=&quot;https:&#x2F;&#x2F;assetstore.unity.com&#x2F;packages&#x2F;vfx&#x2F;shaders&#x2F;highlight-plus-all-in-one-outline-selection-effects-134149&quot; target=&quot;_blank&quot;&gt;Highlight Plus - All in One Outline &amp;amp; Selection Effects&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;&lt;&#x2F;ul&gt;&lt;&#x2F;br&gt;&lt;p &gt;Feel free to consult the &lt;a href=&quot;https:&#x2F;&#x2F;teogames.gitbook.io&#x2F;dynamic-mesh-combiner&#x2F;&quot; target=&quot;_blank&quot;&gt;documentation&lt;&#x2F;a&gt; before use or join our &lt;a href=&quot;https:&#x2F;&#x2F;discord.gg&#x2F;DeFvujmZzQ&quot; target=&quot;_blank&quot;&gt;discord server &lt;&#x2F;a&gt;if you have any questions!&lt;&#x2F;p&gt;&lt;&#x2F;p&gt;
+</content>
+        
+    </entry>
+    <entry xml:lang="zh">
+        <title>Dynamic Mesh Combiner</title>
+        <published>2024-12-16T01:00:58+00:00</published>
+        <updated>2024-12-17T13:48:42+00:00</updated>
+        
+        <author>
+          <name>
+            
+              yzzfo
+            
+          </name>
+        </author>
+        
         <link rel="alternate" type="text/html" href="https://yzzfo.github.io/unity/store/dynamic-mesh-combiner/"/>
         <id>https://yzzfo.github.io/unity/store/dynamic-mesh-combiner/</id>
         
@@ -29,6 +49,26 @@
 &lt;p&gt;如果您想尝试动态网格合并器，以查看它是否适合您的项目，我们提供了一个免费演示版本，您可以在购买前试用：&lt;a href=&quot;https:&#x2F;&#x2F;u3d.as&#x2F;35Bd&quot; target=&quot;_blank&quot;&gt;演示&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
 &lt;p&gt;与以下轮廓资产兼容良好：&lt;&#x2F;p&gt;&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;assetstore.unity.com&#x2F;packages&#x2F;vfx&#x2F;shaders&#x2F;ultimate-outlines-highlights-235063&quot; target=&quot;_blank&quot;&gt;终极轮廓与高亮&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;assetstore.unity.com&#x2F;packages&#x2F;vfx&#x2F;shaders&#x2F;fullscreen-camera-effects&#x2F;easy-performant-outline-2d-3d-urp-hdrp-and-built-in-renderer-157187&quot; target=&quot;_blank&quot;&gt;易于高效的轮廓&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;assetstore.unity.com&#x2F;packages&#x2F;vfx&#x2F;shaders&#x2F;highlight-plus-all-in-one-outline-selection-effects-134149&quot; target=&quot;_blank&quot;&gt;高亮加 - 一体化轮廓与选择效果&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;&lt;&#x2F;ul&gt;
 &lt;p&gt;在使用前，请随时查阅&lt;a href=&quot;https:&#x2F;&#x2F;teogames.gitbook.io&#x2F;dynamic-mesh-combiner&#x2F;&quot; target=&quot;_blank&quot;&gt;文档&lt;&#x2F;a&gt;，或加入我们的&lt;a href=&quot;https:&#x2F;&#x2F;discord.gg&#x2F;DeFvujmZzQ&quot; target=&quot;_blank&quot;&gt;Discord服务器&lt;&#x2F;a&gt;，如果您有任何问题！&lt;&#x2F;p&gt;</content>
+        
+    </entry>
+    <entry xml:lang="zh">
+        <title>Animation Baking Studio (3D to 2D)</title>
+        <published>2024-12-09T18:35:31+00:00</published>
+        <updated>2024-12-17T13:46:31+00:00</updated>
+        
+        <author>
+          <name>
+            
+              yzzfo
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://yzzfo.github.io/unity/store/Animation Baking Studio (3D to 2D)/ignore-index-en/"/>
+        <id>https://yzzfo.github.io/unity/store/Animation Baking Studio (3D to 2D)/ignore-index-en/</id>
+        
+        <content type="html" xml:base="https://yzzfo.github.io/unity/store/Animation Baking Studio (3D to 2D)/ignore-index-en/">&lt;p&gt;You can take pictures of various 3D models in various directions. Output files are sprite sheets, animation clips, normal maps, and etc. that can be used for 2D or 2.5D games.&lt;br&gt;&lt;&#x2F;p&gt;
+</content>
         
     </entry>
     <entry xml:lang="zh">

@@ -20,6 +20,26 @@
           </name>
         </author>
         
+        <link rel="alternate" type="text/html" href="https://yzzfo.github.io/unity/store/Behavior Designer - Formations Pack/ignore-index-en/"/>
+        <id>https://yzzfo.github.io/unity/store/Behavior Designer - Formations Pack/ignore-index-en/</id>
+        
+        <content type="html" xml:base="https://yzzfo.github.io/unity/store/Behavior Designer - Formations Pack/ignore-index-en/">&lt;p&gt;&lt;br&gt;&lt;p &gt;&lt;strong&gt;Requires Behavior Designer&lt;&#x2F;strong&gt; (&lt;a href=&quot;https:&#x2F;&#x2F;assetstore.unity.com&#x2F;packages&#x2F;tools&#x2F;visual-scripting&#x2F;behavior-designer-behavior-trees-for-everyone-15277&quot; target=&quot;_blank&quot;&gt;link&lt;&#x2F;a&gt;)&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;Behavior Designer - Formations Pack contains 14 different behaviour tree tasks focused on &lt;strong&gt;group formations with Unity&#x27;s NavMesh or the A* Pathfinding Project&lt;&#x2F;strong&gt;.&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;Agents can join and leave the formation at any time. The formation will dynamically respond to changes.&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;Each task is well commented and written in a generic and clean way making it very easy to integrate into your own project. This pack will continue to grow as we hear new task suggestions from the community.&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.opsive.com&#x2F;assets&#x2F;behavior-designer-formations-pack&#x2F;&quot; target=&quot;_blank&quot;&gt;Web Demo&lt;&#x2F;a&gt; | &lt;a href=&quot;https:&#x2F;&#x2F;www.opsive.com&#x2F;support&#x2F;documentation&#x2F;behavior-designer-formations-pack&#x2F;&quot; target=&quot;_blank&quot;&gt;Documentation&lt;&#x2F;a&gt; | &lt;a href=&quot;http:&#x2F;&#x2F;forum.unity3d.com&#x2F;threads&#x2F;behavior-designer-formations-pack.316906&#x2F;&quot; target=&quot;_blank&quot;&gt;Unity Forum&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;The following tasks are included:&lt;&#x2F;p&gt;&lt;ul&gt;&lt;li &gt;Column&lt;&#x2F;li&gt;&lt;li &gt;Row&lt;&#x2F;li&gt;&lt;li &gt;Grid&lt;&#x2F;li&gt;&lt;li &gt;Line&lt;&#x2F;li&gt;&lt;li &gt;Echelon&lt;&#x2F;li&gt;&lt;li &gt;Wedge&lt;&#x2F;li&gt;&lt;li &gt;V&lt;&#x2F;li&gt;&lt;li &gt;Arc&lt;&#x2F;li&gt;&lt;li &gt;Skirmisher&lt;&#x2F;li&gt;&lt;li &gt;Swarm&lt;&#x2F;li&gt;&lt;li &gt;Diamond&lt;&#x2F;li&gt;&lt;li &gt;Triangle&lt;&#x2F;li&gt;&lt;li &gt;Square&lt;&#x2F;li&gt;&lt;li &gt;Circle&lt;&#x2F;li&gt;&lt;&#x2F;ul&gt;&lt;&#x2F;p&gt;
+</content>
+        
+    </entry>
+    <entry xml:lang="zh">
+        <title>Behavior Designer - Formations Pack</title>
+        <published>2024-12-06T15:21:04+00:00</published>
+        <updated>2024-12-17T13:38:11+00:00</updated>
+        
+        <author>
+          <name>
+            
+              yzzfo
+            
+          </name>
+        </author>
+        
         <link rel="alternate" type="text/html" href="https://yzzfo.github.io/unity/store/behavior-designer-formations-pack/"/>
         <id>https://yzzfo.github.io/unity/store/behavior-designer-formations-pack/</id>
         
@@ -29,6 +49,26 @@
 &lt;p &gt;每个任务都有良好的注释，并以通用和简洁的方式编写，使其非常容易集成到您自己的项目中。随着我们听到社区的新任务建议，这个包将继续增长。&lt;&#x2F;p&gt;
 &lt;p &gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.opsive.com&#x2F;assets&#x2F;behavior-designer-formations-pack&#x2F;&quot; target=&quot;_blank&quot;&gt;网页演示&lt;&#x2F;a&gt; | &lt;a href=&quot;https:&#x2F;&#x2F;www.opsive.com&#x2F;support&#x2F;documentation&#x2F;behavior-designer-formations-pack&#x2F;&quot; target=&quot;_blank&quot;&gt;文档&lt;&#x2F;a&gt; | &lt;a href=&quot;http:&#x2F;&#x2F;forum.unity3d.com&#x2F;threads&#x2F;behavior-designer-formations-pack.316906&#x2F;&quot; target=&quot;_blank&quot;&gt;Unity论坛&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
 &lt;p &gt;包含以下任务：&lt;&#x2F;p&gt;&lt;ul&gt;&lt;li &gt;列&lt;&#x2F;li&gt;&lt;li &gt;行&lt;&#x2F;li&gt;&lt;li &gt;网格&lt;&#x2F;li&gt;&lt;li &gt;线&lt;&#x2F;li&gt;&lt;li &gt;梯队&lt;&#x2F;li&gt;&lt;li &gt;楔形&lt;&#x2F;li&gt;&lt;li &gt;V形&lt;&#x2F;li&gt;&lt;li &gt;弧形&lt;&#x2F;li&gt;&lt;li &gt;游击队员&lt;&#x2F;li&gt;&lt;li &gt;蜂群&lt;&#x2F;li&gt;&lt;li &gt;菱形&lt;&#x2F;li&gt;&lt;li &gt;三角形&lt;&#x2F;li&gt;&lt;li &gt;正方形&lt;&#x2F;li&gt;&lt;li &gt;圆形&lt;&#x2F;li&gt;&lt;&#x2F;ul&gt;</content>
+        
+    </entry>
+    <entry xml:lang="zh">
+        <title>Behavior Designer - Movement Pack</title>
+        <published>2024-12-06T15:20:53+00:00</published>
+        <updated>2024-12-17T13:38:07+00:00</updated>
+        
+        <author>
+          <name>
+            
+              yzzfo
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://yzzfo.github.io/unity/store/Behavior Designer - Movement Pack/ignore-index-en/"/>
+        <id>https://yzzfo.github.io/unity/store/Behavior Designer - Movement Pack/ignore-index-en/</id>
+        
+        <content type="html" xml:base="https://yzzfo.github.io/unity/store/Behavior Designer - Movement Pack/ignore-index-en/">&lt;p&gt;&lt;br&gt;&lt;p &gt;Behavior Designer - Movement Pack contains 17 different behaviour tree tasks focused on &lt;strong&gt;both 2D and 3D movement&lt;&#x2F;strong&gt;.&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;In addition to covering all of the AI steering behaviors, some tasks provide unique functionality such as finding cover or hearing if an object is within range.&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;Three tasks - flock, leader follow, and queue - provide an excellent example of controlling multiple AI agents with just a single behavior tree.&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;Each task is well commented and written in a generic and clean way making it very easy to integrate into your own project. This pack will continue to grow as we hear new task suggestions from the community.&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.opsive.com&#x2F;assets&#x2F;behavior-designer-movement-pack&#x2F;&quot; target=&quot;_blank&quot;&gt;Web Demo&lt;&#x2F;a&gt; |  &lt;a href=&quot;https:&#x2F;&#x2F;www.opsive.com&#x2F;support&#x2F;documentation&#x2F;behavior-designer-movement-pack&#x2F;&quot; target=&quot;_blank&quot;&gt;Documentation&lt;&#x2F;a&gt; | &lt;a href=&quot;http:&#x2F;&#x2F;forum.unity3d.com&#x2F;threads&#x2F;227497&quot; target=&quot;_blank&quot;&gt;Unity Forum&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;&lt;strong&gt;Pathfinding Implementations&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;ul&gt;&lt;li &gt;Unity&#x27;s Navigation Mesh&lt;&#x2F;li&gt;&lt;li &gt;A* Pathfinding Project&lt;&#x2F;li&gt;&lt;li &gt;Poly|Nav&lt;&#x2F;li&gt;&lt;&#x2F;ul&gt;&lt;&#x2F;br&gt;&lt;p &gt;&lt;strong&gt;Tasks&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;ul&gt;&lt;li &gt;Move Towards&lt;&#x2F;li&gt;&lt;li &gt;Rotate Towards&lt;&#x2F;li&gt;&lt;li &gt;Seek&lt;&#x2F;li&gt;&lt;li &gt;Flee&lt;&#x2F;li&gt;&lt;li &gt;Pursue&lt;&#x2F;li&gt;&lt;li &gt;Evade&lt;&#x2F;li&gt;&lt;li &gt;Follow&lt;&#x2F;li&gt;&lt;li &gt;Patrol&lt;&#x2F;li&gt;&lt;li &gt;Cover&lt;&#x2F;li&gt;&lt;li &gt;Wander&lt;&#x2F;li&gt;&lt;li &gt;Search&lt;&#x2F;li&gt;&lt;li &gt;Within Distance&lt;&#x2F;li&gt;&lt;li &gt;Can See Object&lt;&#x2F;li&gt;&lt;li &gt;Can Hear Object&lt;&#x2F;li&gt;&lt;li &gt;Flock&lt;&#x2F;li&gt;&lt;li &gt;Leader Follow&lt;&#x2F;li&gt;&lt;li &gt;Queue&lt;&#x2F;li&gt;&lt;&#x2F;ul&gt;&lt;&#x2F;br&gt;&lt;p &gt;The Movement Pack is integrated with the Ultimate Character Controller allowing for movement with root motion.&lt;&#x2F;p&gt;&lt;&#x2F;p&gt;
+</content>
         
     </entry>
     <entry xml:lang="zh">
@@ -64,6 +104,26 @@
           </name>
         </author>
         
+        <link rel="alternate" type="text/html" href="https://yzzfo.github.io/unity/store/Behavior Designer - Tactical Pack/ignore-index-en/"/>
+        <id>https://yzzfo.github.io/unity/store/Behavior Designer - Tactical Pack/ignore-index-en/</id>
+        
+        <content type="html" xml:base="https://yzzfo.github.io/unity/store/Behavior Designer - Tactical Pack/ignore-index-en/">&lt;p&gt;&lt;br&gt;&lt;p &gt;&lt;strong&gt;Requires Behavior Designer&lt;&#x2F;strong&gt; (&lt;a href=&quot;https:&#x2F;&#x2F;assetstore.unity.com&#x2F;packages&#x2F;tools&#x2F;visual-scripting&#x2F;behavior-designer-behavior-trees-for-everyone-15277&quot; target=&quot;_blank&quot;&gt;link&lt;&#x2F;a&gt;)&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;Behavior Designer - Tactical Pack contains 13 different behaviour tree tasks focused on tactical situations using Unity&#x27;s NavMesh or the A* Pathfinding Project.&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;Attacking is unique to each game. The Tactical Pack uses interfaces so you can implement your own attack and damage logic that fits your game. In addition, the Tactical Pack can use Playmaker or the Third Person Controller to handle attacking and damage.&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;Each task is well commented and written in a generic and clean way making it very easy to integrate into your own project. This pack will continue to grow as we hear new task suggestions from the community.&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.opsive.com&#x2F;assets&#x2F;behavior-designer-tactical-pack&#x2F;&quot; target=&quot;_blank&quot;&gt;Web Demo&lt;&#x2F;a&gt; |  &lt;a href=&quot;https:&#x2F;&#x2F;www.opsive.com&#x2F;support&#x2F;documentation&#x2F;behavior-designer-tactical-pack&#x2F;&quot; target=&quot;_blank&quot;&gt;Documentation&lt;&#x2F;a&gt; | &lt;a href=&quot;http:&#x2F;&#x2F;forum.unity3d.com&#x2F;threads&#x2F;behavior-designer-tactical-pack.327353&#x2F;&quot; target=&quot;_blank&quot;&gt;Unity Forum&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;The following tasks are included:&lt;&#x2F;p&gt;&lt;ul&gt;&lt;li &gt;Attack&lt;&#x2F;li&gt;&lt;li &gt;Charge&lt;&#x2F;li&gt;&lt;li &gt;Marching Fire&lt;&#x2F;li&gt;&lt;li &gt;Flank&lt;&#x2F;li&gt;&lt;li &gt;Ambush&lt;&#x2F;li&gt;&lt;li &gt;Shoot and Scoot&lt;&#x2F;li&gt;&lt;li &gt;Leapfrog&lt;&#x2F;li&gt;&lt;li &gt;Surround&lt;&#x2F;li&gt;&lt;li &gt;Defend&lt;&#x2F;li&gt;&lt;li &gt;Hold&lt;&#x2F;li&gt;&lt;li &gt;Retreat&lt;&#x2F;li&gt;&lt;li &gt;Request Reinforcements&lt;&#x2F;li&gt;&lt;li &gt;Reinforcements Response&lt;&#x2F;li&gt;&lt;&#x2F;ul&gt;&lt;&#x2F;p&gt;
+</content>
+        
+    </entry>
+    <entry xml:lang="zh">
+        <title>Behavior Designer - Tactical Pack</title>
+        <published>2024-12-06T15:20:32+00:00</published>
+        <updated>2024-12-17T13:37:55+00:00</updated>
+        
+        <author>
+          <name>
+            
+              yzzfo
+            
+          </name>
+        </author>
+        
         <link rel="alternate" type="text/html" href="https://yzzfo.github.io/unity/store/behavior-designer-tactical-pack/"/>
         <id>https://yzzfo.github.io/unity/store/behavior-designer-tactical-pack/</id>
         
@@ -73,6 +133,26 @@
 &lt;p &gt;每个任务都有良好的注释，并以通用和简洁的方式编写，使其非常容易集成到您自己的项目中。随着我们听到社区的新任务建议，这个包将继续增长。&lt;&#x2F;p&gt;
 &lt;p &gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.opsive.com&#x2F;assets&#x2F;behavior-designer-tactical-pack&#x2F;&quot; target=&quot;_blank&quot;&gt;网页演示&lt;&#x2F;a&gt; |  &lt;a href=&quot;https:&#x2F;&#x2F;www.opsive.com&#x2F;support&#x2F;documentation&#x2F;behavior-designer-tactical-pack&#x2F;&quot; target=&quot;_blank&quot;&gt;文档&lt;&#x2F;a&gt; | &lt;a href=&quot;http:&#x2F;&#x2F;forum.unity3d.com&#x2F;threads&#x2F;behavior-designer-tactical-pack.327353&#x2F;&quot; target=&quot;_blank&quot;&gt;Unity论坛&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
 &lt;p &gt;包含以下任务：&lt;&#x2F;p&gt;&lt;ul&gt;&lt;li &gt;攻击&lt;&#x2F;li&gt;&lt;li &gt;冲锋&lt;&#x2F;li&gt;&lt;li &gt;行进射击&lt;&#x2F;li&gt;&lt;li &gt;侧翼&lt;&#x2F;li&gt;&lt;li &gt;伏击&lt;&#x2F;li&gt;&lt;li &gt;边打边退&lt;&#x2F;li&gt;&lt;li &gt;跳跃前进&lt;&#x2F;li&gt;&lt;li &gt;包围&lt;&#x2F;li&gt;&lt;li &gt;防御&lt;&#x2F;li&gt;&lt;li &gt;保持&lt;&#x2F;li&gt;&lt;li &gt;撤退&lt;&#x2F;li&gt;&lt;li &gt;请求增援&lt;&#x2F;li&gt;&lt;li &gt;增援响应&lt;&#x2F;li&gt;&lt;&#x2F;ul&gt;</content>
+        
+    </entry>
+    <entry xml:lang="zh">
+        <title>Behavior Designer - Behavior Trees for Everyone</title>
+        <published>2024-11-29T21:16:06+00:00</published>
+        <updated>2024-12-17T14:08:13+00:00</updated>
+        
+        <author>
+          <name>
+            
+              yzzfo
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://yzzfo.github.io/unity/store/Behavior Designer - Behavior Trees for Everyone/ignore-index-en/"/>
+        <id>https://yzzfo.github.io/unity/store/Behavior Designer - Behavior Trees for Everyone/ignore-index-en/</id>
+        
+        <content type="html" xml:base="https://yzzfo.github.io/unity/store/Behavior Designer - Behavior Trees for Everyone/ignore-index-en/">&lt;p&gt;&lt;br&gt;&lt;p &gt;Behavior trees are used by AAA studios to create a &lt;strong&gt;lifelike AI&lt;&#x2F;strong&gt;. With Opsive&#x27;s Behavior Designer, you can bring the power of behaviour trees to Unity!&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;Behavior Designer is a &lt;strong&gt;behaviour tree implementation designed for everyone&lt;&#x2F;strong&gt; - programmers, artists, designers.&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;Behavior Designer offers an intuitive visual editor with a powerful API allowing you to easily create new tasks. It also includes hundreds of tasks, PlayMaker integration, and extensive third party integration making it possible to&lt;&#x2F;p&gt;&lt;p &gt;&lt;strong&gt;create complex AIs without having to write a single line of code!&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;Behavior Designer was designed from the ground up to be as efficient as possible with &lt;strong&gt;zero allocations after initialization&lt;&#x2F;strong&gt;. As a result, it runs great on all platforms including mobile. Behavior Designer is &lt;strong&gt;dedicated to behavior trees&lt;&#x2F;strong&gt;, which means that each update will be a better behavior tree implementation.&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;&lt;a href=&quot;https:&#x2F;&#x2F;opsive.com&#x2F;support&#x2F;documentation&#x2F;behavior-designer&#x2F;overview&#x2F;&quot; target=&quot;_blank&quot;&gt;Documentation&lt;&#x2F;a&gt; |  &lt;a href=&quot;https:&#x2F;&#x2F;opsive.com&#x2F;videos&#x2F;?pid=803&quot; target=&quot;_blank&quot;&gt;Videos&lt;&#x2F;a&gt; | &lt;a href=&quot;https:&#x2F;&#x2F;opsive.com&#x2F;integrations&#x2F;?pid=803&quot; target=&quot;_blank&quot;&gt;Samples&lt;&#x2F;a&gt; | &lt;a href=&quot;https:&#x2F;&#x2F;discussions.unity.com&#x2F;t&#x2F;behavior-designer-behavior-trees-for-everyone&#x2F;528417&quot; target=&quot;_blank&quot;&gt;Discussions&lt;&#x2F;a&gt; | &lt;a href=&quot;https:&#x2F;&#x2F;discord.gg&#x2F;SD6SPWf7hW&quot; target=&quot;_blank&quot;&gt;Discord&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;✔️&lt;strong&gt;Features:&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;p &gt;• An intuitive visual editor&lt;&#x2F;p&gt;&lt;p &gt;• A powerful API&lt;&#x2F;p&gt;&lt;p &gt;• Visual runtime debugger&lt;&#x2F;p&gt;&lt;p &gt;• Variables to communicate between tasks&lt;&#x2F;p&gt;&lt;p &gt;• Conditional Aborts&lt;&#x2F;p&gt;&lt;p &gt;• Built in event system&lt;&#x2F;p&gt;&lt;p &gt;• Use existing code with reflection tasks&lt;&#x2F;p&gt;&lt;p &gt;• Hundreds of tasks&lt;&#x2F;p&gt;&lt;p &gt;• Evaluate tasks using Utility Theory&lt;&#x2F;p&gt;&lt;p &gt;• Realtime error detection&lt;&#x2F;p&gt;&lt;p &gt;• Binary or JSON serialization&lt;&#x2F;p&gt;&lt;p &gt;• Data-oriented design&lt;&#x2F;p&gt;&lt;p &gt;• Zero runtime allocations after startup&lt;&#x2F;p&gt;&lt;p &gt;• Object drawers (property drawers)&lt;&#x2F;p&gt;&lt;p &gt;• Includes runtime source code&lt;&#x2F;p&gt;&lt;p &gt;• Extensive documentation and videos&lt;&#x2F;p&gt;&lt;p &gt;• Sample projects available online&lt;&#x2F;p&gt;&lt;p &gt;• Much more&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;✔️&lt;strong&gt;Add-ons:&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;p &gt;• &lt;a href=&quot;https:&#x2F;&#x2F;assetstore.unity.com&#x2F;packages&#x2F;tools&#x2F;behavior-ai&#x2F;behavior-designer-for-malbers-animations-289144&quot; target=&quot;_blank&quot;&gt;Behavior Designer for Malbers Animations&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;&lt;p &gt;• &lt;a href=&quot;https:&#x2F;&#x2F;assetstore.unity.com&#x2F;packages&#x2F;tools&#x2F;ai&#x2F;behavior-designer-for-rpgb-247236&quot; target=&quot;_blank&quot;&gt;Behavior Designer for RPG Builder&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;&lt;p &gt;• &lt;a href=&quot;https:&#x2F;&#x2F;assetstore.unity.com&#x2F;packages&#x2F;tools&#x2F;ai&#x2F;deathmatch-ai-kit-243431&quot; target=&quot;_blank&quot;&gt;Deathmatch AI Kit&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;&lt;p &gt;• &lt;a href=&quot;https:&#x2F;&#x2F;assetstore.unity.com&#x2F;packages&#x2F;tools&#x2F;ai&#x2F;behavior-designer-formations-pack-28980&quot; target=&quot;_blank&quot;&gt;Formations Pack&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;&lt;p &gt;• &lt;a href=&quot;https:&#x2F;&#x2F;assetstore.unity.com&#x2F;packages&#x2F;tools&#x2F;ai&#x2F;behavior-designer-movement-pack-16853&quot; target=&quot;_blank&quot;&gt;Movement Pack&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;&lt;p &gt;• &lt;a href=&quot;https:&#x2F;&#x2F;assetstore.unity.com&#x2F;packages&#x2F;tools&#x2F;ai&#x2F;behavior-designer-tactical-pack-6182&quot; target=&quot;_blank&quot;&gt;Tactical Pack&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;✔️&lt;strong&gt;Integrations:&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;p &gt;• 2D Toolkit&lt;&#x2F;p&gt;&lt;p &gt;• A* Pathfinding Project (Movement Pack)&lt;&#x2F;p&gt;&lt;p &gt;• Adventure Creator&lt;&#x2F;p&gt;&lt;p &gt;• Anti-Cheat Toolkit&lt;&#x2F;p&gt;&lt;p &gt;• Blox&lt;&#x2F;p&gt;&lt;p &gt;• Bolt (Visual Scripting)&lt;&#x2F;p&gt;&lt;p &gt;• Camera Path Animator&lt;&#x2F;p&gt;&lt;p &gt;• Cinema Director&lt;&#x2F;p&gt;&lt;p &gt;• Control Freak&lt;&#x2F;p&gt;&lt;p &gt;• Core GameKit&lt;&#x2F;p&gt;&lt;p &gt;• Curvy&lt;&#x2F;p&gt;&lt;p &gt;• Dialogue System&lt;&#x2F;p&gt;&lt;p &gt;• DOTween&lt;&#x2F;p&gt;&lt;p &gt;• Final IK&lt;&#x2F;p&gt;&lt;p &gt;• Inventory Pro&lt;&#x2F;p&gt;&lt;p &gt;• LeanTween&lt;&#x2F;p&gt;&lt;p &gt;• Love&#x2F;Hate&lt;&#x2F;p&gt;&lt;p &gt;• Master Audio&lt;&#x2F;p&gt;&lt;p &gt;• Mirror&lt;&#x2F;p&gt;&lt;p &gt;• NGUI&lt;&#x2F;p&gt;&lt;p &gt;• Particle Playground&lt;&#x2F;p&gt;&lt;p &gt;• PlayMaker&lt;&#x2F;p&gt;&lt;p &gt;• PolyNav (Movement Pack)&lt;&#x2F;p&gt;&lt;p &gt;• Pool Boss&lt;&#x2F;p&gt;&lt;p &gt;• PoolManager&lt;&#x2F;p&gt;&lt;p &gt;• Pool, Trigger, Constrain Bundle&lt;&#x2F;p&gt;&lt;p &gt;• Quest Machine&lt;&#x2F;p&gt;&lt;p &gt;• Rewired&lt;&#x2F;p&gt;&lt;p &gt;• Sensor Toolkit&lt;&#x2F;p&gt;&lt;p &gt;• Simple Waypoint System&lt;&#x2F;p&gt;&lt;p &gt;• Ultimate Character Controller&lt;&#x2F;p&gt;&lt;p &gt;• Ultimate Inventory System&lt;&#x2F;p&gt;&lt;p &gt;• uScript&lt;&#x2F;p&gt;&lt;p &gt;• uSequencer&lt;&#x2F;p&gt;&lt;p &gt;• Visual Scripting&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;* Some promo screenshots contain tasks from the Movement Pack or third party integrations.&lt;&#x2F;p&gt;&lt;&#x2F;p&gt;
+</content>
         
     </entry>
     <entry xml:lang="zh">

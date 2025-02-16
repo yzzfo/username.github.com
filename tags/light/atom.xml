@@ -20,6 +20,26 @@
           </name>
         </author>
         
+        <link rel="alternate" type="text/html" href="https://yzzfo.github.io/unity/store/Water Caustics Effect for URP v2/ignore-index-en/"/>
+        <id>https://yzzfo.github.io/unity/store/Water Caustics Effect for URP v2/ignore-index-en/</id>
+        
+        <content type="html" xml:base="https://yzzfo.github.io/unity/store/Water Caustics Effect for URP v2/ignore-index-en/">&lt;p&gt;&lt;br&gt;‥∴∵ &lt;em&gt;Thanks 500+ downloads&lt;&#x2F;em&gt; ∵∴‥&lt;br&gt;This asset easily adds the beautiful caustics essential for realistic water representation. &lt;br&gt;&lt;br&gt;&lt;a href=&quot;https:&#x2F;&#x2F;hacoapp.com&#x2F;asset&#x2F;wce&#x2F;v2&#x2F;ManualPDF.pdf&quot;&gt;➡ Manual PDF&lt;&#x2F;a&gt;&lt;br&gt;This asset contains two modules:&lt;br&gt;a Texture Generator and an Effect.&lt;br&gt;&lt;br&gt;&lt;br&gt;■ &lt;strong&gt;1. Water Caustics Tex Generator [ URP &#x2F; HDRP &#x2F; Built-inRP ]&lt;&#x2F;strong&gt;&lt;br&gt;•Generates rich, realistic caustics animated textures at runtime by simulating waves and light refraction with Compute Shader.&lt;br&gt;•Possible to create not only realistic but also cartoon-like expressions.&lt;br&gt;•This generator works with all rendering pipelines.&lt;br&gt;•All parameters modifiable via script.&lt;br&gt;•[Features] 4 Wave Layers, 3 Drawing Styles, Chromatic Aberration, Blur, Directional Blur, RGB Color Shift, Gamma, Brightness Adjustment, etc.&lt;br&gt;&lt;br&gt;&lt;br&gt;■ &lt;strong&gt;2. Water Caustics Effect [ URP(3D) only ]&lt;&#x2F;strong&gt;&lt;br&gt;•Apply caustics effects using the camera&#x27;s depth and normal textures.&lt;br&gt;•VR supported.&lt;br&gt;•Forward、Forward+ and Deferred rendering supported.&lt;br&gt;•All parameters modifiable via script.&lt;br&gt;•It is also possible to apply individually by embedding Custom Function in shaders. Materials that are not rendered in depth textures, such as transparent textures, can be applied with this method. (Shader Graph, HLSL, and Amplify Shader Editor supported.)&lt;br&gt;•[Features] Range specification by Rectangle&#x2F;Image&#x2F;Stencil mask, Attenuation by Depth and Distance, Random Texture Tiling, Texture Rotation, RGB Color Shift, Transparency Effect, Draw Timing Adjustment, etc.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;strong&gt;[ Unity 2020.3 LTS or higher supported ]&lt;&#x2F;strong&gt;&lt;br&gt;&lt;strong&gt;[ PC &#x2F; MAC &#x2F; iOS &#x2F; Android &#x2F; Switch &#x2F; Quest2 tested]&lt;&#x2F;strong&gt;&lt;br&gt;&lt;strong&gt;[ DX11,12 &#x2F; Metal &#x2F; Vulkan &#x2F; OpenGL &#x2F; GLES3.1 supported ]&lt;&#x2F;strong&gt;&lt;br&gt;&lt;em&gt;※ Tested with Unity 2020.3.20, 2021.3.33, 2022.3.22, 6000.0.28&lt;&#x2F;em&gt;&lt;br&gt;&lt;em&gt;※ WebGL is not supported because it does not support Compute Shader.&lt;&#x2F;em&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;※ All code is included.&lt;br&gt;※ The specification of URP is still in flux. Therefore, please be aware that it may not work in the future when the URP version is upgraded.&lt;br&gt;※ If you encounter problems, please first check the &lt;a href=&quot;https:&#x2F;&#x2F;hacoapp.com&#x2F;asset&#x2F;wce&#x2F;v2&#x2F;ManualPDF.pdf#ManualPDF.indd:Troubleshooting:178&quot;&gt;Troubleshooting&lt;&#x2F;a&gt; of Manual PDF, and if not resolved, please let me know in &lt;a href=&quot;https:&#x2F;&#x2F;hacoapp.com&#x2F;asset&#x2F;wce&#x2F;v2&#x2F;ManualPDF.pdf#ManualPDF.indd:Contact:224&quot;&gt;this way&lt;&#x2F;a&gt;. I will support you as soon as possible.&lt;br&gt;&lt;br&gt; mail: &lt;strong&gt;support_asset@hacoapp.com&lt;&#x2F;strong&gt;&lt;br&gt;twitter: &lt;a href=&quot;https:&#x2F;&#x2F;twitter.com&#x2F;m_hakozaki&quot;&gt;@m_hakozaki&lt;&#x2F;a&gt;&lt;br&gt;&lt;&#x2F;p&gt;
+</content>
+        
+    </entry>
+    <entry xml:lang="zh">
+        <title>Water Caustics Effect for URP v2</title>
+        <published>2024-12-28T01:01:24+00:00</published>
+        <updated>2024-12-28T01:01:24+00:00</updated>
+        
+        <author>
+          <name>
+            
+              yzzfo
+            
+          </name>
+        </author>
+        
         <link rel="alternate" type="text/html" href="https://yzzfo.github.io/unity/store/water-caustics-effect-for-urp-v2/"/>
         <id>https://yzzfo.github.io/unity/store/water-caustics-effect-for-urp-v2/</id>
         
@@ -50,6 +70,26 @@
 ※ 如果您遇到问题，请首先检查&lt;a href=&quot;https:&#x2F;&#x2F;hacoapp.com&#x2F;asset&#x2F;wce&#x2F;v2&#x2F;ManualPDF.pdf#ManualPDF.indd:Troubleshooting:178&quot;&gt;手册PDF中的故障排除&lt;&#x2F;a&gt;，如果未能解决，请通过&lt;a href=&quot;https:&#x2F;&#x2F;hacoapp.com&#x2F;asset&#x2F;wce&#x2F;v2&#x2F;ManualPDF.pdf#ManualPDF.indd:Contact:224&quot;&gt;这种方式&lt;&#x2F;a&gt;告诉我。我会尽快支持您。&lt;&#x2F;p&gt;
 &lt;p&gt;邮件: &lt;strong&gt;support_asset@hacoapp.com&lt;&#x2F;strong&gt;&lt;br &#x2F;&gt;
 推特: &lt;a href=&quot;https:&#x2F;&#x2F;twitter.com&#x2F;m_hakozaki&quot;&gt;@m_hakozaki&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+</content>
+        
+    </entry>
+    <entry xml:lang="zh">
+        <title>Lumen: Stylized Light FX</title>
+        <published>2024-12-06T14:26:56+00:00</published>
+        <updated>2024-12-17T13:35:19+00:00</updated>
+        
+        <author>
+          <name>
+            
+              yzzfo
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://yzzfo.github.io/unity/store/Lumen Stylized Light FX/ignore-index-en/"/>
+        <id>https://yzzfo.github.io/unity/store/Lumen Stylized Light FX/ignore-index-en/</id>
+        
+        <content type="html" xml:base="https://yzzfo.github.io/unity/store/Lumen Stylized Light FX/ignore-index-en/">&lt;p&gt;Bring the light back into your project with Lumen: Stylized Light FX! Quickly prototype, save, recolor, and instantiate light flares and sun rays with the onboard tools.&lt;br&gt;&lt;p &gt;&lt;strong&gt;CONNECT WITH US:&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;p &gt;&lt;a href=&quot;https:&#x2F;&#x2F;distantlands.wixsite.com&#x2F;distantlands&quot; target=&quot;_blank&quot;&gt;Website&lt;&#x2F;a&gt; | &lt;a href=&quot;mailto:distantlands.productions@gmail.com&quot; target=&quot;_blank&quot;&gt;Email&lt;&#x2F;a&gt; | &lt;a href=&quot;https:&#x2F;&#x2F;discord.gg&#x2F;HWGU4hj&quot; target=&quot;_blank&quot;&gt;Discord&lt;&#x2F;a&gt; | &lt;a href=&quot;https:&#x2F;&#x2F;drive.google.com&#x2F;file&#x2F;d&#x2F;1Bt3RKHDQusY-mbQW44C4QKqUenksda_K&#x2F;view?usp=sharing&quot; target=&quot;_blank&quot;&gt;Playable Demo&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;Distant Lands presents:&lt;&#x2F;p&gt;&lt;p &gt;&lt;strong&gt;&lt;em&gt;Lumen: Stylized Light FX&lt;&#x2F;em&gt;&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;Create beautiful stylized light effects ranging from light flares to halos to god rays to scatters! Lumen is a one-stop solution to stylized, performant volumetric lighting in stylized games.&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;Features &lt;strong&gt;THREE DIFFERENT SYSTEMS&lt;&#x2F;strong&gt; of light that work together to dramatically stylize your game worlds:&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;Do the lights in your scene feel lackluster? Do you want your audience to feel the warmth of the lights in your game? &lt;strong&gt;LUMEN LIGHT FLARES &lt;&#x2F;strong&gt;add a subtle halo to the lights in your scene providing an effect similar to that of volumetric point lights. This effect can be turned to the extreme as well filling your scenes with majestic glow and powerful auras—a must for any mystical item that your players may encounter!&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;The &lt;strong&gt;LUMEN STATIC RAYS&lt;&#x2F;strong&gt; are a simple way to achieve any sort of volumetric ray. Godrays, sunshafts, spotlights, 2D, 3D, or anything in between, these rays do it all! Use these to add interest to your scene, direct the player&#x27;s eye to important locations, fill the scene with moody lighting, or just make your scenes even prettier!&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;Finally, &lt;strong&gt;LUMEN DYNAMIC RAYS&lt;&#x2F;strong&gt; use vertex colors and a custom shader to dynamically scale and contort the rays to a specific angle in real-time! Use these rays to track the sun dynamically, point rays at a moving target, or fake real-time volumetric lighting!&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;&lt;strong&gt;WHY MESH-BASED EFFECTS?&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;p &gt;Built on a mesh-based, procedural material, Lumen throws out all of the calculations that most volumetric lighting solutions need by replacing the traditional mathematics with a simple vertex lit shader! This allows your effects to be calculated cheaply so that you can focus on the aesthetics of your scene, without worrying about the framerate decreasing. Beyond this, the lack of textures allows your disk space to be minimized without reducing the quality of the flares and rays that make your scene beautiful!&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;&lt;strong&gt;Powerful tools to light your world:&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;ul&gt;&lt;li &gt;Scriptable object backend for quick and easy saving.&lt;&#x2F;li&gt;&lt;li &gt;A fully 3D mesh-based workflow means that effects can be infinitely scaled with no loss in quality!&lt;&#x2F;li&gt;&lt;li &gt;Dynamic and customizable depth fading that allows you to display and hide the light effects based on the depth of the scene.&lt;&#x2F;li&gt;&lt;li &gt;Advanced camera fading that fades light effects in and out based on the distance to the camera.&lt;&#x2F;li&gt;&lt;li &gt;Custom layering system for easy customization.&lt;&#x2F;li&gt;&lt;li &gt;Lightweight shader built-in with GPU instancing support&lt;&#x2F;li&gt;&lt;li &gt;The custom noise-based variation system smoothly interpolates light effects to a different color. Useful for everything from subtle, lazy light movement to sporadic, violent lighting.&lt;&#x2F;li&gt;&lt;li &gt;Global, local, and per-layer controls give you ultimate control over the way that you want the light to render in your scene.&lt;&#x2F;li&gt;&lt;li &gt;All shaders are built with Amplify Shader Editor for easy customization across Built-in and URP!&lt;&#x2F;li&gt;&lt;&#x2F;ul&gt;&lt;p &gt;&lt;strong&gt;Come prepared with out-of-the-box features:&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;ul&gt;&lt;li &gt;42 Premade light effects&lt;&#x2F;li&gt;&lt;li &gt;89 Light shapes&lt;&#x2F;li&gt;&lt;li &gt;Two main shader types&lt;&#x2F;li&gt;&lt;li &gt;Full inspector extensions built with quick and easy editing in mind from the start&lt;&#x2F;li&gt;&lt;li &gt;Fully supports Built-In and URP for any platform!&lt;&#x2F;li&gt;&lt;&#x2F;ul&gt;&lt;&#x2F;br&gt;&lt;&#x2F;p&gt;
 </content>
         
     </entry>

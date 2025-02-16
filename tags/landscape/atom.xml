@@ -20,6 +20,26 @@
           </name>
         </author>
         
+        <link rel="alternate" type="text/html" href="https://yzzfo.github.io/unity/store/Infinite Lands Node-Based World Creator/ignore-index-en/"/>
+        <id>https://yzzfo.github.io/unity/store/Infinite Lands Node-Based World Creator/ignore-index-en/</id>
+        
+        <content type="html" xml:base="https://yzzfo.github.io/unity/store/Infinite Lands Node-Based World Creator/ignore-index-en/">&lt;p&gt;Easy, optimized, customizable, and intuitive Node Based Procedural World generation package. To simplify the generation of worlds down to a couple of clicks while having full control with a thousand.&lt;br&gt;&lt;p &gt;This package will provide the tools necessary to build an optimized procedural world. It makes use of Jobs and the Burst Compiler to generate the different meshes needed for the generation of the world, making use of a simple Node Editor while also providing an optimized Vegetation Placer that uses GPU instancing to stay light-weight.&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;It is fully customizable to one needs while staying extremely simple and intuitive. An all-in-one package. The provided documentation has all the information needed, and otherwise, feel free to join our &lt;a href=&quot;https:&#x2F;&#x2F;discord.gg&#x2F;Q87ZcUvPwz&quot; target=&quot;_blank&quot;&gt;discord server&lt;&#x2F;a&gt; to ask for help.&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;&lt;a href=&quot;https:&#x2F;&#x2F;ensapra.com&#x2F;packages&#x2F;infinite_lands&quot; target=&quot;_blank&quot;&gt;Documentation&lt;&#x2F;a&gt; | &lt;a href=&quot;https:&#x2F;&#x2F;discord.com&#x2F;invite&#x2F;Q87ZcUvPwz&quot; target=&quot;_blank&quot;&gt;Direct Support&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;Simple and easy-to-use terrain. Drop a Single Chunk Visualizer to see one chunk, or drop a Infinite Chunk Visualizer to have an Infinite quadtree generation.&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;&lt;strong&gt;In this package you will find:&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;ul&gt;&lt;li &gt;&lt;strong&gt;Node Editor&lt;&#x2F;strong&gt;&lt;&#x2F;li&gt;&lt;ul&gt;&lt;li &gt;&lt;strong&gt;Live &lt;&#x2F;strong&gt;editing&lt;&#x2F;li&gt;&lt;li &gt;Variety of nodes&lt;&#x2F;li&gt;&lt;li &gt;Step by Step visualization&lt;&#x2F;li&gt;&lt;li &gt;Biomes support&lt;&#x2F;li&gt;&lt;li &gt;Export to Images&lt;&#x2F;li&gt;&lt;&#x2F;ul&gt;&lt;li &gt;Optimized mesh generation through &lt;strong&gt;Jobs &lt;&#x2F;strong&gt;and &lt;strong&gt;Burst Compiler&lt;&#x2F;strong&gt;&lt;&#x2F;li&gt;&lt;ul&gt;&lt;li &gt;Quadtree and Grid-like infinite terrain generation&lt;&#x2F;li&gt;&lt;li &gt;Automatic LOD creation&lt;&#x2F;li&gt;&lt;li &gt;Option to use Decimated Meshes&lt;&#x2F;li&gt;&lt;li &gt;Procedural terrain shader with &lt;strong&gt;Stochastic Sampling, Triplanar Mapping&lt;&#x2F;strong&gt;, and distance resampling.&lt;&#x2F;li&gt;&lt;&#x2F;ul&gt;&lt;li &gt;Integrated &lt;strong&gt;Vegetation System&lt;&#x2F;strong&gt;&lt;&#x2F;li&gt;&lt;ul&gt;&lt;li &gt;&lt;strong&gt;GPU Instanced&lt;&#x2F;strong&gt; assets&lt;&#x2F;li&gt;&lt;li &gt;Vegetation interaction&lt;&#x2F;li&gt;&lt;li &gt;Color and Normal blending with terrain&lt;&#x2F;li&gt;&lt;li &gt;Dynamic Colliders support&lt;&#x2F;li&gt;&lt;li &gt;Basic Wind System&lt;&#x2F;li&gt;&lt;li &gt;Impostor support&lt;&#x2F;li&gt;&lt;&#x2F;ul&gt;&lt;li &gt;Floating Point Origin&lt;&#x2F;li&gt;&lt;li &gt;Occlusion, Frustum culling and more optimization techniques&lt;&#x2F;li&gt;&lt;li &gt;Multiple Samples for Built-in, URP and HDRP&lt;&#x2F;li&gt;&lt;li &gt;Intuitive workflow&lt;&#x2F;li&gt;&lt;li &gt;And more updates coming...&lt;&#x2F;li&gt;&lt;&#x2F;ul&gt;&lt;&#x2F;br&gt;&lt;p &gt;&lt;strong&gt;Why Infinite Lands?&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;p &gt;Made by someone who likes to iterate quickly and therefore it&#x27;s optimized and simplified for daily use. It&#x27;s an all-in-package, you buy this and you will never need to buy another asset. There are no extra modules, all future updates will come for free in this one package.&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;&lt;strong&gt;Dependancies&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;p &gt;To use this asset, you will need:&lt;&#x2F;p&gt;&lt;p &gt;- com.unity.burst: &quot;1.8.11&quot;,&lt;&#x2F;p&gt;&lt;p &gt;- com.unity.collections: &quot;1.4.0&quot;,&lt;&#x2F;p&gt;&lt;p &gt;- com.unity.render-pipelines.core:&quot;12.1.15&quot;,&lt;&#x2F;p&gt;&lt;p &gt;- com.unity.searcher: &quot;4.9.2&quot;,&lt;&#x2F;p&gt;&lt;p &gt;- com.unity.shadergraph: &quot;12.1.15&quot;&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;This asset makes use of a version of NaughtyAttributes under the MIT license. See NaughtyAttributes&#x2F;LICENSE.txt for more details&lt;&#x2F;p&gt;&lt;&#x2F;p&gt;
+</content>
+        
+    </entry>
+    <entry xml:lang="zh">
+        <title>Infinite Lands: Node-Based World Creator</title>
+        <published>2024-12-22T15:04:36+00:00</published>
+        <updated>2024-12-22T15:04:36+00:00</updated>
+        
+        <author>
+          <name>
+            
+              yzzfo
+            
+          </name>
+        </author>
+        
         <link rel="alternate" type="text/html" href="https://yzzfo.github.io/unity/store/infinite-lands-node-based-world-creator/"/>
         <id>https://yzzfo.github.io/unity/store/infinite-lands-node-based-world-creator/</id>
         
@@ -46,10 +66,50 @@
           </name>
         </author>
         
+        <link rel="alternate" type="text/html" href="https://yzzfo.github.io/unity/store/AZURE Nature/ignore-index-en/"/>
+        <id>https://yzzfo.github.io/unity/store/AZURE Nature/ignore-index-en/</id>
+        
+        <content type="html" xml:base="https://yzzfo.github.io/unity/store/AZURE Nature/ignore-index-en/">&lt;p&gt;&lt;br&gt;&lt;p &gt;High-quality and universal asset pack, which will give you great freedom in customizing assets for your game. Freely change colors, add moss, snow, or any other coating on the models using custom shaders. Create scenes of any season: summer, spring, winter or autumn.&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;&lt;strong&gt;Package contains:&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;&lt;strong&gt;Models:&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;ul&gt;&lt;li &gt;5 broadleaf trees (2150 - 5450 tris)&lt;&#x2F;li&gt;&lt;li &gt;5 birch trees (2300 - 4100 tris)&lt;&#x2F;li&gt;&lt;li &gt;5 fir trees (1550 - 2150 tris)&lt;&#x2F;li&gt;&lt;li &gt;5 dead trees (1000 - 2500 tris)&lt;&#x2F;li&gt;&lt;li &gt;3 grass models (40 - 100 tris)&lt;&#x2F;li&gt;&lt;li &gt;5 bushes (1500 - 2000 tris)&lt;&#x2F;li&gt;&lt;li &gt;6 rocks and cliffs (180 - 390 tris)&lt;&#x2F;li&gt;&lt;li &gt;6 other environment models (branches, mushrooms and other) (90 - 330 tris)&lt;&#x2F;li&gt;&lt;&#x2F;ul&gt;&lt;&#x2F;br&gt;&lt;p &gt;Most models have LODs.&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;&lt;strong&gt;Terrain Textures (1024x1024 PNG):&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;ul&gt;&lt;li &gt;8 summer textures&lt;&#x2F;li&gt;&lt;li &gt;8 winter textures&lt;&#x2F;li&gt;&lt;li &gt;8 autumn textures&lt;&#x2F;li&gt;&lt;&#x2F;ul&gt;&lt;&#x2F;br&gt;&lt;p &gt;&lt;strong&gt;Shaders:&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;ul&gt;&lt;li &gt;Vegetation&lt;&#x2F;li&gt;&lt;li &gt;Surface&lt;&#x2F;li&gt;&lt;li &gt;Water&lt;&#x2F;li&gt;&lt;&#x2F;ul&gt;&lt;&#x2F;br&gt;&lt;p &gt;&lt;strong&gt;FX:&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;ul&gt;&lt;li &gt;Leaf fall&lt;&#x2F;li&gt;&lt;li &gt;Snowfall&lt;&#x2F;li&gt;&lt;li &gt;Godrays&lt;&#x2F;li&gt;&lt;&#x2F;ul&gt;&lt;&#x2F;br&gt;&lt;p &gt;Package also includes a demo scene.&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;Package is optimized for PC and console platforms and has not been tested on &lt;strong&gt;mobile&lt;&#x2F;strong&gt; and &lt;strong&gt;VR&lt;&#x2F;strong&gt;.&lt;&#x2F;p&gt;&lt;&#x2F;p&gt;
+</content>
+        
+    </entry>
+    <entry xml:lang="zh">
+        <title>AZURE Nature</title>
+        <published>2024-12-06T14:27:24+00:00</published>
+        <updated>2024-12-17T13:35:42+00:00</updated>
+        
+        <author>
+          <name>
+            
+              yzzfo
+            
+          </name>
+        </author>
+        
         <link rel="alternate" type="text/html" href="https://yzzfo.github.io/unity/store/azure-nature/"/>
         <id>https://yzzfo.github.io/unity/store/azure-nature/</id>
         
         <content type="html" xml:base="https://yzzfo.github.io/unity/store/azure-nature/">&lt;p&gt;&lt;br&gt;&lt;STRONG&gt;新&lt;&#x2F;STRONG&gt;增水着色器折射&lt;br&gt;&lt;br&gt;&lt;a href=&quot;https:&#x2F;&#x2F;drive.google.com&#x2F;uc?id=12LSTDg0Uxr3K2DVBl2cj7NcnCRUZzIJp&amp;export=download&quot;&gt;下载演示版本&lt;&#x2F;a&gt;&lt;br&gt;&lt;br&gt;高质量且通用的资源包，极其自由地为游戏自定义资源。使用自定义着色器自由更改颜色，在模型上添加苔藓、雪及其他涂层。创建四季场景。&lt;br&gt;&lt;br&gt;&lt;STRONG&gt;支持的渲染管线：&lt;&#x2F;STRONG&gt;&lt;br&gt;- 内置 (2019.1+)&lt;br&gt;- 轻量级 (2019.1 - 2019.2)&lt;br&gt;- 通用 (2019.3+)&lt;br&gt;&lt;br&gt;标准渲染管线立即可用。通过随附的资源包支持 URP&#x2F;LWRP。&lt;br&gt;&lt;br&gt;&lt;STRONG&gt;资源包包含：&lt;&#x2F;STRONG&gt;&lt;br&gt;&lt;br&gt;&lt;STRONG&gt;模型（带 LOD）：&lt;&#x2F;STRONG&gt;&lt;br&gt;- 5 种阔叶树（2150 - 5450 个面数）&lt;br&gt;- 5 种桦树（2300 - 4100 个面数）&lt;br&gt;- 5 种枞树（1550 - 2150 个面数）&lt;br&gt;- 5 种枯树（1000 - 2500 个面数）&lt;br&gt;- 3 种草地模型（40 - 100 个面数）&lt;br&gt;- 5 种灌木丛（1500 - 2000 个面数）&lt;br&gt;- 6 种岩石和悬崖（180 - 390 个面数）&lt;br&gt;- 6 种其他环境模型（树枝、蘑菇及其他）（90 - 330 个面数）&lt;br&gt;&lt;br&gt;&lt;STRONG&gt;地形纹理 (1024x1024 PNG)：&lt;&#x2F;STRONG&gt;&lt;br&gt;- 8 种夏季纹理&lt;br&gt;- 8 种冬季纹理&lt;br&gt;- 8 种秋季纹理&lt;br&gt;&lt;br&gt;带有反照率和法线贴图&lt;br&gt;&lt;br&gt;&lt;STRONG&gt;着色器：&lt;&#x2F;STRONG&gt;&lt;br&gt;- 植被&lt;br&gt;- 表面&lt;br&gt;- 水&lt;br&gt;&lt;br&gt;&lt;STRONG&gt;特效：&lt;&#x2F;STRONG&gt;&lt;br&gt;- 落叶&lt;br&gt;- 降雪&lt;br&gt;- Godray&lt;br&gt;&lt;br&gt;以及带有后期处理配置文件的演示场景。&lt;br&gt;&lt;br&gt;该资源包将补充新内容。保持更新。&lt;br&gt;&lt;br&gt;&lt;&#x2F;p&gt;
+</content>
+        
+    </entry>
+    <entry xml:lang="zh">
+        <title>Toon Fantasy Nature</title>
+        <published>2024-11-29T21:17:32+00:00</published>
+        <updated>2024-12-17T14:10:15+00:00</updated>
+        
+        <author>
+          <name>
+            
+              yzzfo
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://yzzfo.github.io/unity/store/Toon Fantasy Nature/ignore-index-en/"/>
+        <id>https://yzzfo.github.io/unity/store/Toon Fantasy Nature/ignore-index-en/</id>
+        
+        <content type="html" xml:base="https://yzzfo.github.io/unity/store/Toon Fantasy Nature/ignore-index-en/">&lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;assetstore.unity.com&#x2F;publishers&#x2F;18116&quot;&gt; &lt;strong&gt;SICS Games&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt; presents:&lt;&#x2F;p&gt;A stylized collection of assets to add beautiful environments to your game.&lt;br&gt;&lt;p &gt;Any questions or suggestions?&lt;&#x2F;p&gt;&lt;p &gt;Feel free to get in touch with us on our &lt;a href=&quot;http:&#x2F;&#x2F;discord.gg&#x2F;nwQpAet&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;Discord&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;◙ &lt;strong&gt;Featuring&lt;&#x2F;strong&gt; ◙&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;• &lt;strong&gt;200&lt;&#x2F;strong&gt; prefabs ranging from small plants and rocks to large oaks and pine trees.&lt;&#x2F;p&gt;&lt;p &gt;• &lt;strong&gt;8&lt;&#x2F;strong&gt; &lt;strong&gt;Demo Scenes&lt;&#x2F;strong&gt; showcasing all assets from the package with multiple lighting presets (post-processing profiles included).&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;◙ &lt;strong&gt;Asset list &lt;&#x2F;strong&gt;◙&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;• &lt;strong&gt;Vegetation Assets &lt;&#x2F;strong&gt;•&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;&lt;strong&gt;(x137) Plants, Flowers &amp;amp; Trees&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;p &gt;Vegetation Assets include:&lt;&#x2F;p&gt;&lt;p &gt;&lt;strong&gt;(x36) Trees&lt;&#x2F;strong&gt;, such as &lt;strong&gt;Aspen Trees&lt;&#x2F;strong&gt;, &lt;strong&gt;Pine trees&lt;&#x2F;strong&gt;, &lt;strong&gt;Birch Trees&lt;&#x2F;strong&gt;, &lt;strong&gt;Oak Trees&lt;&#x2F;strong&gt;, etc.&lt;&#x2F;p&gt;&lt;p &gt;&lt;strong&gt;(x18) Fallen &amp;amp; Broken Trees&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;p &gt;&lt;strong&gt;(x38) Bushes, Ferns&lt;&#x2F;strong&gt;,&lt;strong&gt; Flowers, &lt;&#x2F;strong&gt;etc.&lt;&#x2F;p&gt;&lt;p &gt;&lt;strong&gt;(x20) Lillies, Lotus Flowers&lt;&#x2F;strong&gt;, and other water friendly plants.&lt;&#x2F;p&gt;&lt;p &gt;&lt;strong&gt;(x18) Mushrooms&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;• &lt;strong&gt;Rocks &lt;&#x2F;strong&gt;•&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;&lt;strong&gt;(x20) Rocks&lt;&#x2F;strong&gt;, ranging from small pebbles to large boulders&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;• &lt;strong&gt;Exterior Props &lt;&#x2F;strong&gt;•&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;&lt;strong&gt;(x25) Props&lt;&#x2F;strong&gt;, including &lt;strong&gt;Wooden Pavilion &amp;amp; Swing Set&lt;&#x2F;strong&gt;, &lt;strong&gt;Camp Fire &lt;&#x2F;strong&gt;(Fire Particle System included), &lt;strong&gt;Fence &amp;amp; Bridge Kit&lt;&#x2F;strong&gt;, etc.&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;• &lt;strong&gt;Background Assets &amp;amp; Decals &lt;&#x2F;strong&gt;•&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;&lt;strong&gt;(x18) Background Trees&lt;&#x2F;strong&gt;, Debris &amp;amp; &lt;strong&gt;Fallen Leaves&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;p &gt;&lt;strong&gt;(x3) Hand-painted Skyboxes&lt;&#x2F;strong&gt;: Day, Night &amp;amp; Sunset.&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;• &lt;strong&gt;Particle Systems &lt;&#x2F;strong&gt;•&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;&lt;strong&gt;(x8) Particle Systems&lt;&#x2F;strong&gt;, including &lt;strong&gt;Sun Shafts&lt;&#x2F;strong&gt;, &lt;strong&gt;Fireflies&lt;&#x2F;strong&gt;, &lt;strong&gt;Falling Leaves&lt;&#x2F;strong&gt;, etc.&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;&#x2F;br&gt;&lt;p &gt;This package fits in perfectly with other assets from the collection:&lt;&#x2F;p&gt;&lt;p &gt;&lt;a href=&quot;http:&#x2F;&#x2F;assetstore.unity.com&#x2F;lists&#x2F;toon-series-44946&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;Toon Series&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;Support and Community:&lt;&#x2F;p&gt;&lt;p &gt;&lt;a href=&quot;http:&#x2F;&#x2F;discord.gg&#x2F;nwQpAet&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;Discord&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt;&lt;strong&gt; &lt;&#x2F;strong&gt;• &lt;a href=&quot;http:&#x2F;&#x2F;forum.unity3d.com&#x2F;threads&#x2F;toon-series-growing-content-stylized-3d-art.464823&#x2F;&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;Forum&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt;&lt;strong&gt; &lt;&#x2F;strong&gt;• &lt;a href=&quot;http:&#x2F;&#x2F;twitter.com&#x2F;steve_sics&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;Twitter&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt;&lt;strong&gt; &lt;&#x2F;strong&gt;•&lt;strong&gt; &lt;&#x2F;strong&gt;&lt;a href=&quot;mailto:sics.production@gmail.com&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;Mail&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;&lt;&#x2F;p&gt;
 </content>
         
     </entry>

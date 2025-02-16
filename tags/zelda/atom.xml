@@ -20,6 +20,26 @@
           </name>
         </author>
         
+        <link rel="alternate" type="text/html" href="https://yzzfo.github.io/unity/store/FANTASTIC - Nature Pack/ignore-index-en/"/>
+        <id>https://yzzfo.github.io/unity/store/FANTASTIC - Nature Pack/ignore-index-en/</id>
+        
+        <content type="html" xml:base="https://yzzfo.github.io/unity/store/FANTASTIC - Nature Pack/ignore-index-en/">&lt;p&gt;A lowpoly nature asset pack with over 110 unique assets to create stylized environments for your fantasy game.&lt;br&gt;&lt;p &gt;If you are in need of high quality stylized nature assets - this package is perfect for you!&lt;&#x2F;p&gt;&lt;p &gt;The assets are compatible with Unity Terrain, which makes it easy for you to quickly and efficiently create what you envision. With customizable water and foliage shaders you can adjust the mood and season of your environment to your liking.&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;Compatible with Unity 6.&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;Contains day and night demo scenes as seen in the trailer and a documentation to get you started!&lt;&#x2F;p&gt;&lt;p &gt;As a FREE bonus this package includes the Camping Set!&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;&#x2F;br&gt;&lt;p &gt;&lt;strong&gt;Features:&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;&lt;strong&gt;3D Assets:&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;ul&gt;&lt;li &gt;12 unique trees which can be customized with 5 different tree trunk textures&lt;&#x2F;li&gt;&lt;li &gt;15 stones&lt;&#x2F;li&gt;&lt;li &gt;44 plants with vertex maps for wind movement&lt;&#x2F;li&gt;&lt;li &gt;22 Camping Set assets (pot, campfire &amp;amp; poles, wooden spoon&#x2F;bowl&#x2F;cup, fishing rod, fish &amp;amp; fish slice, metal plate, 3x decorational leaves, glass bottle, bread, cheese, knife, pan &amp;amp; lid, sleeping bag, tent, woodpile &amp;amp; woodlog)&lt;&#x2F;li&gt;&lt;&#x2F;ul&gt;&lt;p &gt;Trees and stones each have 3 LODs. Each asset has a custom lightmap in its second UV channel and colliders where needed.&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;&#x2F;br&gt;&lt;p &gt;&lt;strong&gt;Shaders:&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;Custom shaders were created with Amplify&lt;&#x2F;p&gt;&lt;ul&gt;&lt;li &gt;Customizable shader for water&lt;&#x2F;li&gt;&lt;li &gt;Customizable wind shaders for foliage&lt;&#x2F;li&gt;&lt;li &gt;Simple double sided shader for built-in RP&lt;&#x2F;li&gt;&lt;&#x2F;ul&gt;&lt;&#x2F;br&gt;&lt;p &gt;&lt;strong&gt;FX:&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;ul&gt;&lt;li &gt;Stylized particle effect for fire, steam, flying leaves and fireflies&lt;&#x2F;li&gt;&lt;&#x2F;ul&gt;&lt;&#x2F;br&gt;&lt;&#x2F;br&gt;&lt;p &gt;&lt;strong&gt;Follow us for news&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;p &gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.tidalflask.com&#x2F;&quot; target=&quot;_blank&quot;&gt;Web&lt;&#x2F;a&gt; | &lt;a href=&quot;https:&#x2F;&#x2F;twitter.com&#x2F;tidalflask&quot; target=&quot;_blank&quot;&gt;Twitter&lt;&#x2F;a&gt; | &lt;a href=&quot;https:&#x2F;&#x2F;www.facebook.com&#x2F;tidalflask&quot; target=&quot;_blank&quot;&gt;Facebook &lt;&#x2F;a&gt;&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;&lt;strong&gt;Have a look at our other packs&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;p &gt;&lt;a href=&quot;https:&#x2F;&#x2F;assetstore.unity.com&#x2F;lists&#x2F;story-3d-packs-series-142534&quot; target=&quot;_blank&quot;&gt;STORY - 3D Packs Series &lt;&#x2F;a&gt;&lt;&#x2F;p&gt;&lt;p &gt;&lt;a href=&quot;https:&#x2F;&#x2F;assetstore.unity.com&#x2F;lists&#x2F;fantastic-3d-packs-series-130169&quot; target=&quot;_blank&quot;&gt;FANTASTIC - 3D Packs Series &lt;&#x2F;a&gt;&lt;&#x2F;p&gt;&lt;&#x2F;p&gt;
+</content>
+        
+    </entry>
+    <entry xml:lang="zh">
+        <title>FANTASTIC - Nature Pack</title>
+        <published>2025-01-03T01:00:29+00:00</published>
+        <updated>2025-01-03T01:00:29+00:00</updated>
+        
+        <author>
+          <name>
+            
+              yzzfo
+            
+          </name>
+        </author>
+        
         <link rel="alternate" type="text/html" href="https://yzzfo.github.io/unity/store/fantastic-nature-pack/"/>
         <id>https://yzzfo.github.io/unity/store/fantastic-nature-pack/</id>
         
@@ -33,6 +53,26 @@
 &lt;p&gt;使用Amplify创建了自定义着色器&lt;&#x2F;p&gt;&lt;ul&gt;&lt;li&gt;可自定义的水着色器&lt;&#x2F;li&gt;&lt;li&gt;可自定义的植被风着色器&lt;&#x2F;li&gt;&lt;li&gt;适用于内置渲染管线的简单双面着色器&lt;&#x2F;li&gt;&lt;&#x2F;ul&gt;
 &lt;p&gt;&lt;strong&gt;特效：&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;ul&gt;&lt;li&gt;风格化的粒子效果，包括火、蒸汽、飞舞的叶子和萤火虫&lt;&#x2F;li&gt;&lt;&#x2F;ul&gt;
 &lt;p&gt;&lt;strong&gt;关注我们以获取最新消息&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.tidalflask.com&#x2F;&quot; target=&quot;_blank&quot;&gt;网站&lt;&#x2F;a&gt; | &lt;a href=&quot;https:&#x2F;&#x2F;twitter.com&#x2F;tidalflask&quot; target=&quot;_blank&quot;&gt;推特&lt;&#x2F;a&gt; | &lt;a href=&quot;https:&#x2F;&#x2F;www.facebook.com&#x2F;tidalflask&quot; target=&quot;_blank&quot;&gt;脸书&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;&lt;br&gt;&lt;p &gt;&lt;strong&gt;查看我们的其他资源包&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;p &gt;&lt;a href=&quot;https:&#x2F;&#x2F;assetstore.unity.com&#x2F;lists&#x2F;story-3d-packs-series-142534&quot; target=&quot;_blank&quot;&gt;故事 - 3D资源包系列&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;&lt;p &gt;&lt;a href=&quot;https:&#x2F;&#x2F;assetstore.unity.com&#x2F;lists&#x2F;fantastic-3d-packs-series-130169&quot; target=&quot;_blank&quot;&gt;奇幻 - 3D资源包系列&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;</content>
+        
+    </entry>
+    <entry xml:lang="zh">
+        <title>Pure Nature</title>
+        <published>2024-11-29T21:22:21+00:00</published>
+        <updated>2024-12-17T13:30:32+00:00</updated>
+        
+        <author>
+          <name>
+            
+              yzzfo
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://yzzfo.github.io/unity/store/Pure Nature/ignore-index-en/"/>
+        <id>https://yzzfo.github.io/unity/store/Pure Nature/ignore-index-en/</id>
+        
+        <content type="html" xml:base="https://yzzfo.github.io/unity/store/Pure Nature/ignore-index-en/">&lt;p&gt;&lt;br&gt;&lt;p &gt;&lt;strong&gt;3D Stylized Nature Environment Assets&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;p &gt;Everything comes with prefabs - ready to be dropped in scene.&lt;&#x2F;p&gt;&lt;p &gt;&lt;strong&gt;&lt;em&gt;URP version included !&lt;&#x2F;em&gt;&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;&lt;strong&gt;This pack contains :&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;&lt;strong&gt;Vegetation&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;p &gt;- Birchs&lt;&#x2F;p&gt;&lt;p &gt;- Oaks&lt;&#x2F;p&gt;&lt;p &gt;- Pines&lt;&#x2F;p&gt;&lt;p &gt;- Snowy pines&lt;&#x2F;p&gt;&lt;p &gt;- Dead trees&lt;&#x2F;p&gt;&lt;p &gt;- Bushes&lt;&#x2F;p&gt;&lt;p &gt;- Mushrooms&lt;&#x2F;p&gt;&lt;p &gt;- Ivies&lt;&#x2F;p&gt;&lt;p &gt;- Flowers and grass&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;&lt;strong&gt;Rocks&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;p &gt;- Cliffs&lt;&#x2F;p&gt;&lt;p &gt;- Boulders&lt;&#x2F;p&gt;&lt;p &gt;- Rocks&lt;&#x2F;p&gt;&lt;p &gt;- Modular Rocks&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;&lt;strong&gt;Props&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;p &gt;- Ruins&lt;&#x2F;p&gt;&lt;p &gt;- Waterfalls&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;&lt;strong&gt;Materials&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;p &gt;- Grass&lt;&#x2F;p&gt;&lt;p &gt;- Grass&#x2F;Sand&lt;&#x2F;p&gt;&lt;p &gt;- Grass&#x2F;Mud&lt;&#x2F;p&gt;&lt;p &gt;- Sand&lt;&#x2F;p&gt;&lt;p &gt;- Sand beach&lt;&#x2F;p&gt;&lt;p &gt;- Sand pebbles&lt;&#x2F;p&gt;&lt;p &gt;- Mud&lt;&#x2F;p&gt;&lt;p &gt;- Snow&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;&lt;strong&gt;Also includes :&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;Demo scene&lt;&#x2F;p&gt;&lt;p &gt;Scene with all Prefabs and variants listed&lt;&#x2F;p&gt;&lt;p &gt;Empty scene with terrain ready to be painted and populated&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;Environment Manager to control wind and grass render distance&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;Presets for day, night, sunset, overcast, storm...&lt;&#x2F;p&gt;&lt;p &gt;Preset for Post-Processing Stack&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;Most prefabs have LODs&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;&lt;strong&gt;Custom shaders for :&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;p &gt;Grass with wind and color variations&lt;&#x2F;p&gt;&lt;p &gt;Trees with wind and color variations&lt;&#x2F;p&gt;&lt;p &gt;Rocks with moss&#x2F;snow layer&lt;&#x2F;p&gt;&lt;p &gt;Water with depth fade, foam and refraction&lt;&#x2F;p&gt;&lt;p &gt;Volumetric Clouds&lt;&#x2F;p&gt;&lt;p &gt;Billboards&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;- - -&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;&lt;em&gt;Demo scene is huge and may not suitable for mobile.&lt;&#x2F;em&gt;&lt;&#x2F;p&gt;&lt;p &gt;&lt;em&gt;A proper &lt;&#x2F;em&gt;&lt;strong&gt;&lt;em&gt;GPU instancing&lt;&#x2F;em&gt;&lt;&#x2F;strong&gt;&lt;em&gt; solution like &lt;&#x2F;em&gt;&lt;a href=&quot;http:&#x2F;&#x2F;assetstore.unity.com&#x2F;packages&#x2F;tools&#x2F;utilities&#x2F;the-vegetation-engine-159647&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;&lt;em&gt;Vegetation Engine&lt;&#x2F;em&gt;&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt;&lt;em&gt; is recommended.&lt;&#x2F;em&gt;&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;&lt;em&gt;A &lt;&#x2F;em&gt;&lt;strong&gt;&lt;em&gt;Readme&lt;&#x2F;em&gt;&lt;&#x2F;strong&gt;&lt;em&gt; file is available for setup &amp;amp; details.&lt;&#x2F;em&gt;&lt;&#x2F;p&gt;&lt;p &gt;&lt;em&gt;Join the &lt;&#x2F;em&gt;&lt;a href=&quot;https:&#x2F;&#x2F;discord.gg&#x2F;GqHvc9xQXp&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;&lt;em&gt;Discord&lt;&#x2F;em&gt;&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt;&lt;em&gt; for support or any question.&lt;&#x2F;em&gt;&lt;&#x2F;p&gt;&lt;&#x2F;p&gt;
+</content>
         
     </entry>
     <entry xml:lang="zh">
