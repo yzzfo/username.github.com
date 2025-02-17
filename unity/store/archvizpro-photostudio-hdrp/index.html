@@ -88,7 +88,7 @@
 
         // 传入上次点击的时间，显示需要等待的多久
         const show_wait = (tm) =>{
-          tm = tm + (60 * 60 * 1000);
+          tm = tm + (20 * 60 * 1000);
           let d = new Date().getTime()
           let wait = ((tm-d)/1000)
           let tm_str = secondsToHMSString(wait)
